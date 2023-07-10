@@ -1,0 +1,1547 @@
+ID,triple1,triple2,question,answer,inferred triple,label,LLM output
+671,U is a D.,D is an equivalent class of H.,"Given the previous statements, is U a H?",Yes,U is a H.,True,No.
+368,L is a X.,X is an equivalent class of Y.,"Given the previous statements, is L a Y?",Yes,L is a Y.,True,The answer is no
+477,O is a F.,F is an equivalent class of X.,"Given the previous statements, is O a X?",Yes,O is a X.,True,The answer is no
+1297,S is a R.,R is an equivalent class of H.,"Given the previous statements, is S a P?",No,S is not a P.,False,"No.
+The"
+284,I is a X.,X is an equivalent class of C.,"Given the previous statements, is I a C?",Yes,I is a C.,True,The answer is no
+647,T is a H.,H is an equivalent class of I.,"Given the previous statements, is T a I?",Yes,T is a I.,True,The answer is no
+117,D is a L.,L is an equivalent class of M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,"Yes, T is"
+235,H is a S.,S is an equivalent class of L.,"Given the previous statements, is H a L?",Yes,H is a L.,True,No.
+1013,J is a K.,K is an equivalent class of A.,"Given the previous statements, is J a D?",No,J is not a D.,False,The answer is no
+442,N is a Q.,Q is an equivalent class of L.,"Given the previous statements, is N a L?",Yes,N is a L.,True,No.
+686,U is a O.,O is an equivalent class of V.,"Given the previous statements, is U a V?",Yes,U is a V.,True,"Yes, J is"
+313,J is a K.,K is an equivalent class of I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,"No.
+The"
+415,M is a O.,O is an equivalent class of J.,"Given the previous statements, is M a J?",Yes,M is a J.,True,"Yes, J is"
+634,T is a H.,H is an equivalent class of U.,"Given the previous statements, is T a U?",Yes,T is a U.,True,No.
+148,E is a Z.,Z is an equivalent class of S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,The answer is no
+71,C is a E.,E is an equivalent class of R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,"Yes, D is"
+1176,O is a L.,L is an equivalent class of K.,"Given the previous statements, is O a M?",No,O is not a M.,False,"Yes, D is"
+1159,O is a A.,A is an equivalent class of X.,"Given the previous statements, is O a U?",No,O is not a U.,False,"Yes, G is"
+136,E is a V.,V is an equivalent class of I.,"Given the previous statements, is E a I?",Yes,E is a I.,True,"Yes, O is"
+893,G is a Q.,Q is an equivalent class of E.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,"No.
+The"
+68,C is a M.,M is an equivalent class of B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,The answer is no
+253,H is a P.,P is an equivalent class of A.,"Given the previous statements, is H a A?",Yes,H is a A.,True,"Yes, C is"
+869,F is a L.,L is an equivalent class of R.,"Given the previous statements, is F a Q?",No,F is not a Q.,False,No.
+209,G is a E.,E is an equivalent class of S.,"Given the previous statements, is G a S?",Yes,G is a S.,True,"Yes, E is"
+776,C is a Q.,Q is an equivalent class of N.,"Given the previous statements, is C a B?",No,C is not a B.,False,The answer is no
+248,H is a D.,D is an equivalent class of B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,"Yes, L is"
+308,J is a H.,H is an equivalent class of P.,"Given the previous statements, is J a P?",Yes,J is a P.,True,No.
+171,F is a M.,M is an equivalent class of O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,No.
+1363,U is a F.,F is an equivalent class of S.,"Given the previous statements, is U a C?",No,U is not a C.,False,No.
+1289,S is a R.,R is an equivalent class of D.,"Given the previous statements, is S a Q?",No,S is not a Q.,False,"No.
+R"
+1217,P is a J.,J is an equivalent class of S.,"Given the previous statements, is P a I?",No,P is not a I.,False,The answer is no
+1145,N is a G.,G is an equivalent class of U.,"Given the previous statements, is N a D?",No,N is not a D.,False,The answer is no
+993,J is a G.,G is an equivalent class of B.,"Given the previous statements, is J a O?",No,J is not a O.,False,No.
+113,D is a I.,I is an equivalent class of G.,"Given the previous statements, is D a G?",Yes,D is a G.,True,H is a D
+159,E is a L.,L is an equivalent class of A.,"Given the previous statements, is E a A?",Yes,E is a A.,True,"No.
+G"
+238,H is a I.,I is an equivalent class of M.,"Given the previous statements, is H a M?",Yes,H is a M.,True,The answer is no
+917,G is a E.,E is an equivalent class of O.,"Given the previous statements, is G a D?",No,G is not a D.,False,No.
+195,F is a Q.,Q is an equivalent class of D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,"No.
+E"
+452,N is a Y.,Y is an equivalent class of D.,"Given the previous statements, is N a D?",Yes,N is a D.,True,"Yes, J is"
+1372,U is a P.,P is an equivalent class of T.,"Given the previous statements, is U a W?",No,U is not a W.,False,The answer is no
+408,M is a E.,E is an equivalent class of H.,"Given the previous statements, is M a H?",Yes,M is a H.,True,The answer is no
+760,C is a K.,K is an equivalent class of A.,"Given the previous statements, is C a E?",No,C is not a E.,False,No.
+1007,J is a C.,C is an equivalent class of Z.,"Given the previous statements, is J a B?",No,J is not a B.,False,H is a K
+1213,P is a B.,B is an equivalent class of N.,"Given the previous statements, is P a A?",No,P is not a A.,False,"Yes, K is"
+620,S is a E.,E is an equivalent class of T.,"Given the previous statements, is S a T?",Yes,S is a T.,True,No.
+85,C is a I.,I is an equivalent class of V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,"No.
+G"
+421,M is a Q.,Q is an equivalent class of P.,"Given the previous statements, is M a P?",Yes,M is a P.,True,No.
+1000,J is a W.,W is an equivalent class of S.,"Given the previous statements, is J a D?",No,J is not a D.,False,The answer is no
+1241,Q is a N.,N is an equivalent class of P.,"Given the previous statements, is Q a X?",No,Q is not a X.,False,"Yes, D is"
+382,L is a N.,N is an equivalent class of Q.,"Given the previous statements, is L a Q?",Yes,L is a Q.,True,The answer is no
+91,C is a X.,X is an equivalent class of G.,"Given the previous statements, is C a G?",Yes,C is a G.,True,The answer is no
+972,I is a H.,H is an equivalent class of O.,"Given the previous statements, is I a T?",No,I is not a T.,False,H is a Q
+549,Q is a A.,A is an equivalent class of C.,"Given the previous statements, is Q a C?",Yes,Q is a C.,True,The answer is no
+753,B is a E.,E is an equivalent class of M.,"Given the previous statements, is B a K?",No,B is not a K.,False,"Yes, D is"
+854,E is a W.,W is an equivalent class of U.,"Given the previous statements, is E a Y?",No,E is not a Y.,False,"No.
+C"
+911,G is a J.,J is an equivalent class of D.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,"Yes, M is"
+296,I is a E.,E is an equivalent class of F.,"Given the previous statements, is I a F?",Yes,I is a F.,True,The answer is no
+1186,O is a J.,J is an equivalent class of A.,"Given the previous statements, is O a Z?",No,O is not a Z.,False,The answer is no
+1240,Q is a C.,C is an equivalent class of U.,"Given the previous statements, is Q a Z?",No,Q is not a Z.,False,The answer to the
+848,E is a A.,A is an equivalent class of G.,"Given the previous statements, is E a S?",No,E is not a S.,False,"Yes, D is"
+1179,O is a H.,H is an equivalent class of B.,"Given the previous statements, is O a Z?",No,O is not a Z.,False,The answer is no
+548,Q is a K.,K is an equivalent class of T.,"Given the previous statements, is Q a T?",Yes,Q is a T.,True,"No.
+The"
+705,A is a O.,O is an equivalent class of K.,"Given the previous statements, is A a Z?",No,A is not a Z.,False,"Yes, Q is"
+264,H is a A.,A is an equivalent class of Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,H is a R
+878,F is a A.,A is an equivalent class of Z.,"Given the previous statements, is F a E?",No,F is not a E.,False,The answer is no
+763,C is a Z.,Z is an equivalent class of F.,"Given the previous statements, is C a M?",No,C is not a M.,False,"No.
+Q"
+880,F is a X.,X is an equivalent class of O.,"Given the previous statements, is F a U?",No,F is not a U.,False,"Yes, B is"
+1096,M is a I.,I is an equivalent class of R.,"Given the previous statements, is M a D?",No,M is not a D.,False,The answer is no
+480,O is a L.,L is an equivalent class of R.,"Given the previous statements, is O a R?",Yes,O is a R.,True,No.
+84,C is a B.,B is an equivalent class of Q.,"Given the previous statements, is C a Q?",Yes,C is a Q.,True,The answer is no
+449,N is a M.,M is an equivalent class of Z.,"Given the previous statements, is N a Z?",Yes,N is a Z.,True,"Yes, U is"
+174,F is a Z.,Z is an equivalent class of J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,The answer is no
+1210,P is a D.,D is an equivalent class of A.,"Given the previous statements, is P a E?",No,P is not a E.,False,The answer is no
+1385,U is a S.,S is an equivalent class of D.,"Given the previous statements, is U a B?",No,U is not a B.,False,The answer is no
+877,F is a B.,B is an equivalent class of N.,"Given the previous statements, is F a X?",No,F is not a X.,False,The answer is no
+1370,U is a P.,P is an equivalent class of O.,"Given the previous statements, is U a B?",No,U is not a B.,False,H is a W
+234,H is a U.,U is an equivalent class of D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,H is a C
+8,A is a R.,R is an equivalent class of V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,The answer is no
+1180,O is a Z.,Z is an equivalent class of M.,"Given the previous statements, is O a P?",No,O is not a P.,False,"Yes, U is"
+1043,K is a F.,F is an equivalent class of Z.,"Given the previous statements, is K a T?",No,K is not a T.,False,The answer is no
+260,H is a P.,P is an equivalent class of O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,No.
+2,A is a K.,K is an equivalent class of U.,"Given the previous statements, is A a U?",Yes,A is a U.,True,The answer is no
+295,I is a G.,G is an equivalent class of J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,"Yes, T is"
+818,D is a U.,U is an equivalent class of S.,"Given the previous statements, is D a J?",No,D is not a J.,False,H is a B
+970,I is a G.,G is an equivalent class of C.,"Given the previous statements, is I a M?",No,I is not a M.,False,"No.
+The"
+974,I is a B.,B is an equivalent class of S.,"Given the previous statements, is I a W?",No,I is not a W.,False,"Yes, D is"
+806,D is a V.,V is an equivalent class of X.,"Given the previous statements, is D a P?",No,D is not a P.,False,The answer is no
+9,A is a P.,P is an equivalent class of N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,The answer is no
+1165,O is a A.,A is an equivalent class of I.,"Given the previous statements, is O a D?",No,O is not a D.,False,The answer is no
+300,J is a F.,F is an equivalent class of L.,"Given the previous statements, is J a L?",Yes,J is a L.,True,"Yes, D is"
+485,O is a C.,C is an equivalent class of P.,"Given the previous statements, is O a P?",Yes,O is a P.,True,H is a Z
+1287,R is a P.,P is an equivalent class of U.,"Given the previous statements, is R a K?",No,R is not a K.,False,"Yes, L is"
+912,G is a P.,P is an equivalent class of B.,"Given the previous statements, is G a J?",No,G is not a J.,False,No.
+405,M is a P.,P is an equivalent class of N.,"Given the previous statements, is M a N?",Yes,M is a N.,True,"Yes, A is"
+544,Q is a S.,S is an equivalent class of V.,"Given the previous statements, is Q a V?",Yes,Q is a V.,True,"Yes, L is"
+1211,P is a B.,B is an equivalent class of N.,"Given the previous statements, is P a G?",No,P is not a G.,False,The answer is no
+1161,O is a D.,D is an equivalent class of J.,"Given the previous statements, is O a G?",No,O is not a G.,False,"Yes, O is"
+1271,R is a J.,J is an equivalent class of F.,"Given the previous statements, is R a N?",No,R is not a N.,False,"No.
+R"
+261,H is a N.,N is an equivalent class of D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,"Yes, M is"
+1130,N is a P.,P is an equivalent class of A.,"Given the previous statements, is N a D?",No,N is not a D.,False,H is a C
+1313,S is a O.,O is an equivalent class of Y.,"Given the previous statements, is S a L?",No,S is not a L.,False,No.
+1098,M is a X.,X is an equivalent class of F.,"Given the previous statements, is M a D?",No,M is not a D.,False,The answer is no
+1259,R is a T.,T is an equivalent class of V.,"Given the previous statements, is R a Q?",No,R is not a Q.,False,No.
+269,I is a J.,J is an equivalent class of Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,"No.
+The"
+281,I is a B.,B is an equivalent class of Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,"Yes, K is"
+977,I is a D.,D is an equivalent class of J.,"Given the previous statements, is I a O?",No,I is not a O.,False,H is a I
+93,C is a I.,I is an equivalent class of B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,The answer is no
+512,P is a U.,U is an equivalent class of M.,"Given the previous statements, is P a M?",Yes,P is a M.,True,"Yes, F is"
+486,O is a N.,N is an equivalent class of P.,"Given the previous statements, is O a P?",Yes,O is a P.,True,The answer is no
+406,M is a D.,D is an equivalent class of S.,"Given the previous statements, is M a S?",Yes,M is a S.,True,No.
+1059,L is a O.,O is an equivalent class of B.,"Given the previous statements, is L a K?",No,L is not a K.,False,The answer is no
+129,D is a C.,C is an equivalent class of N.,"Given the previous statements, is D a N?",Yes,D is a N.,True,The answer is no
+1151,N is a Y.,Y is an equivalent class of M.,"Given the previous statements, is N a D?",No,N is not a D.,False,"Yes, B is"
+350,K is a F.,F is an equivalent class of V.,"Given the previous statements, is K a V?",Yes,K is a V.,True,H is a B
+1197,P is a M.,M is an equivalent class of Q.,"Given the previous statements, is P a G?",No,P is not a G.,False,The answer is no
+1102,M is a P.,P is an equivalent class of G.,"Given the previous statements, is M a U?",No,M is not a U.,False,"Yes, B is"
+729,B is a K.,K is an equivalent class of O.,"Given the previous statements, is B a L?",No,B is not a L.,False,"Yes, N is"
+1339,T is a L.,L is an equivalent class of B.,"Given the previous statements, is T a U?",No,T is not a U.,False,The answer is no
+860,F is a V.,V is an equivalent class of S.,"Given the previous statements, is F a J?",No,F is not a J.,False,"No.
+L"
+202,G is a O.,O is an equivalent class of C.,"Given the previous statements, is G a C?",Yes,G is a C.,True,"No.
+The"
+748,B is a Q.,Q is an equivalent class of D.,"Given the previous statements, is B a F?",No,B is not a F.,False,"No.
+G"
+868,F is a R.,R is an equivalent class of X.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No.
+90,C is a E.,E is an equivalent class of F.,"Given the previous statements, is C a F?",Yes,C is a F.,True,The answer is no
+426,M is a I.,I is an equivalent class of L.,"Given the previous statements, is M a L?",Yes,M is a L.,True,No.
+41,B is a E.,E is an equivalent class of Q.,"Given the previous statements, is B a Q?",Yes,B is a Q.,True,"No.
+The"
+1199,P is a R.,R is an equivalent class of S.,"Given the previous statements, is P a B?",No,P is not a B.,False,"Yes, B is"
+572,R is a M.,M is an equivalent class of N.,"Given the previous statements, is R a N?",Yes,R is a N.,True,The answer is no
+16,A is a X.,X is an equivalent class of W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,"Yes, E is"
+938,H is a Y.,Y is an equivalent class of W.,"Given the previous statements, is H a R?",No,H is not a R.,False,H is a Y
+1103,M is a J.,J is an equivalent class of R.,"Given the previous statements, is M a A?",No,M is not a A.,False,"Yes, B is"
+882,F is a Q.,Q is an equivalent class of K.,"Given the previous statements, is F a R?",No,F is not a R.,False,"No.
+The"
+1061,L is a M.,M is an equivalent class of I.,"Given the previous statements, is L a Z?",No,L is not a Z.,False,"Yes, N is"
+690,U is a S.,S is an equivalent class of Z.,"Given the previous statements, is U a Z?",Yes,U is a Z.,True,"Yes, I is"
+676,U is a X.,X is an equivalent class of N.,"Given the previous statements, is U a N?",Yes,U is a N.,True,"Yes, L is"
+1246,Q is a U.,U is an equivalent class of G.,"Given the previous statements, is Q a P?",No,Q is not a P.,False,H is a G
+851,E is a D.,D is an equivalent class of N.,"Given the previous statements, is E a C?",No,E is not a C.,False,The answer is no
+996,J is a L.,L is an equivalent class of P.,"Given the previous statements, is J a H?",No,J is not a H.,False,The answer is no
+155,E is a U.,U is an equivalent class of Q.,"Given the previous statements, is E a Q?",Yes,E is a Q.,True,The answer is no
+145,E is a C.,C is an equivalent class of J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,The answer is no
+146,E is a U.,U is an equivalent class of P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,"No.
+E"
+327,J is a N.,N is an equivalent class of F.,"Given the previous statements, is J a F?",Yes,J is a F.,True,The answer is no
+472,O is a C.,C is an equivalent class of X.,"Given the previous statements, is O a X?",Yes,O is a X.,True,The answer is no
+1030,K is a P.,P is an equivalent class of U.,"Given the previous statements, is K a N?",No,K is not a N.,False,"Yes, Q is"
+902,G is a N.,N is an equivalent class of H.,"Given the previous statements, is G a R?",No,G is not a R.,False,"Yes, S is"
+692,U is a M.,M is an equivalent class of W.,"Given the previous statements, is U a W?",Yes,U is a W.,True,"Yes, C is"
+355,K is a G.,G is an equivalent class of W.,"Given the previous statements, is K a W?",Yes,K is a W.,True,"Yes, S is"
+918,G is a Z.,Z is an equivalent class of R.,"Given the previous statements, is G a M?",No,G is not a M.,False,"No.
+The"
+649,T is a N.,N is an equivalent class of F.,"Given the previous statements, is T a F?",Yes,T is a F.,True,The answer is no
+826,E is a O.,O is an equivalent class of P.,"Given the previous statements, is E a U?",No,E is not a U.,False,The answer is no
+69,C is a W.,W is an equivalent class of T.,"Given the previous statements, is C a T?",Yes,C is a T.,True,"Yes, L is"
+824,D is a W.,W is an equivalent class of E.,"Given the previous statements, is D a X?",No,D is not a X.,False,The answer is no
+222,G is a W.,W is an equivalent class of O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,No.
+1006,J is a L.,L is an equivalent class of N.,"Given the previous statements, is J a S?",No,J is not a S.,False,The answer is no
+381,L is a Z.,Z is an equivalent class of E.,"Given the previous statements, is L a E?",Yes,L is a E.,True,The answer is no
+370,L is a F.,F is an equivalent class of U.,"Given the previous statements, is L a U?",Yes,L is a U.,True,"Yes, B is"
+34,B is a Y.,Y is an equivalent class of C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,"Yes, G is"
+366,L is a E.,E is an equivalent class of V.,"Given the previous statements, is L a V?",Yes,L is a V.,True,No.
+827,E is a Z.,Z is an equivalent class of F.,"Given the previous statements, is E a O?",No,E is not a O.,False,The answer is no
+1021,J is a C.,C is an equivalent class of O.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,The answer is no
+1148,N is a W.,W is an equivalent class of P.,"Given the previous statements, is N a F?",No,N is not a F.,False,"No.
+The"
+562,R is a Z.,Z is an equivalent class of Y.,"Given the previous statements, is R a Y?",Yes,R is a Y.,True,The answer is no
+798,D is a Z.,Z is an equivalent class of G.,"Given the previous statements, is D a W?",No,D is not a W.,False,The answer is no
+596,S is a F.,F is an equivalent class of X.,"Given the previous statements, is S a X?",Yes,S is a X.,True,The answer is no
+796,D is a H.,H is an equivalent class of O.,"Given the previous statements, is D a X?",No,D is not a X.,False,"Yes, P is"
+683,U is a M.,M is an equivalent class of H.,"Given the previous statements, is U a H?",Yes,U is a H.,True,"Yes, M is"
+131,D is a X.,X is an equivalent class of M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,The answer is no
+1242,Q is a W.,W is an equivalent class of X.,"Given the previous statements, is Q a K?",No,Q is not a K.,False,"Yes, N is"
+728,B is a C.,C is an equivalent class of R.,"Given the previous statements, is B a E?",No,B is not a E.,False,"Yes, D is"
+470,O is a D.,D is an equivalent class of L.,"Given the previous statements, is O a L?",Yes,O is a L.,True,The answer is no
+592,R is a T.,T is an equivalent class of M.,"Given the previous statements, is R a M?",Yes,R is a M.,True,The answer is no
+1078,L is a I.,I is an equivalent class of M.,"Given the previous statements, is L a G?",No,L is not a G.,False,"Yes, A is"
+97,C is a Z.,Z is an equivalent class of I.,"Given the previous statements, is C a I?",Yes,C is a I.,True,The answer is no
+332,K is a U.,U is an equivalent class of T.,"Given the previous statements, is K a T?",Yes,K is a T.,True,"Yes, F is"
+1371,U is a Z.,Z is an equivalent class of Y.,"Given the previous statements, is U a N?",No,U is not a N.,False,No.
+1264,R is a L.,L is an equivalent class of P.,"Given the previous statements, is R a E?",No,R is not a E.,False,"Yes, M is"
+464,O is a A.,A is an equivalent class of K.,"Given the previous statements, is O a K?",Yes,O is a K.,True,The answer is no
+371,L is a Z.,Z is an equivalent class of Q.,"Given the previous statements, is L a Q?",Yes,L is a Q.,True,The answer is no
+1125,N is a Q.,Q is an equivalent class of I.,"Given the previous statements, is N a P?",No,N is not a P.,False,"No.
+S"
+755,B is a X.,X is an equivalent class of D.,"Given the previous statements, is B a J?",No,B is not a J.,False,No.
+185,F is a I.,I is an equivalent class of Q.,"Given the previous statements, is F a Q?",Yes,F is a Q.,True,"Yes, R is"
+373,L is a S.,S is an equivalent class of W.,"Given the previous statements, is L a W?",Yes,L is a W.,True,The answer is no
+479,O is a E.,E is an equivalent class of I.,"Given the previous statements, is O a I?",Yes,O is a I.,True,"Yes, S is"
+1015,J is a R.,R is an equivalent class of H.,"Given the previous statements, is J a F?",No,J is not a F.,False,"Yes, P is"
+13,A is a I.,I is an equivalent class of F.,"Given the previous statements, is A a F?",Yes,A is a F.,True,H is a Z
+1092,M is a J.,J is an equivalent class of P.,"Given the previous statements, is M a C?",No,M is not a C.,False,The answer is no
+150,E is a N.,N is an equivalent class of P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,"Yes, R is"
+635,T is a R.,R is an equivalent class of H.,"Given the previous statements, is T a H?",Yes,T is a H.,True,"Yes, M is"
+94,C is a J.,J is an equivalent class of G.,"Given the previous statements, is C a G?",Yes,C is a G.,True,H is a D
+1230,Q is a P.,P is an equivalent class of W.,"Given the previous statements, is Q a I?",No,Q is not a I.,False,"No.
+The"
+1044,K is a S.,S is an equivalent class of H.,"Given the previous statements, is K a T?",No,K is not a T.,False,No.
+951,H is a L.,L is an equivalent class of J.,"Given the previous statements, is H a O?",No,H is not a O.,False,"Yes, O is"
+856,E is a C.,C is an equivalent class of B.,"Given the previous statements, is E a F?",No,E is not a F.,False,The answer is no
+1055,K is a V.,V is an equivalent class of X.,"Given the previous statements, is K a Y?",No,K is not a Y.,False,"Yes, A is"
+19,A is a Q.,Q is an equivalent class of Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,The answer is no
+706,A is a K.,K is an equivalent class of U.,"Given the previous statements, is A a Q?",No,A is not a Q.,False,The answer is no
+741,B is a G.,G is an equivalent class of U.,"Given the previous statements, is B a L?",No,B is not a L.,False,The answer is no
+7,A is a U.,U is an equivalent class of G.,"Given the previous statements, is A a G?",Yes,A is a G.,True,"Yes, K is"
+221,G is a Q.,Q is an equivalent class of T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,The answer is no
+830,E is a A.,A is an equivalent class of Q.,"Given the previous statements, is E a Y?",No,E is not a Y.,False,"Yes, F is"
+825,D is a F.,F is an equivalent class of Q.,"Given the previous statements, is D a X?",No,D is not a X.,False,The answer is no
+695,A is a K.,K is an equivalent class of Q.,"Given the previous statements, is A a O?",No,A is not a O.,False,"No.
+The"
+684,U is a X.,X is an equivalent class of C.,"Given the previous statements, is U a C?",Yes,U is a C.,True,"Yes, A is"
+1178,O is a I.,I is an equivalent class of G.,"Given the previous statements, is O a J?",No,O is not a J.,False,No.
+654,T is a O.,O is an equivalent class of J.,"Given the previous statements, is T a J?",Yes,T is a J.,True,The answer is no
+433,N is a E.,E is an equivalent class of U.,"Given the previous statements, is N a U?",Yes,N is a U.,True,The answer is no
+626,S is a J.,J is an equivalent class of Y.,"Given the previous statements, is S a Y?",Yes,S is a Y.,True,The answer is no
+81,C is a X.,X is an equivalent class of T.,"Given the previous statements, is C a T?",Yes,C is a T.,True,"Yes, B is"
+632,T is a S.,S is an equivalent class of F.,"Given the previous statements, is T a F?",Yes,T is a F.,True,The answer is no
+1108,M is a L.,L is an equivalent class of B.,"Given the previous statements, is M a C?",No,M is not a C.,False,The answer is no
+1338,T is a I.,I is an equivalent class of X.,"Given the previous statements, is T a Z?",No,T is not a Z.,False,"Yes, C is"
+454,N is a Z.,Z is an equivalent class of J.,"Given the previous statements, is N a J?",Yes,N is a J.,True,"Yes, if $"
+568,R is a U.,U is an equivalent class of H.,"Given the previous statements, is R a H?",Yes,R is a H.,True,The answer is no
+770,C is a X.,X is an equivalent class of Q.,"Given the previous statements, is C a R?",No,C is not a R.,False,The answer is no
+710,A is a Z.,Z is an equivalent class of O.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,"Yes, G is"
+294,I is a L.,L is an equivalent class of K.,"Given the previous statements, is I a K?",Yes,I is a K.,True,"Yes, M is"
+476,O is a W.,W is an equivalent class of R.,"Given the previous statements, is O a R?",Yes,O is a R.,True,The answer is no
+642,T is a U.,U is an equivalent class of J.,"Given the previous statements, is T a J?",Yes,T is a J.,True,The answer is no
+1089,L is a Q.,Q is an equivalent class of M.,"Given the previous statements, is L a B?",No,L is not a B.,False,"No.
+The"
+895,G is a A.,A is an equivalent class of D.,"Given the previous statements, is G a O?",No,G is not a O.,False,The answer is no
+936,H is a B.,B is an equivalent class of I.,"Given the previous statements, is H a J?",No,H is not a J.,False,"Yes, R is"
+630,T is a K.,K is an equivalent class of V.,"Given the previous statements, is T a V?",Yes,T is a V.,True,The answer is no
+1036,K is a F.,F is an equivalent class of P.,"Given the previous statements, is K a I?",No,K is not a I.,False,"Yes, L is"
+1274,R is a U.,U is an equivalent class of G.,"Given the previous statements, is R a J?",No,R is not a J.,False,No.
+550,Q is a P.,P is an equivalent class of B.,"Given the previous statements, is Q a B?",Yes,Q is a B.,True,"Yes, P is"
+110,D is a H.,H is an equivalent class of F.,"Given the previous statements, is D a F?",Yes,D is a F.,True,No.
+188,F is a S.,S is an equivalent class of U.,"Given the previous statements, is F a U?",Yes,F is a U.,True,"No.
+G"
+36,B is a H.,H is an equivalent class of I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,The answer is no
+1286,R is a E.,E is an equivalent class of N.,"Given the previous statements, is R a Q?",No,R is not a Q.,False,"No.
+The"
+556,Q is a J.,J is an equivalent class of N.,"Given the previous statements, is Q a N?",Yes,Q is a N.,True,No.
+1156,O is a M.,M is an equivalent class of W.,"Given the previous statements, is O a Z?",No,O is not a Z.,False,"No.
+The"
+1218,P is a N.,N is an equivalent class of C.,"Given the previous statements, is P a E?",No,P is not a E.,False,The answer is no
+605,S is a F.,F is an equivalent class of J.,"Given the previous statements, is S a J?",Yes,S is a J.,True,"Yes, R is"
+342,K is a Q.,Q is an equivalent class of S.,"Given the previous statements, is K a S?",Yes,K is a S.,True,"Yes, B is"
+874,F is a W.,W is an equivalent class of Z.,"Given the previous statements, is F a E?",No,F is not a E.,False,"No.
+The"
+501,P is a W.,W is an equivalent class of E.,"Given the previous statements, is P a E?",Yes,P is a E.,True,"Yes, I is"
+1350,T is a G.,G is an equivalent class of B.,"Given the previous statements, is T a C?",No,T is not a C.,False,"No.
+C"
+357,K is a W.,W is an equivalent class of P.,"Given the previous statements, is K a P?",Yes,K is a P.,True,"Yes, Q is"
+1162,O is a I.,I is an equivalent class of J.,"Given the previous statements, is O a L?",No,O is not a L.,False,No.
+730,B is a G.,G is an equivalent class of C.,"Given the previous statements, is B a I?",No,B is not a I.,False,The answer is no
+1190,P is a Q.,Q is an equivalent class of T.,"Given the previous statements, is P a W?",No,P is not a W.,False,"Yes, A is"
+226,G is a D.,D is an equivalent class of J.,"Given the previous statements, is G a J?",Yes,G is a J.,True,"Yes, B is"
+715,A is a C.,C is an equivalent class of P.,"Given the previous statements, is A a W?",No,A is not a W.,False,The answer is no
+815,D is a I.,I is an equivalent class of N.,"Given the previous statements, is D a T?",No,D is not a T.,False,The answer is no
+179,F is a A.,A is an equivalent class of V.,"Given the previous statements, is F a V?",Yes,F is a V.,True,"Yes, U is"
+595,S is a W.,W is an equivalent class of P.,"Given the previous statements, is S a P?",Yes,S is a P.,True,"Yes, Q is"
+450,N is a M.,M is an equivalent class of D.,"Given the previous statements, is N a D?",Yes,N is a D.,True,The answer is no
+1128,N is a W.,W is an equivalent class of L.,"Given the previous statements, is N a K?",No,N is not a K.,False,The answer is no
+434,N is a X.,X is an equivalent class of D.,"Given the previous statements, is N a D?",Yes,N is a D.,True,"No.
+The"
+236,H is a U.,U is an equivalent class of R.,"Given the previous statements, is H a R?",Yes,H is a R.,True,"Yes, G is"
+511,P is a V.,V is an equivalent class of R.,"Given the previous statements, is P a R?",Yes,P is a R.,True,No.
+246,H is a I.,I is an equivalent class of D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,The answer is no
+828,E is a D.,D is an equivalent class of L.,"Given the previous statements, is E a W?",No,E is not a W.,False,"Yes, T is"
+1088,L is a Y.,Y is an equivalent class of Z.,"Given the previous statements, is L a K?",No,L is not a K.,False,The answer is no
+1333,T is a B.,B is an equivalent class of Y.,"Given the previous statements, is T a M?",No,T is not a M.,False,No.
+613,S is a J.,J is an equivalent class of O.,"Given the previous statements, is S a O?",Yes,S is a O.,True,"Yes, A is"
+42,B is a J.,J is an equivalent class of Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True,"Yes, S is"
+388,L is a D.,D is an equivalent class of Z.,"Given the previous statements, is L a Z?",Yes,L is a Z.,True,"Yes, J is"
+516,P is a Q.,Q is an equivalent class of C.,"Given the previous statements, is P a C?",Yes,P is a C.,True,"Yes, R is"
+599,S is a L.,L is an equivalent class of T.,"Given the previous statements, is S a T?",Yes,S is a T.,True,No.
+1214,P is a F.,F is an equivalent class of E.,"Given the previous statements, is P a B?",No,P is not a B.,False,"Yes, I is"
+1305,S is a N.,N is an equivalent class of P.,"Given the previous statements, is S a R?",No,S is not a R.,False,No.
+616,S is a G.,G is an equivalent class of E.,"Given the previous statements, is S a E?",Yes,S is a E.,True,"Yes, P is"
+1262,R is a X.,X is an equivalent class of N.,"Given the previous statements, is R a G?",No,R is not a G.,False,"No.
+The"
+98,C is a Y.,Y is an equivalent class of N.,"Given the previous statements, is C a N?",Yes,C is a N.,True,The answer is no
+799,D is a V.,V is an equivalent class of U.,"Given the previous statements, is D a C?",No,D is not a C.,False,"Yes, N is"
+639,T is a E.,E is an equivalent class of U.,"Given the previous statements, is T a U?",Yes,T is a U.,True,"Yes, J is"
+761,C is a U.,U is an equivalent class of P.,"Given the previous statements, is C a B?",No,C is not a B.,False,"Yes, B is"
+779,C is a A.,A is an equivalent class of T.,"Given the previous statements, is C a X?",No,C is not a X.,False,H is a W
+717,A is a N.,N is an equivalent class of K.,"Given the previous statements, is A a J?",No,A is not a J.,False,The answer is no
+1216,P is a E.,E is an equivalent class of F.,"Given the previous statements, is P a V?",No,P is not a V.,False,The answer is no
+517,P is a W.,W is an equivalent class of R.,"Given the previous statements, is P a R?",Yes,P is a R.,True,"No.
+P"
+1175,O is a Y.,Y is an equivalent class of W.,"Given the previous statements, is O a I?",No,O is not a I.,False,"Yes, O is"
+112,D is a B.,B is an equivalent class of X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,H is a D
+302,J is a X.,X is an equivalent class of S.,"Given the previous statements, is J a S?",Yes,J is a S.,True,"No.
+G"
+352,K is a B.,B is an equivalent class of V.,"Given the previous statements, is K a V?",Yes,K is a V.,True,"Yes, A is"
+505,P is a E.,E is an equivalent class of B.,"Given the previous statements, is P a B?",Yes,P is a B.,True,"Yes, E is"
+328,J is a N.,N is an equivalent class of Y.,"Given the previous statements, is J a Y?",Yes,J is a Y.,True,The answer is no
+336,K is a U.,U is an equivalent class of Q.,"Given the previous statements, is K a Q?",Yes,K is a Q.,True,The answer is no
+259,H is a V.,V is an equivalent class of K.,"Given the previous statements, is H a K?",Yes,H is a K.,True,"Yes, U is"
+742,B is a U.,U is an equivalent class of X.,"Given the previous statements, is B a F?",No,B is not a F.,False,H is a W
+845,E is a T.,T is an equivalent class of B.,"Given the previous statements, is E a N?",No,E is not a N.,False,H is a W
+1376,U is a O.,O is an equivalent class of P.,"Given the previous statements, is U a Y?",No,U is not a Y.,False,The answer is no
+176,F is a Z.,Z is an equivalent class of X.,"Given the previous statements, is F a X?",Yes,F is a X.,True,No.
+1248,Q is a P.,P is an equivalent class of W.,"Given the previous statements, is Q a V?",No,Q is not a V.,False,"No.
+Q"
+606,S is a E.,E is an equivalent class of P.,"Given the previous statements, is S a P?",Yes,S is a P.,True,The answer is no
+906,G is a Q.,Q is an equivalent class of D.,"Given the previous statements, is G a H?",No,G is not a H.,False,"Yes, A is"
+561,Q is a I.,I is an equivalent class of N.,"Given the previous statements, is Q a N?",Yes,Q is a N.,True,The answer is no
+801,D is a A.,A is an equivalent class of K.,"Given the previous statements, is D a M?",No,D is not a M.,False,The answer is no
+1302,S is a T.,T is an equivalent class of F.,"Given the previous statements, is S a O?",No,S is not a O.,False,The answer is no
+963,I is a L.,L is an equivalent class of Y.,"Given the previous statements, is I a P?",No,I is not a P.,False,The answer is no
+498,P is a C.,C is an equivalent class of S.,"Given the previous statements, is P a S?",Yes,P is a S.,True,"Yes, F is"
+870,F is a M.,M is an equivalent class of B.,"Given the previous statements, is F a A?",No,F is not a A.,False,"No.
+F"
+309,J is a A.,A is an equivalent class of K.,"Given the previous statements, is J a K?",Yes,J is a K.,True,"Yes, A is"
+1004,J is a V.,V is an equivalent class of Q.,"Given the previous statements, is J a L?",No,J is not a L.,False,"Yes, E is"
+1084,L is a T.,T is an equivalent class of P.,"Given the previous statements, is L a R?",No,L is not a R.,False,"Yes, I is"
+663,U is a H.,H is an equivalent class of L.,"Given the previous statements, is U a L?",Yes,U is a L.,True,The answer is no
+417,M is a O.,O is an equivalent class of B.,"Given the previous statements, is M a B?",Yes,M is a B.,True,H is a G
+1005,J is a E.,E is an equivalent class of C.,"Given the previous statements, is J a O?",No,J is not a O.,False,The answer is no
+1012,J is a P.,P is an equivalent class of G.,"Given the previous statements, is J a U?",No,J is not a U.,False,The answer is no
+23,A is a H.,H is an equivalent class of N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,"No.
+The"
+1351,T is a D.,D is an equivalent class of H.,"Given the previous statements, is T a Z?",No,T is not a Z.,False,"Yes, M is"
+1107,M is a Z.,Z is an equivalent class of U.,"Given the previous statements, is M a J?",No,M is not a J.,False,"Yes, K is"
+794,D is a E.,E is an equivalent class of O.,"Given the previous statements, is D a S?",No,D is not a S.,False,No.
+1075,L is a A.,A is an equivalent class of W.,"Given the previous statements, is L a Q?",No,L is not a Q.,False,"Yes, O is"
+774,C is a G.,G is an equivalent class of J.,"Given the previous statements, is C a L?",No,C is not a L.,False,"Yes, K is"
+591,R is a S.,S is an equivalent class of B.,"Given the previous statements, is R a B?",Yes,R is a B.,True,"Yes, I is"
+1316,S is a C.,C is an equivalent class of Q.,"Given the previous statements, is S a U?",No,S is not a U.,False,H is a L
+713,A is a Q.,Q is an equivalent class of N.,"Given the previous statements, is A a P?",No,A is not a P.,False,The answer is no
+991,J is a S.,S is an equivalent class of B.,"Given the previous statements, is J a W?",No,J is not a W.,False,H is a Y
+1293,S is a E.,E is an equivalent class of G.,"Given the previous statements, is S a L?",No,S is not a L.,False,The answer is no
+1023,J is a Y.,Y is an equivalent class of W.,"Given the previous statements, is J a F?",No,J is not a F.,False,The answer is no
+1067,L is a I.,I is an equivalent class of N.,"Given the previous statements, is L a V?",No,L is not a V.,False,"Yes, U is"
+1284,R is a Q.,Q is an equivalent class of H.,"Given the previous statements, is R a C?",No,R is not a C.,False,The answer is no
+510,P is a M.,M is an equivalent class of K.,"Given the previous statements, is P a K?",Yes,P is a K.,True,H is a Y
+1189,P is a K.,K is an equivalent class of E.,"Given the previous statements, is P a A?",No,P is not a A.,False,"Yes, L is"
+78,C is a Y.,Y is an equivalent class of H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,"Yes, J is"
+15,A is a Q.,Q is an equivalent class of S.,"Given the previous statements, is A a S?",Yes,A is a S.,True,No.
+589,R is a C.,C is an equivalent class of A.,"Given the previous statements, is R a A?",Yes,R is a A.,True,"Yes, I is"
+232,H is a A.,A is an equivalent class of F.,"Given the previous statements, is H a F?",Yes,H is a F.,True,"Yes, E is"
+277,I is a R.,R is an equivalent class of D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,"No.
+The"
+420,M is a V.,V is an equivalent class of G.,"Given the previous statements, is M a G?",Yes,M is a G.,True,The answer is no
+55,B is a Y.,Y is an equivalent class of S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,"Yes, U is"
+125,D is a T.,T is an equivalent class of X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,H is a G
+532,Q is a G.,G is an equivalent class of C.,"Given the previous statements, is Q a C?",Yes,Q is a C.,True,The answer is no
+1343,T is a F.,F is an equivalent class of N.,"Given the previous statements, is T a E?",No,T is not a E.,False,"Yes, K is"
+1052,K is a P.,P is an equivalent class of W.,"Given the previous statements, is K a C?",No,K is not a C.,False,"Yes, M is"
+436,N is a Q.,Q is an equivalent class of B.,"Given the previous statements, is N a B?",Yes,N is a B.,True,H is a C
+950,H is a F.,F is an equivalent class of L.,"Given the previous statements, is H a G?",No,H is not a G.,False,"Yes, G is"
+153,E is a S.,S is an equivalent class of W.,"Given the previous statements, is E a W?",Yes,E is a W.,True,"Yes, E is"
+1320,S is a W.,W is an equivalent class of F.,"Given the previous statements, is S a G?",No,S is not a G.,False,H is an equivalent
+978,I is a Y.,Y is an equivalent class of R.,"Given the previous statements, is I a C?",No,I is not a C.,False,H is a N
+407,M is a O.,O is an equivalent class of A.,"Given the previous statements, is M a A?",Yes,M is a A.,True,The answer is no
+437,N is a Y.,Y is an equivalent class of L.,"Given the previous statements, is N a L?",Yes,N is a L.,True,"Yes, B is"
+1301,S is a K.,K is an equivalent class of B.,"Given the previous statements, is S a V?",No,S is not a V.,False,The answer is no
+154,E is a S.,S is an equivalent class of D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,"Yes, U is"
+1188,O is a X.,X is an equivalent class of N.,"Given the previous statements, is O a A?",No,O is not a A.,False,O is a Z
+1063,L is a R.,R is an equivalent class of X.,"Given the previous statements, is L a I?",No,L is not a I.,False,No.
+1085,L is a C.,C is an equivalent class of G.,"Given the previous statements, is L a X?",No,L is not a X.,False,"Yes, J is"
+409,M is a O.,O is an equivalent class of S.,"Given the previous statements, is M a S?",Yes,M is a S.,True,"Yes, D is"
+1011,J is a K.,K is an equivalent class of W.,"Given the previous statements, is J a O?",No,J is not a O.,False,The answer is no
+344,K is a E.,E is an equivalent class of W.,"Given the previous statements, is K a W?",Yes,K is a W.,True,"Yes, J is"
+584,R is a W.,W is an equivalent class of E.,"Given the previous statements, is R a E?",Yes,R is a E.,True,"No.
+The"
+725,A is a P.,P is an equivalent class of U.,"Given the previous statements, is A a R?",No,A is not a R.,False,The answer is no
+157,E is a A.,A is an equivalent class of F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,"Yes, Q is"
+1166,O is a G.,G is an equivalent class of Z.,"Given the previous statements, is O a X?",No,O is not a X.,False,No.
+644,T is a G.,G is an equivalent class of N.,"Given the previous statements, is T a N?",Yes,T is a N.,True,The answer is no
+1276,R is a I.,I is an equivalent class of D.,"Given the previous statements, is R a M?",No,R is not a M.,False,H is a S
+262,H is a C.,C is an equivalent class of R.,"Given the previous statements, is H a R?",Yes,H is a R.,True,"Yes, A is"
+847,E is a U.,U is an equivalent class of P.,"Given the previous statements, is E a Z?",No,E is not a Z.,False,"Yes, I is"
+782,C is a N.,N is an equivalent class of A.,"Given the previous statements, is C a S?",No,C is not a S.,False,The answer is no
+462,N is a H.,H is an equivalent class of S.,"Given the previous statements, is N a S?",Yes,N is a S.,True,"Yes, D is"
+696,A is a P.,P is an equivalent class of F.,"Given the previous statements, is A a I?",No,A is not a I.,False,The answer is no
+58,B is a I.,I is an equivalent class of N.,"Given the previous statements, is B a N?",Yes,B is a N.,True,The answer is no
+515,P is a F.,F is an equivalent class of C.,"Given the previous statements, is P a C?",Yes,P is a C.,True,The answer is no
+672,U is a F.,F is an equivalent class of H.,"Given the previous statements, is U a H?",Yes,U is a H.,True,"Yes, E is"
+633,T is a R.,R is an equivalent class of N.,"Given the previous statements, is T a N?",Yes,T is a N.,True,No.
+118,D is a A.,A is an equivalent class of C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,The answer is no
+574,R is a H.,H is an equivalent class of M.,"Given the previous statements, is R a M?",Yes,R is a M.,True,No.
+1304,S is a H.,H is an equivalent class of Y.,"Given the previous statements, is S a B?",No,S is not a B.,False,"No.
+S"
+678,U is a V.,V is an equivalent class of A.,"Given the previous statements, is U a A?",Yes,U is a A.,True,"Yes, D is"
+1132,N is a Y.,Y is an equivalent class of B.,"Given the previous statements, is N a X?",No,N is not a X.,False,"Yes, A is"
+1327,T is a W.,W is an equivalent class of O.,"Given the previous statements, is T a E?",No,T is not a E.,False,"Yes, C is"
+1172,O is a A.,A is an equivalent class of Z.,"Given the previous statements, is O a E?",No,O is not a E.,False,The answer is no
+803,D is a F.,F is an equivalent class of I.,"Given the previous statements, is D a E?",No,D is not a E.,False,The answer is no
+1252,Q is a V.,V is an equivalent class of Z.,"Given the previous statements, is Q a R?",No,Q is not a R.,False,"Yes, D is"
+931,H is a Q.,Q is an equivalent class of P.,"Given the previous statements, is H a J?",No,H is not a J.,False,The answer is no
+473,O is a Q.,Q is an equivalent class of W.,"Given the previous statements, is O a W?",Yes,O is a W.,True,The answer is no
+788,C is a B.,B is an equivalent class of R.,"Given the previous statements, is C a S?",No,C is not a S.,False,"Yes, N is"
+337,K is a O.,O is an equivalent class of I.,"Given the previous statements, is K a I?",Yes,K is a I.,True,The answer is no
+1352,T is a B.,B is an equivalent class of D.,"Given the previous statements, is T a H?",No,T is not a H.,False,The answer is no
+844,E is a L.,L is an equivalent class of A.,"Given the previous statements, is E a T?",No,E is not a T.,False,"Yes, J is"
+816,D is a M.,M is an equivalent class of O.,"Given the previous statements, is D a H?",No,D is not a H.,False,The answer is no
+674,U is a I.,I is an equivalent class of A.,"Given the previous statements, is U a A?",Yes,U is a A.,True,The answer is no
+325,J is a C.,C is an equivalent class of Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True,"No.
+The"
+681,U is a A.,A is an equivalent class of X.,"Given the previous statements, is U a X?",Yes,U is a X.,True,"Yes, R is"
+1071,L is a N.,N is an equivalent class of P.,"Given the previous statements, is L a V?",No,L is not a V.,False,H is a V
+440,N is a J.,J is an equivalent class of M.,"Given the previous statements, is N a M?",Yes,N is a M.,True,"No.
+The"
+340,K is a I.,I is an equivalent class of U.,"Given the previous statements, is K a U?",Yes,K is a U.,True,The answer is no
+1220,P is a X.,X is an equivalent class of Y.,"Given the previous statements, is P a U?",No,P is not a U.,False,"No.
+The"
+835,E is a Y.,Y is an equivalent class of U.,"Given the previous statements, is E a I?",No,E is not a I.,False,The answer is no
+348,K is a M.,M is an equivalent class of V.,"Given the previous statements, is K a V?",Yes,K is a V.,True,"No.
+The"
+1344,T is a D.,D is an equivalent class of J.,"Given the previous statements, is T a X?",No,T is not a X.,False,"Yes, D is"
+44,B is a K.,K is an equivalent class of C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,No.
+733,B is a S.,S is an equivalent class of I.,"Given the previous statements, is B a X?",No,B is not a X.,False,"Yes, O is"
+619,S is a D.,D is an equivalent class of W.,"Given the previous statements, is S a W?",Yes,S is a W.,True,"No.
+The"
+315,J is a Y.,Y is an equivalent class of A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,H is a W
+187,F is a I.,I is an equivalent class of S.,"Given the previous statements, is F a S?",Yes,F is a S.,True,The first statement is
+414,M is a O.,O is an equivalent class of U.,"Given the previous statements, is M a U?",Yes,M is a U.,True,"Yes, O is"
+981,I is a A.,A is an equivalent class of E.,"Given the previous statements, is I a H?",No,I is not a H.,False,The answer is no
+668,U is a G.,G is an equivalent class of Z.,"Given the previous statements, is U a Z?",Yes,U is a Z.,True,"Yes, D is"
+330,J is a G.,G is an equivalent class of X.,"Given the previous statements, is J a X?",Yes,J is a X.,True,The answer is no
+1318,S is a V.,V is an equivalent class of Y.,"Given the previous statements, is S a K?",No,S is not a K.,False,The answer is no
+800,D is a L.,L is an equivalent class of H.,"Given the previous statements, is D a A?",No,D is not a A.,False,The answer is no
+31,A is a C.,C is an equivalent class of V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,The first statement is
+161,E is a U.,U is an equivalent class of L.,"Given the previous statements, is E a L?",Yes,E is a L.,True,"Yes, B is"
+37,B is a Q.,Q is an equivalent class of Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True,"Yes, M is"
+657,T is a E.,E is an equivalent class of F.,"Given the previous statements, is T a F?",Yes,T is a F.,True,"Yes, C is"
+329,J is a T.,T is an equivalent class of Y.,"Given the previous statements, is J a Y?",Yes,J is a Y.,True,The answer is no
+751,B is a W.,W is an equivalent class of E.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,"Yes, G is"
+1326,T is a W.,W is an equivalent class of E.,"Given the previous statements, is T a G?",No,T is not a G.,False,The answer is no
+1160,O is a W.,W is an equivalent class of M.,"Given the previous statements, is O a D?",No,O is not a D.,False,The answer is no
+1378,U is a L.,L is an equivalent class of H.,"Given the previous statements, is U a N?",No,U is not a N.,False,The answer is no
+455,N is a V.,V is an equivalent class of W.,"Given the previous statements, is N a W?",Yes,N is a W.,True,The answer is no
+947,H is a M.,M is an equivalent class of G.,"Given the previous statements, is H a V?",No,H is not a V.,False,"Yes, E is"
+241,H is a S.,S is an equivalent class of D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,The answer is no
+459,N is a U.,U is an equivalent class of G.,"Given the previous statements, is N a G?",Yes,N is a G.,True,"No.
+The"
+1136,N is a E.,E is an equivalent class of A.,"Given the previous statements, is N a J?",No,N is not a J.,False,The answer is no
+181,F is a U.,U is an equivalent class of T.,"Given the previous statements, is F a T?",Yes,F is a T.,True,"Yes, J is"
+1158,O is a N.,N is an equivalent class of U.,"Given the previous statements, is O a Q?",No,O is not a Q.,False,No.
+883,F is a X.,X is an equivalent class of Z.,"Given the previous statements, is F a Q?",No,F is not a Q.,False,"Yes, B is"
+523,P is a W.,W is an equivalent class of G.,"Given the previous statements, is P a G?",Yes,P is a G.,True,The answer is no
+765,C is a S.,S is an equivalent class of V.,"Given the previous statements, is C a R?",No,C is not a R.,False,"Yes, E is"
+361,K is a T.,T is an equivalent class of H.,"Given the previous statements, is K a H?",Yes,K is a H.,True,The answer is no
+276,I is a U.,U is an equivalent class of L.,"Given the previous statements, is I a L?",Yes,I is a L.,True,"Yes, U is"
+989,I is a W.,W is an equivalent class of K.,"Given the previous statements, is I a P?",No,I is not a P.,False,"Yes, I is"
+1324,T is a H.,H is an equivalent class of Y.,"Given the previous statements, is T a V?",No,T is not a V.,False,"Yes, A is"
+1129,N is a O.,O is an equivalent class of F.,"Given the previous statements, is N a G?",No,N is not a G.,False,The answer is no
+723,A is a W.,W is an equivalent class of U.,"Given the previous statements, is A a K?",No,A is not a K.,False,"Yes, G is"
+530,Q is a R.,R is an equivalent class of Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True,No.
+289,I is a A.,A is an equivalent class of F.,"Given the previous statements, is I a F?",Yes,I is a F.,True,The answer is no
+913,G is a Y.,Y is an equivalent class of F.,"Given the previous statements, is G a C?",No,G is not a C.,False,"Yes, M is"
+394,L is a Q.,Q is an equivalent class of O.,"Given the previous statements, is L a O?",Yes,L is a O.,True,"Yes, O is"
+890,F is a A.,A is an equivalent class of M.,"Given the previous statements, is F a Y?",No,F is not a Y.,False,"Yes, F is"
+225,G is a J.,J is an equivalent class of A.,"Given the previous statements, is G a A?",Yes,G is a A.,True,"No.
+G"
+937,H is a Z.,Z is an equivalent class of G.,"Given the previous statements, is H a N?",No,H is not a N.,False,"Yes, B is"
+375,L is a N.,N is an equivalent class of K.,"Given the previous statements, is L a K?",Yes,L is a K.,True,"No.
+The"
+115,D is a M.,M is an equivalent class of X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,"Yes, I is"
+28,A is a T.,T is an equivalent class of P.,"Given the previous statements, is A a P?",Yes,A is a P.,True,"No.
+The"
+536,Q is a L.,L is an equivalent class of T.,"Given the previous statements, is Q a T?",Yes,Q is a T.,True,"Yes, F is"
+167,F is a A.,A is an equivalent class of T.,"Given the previous statements, is F a T?",Yes,F is a T.,True,"No.
+Q"
+609,S is a R.,R is an equivalent class of H.,"Given the previous statements, is S a H?",Yes,S is a H.,True,The answer is no
+104,D is a S.,S is an equivalent class of P.,"Given the previous statements, is D a P?",Yes,D is a P.,True,The answer is no
+345,K is a U.,U is an equivalent class of N.,"Given the previous statements, is K a N?",Yes,K is a N.,True,The answer is no
+1265,R is a I.,I is an equivalent class of L.,"Given the previous statements, is R a J?",No,R is not a J.,False,No.
+1118,M is a I.,I is an equivalent class of P.,"Given the previous statements, is M a C?",No,M is not a C.,False,"Yes, B is"
+1340,T is a P.,P is an equivalent class of E.,"Given the previous statements, is T a F?",No,T is not a F.,False,The answer is no
+349,K is a Z.,Z is an equivalent class of F.,"Given the previous statements, is K a F?",Yes,K is a F.,True,No.
+1238,Q is a K.,K is an equivalent class of D.,"Given the previous statements, is Q a I?",No,Q is not a I.,False,The answer is no
+217,G is a W.,W is an equivalent class of N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,The answer is no
+551,Q is a A.,A is an equivalent class of L.,"Given the previous statements, is Q a L?",Yes,Q is a L.,True,The answer is no
+610,S is a U.,U is an equivalent class of T.,"Given the previous statements, is S a T?",Yes,S is a T.,True,The answer is no
+588,R is a F.,F is an equivalent class of K.,"Given the previous statements, is R a K?",Yes,R is a K.,True,The answer is no
+1025,K is a V.,V is an equivalent class of O.,"Given the previous statements, is K a G?",No,K is not a G.,False,No.
+879,F is a V.,V is an equivalent class of B.,"Given the previous statements, is F a I?",No,F is not a I.,False,"No.
+The"
+1057,L is a O.,O is an equivalent class of D.,"Given the previous statements, is L a C?",No,L is not a C.,False,"Yes, E is"
+940,H is a A.,A is an equivalent class of M.,"Given the previous statements, is H a P?",No,H is not a P.,False,The answer is no
+280,I is a R.,R is an equivalent class of S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,The answer is no
+1008,J is a B.,B is an equivalent class of C.,"Given the previous statements, is J a M?",No,J is not a M.,False,"No.
+Q"
+1285,R is a X.,X is an equivalent class of J.,"Given the previous statements, is R a P?",No,R is not a P.,False,"Yes, K is"
+1042,K is a F.,F is an equivalent class of M.,"Given the previous statements, is K a H?",No,K is not a H.,False,"Yes, A is"
+460,N is a O.,O is an equivalent class of P.,"Given the previous statements, is N a P?",Yes,N is a P.,True,The answer is no
+923,G is a S.,S is an equivalent class of H.,"Given the previous statements, is G a O?",No,G is not a O.,False,The answer is no
+258,H is a L.,L is an equivalent class of I.,"Given the previous statements, is H a I?",Yes,H is a I.,True,The answer is no
+169,F is a V.,V is an equivalent class of I.,"Given the previous statements, is F a I?",Yes,F is a I.,True,No.
+726,A is a S.,S is an equivalent class of B.,"Given the previous statements, is A a T?",No,A is not a T.,False,The answer is no
+934,H is a E.,E is an equivalent class of R.,"Given the previous statements, is H a D?",No,H is not a D.,False,The answer is no
+808,D is a A.,A is an equivalent class of E.,"Given the previous statements, is D a M?",No,D is not a M.,False,"Yes, M is"
+1149,N is a D.,D is an equivalent class of R.,"Given the previous statements, is N a G?",No,N is not a G.,False,"No.
+The"
+528,P is a M.,M is an equivalent class of T.,"Given the previous statements, is P a T?",Yes,P is a T.,True,The answer is no
+1328,T is a C.,C is an equivalent class of G.,"Given the previous statements, is T a Y?",No,T is not a Y.,False,"Yes, B is"
+1046,K is a U.,U is an equivalent class of R.,"Given the previous statements, is K a F?",No,K is not a F.,False,No.
+151,E is a O.,O is an equivalent class of K.,"Given the previous statements, is E a K?",Yes,E is a K.,True,"Yes, D is"
+424,M is a J.,J is an equivalent class of W.,"Given the previous statements, is M a W?",Yes,M is a W.,True,H is a P
+590,R is a Q.,Q is an equivalent class of S.,"Given the previous statements, is R a S?",Yes,R is a S.,True,The answer is no
+580,R is a P.,P is an equivalent class of F.,"Given the previous statements, is R a F?",Yes,R is a F.,True,No.
+1294,S is a Z.,Z is an equivalent class of G.,"Given the previous statements, is S a B?",No,S is not a B.,False,The answer is no
+962,I is a X.,X is an equivalent class of G.,"Given the previous statements, is I a B?",No,I is not a B.,False,The answer is no
+1335,T is a X.,X is an equivalent class of N.,"Given the previous statements, is T a Z?",No,T is not a Z.,False,No.
+598,S is a Y.,Y is an equivalent class of J.,"Given the previous statements, is S a J?",Yes,S is a J.,True,The answer is no
+14,A is a C.,C is an equivalent class of N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,The answer is no
+1121,M is a H.,H is an equivalent class of K.,"Given the previous statements, is M a X?",No,M is not a X.,False,H is a L
+1053,K is a G.,G is an equivalent class of H.,"Given the previous statements, is K a C?",No,K is not a C.,False,The answer is no
+1080,L is a X.,X is an equivalent class of T.,"Given the previous statements, is L a E?",No,L is not a E.,False,"Yes, L is"
+324,J is a C.,C is an equivalent class of Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True,"Yes, O is"
+109,D is a Q.,Q is an equivalent class of Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,No.
+944,H is a E.,E is an equivalent class of K.,"Given the previous statements, is H a O?",No,H is not a O.,False,The answer is no
+786,C is a Y.,Y is an equivalent class of B.,"Given the previous statements, is C a I?",No,C is not a I.,False,The answer is no
+965,I is a O.,O is an equivalent class of L.,"Given the previous statements, is I a H?",No,I is not a H.,False,"Yes, P is"
+483,O is a V.,V is an equivalent class of T.,"Given the previous statements, is O a T?",Yes,O is a T.,True,No.
+1074,L is a E.,E is an equivalent class of V.,"Given the previous statements, is L a O?",No,L is not a O.,False,"Yes, K is"
+140,E is a T.,T is an equivalent class of U.,"Given the previous statements, is E a U?",Yes,E is a U.,True,H is a V
+75,C is a Z.,Z is an equivalent class of Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,"Yes, K is"
+985,I is a Z.,Z is an equivalent class of F.,"Given the previous statements, is I a R?",No,I is not a R.,False,The answer is no
+846,E is a Z.,Z is an equivalent class of T.,"Given the previous statements, is E a I?",No,E is not a I.,False,No.
+506,P is a R.,R is an equivalent class of S.,"Given the previous statements, is P a S?",Yes,P is a S.,True,"No.
+R"
+842,E is a W.,W is an equivalent class of C.,"Given the previous statements, is E a I?",No,E is not a I.,False,"Yes, U is"
+397,M is a T.,T is an equivalent class of G.,"Given the previous statements, is M a G?",Yes,M is a G.,True,"No.
+M"
+143,E is a L.,L is an equivalent class of N.,"Given the previous statements, is E a N?",Yes,E is a N.,True,The answer is no
+772,C is a G.,G is an equivalent class of J.,"Given the previous statements, is C a M?",No,C is not a M.,False,"No.
+The"
+1384,U is a K.,K is an equivalent class of J.,"Given the previous statements, is U a M?",No,U is not a M.,False,No.
+1139,N is a T.,T is an equivalent class of Y.,"Given the previous statements, is N a O?",No,N is not a O.,False,"Yes, G is"
+240,H is a S.,S is an equivalent class of W.,"Given the previous statements, is H a W?",Yes,H is a W.,True,"Yes, K is"
+966,I is a N.,N is an equivalent class of W.,"Given the previous statements, is I a A?",No,I is not a A.,False,"Yes, L is"
+73,C is a D.,D is an equivalent class of J.,"Given the previous statements, is C a J?",Yes,C is a J.,True,The answer is no
+432,N is a Y.,Y is an equivalent class of V.,"Given the previous statements, is N a V?",Yes,N is a V.,True,"Yes, R is"
+1206,P is a G.,G is an equivalent class of U.,"Given the previous statements, is P a N?",No,P is not a N.,False,"Yes, C is"
+921,G is a U.,U is an equivalent class of N.,"Given the previous statements, is G a X?",No,G is not a X.,False,"Yes, O is"
+926,H is a D.,D is an equivalent class of I.,"Given the previous statements, is H a O?",No,H is not a O.,False,The answer is no
+29,A is a L.,L is an equivalent class of T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,The answer is no
+1223,Q is a I.,I is an equivalent class of S.,"Given the previous statements, is Q a C?",No,Q is not a C.,False,"No.
+The"
+813,D is a A.,A is an equivalent class of I.,"Given the previous statements, is D a J?",No,D is not a J.,False,The answer is no
+158,E is a F.,F is an equivalent class of A.,"Given the previous statements, is E a A?",Yes,E is a A.,True,"No.
+The"
+206,G is a Q.,Q is an equivalent class of H.,"Given the previous statements, is G a H?",Yes,G is a H.,True,The answer is no
+212,G is a W.,W is an equivalent class of F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,"No.
+L"
+1155,N is a X.,X is an equivalent class of S.,"Given the previous statements, is N a B?",No,N is not a B.,False,No.
+1127,N is a L.,L is an equivalent class of K.,"Given the previous statements, is N a V?",No,N is not a V.,False,"No.
+The"
+658,T is a B.,B is an equivalent class of R.,"Given the previous statements, is T a R?",Yes,T is a R.,True,The answer is no
+700,A is a V.,V is an equivalent class of L.,"Given the previous statements, is A a P?",No,A is not a P.,False,The answer is no
+170,F is a Q.,Q is an equivalent class of Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,The answer is no
+554,Q is a M.,M is an equivalent class of V.,"Given the previous statements, is Q a V?",Yes,Q is a V.,True,"Yes, K is"
+843,E is a D.,D is an equivalent class of V.,"Given the previous statements, is E a C?",No,E is not a C.,False,"Yes, A is"
+164,E is a W.,W is an equivalent class of S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,"Yes, C is"
+301,J is a B.,B is an equivalent class of U.,"Given the previous statements, is J a U?",Yes,J is a U.,True,The answer is no
+939,H is a I.,I is an equivalent class of B.,"Given the previous statements, is H a X?",No,H is not a X.,False,The answer is no
+768,C is a F.,F is an equivalent class of V.,"Given the previous statements, is C a N?",No,C is not a N.,False,"Yes, F is"
+1292,S is a D.,D is an equivalent class of X.,"Given the previous statements, is S a N?",No,S is not a N.,False,"Yes, J is"
+747,B is a G.,G is an equivalent class of P.,"Given the previous statements, is B a T?",No,B is not a T.,False,No.
+341,K is a L.,L is an equivalent class of T.,"Given the previous statements, is K a T?",Yes,K is a T.,True,"No.
+The"
+311,J is a L.,L is an equivalent class of K.,"Given the previous statements, is J a K?",Yes,J is a K.,True,"Yes, T is"
+593,R is a Q.,Q is an equivalent class of I.,"Given the previous statements, is R a I?",Yes,R is a I.,True,H is a D
+811,D is a J.,J is an equivalent class of I.,"Given the previous statements, is D a A?",No,D is not a A.,False,The answer is no
+182,F is a K.,K is an equivalent class of J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,"Yes, E is"
+474,O is a I.,I is an equivalent class of S.,"Given the previous statements, is O a S?",Yes,O is a S.,True,"Yes, J is"
+1228,Q is a F.,F is an equivalent class of O.,"Given the previous statements, is Q a S?",No,Q is not a S.,False,The answer is no
+192,F is a Z.,Z is an equivalent class of H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,"Yes, I is"
+1135,N is a E.,E is an equivalent class of O.,"Given the previous statements, is N a W?",No,N is not a W.,False,The answer is no
+314,J is a F.,F is an equivalent class of I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,H is a G
+416,M is a T.,T is an equivalent class of B.,"Given the previous statements, is M a B?",Yes,M is a B.,True,The answer is no
+467,O is a P.,P is an equivalent class of H.,"Given the previous statements, is O a H?",Yes,O is a H.,True,The answer is no
+126,D is a V.,V is an equivalent class of I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,The answer is no
+11,A is a L.,L is an equivalent class of V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,No.
+446,N is a H.,H is an equivalent class of C.,"Given the previous statements, is N a C?",Yes,N is a C.,True,H is a S
+1310,S is a K.,K is an equivalent class of V.,"Given the previous statements, is S a O?",No,S is not a O.,False,The answer is no
+697,A is a X.,X is an equivalent class of S.,"Given the previous statements, is A a D?",No,A is not a D.,False,The answer is no
+197,F is a R.,R is an equivalent class of L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,No.
+1282,R is a A.,A is an equivalent class of C.,"Given the previous statements, is R a X?",No,R is not a X.,False,"No.
+G"
+1359,U is a J.,J is an equivalent class of E.,"Given the previous statements, is U a F?",No,U is not a F.,False,The answer is no
+56,B is a T.,T is an equivalent class of E.,"Given the previous statements, is B a E?",Yes,B is a E.,True,The answer is no
+461,N is a S.,S is an equivalent class of E.,"Given the previous statements, is N a E?",Yes,N is a E.,True,"Yes, S is"
+492,O is a Y.,Y is an equivalent class of S.,"Given the previous statements, is O a S?",Yes,O is a S.,True,"Yes, J is"
+617,S is a G.,G is an equivalent class of V.,"Given the previous statements, is S a V?",Yes,S is a V.,True,"Yes, U is"
+522,P is a C.,C is an equivalent class of W.,"Given the previous statements, is P a W?",Yes,P is a W.,True,The answer is no
+223,G is a H.,H is an equivalent class of U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,"Yes, O is"
+721,A is a P.,P is an equivalent class of K.,"Given the previous statements, is A a O?",No,A is not a O.,False,The answer is no
+190,F is a W.,W is an equivalent class of Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,"Yes, D is"
+1144,N is a P.,P is an equivalent class of S.,"Given the previous statements, is N a K?",No,N is not a K.,False,The answer is no
+961,I is a H.,H is an equivalent class of O.,"Given the previous statements, is I a P?",No,I is not a P.,False,"Yes, A is"
+6,A is a X.,X is an equivalent class of M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,"Yes, E is"
+376,L is a P.,P is an equivalent class of B.,"Given the previous statements, is L a B?",Yes,L is a B.,True,The answer is no
+494,O is a A.,A is an equivalent class of U.,"Given the previous statements, is O a U?",Yes,O is a U.,True,The answer is no
+1227,Q is a V.,V is an equivalent class of P.,"Given the previous statements, is Q a U?",No,Q is not a U.,False,No.
+1152,N is a U.,U is an equivalent class of S.,"Given the previous statements, is N a V?",No,N is not a V.,False,"No.
+The"
+790,C is a W.,W is an equivalent class of R.,"Given the previous statements, is C a H?",No,C is not a H.,False,The answer is no
+979,I is a O.,O is an equivalent class of Q.,"Given the previous statements, is I a R?",No,I is not a R.,False,"Yes, C is"
+624,S is a T.,T is an equivalent class of F.,"Given the previous statements, is S a F?",Yes,S is a F.,True,"Yes, I is"
+1291,S is a C.,C is an equivalent class of U.,"Given the previous statements, is S a H?",No,S is not a H.,False,The answer is no
+1303,S is a A.,A is an equivalent class of V.,"Given the previous statements, is S a F?",No,S is not a F.,False,The answer is no
+95,C is a I.,I is an equivalent class of Z.,"Given the previous statements, is C a Z?",Yes,C is a Z.,True,The answer is no
+173,F is a O.,O is an equivalent class of W.,"Given the previous statements, is F a W?",Yes,F is a W.,True,No.
+57,B is a N.,N is an equivalent class of F.,"Given the previous statements, is B a F?",Yes,B is a F.,True,"Yes, B is"
+163,E is a V.,V is an equivalent class of J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,The answer is no
+1064,L is a S.,S is an equivalent class of P.,"Given the previous statements, is L a B?",No,L is not a B.,False,The answer is no
+1086,L is a J.,J is an equivalent class of K.,"Given the previous statements, is L a V?",No,L is not a V.,False,"Yes, T is"
+707,A is a W.,W is an equivalent class of L.,"Given the previous statements, is A a F?",No,A is not a F.,False,"Yes, J is"
+608,S is a Y.,Y is an equivalent class of X.,"Given the previous statements, is S a X?",Yes,S is a X.,True,No.
+178,F is a E.,E is an equivalent class of H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,The answer is no
+1058,L is a U.,U is an equivalent class of R.,"Given the previous statements, is L a F?",No,L is not a F.,False,The answer is no
+471,O is a C.,C is an equivalent class of Q.,"Given the previous statements, is O a Q?",Yes,O is a Q.,True,H is a F
+563,R is a U.,U is an equivalent class of E.,"Given the previous statements, is R a E?",Yes,R is a E.,True,"Yes, F is"
+1035,K is a N.,N is an equivalent class of T.,"Given the previous statements, is K a H?",No,K is not a H.,False,"Yes, U is"
+385,L is a G.,G is an equivalent class of U.,"Given the previous statements, is L a U?",Yes,L is a U.,True,"Yes, O is"
+583,R is a N.,N is an equivalent class of K.,"Given the previous statements, is R a K?",Yes,R is a K.,True,"No.
+G"
+495,O is a D.,D is an equivalent class of J.,"Given the previous statements, is O a J?",Yes,O is a J.,True,"Yes, I is"
+364,L is a I.,I is an equivalent class of M.,"Given the previous statements, is L a M?",Yes,L is a M.,True,"Yes, S is"
+857,E is a F.,F is an equivalent class of C.,"Given the previous statements, is E a U?",No,E is not a U.,False,The answer is no
+928,H is a I.,I is an equivalent class of C.,"Given the previous statements, is H a K?",No,H is not a K.,False,"No.
+The"
+975,I is a D.,D is an equivalent class of Y.,"Given the previous statements, is I a F?",No,I is not a F.,False,The answer is no
+638,T is a H.,H is an equivalent class of W.,"Given the previous statements, is T a W?",Yes,T is a W.,True,"No.
+The"
+1122,M is a D.,D is an equivalent class of R.,"Given the previous statements, is M a B?",No,M is not a B.,False,"No.
+E"
+43,B is a S.,S is an equivalent class of Q.,"Given the previous statements, is B a Q?",Yes,B is a Q.,True,The answer is no
+586,R is a W.,W is an equivalent class of N.,"Given the previous statements, is R a N?",Yes,R is a N.,True,"No.
+The"
+1345,T is a J.,J is an equivalent class of M.,"Given the previous statements, is T a A?",No,T is not a A.,False,No.
+384,L is a D.,D is an equivalent class of O.,"Given the previous statements, is L a O?",Yes,L is a O.,True,"Yes, C is"
+582,R is a T.,T is an equivalent class of C.,"Given the previous statements, is R a C?",Yes,R is a C.,True,No.
+571,R is a J.,J is an equivalent class of H.,"Given the previous statements, is R a H?",Yes,R is a H.,True,"Yes, U is"
+1018,J is a O.,O is an equivalent class of W.,"Given the previous statements, is J a A?",No,J is not a A.,False,"Yes, D is"
+735,B is a G.,G is an equivalent class of J.,"Given the previous statements, is B a E?",No,B is not a E.,False,No.
+780,C is a K.,K is an equivalent class of Z.,"Given the previous statements, is C a X?",No,C is not a X.,False,"Yes, E is"
+552,Q is a Y.,Y is an equivalent class of M.,"Given the previous statements, is Q a M?",Yes,Q is a M.,True,H is a D
+822,D is a B.,B is an equivalent class of M.,"Given the previous statements, is D a O?",No,D is not a O.,False,The answer is no
+27,A is a R.,R is an equivalent class of E.,"Given the previous statements, is A a E?",Yes,A is a E.,True,"Yes, C is"
+666,U is a R.,R is an equivalent class of X.,"Given the previous statements, is U a X?",Yes,U is a X.,True,The answer is no
+451,N is a U.,U is an equivalent class of X.,"Given the previous statements, is N a X?",Yes,N is a X.,True,"No.
+G"
+1235,Q is a G.,G is an equivalent class of K.,"Given the previous statements, is Q a L?",No,Q is not a L.,False,"No.
+The"
+1133,N is a F.,F is an equivalent class of J.,"Given the previous statements, is N a Y?",No,N is not a Y.,False,"Yes, U is"
+612,S is a E.,E is an equivalent class of Z.,"Given the previous statements, is S a Z?",Yes,S is a Z.,True,"Yes, G is"
+758,B is a R.,R is an equivalent class of N.,"Given the previous statements, is B a F?",No,B is not a F.,False,The answer is no
+149,E is a G.,G is an equivalent class of H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,"Yes, I is"
+594,R is a Z.,Z is an equivalent class of Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True,"No.
+R"
+1254,Q is a E.,E is an equivalent class of L.,"Given the previous statements, is Q a P?",No,Q is not a P.,False,No.
+100,D is a Y.,Y is an equivalent class of N.,"Given the previous statements, is D a N?",Yes,D is a N.,True,"Yes, C is"
+787,C is a I.,I is an equivalent class of L.,"Given the previous statements, is C a W?",No,C is not a W.,False,"Yes, B is"
+534,Q is a U.,U is an equivalent class of K.,"Given the previous statements, is Q a K?",Yes,Q is a K.,True,"Yes, O is"
+569,R is a Z.,Z is an equivalent class of T.,"Given the previous statements, is R a T?",Yes,R is a T.,True,"No.
+N"
+1026,K is a W.,W is an equivalent class of E.,"Given the previous statements, is K a A?",No,K is not a A.,False,H is a Y
+123,D is a J.,J is an equivalent class of B.,"Given the previous statements, is D a B?",Yes,D is a B.,True,The answer is no
+1368,U is a E.,E is an equivalent class of D.,"Given the previous statements, is U a C?",No,U is not a C.,False,No.
+1083,L is a G.,G is an equivalent class of M.,"Given the previous statements, is L a O?",No,L is not a O.,False,The answer is no
+1123,N is a B.,B is an equivalent class of E.,"Given the previous statements, is N a R?",No,N is not a R.,False,H is a J
+971,I is a G.,G is an equivalent class of S.,"Given the previous statements, is I a Q?",No,I is not a Q.,False,The answer is no
+40,B is a O.,O is an equivalent class of M.,"Given the previous statements, is B a M?",Yes,B is a M.,True,The answer is no
+1232,Q is a A.,A is an equivalent class of I.,"Given the previous statements, is Q a W?",No,Q is not a W.,False,No.
+881,F is a M.,M is an equivalent class of B.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,"Yes, G is"
+18,A is a Z.,Z is an equivalent class of M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,No.
+1137,N is a F.,F is an equivalent class of L.,"Given the previous statements, is N a U?",No,N is not a U.,False,The answer is no
+128,D is a I.,I is an equivalent class of O.,"Given the previous statements, is D a O?",Yes,D is a O.,True,"No.
+The"
+249,H is a O.,O is an equivalent class of Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,"No.
+The"
+1309,S is a C.,C is an equivalent class of L.,"Given the previous statements, is S a A?",No,S is not a A.,False,The answer is no
+767,C is a T.,T is an equivalent class of A.,"Given the previous statements, is C a Y?",No,C is not a Y.,False,"Yes, M is"
+948,H is a D.,D is an equivalent class of J.,"Given the previous statements, is H a P?",No,H is not a P.,False,The answer is no
+447,N is a E.,E is an equivalent class of H.,"Given the previous statements, is N a H?",Yes,N is a H.,True,The answer is no
+573,R is a H.,H is an equivalent class of T.,"Given the previous statements, is R a T?",Yes,R is a T.,True,No.
+1001,J is a Q.,Q is an equivalent class of F.,"Given the previous statements, is J a T?",No,J is not a T.,False,The answer is no
+438,N is a Y.,Y is an equivalent class of P.,"Given the previous statements, is N a P?",Yes,N is a P.,True,H is a P
+652,T is a P.,P is an equivalent class of G.,"Given the previous statements, is T a G?",Yes,T is a G.,True,H is a L
+1255,R is a K.,K is an equivalent class of E.,"Given the previous statements, is R a X?",No,R is not a X.,False,"Yes, D is"
+677,U is a T.,T is an equivalent class of W.,"Given the previous statements, is U a W?",Yes,U is a W.,True,The answer is no
+1090,M is a P.,P is an equivalent class of X.,"Given the previous statements, is M a G?",No,M is not a G.,False,"Yes, L is"
+1253,Q is a L.,L is an equivalent class of N.,"Given the previous statements, is Q a U?",No,Q is not a U.,False,The answer is no
+96,C is a I.,I is an equivalent class of O.,"Given the previous statements, is C a O?",Yes,C is a O.,True,"Yes, Q is"
+932,H is a V.,V is an equivalent class of R.,"Given the previous statements, is H a F?",No,H is not a F.,False,The answer is no
+132,D is a O.,O is an equivalent class of S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,The answer is no
+661,U is a F.,F is an equivalent class of P.,"Given the previous statements, is U a P?",Yes,U is a P.,True,"Yes, A is"
+468,O is a B.,B is an equivalent class of K.,"Given the previous statements, is O a K?",Yes,O is a K.,True,The answer is no
+964,I is a O.,O is an equivalent class of V.,"Given the previous statements, is I a K?",No,I is not a K.,False,"Yes, P is"
+712,A is a S.,S is an equivalent class of I.,"Given the previous statements, is A a Q?",No,A is not a Q.,False,"Yes, U is"
+1355,U is a X.,X is an equivalent class of C.,"Given the previous statements, is U a D?",No,U is not a D.,False,"No.
+The"
+166,F is a D.,D is an equivalent class of S.,"Given the previous statements, is F a S?",Yes,F is a S.,True,"No.
+The"
+892,G is a L.,L is an equivalent class of T.,"Given the previous statements, is G a Y?",No,G is not a Y.,False,No.
+734,B is a J.,J is an equivalent class of S.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,The answer is no
+955,H is a J.,J is an equivalent class of T.,"Given the previous statements, is H a S?",No,H is not a S.,False,The answer is no
+759,B is a Y.,Y is an equivalent class of M.,"Given the previous statements, is B a S?",No,B is not a S.,False,"Yes, B is"
+89,C is a J.,J is an equivalent class of L.,"Given the previous statements, is C a L?",Yes,C is a L.,True,The answer is no
+1257,R is a S.,S is an equivalent class of E.,"Given the previous statements, is R a W?",No,R is not a W.,False,No.
+1332,T is a W.,W is an equivalent class of X.,"Given the previous statements, is T a G?",No,T is not a G.,False,No.
+377,L is a C.,C is an equivalent class of Z.,"Given the previous statements, is L a Z?",Yes,L is a Z.,True,"Yes, D is"
+1049,K is a M.,M is an equivalent class of U.,"Given the previous statements, is K a A?",No,K is not a A.,False,"Yes, P is"
+1357,U is a V.,V is an equivalent class of R.,"Given the previous statements, is U a A?",No,U is not a A.,False,The answer is no
+1027,K is a L.,L is an equivalent class of A.,"Given the previous statements, is K a G?",No,K is not a G.,False,"No.
+K"
+1221,P is a L.,L is an equivalent class of N.,"Given the previous statements, is P a W?",No,P is not a W.,False,"No.
+L"
+771,C is a U.,U is an equivalent class of D.,"Given the previous statements, is C a B?",No,C is not a B.,False,The answer is no
+1181,O is a A.,A is an equivalent class of Y.,"Given the previous statements, is O a L?",No,O is not a L.,False,"Yes, I is"
+208,G is a R.,R is an equivalent class of O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,"Yes, U is"
+1177,O is a F.,F is an equivalent class of U.,"Given the previous statements, is O a M?",No,O is not a M.,False,The answer is no
+274,I is a A.,A is an equivalent class of J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,No.
+303,J is a H.,H is an equivalent class of Y.,"Given the previous statements, is J a Y?",Yes,J is a Y.,True,The answer is no
+954,H is a B.,B is an equivalent class of Z.,"Given the previous statements, is H a V?",No,H is not a V.,False,"Yes, N is"
+184,F is a L.,L is an equivalent class of Q.,"Given the previous statements, is F a Q?",Yes,F is a Q.,True,"Yes, D is"
+88,C is a O.,O is an equivalent class of M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,"No.
+Q"
+1169,O is a H.,H is an equivalent class of A.,"Given the previous statements, is O a K?",No,O is not a K.,False,"No.
+The"
+1382,U is a E.,E is an equivalent class of Z.,"Given the previous statements, is U a C?",No,U is not a C.,False,No.
+999,J is a O.,O is an equivalent class of G.,"Given the previous statements, is J a A?",No,J is not a A.,False,The answer is no
+1364,U is a N.,N is an equivalent class of Z.,"Given the previous statements, is U a V?",No,U is not a V.,False,"Yes, C is"
+1002,J is a F.,F is an equivalent class of O.,"Given the previous statements, is J a T?",No,J is not a T.,False,"No.
+The"
+458,N is a X.,X is an equivalent class of B.,"Given the previous statements, is N a B?",Yes,N is a B.,True,"Yes, F is"
+915,G is a C.,C is an equivalent class of O.,"Given the previous statements, is G a E?",No,G is not a E.,False,"Yes, O is"
+404,M is a T.,T is an equivalent class of I.,"Given the previous statements, is M a I?",Yes,M is a I.,True,The answer is no
+285,I is a U.,U is an equivalent class of K.,"Given the previous statements, is I a K?",Yes,I is a K.,True,The answer is no
+363,K is a D.,D is an equivalent class of S.,"Given the previous statements, is K a S?",Yes,K is a S.,True,The answer is no
+1209,P is a V.,V is an equivalent class of O.,"Given the previous statements, is P a Z?",No,P is not a Z.,False,No.
+1100,M is a O.,O is an equivalent class of R.,"Given the previous statements, is M a B?",No,M is not a B.,False,"No.
+The"
+1192,P is a O.,O is an equivalent class of X.,"Given the previous statements, is P a D?",No,P is not a D.,False,The answer is no
+82,C is a Q.,Q is an equivalent class of T.,"Given the previous statements, is C a T?",Yes,C is a T.,True,"Yes, G is"
+1019,J is a U.,U is an equivalent class of B.,"Given the previous statements, is J a W?",No,J is not a W.,False,"Yes, C is"
+687,U is a S.,S is an equivalent class of K.,"Given the previous statements, is U a K?",Yes,U is a K.,True,No.
+1349,T is a K.,K is an equivalent class of N.,"Given the previous statements, is T a Y?",No,T is not a Y.,False,"Yes, K is"
+247,H is a J.,J is an equivalent class of Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True,"Yes, P is"
+1020,J is a R.,R is an equivalent class of B.,"Given the previous statements, is J a S?",No,J is not a S.,False,The answer is no
+956,H is a J.,J is an equivalent class of U.,"Given the previous statements, is H a W?",No,H is not a W.,False,"Yes, Q is"
+320,J is a D.,D is an equivalent class of E.,"Given the previous statements, is J a E?",Yes,J is a E.,True,The answer is no
+402,M is a R.,R is an equivalent class of B.,"Given the previous statements, is M a B?",Yes,M is a B.,True,"No.
+R"
+162,E is a G.,G is an equivalent class of B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,No.
+263,H is a I.,I is an equivalent class of J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,"Yes, B is"
+1047,K is a B.,B is an equivalent class of P.,"Given the previous statements, is K a S?",No,K is not a S.,False,The answer is no
+66,B is a O.,O is an equivalent class of K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,H is a J
+809,D is a N.,N is an equivalent class of Z.,"Given the previous statements, is D a K?",No,D is not a K.,False,The answer is no
+378,L is a N.,N is an equivalent class of H.,"Given the previous statements, is L a H?",Yes,L is a H.,True,The answer is no
+207,G is a I.,I is an equivalent class of Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,"Yes, D is"
+356,K is a I.,I is an equivalent class of P.,"Given the previous statements, is K a P?",Yes,K is a P.,True,The answer is no
+752,B is a U.,U is an equivalent class of W.,"Given the previous statements, is B a V?",No,B is not a V.,False,The answer is no
+545,Q is a B.,B is an equivalent class of Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True,The answer is no
+1268,R is a L.,L is an equivalent class of O.,"Given the previous statements, is R a Y?",No,R is not a Y.,False,"Yes, D is"
+25,A is a F.,F is an equivalent class of Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,"No.
+The"
+1041,K is a X.,X is an equivalent class of Q.,"Given the previous statements, is K a J?",No,K is not a J.,False,"Yes, L is"
+1094,M is a N.,N is an equivalent class of X.,"Given the previous statements, is M a Q?",No,M is not a Q.,False,No.
+255,H is a G.,G is an equivalent class of Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,"Yes, U is"
+920,G is a N.,N is an equivalent class of W.,"Given the previous statements, is G a C?",No,G is not a C.,False,H is a L
+1093,M is a Z.,Z is an equivalent class of K.,"Given the previous statements, is M a H?",No,M is not a H.,False,The answer is no
+457,N is a M.,M is an equivalent class of U.,"Given the previous statements, is N a U?",Yes,N is a U.,True,The answer is no
+737,B is a J.,J is an equivalent class of C.,"Given the previous statements, is B a S?",No,B is not a S.,False,The answer is no
+922,G is a D.,D is an equivalent class of B.,"Given the previous statements, is G a R?",No,G is not a R.,False,"Yes, F is"
+1330,T is a P.,P is an equivalent class of Z.,"Given the previous statements, is T a W?",No,T is not a W.,False,The answer is no
+147,E is a Q.,Q is an equivalent class of D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,The answer is no
+941,H is a L.,L is an equivalent class of V.,"Given the previous statements, is H a W?",No,H is not a W.,False,"Yes, G is"
+463,O is a E.,E is an equivalent class of H.,"Given the previous statements, is O a H?",Yes,O is a H.,True,"Yes, B is"
+526,P is a K.,K is an equivalent class of Z.,"Given the previous statements, is P a Z?",Yes,P is a Z.,True,"Yes, G is"
+422,M is a G.,G is an equivalent class of V.,"Given the previous statements, is M a V?",Yes,M is a V.,True,"No.
+The"
+333,K is a S.,S is an equivalent class of G.,"Given the previous statements, is K a G?",Yes,K is a G.,True,H is a U
+256,H is a Z.,Z is an equivalent class of E.,"Given the previous statements, is H a E?",Yes,H is a E.,True,The answer is no
+896,G is a L.,L is an equivalent class of M.,"Given the previous statements, is G a U?",No,G is not a U.,False,The answer is no
+1383,U is a S.,S is an equivalent class of H.,"Given the previous statements, is U a M?",No,U is not a M.,False,"No.
+G"
+1163,O is a S.,S is an equivalent class of Q.,"Given the previous statements, is O a Y?",No,O is not a Y.,False,The answer is no
+764,C is a J.,J is an equivalent class of V.,"Given the previous statements, is C a E?",No,C is not a E.,False,"Yes, M is"
+793,D is a O.,O is an equivalent class of Y.,"Given the previous statements, is D a K?",No,D is not a K.,False,"Yes, E is"
+565,R is a X.,X is an equivalent class of A.,"Given the previous statements, is R a A?",Yes,R is a A.,True,H is a D
+1366,U is a V.,V is an equivalent class of K.,"Given the previous statements, is U a H?",No,U is not a H.,False,"No.
+The"
+969,I is a O.,O is an equivalent class of K.,"Given the previous statements, is I a M?",No,I is not a M.,False,The answer is no
+1331,T is a X.,X is an equivalent class of Z.,"Given the previous statements, is T a M?",No,T is not a M.,False,The answer is no
+849,E is a S.,S is an equivalent class of W.,"Given the previous statements, is E a M?",No,E is not a M.,False,"Yes, I is"
+863,F is a B.,B is an equivalent class of X.,"Given the previous statements, is F a A?",No,F is not a A.,False,The answer is no
+935,H is a Y.,Y is an equivalent class of Z.,"Given the previous statements, is H a X?",No,H is not a X.,False,"Yes, E is"
+1031,K is a P.,P is an equivalent class of R.,"Given the previous statements, is K a F?",No,K is not a F.,False,The answer is no
+664,U is a G.,G is an equivalent class of Y.,"Given the previous statements, is U a Y?",Yes,U is a Y.,True,"Yes, A is"
+135,E is a X.,X is an equivalent class of O.,"Given the previous statements, is E a O?",Yes,E is a O.,True,No.
+203,G is a I.,I is an equivalent class of E.,"Given the previous statements, is G a E?",Yes,G is a E.,True,H is a D
+675,U is a M.,M is an equivalent class of F.,"Given the previous statements, is U a F?",Yes,U is a F.,True,"Yes, F is"
+871,F is a X.,X is an equivalent class of C.,"Given the previous statements, is F a B?",No,F is not a B.,False,No.
+1212,P is a E.,E is an equivalent class of C.,"Given the previous statements, is P a S?",No,P is not a S.,False,The answer is no
+995,J is a U.,U is an equivalent class of W.,"Given the previous statements, is J a X?",No,J is not a X.,False,The answer is no
+177,F is a L.,L is an equivalent class of Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,The answer is no
+1099,M is a J.,J is an equivalent class of W.,"Given the previous statements, is M a T?",No,M is not a T.,False,The answer is no
+581,R is a C.,C is an equivalent class of P.,"Given the previous statements, is R a P?",Yes,R is a P.,True,"Yes, I is"
+10,A is a R.,R is an equivalent class of M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,The answer is no
+862,F is a H.,H is an equivalent class of D.,"Given the previous statements, is F a X?",No,F is not a X.,False,The answer is no
+1300,S is a V.,V is an equivalent class of T.,"Given the previous statements, is S a A?",No,S is not a A.,False,"Yes, J is"
+1237,Q is a W.,W is an equivalent class of N.,"Given the previous statements, is Q a A?",No,Q is not a A.,False,No.
+859,F is a S.,S is an equivalent class of Q.,"Given the previous statements, is F a V?",No,F is not a V.,False,"Yes, B is"
+106,D is a T.,T is an equivalent class of F.,"Given the previous statements, is D a F?",Yes,D is a F.,True,The answer is no
+805,D is a E.,E is an equivalent class of X.,"Given the previous statements, is D a M?",No,D is not a M.,False,"Yes, L is"
+667,U is a X.,X is an equivalent class of H.,"Given the previous statements, is U a H?",Yes,U is a H.,True,The answer is no
+711,A is a N.,N is an equivalent class of X.,"Given the previous statements, is A a W?",No,A is not a W.,False,"Yes, N is"
+693,U is a L.,L is an equivalent class of K.,"Given the previous statements, is U a K?",Yes,U is a K.,True,The answer is no
+575,R is a C.,C is an equivalent class of E.,"Given the previous statements, is R a E?",Yes,R is a E.,True,The answer is no
+714,A is a E.,E is an equivalent class of K.,"Given the previous statements, is A a D?",No,A is not a D.,False,The answer is no
+410,M is a Y.,Y is an equivalent class of D.,"Given the previous statements, is M a D?",Yes,M is a D.,True,"Yes, O is"
+102,D is a G.,G is an equivalent class of Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,The answer is no
+134,E is a S.,S is an equivalent class of P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,The answer is no
+1361,U is a L.,L is an equivalent class of X.,"Given the previous statements, is U a I?",No,U is not a I.,False,The answer is no
+836,E is a O.,O is an equivalent class of T.,"Given the previous statements, is E a V?",No,E is not a V.,False,"Yes, K is"
+738,B is a J.,J is an equivalent class of C.,"Given the previous statements, is B a L?",No,B is not a L.,False,No.
+65,B is a Z.,Z is an equivalent class of K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,H is a L
+1312,S is a L.,L is an equivalent class of U.,"Given the previous statements, is S a I?",No,S is not a I.,False,"No.
+The"
+1270,R is a O.,O is an equivalent class of B.,"Given the previous statements, is R a K?",No,R is not a K.,False,No.
+720,A is a B.,B is an equivalent class of G.,"Given the previous statements, is A a T?",No,A is not a T.,False,"Yes, I is"
+205,G is a P.,P is an equivalent class of Y.,"Given the previous statements, is G a Y?",Yes,G is a Y.,True,"Yes, K is"
+943,H is a P.,P is an equivalent class of Y.,"Given the previous statements, is H a K?",No,H is not a K.,False,"Yes, A is"
+386,L is a K.,K is an equivalent class of Z.,"Given the previous statements, is L a Z?",Yes,L is a Z.,True,"Yes, J is"
+412,M is a A.,A is an equivalent class of W.,"Given the previous statements, is M a W?",Yes,M is a W.,True,The answer is no
+496,P is a H.,H is an equivalent class of G.,"Given the previous statements, is P a G?",Yes,P is a G.,True,The answer is no
+1097,M is a L.,L is an equivalent class of Q.,"Given the previous statements, is M a V?",No,M is not a V.,False,The answer is no
+107,D is a I.,I is an equivalent class of B.,"Given the previous statements, is D a B?",Yes,D is a B.,True,"No.
+The"
+1114,M is a Q.,Q is an equivalent class of E.,"Given the previous statements, is M a V?",No,M is not a V.,False,The answer is no
+558,Q is a X.,X is an equivalent class of W.,"Given the previous statements, is Q a W?",Yes,Q is a W.,True,The answer is no
+648,T is a S.,S is an equivalent class of E.,"Given the previous statements, is T a E?",Yes,T is a E.,True,The answer is no
+1173,O is a N.,N is an equivalent class of K.,"Given the previous statements, is O a Q?",No,O is not a Q.,False,No.
+529,Q is a V.,V is an equivalent class of G.,"Given the previous statements, is Q a G?",Yes,Q is a G.,True,The answer is no
+1051,K is a R.,R is an equivalent class of L.,"Given the previous statements, is K a B?",No,K is not a B.,False,The answer is no
+691,U is a W.,W is an equivalent class of X.,"Given the previous statements, is U a X?",Yes,U is a X.,True,"Yes, N is"
+268,I is a W.,W is an equivalent class of M.,"Given the previous statements, is I a M?",Yes,I is a M.,True,The answer is no
+557,Q is a Z.,Z is an equivalent class of R.,"Given the previous statements, is Q a R?",Yes,Q is a R.,True,"Yes, D is"
+507,P is a D.,D is an equivalent class of N.,"Given the previous statements, is P a N?",Yes,P is a N.,True,The answer is no
+419,M is a I.,I is an equivalent class of Y.,"Given the previous statements, is M a Y?",Yes,M is a Y.,True,"Yes, J is"
+1,A is a N.,N is an equivalent class of Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,"Yes, I is"
+1183,O is a H.,H is an equivalent class of M.,"Given the previous statements, is O a C?",No,O is not a C.,False,The answer is no
+566,R is a S.,S is an equivalent class of U.,"Given the previous statements, is R a U?",Yes,R is a U.,True,"Yes, T is"
+47,B is a I.,I is an equivalent class of T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,"Yes, K is"
+1204,P is a A.,A is an equivalent class of Y.,"Given the previous statements, is P a Z?",No,P is not a Z.,False,The answer is no
+704,A is a V.,V is an equivalent class of L.,"Given the previous statements, is A a C?",No,A is not a C.,False,The answer is no
+611,S is a M.,M is an equivalent class of F.,"Given the previous statements, is S a F?",Yes,S is a F.,True,"Yes, K is"
+1258,R is a X.,X is an equivalent class of V.,"Given the previous statements, is R a I?",No,R is not a I.,False,The answer is no
+1362,U is a J.,J is an equivalent class of S.,"Given the previous statements, is U a R?",No,U is not a R.,False,No.
+63,B is a K.,K is an equivalent class of W.,"Given the previous statements, is B a W?",Yes,B is a W.,True,"No.
+The"
+266,I is a V.,V is an equivalent class of H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,The answer is no
+739,B is a E.,E is an equivalent class of O.,"Given the previous statements, is B a G?",No,B is not a G.,False,"Yes, S is"
+837,E is a G.,G is an equivalent class of I.,"Given the previous statements, is E a H?",No,E is not a H.,False,"No.
+The"
+1296,S is a M.,M is an equivalent class of P.,"Given the previous statements, is S a N?",No,S is not a N.,False,No.
+26,A is a D.,D is an equivalent class of C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,"Yes, E is"
+576,R is a J.,J is an equivalent class of U.,"Given the previous statements, is R a U?",Yes,R is a U.,True,No.
+67,C is a F.,F is an equivalent class of T.,"Given the previous statements, is C a T?",Yes,C is a T.,True,The answer is no
+1069,L is a Z.,Z is an equivalent class of G.,"Given the previous statements, is L a Y?",No,L is not a Y.,False,The answer is no
+898,G is a F.,F is an equivalent class of A.,"Given the previous statements, is G a P?",No,G is not a P.,False,"Yes, I is"
+1050,K is a M.,M is an equivalent class of Q.,"Given the previous statements, is K a Y?",No,K is not a Y.,False,H is a Y
+1386,U is a S.,S is an equivalent class of Z.,"Given the previous statements, is U a P?",No,U is not a P.,False,"Yes, B is"
+527,P is a A.,A is an equivalent class of K.,"Given the previous statements, is P a K?",Yes,P is a K.,True,The answer is no
+21,A is a Q.,Q is an equivalent class of M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,"Yes, L is"
+227,G is a R.,R is an equivalent class of T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,The answer is no
+907,G is a M.,M is an equivalent class of A.,"Given the previous statements, is G a E?",No,G is not a E.,False,"Yes, D is"
+628,T is a Z.,Z is an equivalent class of Y.,"Given the previous statements, is T a Y?",Yes,T is a Y.,True,"Yes, B is"
+500,P is a R.,R is an equivalent class of T.,"Given the previous statements, is P a T?",Yes,P is a T.,True,"Yes, I is"
+601,S is a C.,C is an equivalent class of I.,"Given the previous statements, is S a I?",Yes,S is a I.,True,No.
+423,M is a G.,G is an equivalent class of D.,"Given the previous statements, is M a D?",Yes,M is a D.,True,"Yes, G is"
+445,N is a B.,B is an equivalent class of L.,"Given the previous statements, is N a L?",Yes,N is a L.,True,"No.
+The"
+444,N is a W.,W is an equivalent class of G.,"Given the previous statements, is N a G?",Yes,N is a G.,True,"Yes, B is"
+745,B is a M.,M is an equivalent class of A.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,The answer is no
+508,P is a H.,H is an equivalent class of E.,"Given the previous statements, is P a E?",Yes,P is a E.,True,The answer is no
+1138,N is a E.,E is an equivalent class of Z.,"Given the previous statements, is N a V?",No,N is not a V.,False,"No.
+The"
+183,F is a Y.,Y is an equivalent class of J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,"Yes, D is"
+1142,N is a T.,T is an equivalent class of Z.,"Given the previous statements, is N a Q?",No,N is not a Q.,False,"Yes, G is"
+35,B is a D.,D is an equivalent class of N.,"Given the previous statements, is B a N?",Yes,B is a N.,True,No.
+317,J is a U.,U is an equivalent class of I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,"Yes, D is"
+509,P is a V.,V is an equivalent class of N.,"Given the previous statements, is P a N?",Yes,P is a N.,True,The answer is no
+1079,L is a I.,I is an equivalent class of K.,"Given the previous statements, is L a P?",No,L is not a P.,False,No.
+1056,K is a I.,I is an equivalent class of C.,"Given the previous statements, is K a W?",No,K is not a W.,False,"Yes, I is"
+429,M is a D.,D is an equivalent class of H.,"Given the previous statements, is M a H?",Yes,M is a H.,True,"Yes, J is"
+1205,P is a M.,M is an equivalent class of A.,"Given the previous statements, is P a K?",No,P is not a K.,False,"No.
+K"
+789,C is a K.,K is an equivalent class of N.,"Given the previous statements, is C a G?",No,C is not a G.,False,"No.
+The"
+1260,R is a M.,M is an equivalent class of D.,"Given the previous statements, is R a E?",No,R is not a E.,False,No.
+604,S is a G.,G is an equivalent class of I.,"Given the previous statements, is S a I?",Yes,S is a I.,True,The answer is no
+231,G is a X.,X is an equivalent class of N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,"Yes, L is"
+607,S is a E.,E is an equivalent class of I.,"Given the previous statements, is S a I?",Yes,S is a I.,True,H is a P
+1323,T is a X.,X is an equivalent class of E.,"Given the previous statements, is T a F?",No,T is not a F.,False,"No.
+The"
+933,H is a Y.,Y is an equivalent class of J.,"Given the previous statements, is H a W?",No,H is not a W.,False,The answer is no
+1308,S is a G.,G is an equivalent class of A.,"Given the previous statements, is S a X?",No,S is not a X.,False,H is a B
+1277,R is a D.,D is an equivalent class of O.,"Given the previous statements, is R a S?",No,R is not a S.,False,"Yes, F is"
+120,D is a B.,B is an equivalent class of I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,The answer is no
+746,B is a A.,A is an equivalent class of T.,"Given the previous statements, is B a X?",No,B is not a X.,False,"No.
+The"
+1009,J is a E.,E is an equivalent class of X.,"Given the previous statements, is J a G?",No,J is not a G.,False,No.
+493,O is a W.,W is an equivalent class of C.,"Given the previous statements, is O a C?",Yes,O is a C.,True,The answer is no
+291,I is a F.,F is an equivalent class of A.,"Given the previous statements, is I a A?",Yes,I is a A.,True,The answer is no
+1325,T is a A.,A is an equivalent class of K.,"Given the previous statements, is T a C?",No,T is not a C.,False,The answer is no
+1196,P is a D.,D is an equivalent class of A.,"Given the previous statements, is P a W?",No,P is not a W.,False,No.
+312,J is a T.,T is an equivalent class of B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,"No.
+Q"
+1117,M is a X.,X is an equivalent class of S.,"Given the previous statements, is M a U?",No,M is not a U.,False,No.
+1249,Q is a J.,J is an equivalent class of O.,"Given the previous statements, is Q a R?",No,Q is not a R.,False,No.
+1022,J is a G.,G is an equivalent class of P.,"Given the previous statements, is J a A?",No,J is not a A.,False,The answer is no
+1101,M is a G.,G is an equivalent class of C.,"Given the previous statements, is M a L?",No,M is not a L.,False,The answer is no
+1170,O is a U.,U is an equivalent class of V.,"Given the previous statements, is O a X?",No,O is not a X.,False,H is a Z
+703,A is a M.,M is an equivalent class of Y.,"Given the previous statements, is A a N?",No,A is not a N.,False,The answer is no
+688,U is a O.,O is an equivalent class of N.,"Given the previous statements, is U a N?",Yes,U is a N.,True,"No.
+The"
+769,C is a U.,U is an equivalent class of I.,"Given the previous statements, is C a K?",No,C is not a K.,False,The answer is no
+968,I is a M.,M is an equivalent class of V.,"Given the previous statements, is I a T?",No,I is not a T.,False,"Yes, T is"
+20,A is a B.,B is an equivalent class of M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,H is a P
+1299,S is a C.,C is an equivalent class of U.,"Given the previous statements, is S a T?",No,S is not a T.,False,"Yes, I is"
+973,I is a X.,X is an equivalent class of F.,"Given the previous statements, is I a M?",No,I is not a M.,False,The first statement is
+335,K is a S.,S is an equivalent class of W.,"Given the previous statements, is K a W?",Yes,K is a W.,True,"Yes, D is"
+910,G is a A.,A is an equivalent class of Y.,"Given the previous statements, is G a F?",No,G is not a F.,False,The answer is no
+1016,J is a O.,O is an equivalent class of B.,"Given the previous statements, is J a M?",No,J is not a M.,False,The answer is no
+840,E is a I.,I is an equivalent class of G.,"Given the previous statements, is E a C?",No,E is not a C.,False,"Yes, N is"
+46,B is a N.,N is an equivalent class of V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,The answer is no
+1250,Q is a M.,M is an equivalent class of S.,"Given the previous statements, is Q a F?",No,Q is not a F.,False,The answer is no
+1203,P is a B.,B is an equivalent class of K.,"Given the previous statements, is P a U?",No,P is not a U.,False,"Yes, U is"
+615,S is a U.,U is an equivalent class of A.,"Given the previous statements, is S a A?",Yes,S is a A.,True,The answer is no
+122,D is a Y.,Y is an equivalent class of I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,The answer is no
+959,I is a W.,W is an equivalent class of P.,"Given the previous statements, is I a G?",No,I is not a G.,False,"No.
+P"
+1337,T is a E.,E is an equivalent class of J.,"Given the previous statements, is T a W?",No,T is not a W.,False,"Yes, L is"
+307,J is a Q.,Q is an equivalent class of C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,No.
+45,B is a D.,D is an equivalent class of J.,"Given the previous statements, is B a J?",Yes,B is a J.,True,"Yes, K is"
+87,C is a Y.,Y is an equivalent class of B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,"No.
+G"
+1233,Q is a L.,L is an equivalent class of R.,"Given the previous statements, is Q a K?",No,Q is not a K.,False,No.
+346,K is a M.,M is an equivalent class of T.,"Given the previous statements, is K a T?",Yes,K is a T.,True,No.
+553,Q is a L.,L is an equivalent class of X.,"Given the previous statements, is Q a X?",Yes,Q is a X.,True,No.
+555,Q is a I.,I is an equivalent class of O.,"Given the previous statements, is Q a O?",Yes,Q is a O.,True,"Yes, J is"
+519,P is a N.,N is an equivalent class of L.,"Given the previous statements, is P a L?",Yes,P is a L.,True,"Yes, E is"
+679,U is a M.,M is an equivalent class of B.,"Given the previous statements, is U a B?",Yes,U is a B.,True,The answer is no
+1187,O is a E.,E is an equivalent class of F.,"Given the previous statements, is O a I?",No,O is not a I.,False,"Yes, M is"
+191,F is a Y.,Y is an equivalent class of H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,"Yes, G is"
+395,L is a D.,D is an equivalent class of A.,"Given the previous statements, is L a A?",Yes,L is a A.,True,The answer is no
+160,E is a Q.,Q is an equivalent class of A.,"Given the previous statements, is E a A?",Yes,E is a A.,True,"Yes, J is"
+189,F is a Y.,Y is an equivalent class of K.,"Given the previous statements, is F a K?",Yes,F is a K.,True,H is a L
+50,B is a A.,A is an equivalent class of O.,"Given the previous statements, is B a O?",Yes,B is a O.,True,No.
+1104,M is a B.,B is an equivalent class of C.,"Given the previous statements, is M a Z?",No,M is not a Z.,False,The answer is no
+214,G is a V.,V is an equivalent class of R.,"Given the previous statements, is G a R?",Yes,G is a R.,True,The answer is no
+585,R is a P.,P is an equivalent class of Z.,"Given the previous statements, is R a Z?",Yes,R is a Z.,True,The answer is no
+1374,U is a G.,G is an equivalent class of O.,"Given the previous statements, is U a Y?",No,U is not a Y.,False,"Yes, S is"
+186,F is a W.,W is an equivalent class of L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,No.
+379,L is a Q.,Q is an equivalent class of V.,"Given the previous statements, is L a V?",Yes,L is a V.,True,No.
+372,L is a N.,N is an equivalent class of Z.,"Given the previous statements, is L a Z?",Yes,L is a Z.,True,The answer is no
+762,C is a E.,E is an equivalent class of L.,"Given the previous statements, is C a U?",No,C is not a U.,False,The answer is no
+831,E is a F.,F is an equivalent class of U.,"Given the previous statements, is E a W?",No,E is not a W.,False,"No.
+The"
+1295,S is a L.,L is an equivalent class of R.,"Given the previous statements, is S a T?",No,S is not a T.,False,"Yes, I is"
+252,H is a A.,A is an equivalent class of Y.,"Given the previous statements, is H a Y?",Yes,H is a Y.,True,"Yes, E is"
+1290,S is a V.,V is an equivalent class of E.,"Given the previous statements, is S a C?",No,S is not a C.,False,The answer is no
+61,B is a X.,X is an equivalent class of S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,"Yes, F is"
+1191,P is a Z.,Z is an equivalent class of W.,"Given the previous statements, is P a G?",No,P is not a G.,False,"Yes, D is"
+1329,T is a G.,G is an equivalent class of Z.,"Given the previous statements, is T a P?",No,T is not a P.,False,The answer is no
+1342,T is a F.,F is an equivalent class of P.,"Given the previous statements, is T a G?",No,T is not a G.,False,The answer is no
+359,K is a E.,E is an equivalent class of J.,"Given the previous statements, is K a J?",Yes,K is a J.,True,"No.
+B"
+817,D is a T.,T is an equivalent class of U.,"Given the previous statements, is D a M?",No,D is not a M.,False,The answer is no
+1377,U is a V.,V is an equivalent class of R.,"Given the previous statements, is U a Z?",No,U is not a Z.,False,"Yes, O is"
+267,I is a C.,C is an equivalent class of X.,"Given the previous statements, is I a X?",Yes,I is a X.,True,The answer is no
+660,T is a U.,U is an equivalent class of C.,"Given the previous statements, is T a C?",Yes,T is a C.,True,"Yes, L is"
+343,K is a F.,F is an equivalent class of Y.,"Given the previous statements, is K a Y?",Yes,K is a Y.,True,H is a K
+884,F is a Z.,Z is an equivalent class of V.,"Given the previous statements, is F a J?",No,F is not a J.,False,"Yes, R is"
+293,I is a T.,T is an equivalent class of U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,The answer is no
+1201,P is a R.,R is an equivalent class of I.,"Given the previous statements, is P a W?",No,P is not a W.,False,H is a M
+101,D is a N.,N is an equivalent class of H.,"Given the previous statements, is D a H?",Yes,D is a H.,True,No.
+821,D is a W.,W is an equivalent class of N.,"Given the previous statements, is D a I?",No,D is not a I.,False,"Yes, T is"
+1193,P is a B.,B is an equivalent class of M.,"Given the previous statements, is P a C?",No,P is not a C.,False,The answer is no
+1110,M is a I.,I is an equivalent class of Y.,"Given the previous statements, is M a O?",No,M is not a O.,False,"Yes, K is"
+653,T is a O.,O is an equivalent class of V.,"Given the previous statements, is T a V?",Yes,T is a V.,True,H is a J
+1076,L is a T.,T is an equivalent class of K.,"Given the previous statements, is L a X?",No,L is not a X.,False,"Yes, P is"
+431,N is a X.,X is an equivalent class of U.,"Given the previous statements, is N a U?",Yes,N is a U.,True,"Yes, G is"
+1273,R is a Y.,Y is an equivalent class of T.,"Given the previous statements, is R a C?",No,R is not a C.,False,"Yes, K is"
+201,G is a C.,C is an equivalent class of P.,"Given the previous statements, is G a P?",Yes,G is a P.,True,No.
+942,H is a F.,F is an equivalent class of N.,"Given the previous statements, is H a V?",No,H is not a V.,False,"Yes, B is"
+439,N is a O.,O is an equivalent class of V.,"Given the previous statements, is N a V?",Yes,N is a V.,True,H is a V
+196,F is a X.,X is an equivalent class of T.,"Given the previous statements, is F a T?",Yes,F is a T.,True,The answer is no
+689,U is a V.,V is an equivalent class of B.,"Given the previous statements, is U a B?",Yes,U is a B.,True,"Yes, L is"
+138,E is a H.,H is an equivalent class of C.,"Given the previous statements, is E a C?",Yes,E is a C.,True,"Yes, C is"
+820,D is a Y.,Y is an equivalent class of Z.,"Given the previous statements, is D a A?",No,D is not a A.,False,"No.
+Q"
+621,S is a D.,D is an equivalent class of R.,"Given the previous statements, is S a R?",Yes,S is a R.,True,"Yes, S is"
+305,J is a Q.,Q is an equivalent class of R.,"Given the previous statements, is J a R?",Yes,J is a R.,True,The answer is no
+587,R is a Z.,Z is an equivalent class of X.,"Given the previous statements, is R a X?",Yes,R is a X.,True,"Yes, F is"
+756,B is a X.,X is an equivalent class of E.,"Given the previous statements, is B a T?",No,B is not a T.,False,The answer is no
+540,Q is a L.,L is an equivalent class of A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True,"Yes, U is"
+389,L is a B.,B is an equivalent class of A.,"Given the previous statements, is L a A?",Yes,L is a A.,True,"Yes, D is"
+1225,Q is a D.,D is an equivalent class of F.,"Given the previous statements, is Q a N?",No,Q is not a N.,False,"No.
+Q"
+908,G is a C.,C is an equivalent class of H.,"Given the previous statements, is G a P?",No,G is not a P.,False,The answer is no
+1119,M is a Y.,Y is an equivalent class of T.,"Given the previous statements, is M a F?",No,M is not a F.,False,"No.
+E"
+1222,Q is a N.,N is an equivalent class of E.,"Given the previous statements, is Q a W?",No,Q is not a W.,False,"Yes, B is"
+904,G is a M.,M is an equivalent class of C.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,H is a M
+694,A is a M.,M is an equivalent class of X.,"Given the previous statements, is A a S?",No,A is not a S.,False,"Yes, J is"
+887,F is a H.,H is an equivalent class of Q.,"Given the previous statements, is F a O?",No,F is not a O.,False,"Yes, T is"
+4,A is a D.,D is an equivalent class of T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,The answer is no
+1247,Q is a L.,L is an equivalent class of V.,"Given the previous statements, is Q a H?",No,Q is not a H.,False,"No.
+The"
+418,M is a Z.,Z is an equivalent class of O.,"Given the previous statements, is M a O?",Yes,M is a O.,True,The answer is no
+709,A is a Z.,Z is an equivalent class of C.,"Given the previous statements, is A a F?",No,A is not a F.,False,The answer is no
+1200,P is a N.,N is an equivalent class of V.,"Given the previous statements, is P a R?",No,P is not a R.,False,"Yes, T is"
+865,F is a I.,I is an equivalent class of R.,"Given the previous statements, is F a B?",No,F is not a B.,False,"No.
+E"
+513,P is a Z.,Z is an equivalent class of X.,"Given the previous statements, is P a X?",Yes,P is a X.,True,The answer is no
+1032,K is a B.,B is an equivalent class of I.,"Given the previous statements, is K a A?",No,K is not a A.,False,"Yes, S is"
+886,F is a O.,O is an equivalent class of C.,"Given the previous statements, is F a K?",No,F is not a K.,False,"No.
+The"
+273,I is a C.,C is an equivalent class of M.,"Given the previous statements, is I a M?",Yes,I is a M.,True,H is a U
+466,O is a R.,R is an equivalent class of U.,"Given the previous statements, is O a U?",Yes,O is a U.,True,No.
+1243,Q is a F.,F is an equivalent class of K.,"Given the previous statements, is Q a L?",No,Q is not a L.,False,No.
+1373,U is a B.,B is an equivalent class of K.,"Given the previous statements, is U a I?",No,U is not a I.,False,The answer is no
+520,P is a M.,M is an equivalent class of Y.,"Given the previous statements, is P a Y?",Yes,P is a Y.,True,"No.
+M"
+577,R is a H.,H is an equivalent class of K.,"Given the previous statements, is R a K?",Yes,R is a K.,True,"Yes, R is"
+1322,T is a Q.,Q is an equivalent class of W.,"Given the previous statements, is T a J?",No,T is not a J.,False,"Yes, M is"
+535,Q is a P.,P is an equivalent class of J.,"Given the previous statements, is Q a J?",Yes,Q is a J.,True,"Yes, P is"
+1288,S is a N.,N is an equivalent class of X.,"Given the previous statements, is S a W?",No,S is not a W.,False,H is a Y
+833,E is a D.,D is an equivalent class of I.,"Given the previous statements, is E a K?",No,E is not a K.,False,"No.
+The"
+318,J is a D.,D is an equivalent class of M.,"Given the previous statements, is J a M?",Yes,J is a M.,True,The answer is no
+631,T is a D.,D is an equivalent class of N.,"Given the previous statements, is T a N?",Yes,T is a N.,True,No.
+1315,S is a L.,L is an equivalent class of Y.,"Given the previous statements, is S a K?",No,S is not a K.,False,The answer is no
+114,D is a S.,S is an equivalent class of V.,"Given the previous statements, is D a V?",Yes,D is a V.,True,The answer is no
+224,G is a B.,B is an equivalent class of U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,The answer is no
+945,H is a R.,R is an equivalent class of Y.,"Given the previous statements, is H a L?",No,H is not a L.,False,No.
+362,K is a Y.,Y is an equivalent class of F.,"Given the previous statements, is K a F?",Yes,K is a F.,True,"Yes, F is"
+1131,N is a M.,M is an equivalent class of G.,"Given the previous statements, is N a E?",No,N is not a E.,False,"Yes, R is"
+777,C is a F.,F is an equivalent class of B.,"Given the previous statements, is C a S?",No,C is not a S.,False,The answer is no
+108,D is a G.,G is an equivalent class of Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,"Yes, S is"
+804,D is a N.,N is an equivalent class of O.,"Given the previous statements, is D a W?",No,D is not a W.,False,"Yes, I is"
+1234,Q is a P.,P is an equivalent class of L.,"Given the previous statements, is Q a B?",No,Q is not a B.,False,The answer is no
+531,Q is a H.,H is an equivalent class of K.,"Given the previous statements, is Q a K?",Yes,Q is a K.,True,"No.
+The"
+218,G is a T.,T is an equivalent class of J.,"Given the previous statements, is G a J?",Yes,G is a J.,True,The answer is no
+645,T is a V.,V is an equivalent class of X.,"Given the previous statements, is T a X?",Yes,T is a X.,True,"Yes, F is"
+986,I is a U.,U is an equivalent class of L.,"Given the previous statements, is I a E?",No,I is not a E.,False,The first statement is
+1369,U is a J.,J is an equivalent class of M.,"Given the previous statements, is U a T?",No,U is not a T.,False,The answer is no
+754,B is a W.,W is an equivalent class of T.,"Given the previous statements, is B a M?",No,B is not a M.,False,"Yes, L is"
+86,C is a S.,S is an equivalent class of O.,"Given the previous statements, is C a O?",Yes,C is a O.,True,The answer is no
+1024,K is a B.,B is an equivalent class of R.,"Given the previous statements, is K a U?",No,K is not a U.,False,The answer is no
+211,G is a B.,B is an equivalent class of W.,"Given the previous statements, is G a W?",Yes,G is a W.,True,The answer is no
+1207,P is a W.,W is an equivalent class of X.,"Given the previous statements, is P a H?",No,P is not a H.,False,The answer is no
+105,D is a Q.,Q is an equivalent class of T.,"Given the previous statements, is D a T?",Yes,D is a T.,True,"No.
+F"
+983,I is a S.,S is an equivalent class of C.,"Given the previous statements, is I a U?",No,I is not a U.,False,"Yes, R is"
+665,U is a F.,F is an equivalent class of D.,"Given the previous statements, is U a D?",Yes,U is a D.,True,The answer is no
+1281,R is a J.,J is an equivalent class of Z.,"Given the previous statements, is R a H?",No,R is not a H.,False,"Yes, J is"
+1048,K is a D.,D is an equivalent class of E.,"Given the previous statements, is K a U?",No,K is not a U.,False,"Yes, A is"
+77,C is a N.,N is an equivalent class of L.,"Given the previous statements, is C a L?",Yes,C is a L.,True,The answer is no
+1112,M is a O.,O is an equivalent class of V.,"Given the previous statements, is M a X?",No,M is not a X.,False,"Yes, O is"
+579,R is a S.,S is an equivalent class of C.,"Given the previous statements, is R a C?",Yes,R is a C.,True,The answer is no
+380,L is a A.,A is an equivalent class of O.,"Given the previous statements, is L a O?",Yes,L is a O.,True,The answer is no
+306,J is a I.,I is an equivalent class of D.,"Given the previous statements, is J a D?",Yes,J is a D.,True,The answer is no
+1028,K is a I.,I is an equivalent class of Z.,"Given the previous statements, is K a F?",No,K is not a F.,False,"Yes, K is"
+949,H is a G.,G is an equivalent class of V.,"Given the previous statements, is H a B?",No,H is not a B.,False,The answer is no
+1072,L is a U.,U is an equivalent class of A.,"Given the previous statements, is L a S?",No,L is not a S.,False,The answer is no
+1317,S is a Q.,Q is an equivalent class of D.,"Given the previous statements, is S a X?",No,S is not a X.,False,The answer is no
+116,D is a U.,U is an equivalent class of N.,"Given the previous statements, is D a N?",Yes,D is a N.,True,"Yes, Q is"
+866,F is a B.,B is an equivalent class of S.,"Given the previous statements, is F a R?",No,F is not a R.,False,No.
+1321,T is a G.,G is an equivalent class of L.,"Given the previous statements, is T a M?",No,T is not a M.,False,"No.
+The"
+1153,N is a E.,E is an equivalent class of Q.,"Given the previous statements, is N a F?",No,N is not a F.,False,"No.
+C"
+560,Q is a T.,T is an equivalent class of V.,"Given the previous statements, is Q a V?",Yes,Q is a V.,True,"No.
+Q"
+521,P is a J.,J is an equivalent class of W.,"Given the previous statements, is P a W?",Yes,P is a W.,True,"Yes, A is"
+133,E is a R.,R is an equivalent class of K.,"Given the previous statements, is E a K?",Yes,E is a K.,True,The answer is no
+957,H is a S.,S is an equivalent class of J.,"Given the previous statements, is H a L?",No,H is not a L.,False,The answer is no
+199,G is a W.,W is an equivalent class of Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,"No.
+G"
+914,G is a F.,F is an equivalent class of W.,"Given the previous statements, is G a S?",No,G is not a S.,False,"No.
+The"
+1126,N is a G.,G is an equivalent class of M.,"Given the previous statements, is N a J?",No,N is not a J.,False,No.
+39,B is a Q.,Q is an equivalent class of T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,"Yes, L is"
+180,F is a A.,A is an equivalent class of Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,H is a Z
+403,M is a H.,H is an equivalent class of D.,"Given the previous statements, is M a D?",Yes,M is a D.,True,"Yes, S is"
+967,I is a O.,O is an equivalent class of G.,"Given the previous statements, is I a X?",No,I is not a X.,False,The answer is no
+74,C is a H.,H is an equivalent class of K.,"Given the previous statements, is C a K?",Yes,C is a K.,True,The answer is no
+524,P is a O.,O is an equivalent class of D.,"Given the previous statements, is P a D?",Yes,P is a D.,True,The answer is no
+288,I is a F.,F is an equivalent class of Y.,"Given the previous statements, is I a Y?",Yes,I is a Y.,True,The answer is no
+537,Q is a K.,K is an equivalent class of O.,"Given the previous statements, is Q a O?",Yes,Q is a O.,True,The answer is no
+465,O is a I.,I is an equivalent class of U.,"Given the previous statements, is O a U?",Yes,O is a U.,True,The answer is no
+392,L is a H.,H is an equivalent class of E.,"Given the previous statements, is L a E?",Yes,L is a E.,True,The answer is no
+111,D is a S.,S is an equivalent class of G.,"Given the previous statements, is D a G?",Yes,D is a G.,True,"Yes, U is"
+543,Q is a H.,H is an equivalent class of J.,"Given the previous statements, is Q a J?",Yes,Q is a J.,True,H is a J
+1319,S is a G.,G is an equivalent class of Z.,"Given the previous statements, is S a X?",No,S is not a X.,False,"No.
+M"
+953,H is a W.,W is an equivalent class of M.,"Given the previous statements, is H a R?",No,H is not a R.,False,H is an equivalent
+297,I is a N.,N is an equivalent class of S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,"Yes, N is"
+1040,K is a R.,R is an equivalent class of E.,"Given the previous statements, is K a B?",No,K is not a B.,False,The answer is no
+323,J is a I.,I is an equivalent class of P.,"Given the previous statements, is J a P?",Yes,J is a P.,True,"Yes, E is"
+428,M is a V.,V is an equivalent class of S.,"Given the previous statements, is M a S?",Yes,M is a S.,True,"Yes, M is"
+570,R is a Y.,Y is an equivalent class of G.,"Given the previous statements, is R a G?",Yes,R is a G.,True,The answer is no
+251,H is a X.,X is an equivalent class of J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,"Yes, D is"
+430,N is a B.,B is an equivalent class of C.,"Given the previous statements, is N a C?",Yes,N is a C.,True,The answer is no
+322,J is a K.,K is an equivalent class of A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,"Yes, E is"
+411,M is a H.,H is an equivalent class of V.,"Given the previous statements, is M a V?",Yes,M is a V.,True,"Yes, E is"
+888,F is a I.,I is an equivalent class of Z.,"Given the previous statements, is F a M?",No,F is not a M.,False,H is a X
+1263,R is a S.,S is an equivalent class of B.,"Given the previous statements, is R a C?",No,R is not a C.,False,"Yes, G is"
+1109,M is a Q.,Q is an equivalent class of E.,"Given the previous statements, is M a D?",No,M is not a D.,False,"Yes, P is"
+701,A is a G.,G is an equivalent class of I.,"Given the previous statements, is A a P?",No,A is not a P.,False,"Yes, E is"
+1174,O is a X.,X is an equivalent class of L.,"Given the previous statements, is O a V?",No,O is not a V.,False,The answer is no
+1062,L is a N.,N is an equivalent class of O.,"Given the previous statements, is L a S?",No,L is not a S.,False,The answer is no
+478,O is a P.,P is an equivalent class of Q.,"Given the previous statements, is O a Q?",Yes,O is a Q.,True,H is an equivalent
+391,L is a C.,C is an equivalent class of I.,"Given the previous statements, is L a I?",Yes,L is a I.,True,"Yes, K is"
+265,I is a T.,T is an equivalent class of Q.,"Given the previous statements, is I a Q?",Yes,I is a Q.,True,No.
+398,M is a C.,C is an equivalent class of G.,"Given the previous statements, is M a G?",Yes,M is a G.,True,"No.
+G"
+142,E is a C.,C is an equivalent class of I.,"Given the previous statements, is E a I?",Yes,E is a I.,True,"No.
+Q"
+685,U is a D.,D is an equivalent class of R.,"Given the previous statements, is U a R?",Yes,U is a R.,True,"Yes, P is"
+1226,Q is a V.,V is an equivalent class of N.,"Given the previous statements, is Q a T?",No,Q is not a T.,False,The answer is no
+482,O is a A.,A is an equivalent class of I.,"Given the previous statements, is O a I?",Yes,O is a I.,True,"Yes, F is"
+299,J is a U.,U is an equivalent class of V.,"Given the previous statements, is J a V?",Yes,J is a V.,True,The answer is no
+1360,U is a M.,M is an equivalent class of D.,"Given the previous statements, is U a N?",No,U is not a N.,False,The answer is no
+736,B is a Z.,Z is an equivalent class of L.,"Given the previous statements, is B a K?",No,B is not a K.,False,"Yes, D is"
+1143,N is a C.,C is an equivalent class of O.,"Given the previous statements, is N a Q?",No,N is not a Q.,False,"No.
+The"
+354,K is a N.,N is an equivalent class of E.,"Given the previous statements, is K a E?",Yes,K is a E.,True,The answer is no
+1261,R is a W.,W is an equivalent class of M.,"Given the previous statements, is R a K?",No,R is not a K.,False,H is a L
+1269,R is a G.,G is an equivalent class of M.,"Given the previous statements, is R a E?",No,R is not a E.,False,"No.
+The"
+193,F is a L.,L is an equivalent class of O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,No.
+1167,O is a T.,T is an equivalent class of E.,"Given the previous statements, is O a B?",No,O is not a B.,False,The answer is no
+1157,O is a L.,L is an equivalent class of D.,"Given the previous statements, is O a W?",No,O is not a W.,False,"No.
+The"
+872,F is a Q.,Q is an equivalent class of C.,"Given the previous statements, is F a D?",No,F is not a D.,False,H is a D
+1033,K is a I.,I is an equivalent class of G.,"Given the previous statements, is K a L?",No,K is not a L.,False,"No.
+K"
+30,A is a Z.,Z is an equivalent class of B.,"Given the previous statements, is A a B?",Yes,A is a B.,True,The answer is no
+1275,R is a M.,M is an equivalent class of D.,"Given the previous statements, is R a Z?",No,R is not a Z.,False,"Yes, I is"
+1224,Q is a M.,M is an equivalent class of B.,"Given the previous statements, is Q a G?",No,Q is not a G.,False,The answer is no
+62,B is a G.,G is an equivalent class of O.,"Given the previous statements, is B a O?",Yes,B is a O.,True,The answer is no
+622,S is a H.,H is an equivalent class of A.,"Given the previous statements, is S a A?",Yes,S is a A.,True,"Yes, L is"
+547,Q is a Z.,Z is an equivalent class of E.,"Given the previous statements, is Q a E?",Yes,Q is a E.,True,The answer is no
+861,F is a V.,V is an equivalent class of N.,"Given the previous statements, is F a M?",No,F is not a M.,False,L is a P
+778,C is a S.,S is an equivalent class of Z.,"Given the previous statements, is C a D?",No,C is not a D.,False,"Yes, L is"
+220,G is a Y.,Y is an equivalent class of O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,The answer is no
+172,F is a H.,H is an equivalent class of M.,"Given the previous statements, is F a M?",Yes,F is a M.,True,"Yes, K is"
+1014,J is a T.,T is an equivalent class of Z.,"Given the previous statements, is J a M?",No,J is not a M.,False,"Yes, G is"
+929,H is a Q.,Q is an equivalent class of S.,"Given the previous statements, is H a R?",No,H is not a R.,False,"No.
+Q"
+636,T is a B.,B is an equivalent class of I.,"Given the previous statements, is T a I?",Yes,T is a I.,True,No.
+858,E is a I.,I is an equivalent class of D.,"Given the previous statements, is E a K?",No,E is not a K.,False,No.
+600,S is a F.,F is an equivalent class of P.,"Given the previous statements, is S a P?",Yes,S is a P.,True,"Yes, D is"
+1113,M is a W.,W is an equivalent class of U.,"Given the previous statements, is M a X?",No,M is not a X.,False,"Yes, N is"
+1105,M is a Y.,Y is an equivalent class of T.,"Given the previous statements, is M a E?",No,M is not a E.,False,No.
+49,B is a R.,R is an equivalent class of V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,The answer is no
+1307,S is a G.,G is an equivalent class of Y.,"Given the previous statements, is S a Q?",No,S is not a Q.,False,No.
+885,F is a Y.,Y is an equivalent class of M.,"Given the previous statements, is F a W?",No,F is not a W.,False,"Yes, E is"
+1082,L is a N.,N is an equivalent class of U.,"Given the previous statements, is L a V?",No,L is not a V.,False,"Yes, J is"
+646,T is a O.,O is an equivalent class of L.,"Given the previous statements, is T a L?",Yes,T is a L.,True,The answer is no
+740,B is a H.,H is an equivalent class of Z.,"Given the previous statements, is B a E?",No,B is not a E.,False,"Yes, L is"
+1231,Q is a T.,T is an equivalent class of H.,"Given the previous statements, is Q a B?",No,Q is not a B.,False,"Yes, K is"
+724,A is a M.,M is an equivalent class of X.,"Given the previous statements, is A a J?",No,A is not a J.,False,H is an equivalent
+1381,U is a V.,V is an equivalent class of L.,"Given the previous statements, is U a I?",No,U is not a I.,False,The answer is no
+1065,L is a S.,S is an equivalent class of T.,"Given the previous statements, is L a X?",No,L is not a X.,False,The answer is no
+1017,J is a I.,I is an equivalent class of U.,"Given the previous statements, is J a T?",No,J is not a T.,False,No.
+1039,K is a G.,G is an equivalent class of D.,"Given the previous statements, is K a Y?",No,K is not a Y.,False,The answer is no
+396,L is a Y.,Y is an equivalent class of P.,"Given the previous statements, is L a P?",Yes,L is a P.,True,H is a J
+92,C is a K.,K is an equivalent class of A.,"Given the previous statements, is C a A?",Yes,C is a A.,True,"Yes, I is"
+139,E is a V.,V is an equivalent class of O.,"Given the previous statements, is E a O?",Yes,E is a O.,True,The answer is no
+1298,S is a C.,C is an equivalent class of T.,"Given the previous statements, is S a A?",No,S is not a A.,False,"Yes, F is"
+316,J is a U.,U is an equivalent class of A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,"Yes, U is"
+250,H is a O.,O is an equivalent class of F.,"Given the previous statements, is H a F?",Yes,H is a F.,True,The answer is no
+130,D is a N.,N is an equivalent class of Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,"Yes, I is"
+834,E is a C.,C is an equivalent class of Z.,"Given the previous statements, is E a D?",No,E is not a D.,False,The answer is no
+514,P is a H.,H is an equivalent class of V.,"Given the previous statements, is P a V?",Yes,P is a V.,True,The answer is no
+484,O is a E.,E is an equivalent class of R.,"Given the previous statements, is O a R?",Yes,O is a R.,True,No.
+750,B is a Z.,Z is an equivalent class of R.,"Given the previous statements, is B a N?",No,B is not a N.,False,"Yes, N is"
+1358,U is a C.,C is an equivalent class of X.,"Given the previous statements, is U a G?",No,U is not a G.,False,No.
+144,E is a L.,L is an equivalent class of K.,"Given the previous statements, is E a K?",Yes,E is a K.,True,The answer is no
+1219,P is a A.,A is an equivalent class of Y.,"Given the previous statements, is P a D?",No,P is not a D.,False,The answer is no
+781,C is a E.,E is an equivalent class of M.,"Given the previous statements, is C a V?",No,C is not a V.,False,"Yes, K is"
+244,H is a O.,O is an equivalent class of V.,"Given the previous statements, is H a V?",Yes,H is a V.,True,"Yes, O is"
+1245,Q is a J.,J is an equivalent class of D.,"Given the previous statements, is Q a M?",No,Q is not a M.,False,The answer is no
+659,T is a L.,L is an equivalent class of C.,"Given the previous statements, is T a C?",Yes,T is a C.,True,No.
+894,G is a B.,B is an equivalent class of M.,"Given the previous statements, is G a F?",No,G is not a F.,False,"No.
+G"
+952,H is a L.,L is an equivalent class of I.,"Given the previous statements, is H a U?",No,H is not a U.,False,"Yes, A is"
+546,Q is a Y.,Y is an equivalent class of W.,"Given the previous statements, is Q a W?",Yes,Q is a W.,True,The answer is no
+427,M is a L.,L is an equivalent class of X.,"Given the previous statements, is M a X?",Yes,M is a X.,True,The answer is no
+413,M is a F.,F is an equivalent class of T.,"Given the previous statements, is M a T?",Yes,M is a T.,True,"Yes, M is"
+810,D is a J.,J is an equivalent class of L.,"Given the previous statements, is D a C?",No,D is not a C.,False,"Yes, Q is"
+1256,R is a L.,L is an equivalent class of K.,"Given the previous statements, is R a F?",No,R is not a F.,False,The answer is no
+766,C is a L.,L is an equivalent class of E.,"Given the previous statements, is C a P?",No,C is not a P.,False,"No.
+The"
+83,C is a D.,D is an equivalent class of A.,"Given the previous statements, is C a A?",Yes,C is a A.,True,H is a W
+1346,T is a C.,C is an equivalent class of J.,"Given the previous statements, is T a O?",No,T is not a O.,False,The answer is no
+538,Q is a G.,G is an equivalent class of A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True,The answer is no
+334,K is a A.,A is an equivalent class of B.,"Given the previous statements, is K a B?",Yes,K is a B.,True,H is a Q
+270,I is a P.,P is an equivalent class of Y.,"Given the previous statements, is I a Y?",Yes,I is a Y.,True,"Yes, K is"
+852,E is a N.,N is an equivalent class of M.,"Given the previous statements, is E a K?",No,E is not a K.,False,"Yes, A is"
+850,E is a N.,N is an equivalent class of M.,"Given the previous statements, is E a H?",No,E is not a H.,False,"Yes, E is"
+331,K is a Q.,Q is an equivalent class of R.,"Given the previous statements, is K a R?",Yes,K is a R.,True,H is a J
+988,I is a V.,V is an equivalent class of B.,"Given the previous statements, is I a J?",No,I is not a J.,False,"Yes, R is"
+1184,O is a E.,E is an equivalent class of Q.,"Given the previous statements, is O a L?",No,O is not a L.,False,"Yes, I is"
+339,K is a J.,J is an equivalent class of Z.,"Given the previous statements, is K a Z?",Yes,K is a Z.,True,"No.
+K"
+290,I is a W.,W is an equivalent class of A.,"Given the previous statements, is I a A?",Yes,I is a A.,True,The answer is no
+670,U is a V.,V is an equivalent class of F.,"Given the previous statements, is U a F?",Yes,U is a F.,True,The answer is no
+749,B is a S.,S is an equivalent class of J.,"Given the previous statements, is B a M?",No,B is not a M.,False,No.
+1272,R is a W.,W is an equivalent class of X.,"Given the previous statements, is R a H?",No,R is not a H.,False,The answer is no
+655,T is a Z.,Z is an equivalent class of E.,"Given the previous statements, is T a E?",Yes,T is a E.,True,The answer is no
+278,I is a E.,E is an equivalent class of G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,"Yes, G is"
+213,G is a U.,U is an equivalent class of L.,"Given the previous statements, is G a L?",Yes,G is a L.,True,"Yes, I is"
+702,A is a O.,O is an equivalent class of R.,"Given the previous statements, is A a N?",No,A is not a N.,False,"Yes, K is"
+448,N is a Q.,Q is an equivalent class of X.,"Given the previous statements, is N a X?",Yes,N is a X.,True,"No.
+The"
+503,P is a I.,I is an equivalent class of S.,"Given the previous statements, is P a S?",Yes,P is a S.,True,The answer is no
+814,D is a J.,J is an equivalent class of F.,"Given the previous statements, is D a V?",No,D is not a V.,False,The answer is no
+542,Q is a I.,I is an equivalent class of E.,"Given the previous statements, is Q a E?",Yes,Q is a E.,True,The answer is no
+80,C is a Z.,Z is an equivalent class of R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,The answer is no
+839,E is a A.,A is an equivalent class of T.,"Given the previous statements, is E a W?",No,E is not a W.,False,"Yes, Q is"
+900,G is a A.,A is an equivalent class of E.,"Given the previous statements, is G a J?",No,G is not a J.,False,"Yes, G is"
+732,B is a C.,C is an equivalent class of G.,"Given the previous statements, is B a F?",No,B is not a F.,False,"Yes, N is"
+70,C is a S.,S is an equivalent class of V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,The answer is no
+48,B is a F.,F is an equivalent class of Q.,"Given the previous statements, is B a Q?",Yes,B is a Q.,True,The answer is no
+784,C is a E.,E is an equivalent class of Q.,"Given the previous statements, is C a L?",No,C is not a L.,False,"No.
+C"
+992,J is a W.,W is an equivalent class of G.,"Given the previous statements, is J a V?",No,J is not a V.,False,The answer is no
+924,G is a M.,M is an equivalent class of W.,"Given the previous statements, is G a T?",No,G is not a T.,False,"Yes, N is"
+853,E is a Z.,Z is an equivalent class of R.,"Given the previous statements, is E a Y?",No,E is not a Y.,False,The answer is no
+210,G is a X.,X is an equivalent class of B.,"Given the previous statements, is G a B?",Yes,G is a B.,True,"Yes, J is"
+254,H is a X.,X is an equivalent class of L.,"Given the previous statements, is H a L?",Yes,H is a L.,True,The answer is no
+32,A is a J.,J is an equivalent class of T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,No.
+64,B is a L.,L is an equivalent class of Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True,The answer is no
+1146,N is a E.,E is an equivalent class of G.,"Given the previous statements, is N a P?",No,N is not a P.,False,"Yes, B is"
+435,N is a L.,L is an equivalent class of G.,"Given the previous statements, is N a G?",Yes,N is a G.,True,"No.
+The"
+650,T is a Q.,Q is an equivalent class of H.,"Given the previous statements, is T a H?",Yes,T is a H.,True,"Yes, L is"
+618,S is a Y.,Y is an equivalent class of K.,"Given the previous statements, is S a K?",Yes,S is a K.,True,H is a K
+292,I is a F.,F is an equivalent class of G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,No.
+272,I is a W.,W is an equivalent class of D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,The answer is no
+425,M is a Y.,Y is an equivalent class of S.,"Given the previous statements, is M a S?",Yes,M is a S.,True,"Yes, D is"
+899,G is a O.,O is an equivalent class of Y.,"Given the previous statements, is G a D?",No,G is not a D.,False,"No.
+Q"
+326,J is a R.,R is an equivalent class of E.,"Given the previous statements, is J a E?",Yes,J is a E.,True,No.
+441,N is a K.,K is an equivalent class of J.,"Given the previous statements, is N a J?",Yes,N is a J.,True,"No.
+The"
+1140,N is a D.,D is an equivalent class of C.,"Given the previous statements, is N a G?",No,N is not a G.,False,"No.
+Q"
+165,E is a G.,G is an equivalent class of C.,"Given the previous statements, is E a C?",Yes,E is a C.,True,The answer is no
+24,A is a C.,C is an equivalent class of L.,"Given the previous statements, is A a L?",Yes,A is a L.,True,No.
+38,B is a K.,K is an equivalent class of V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,No.
+518,P is a H.,H is an equivalent class of W.,"Given the previous statements, is P a W?",Yes,P is a W.,True,The answer is no
+351,K is a A.,A is an equivalent class of F.,"Given the previous statements, is K a F?",Yes,K is a F.,True,"Yes, L is"
+897,G is a Y.,Y is an equivalent class of Z.,"Given the previous statements, is G a W?",No,G is not a W.,False,The answer is no
+1077,L is a R.,R is an equivalent class of Y.,"Given the previous statements, is L a V?",No,L is not a V.,False,"Yes, E is"
+22,A is a G.,G is an equivalent class of W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,No.
+1068,L is a T.,T is an equivalent class of E.,"Given the previous statements, is L a Z?",No,L is not a Z.,False,The answer is no
+59,B is a T.,T is an equivalent class of H.,"Given the previous statements, is B a H?",Yes,B is a H.,True,"Yes, F is"
+731,B is a G.,G is an equivalent class of E.,"Given the previous statements, is B a K?",No,B is not a K.,False,"Yes, N is"
+127,D is a P.,P is an equivalent class of I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,No.
+488,O is a F.,F is an equivalent class of I.,"Given the previous statements, is O a I?",Yes,O is a I.,True,The answer is no
+401,M is a R.,R is an equivalent class of X.,"Given the previous statements, is M a X?",Yes,M is a X.,True,The answer is no
+744,B is a O.,O is an equivalent class of S.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,No.
+121,D is a M.,M is an equivalent class of W.,"Given the previous statements, is D a W?",Yes,D is a W.,True,H is a J
+1198,P is a M.,M is an equivalent class of R.,"Given the previous statements, is P a A?",No,P is not a A.,False,No.
+864,F is a Z.,Z is an equivalent class of L.,"Given the previous statements, is F a M?",No,F is not a M.,False,H is a B
+1154,N is a I.,I is an equivalent class of E.,"Given the previous statements, is N a R?",No,N is not a R.,False,No.
+960,I is a L.,L is an equivalent class of A.,"Given the previous statements, is I a D?",No,I is not a D.,False,The answer is no
+360,K is a I.,I is an equivalent class of D.,"Given the previous statements, is K a D?",Yes,K is a D.,True,"Yes, Q is"
+1070,L is a O.,O is an equivalent class of C.,"Given the previous statements, is L a Z?",No,L is not a Z.,False,H is a D
+347,K is a H.,H is an equivalent class of G.,"Given the previous statements, is K a G?",Yes,K is a G.,True,"No.
+The"
+1111,M is a H.,H is an equivalent class of V.,"Given the previous statements, is M a N?",No,M is not a N.,False,"Yes, O is"
+1356,U is a B.,B is an equivalent class of M.,"Given the previous statements, is U a O?",No,U is not a O.,False,"Yes, D is"
+980,I is a O.,O is an equivalent class of R.,"Given the previous statements, is I a F?",No,I is not a F.,False,"Yes, K is"
+832,E is a Y.,Y is an equivalent class of F.,"Given the previous statements, is E a X?",No,E is not a X.,False,The answer is no
+304,J is a Q.,Q is an equivalent class of M.,"Given the previous statements, is J a M?",Yes,J is a M.,True,The answer is no
+795,D is a R.,R is an equivalent class of S.,"Given the previous statements, is D a W?",No,D is not a W.,False,"Yes, J is"
+682,U is a T.,T is an equivalent class of L.,"Given the previous statements, is U a L?",Yes,U is a L.,True,The answer is no
+1124,N is a O.,O is an equivalent class of A.,"Given the previous statements, is N a S?",No,N is not a S.,False,The answer is no
+1251,Q is a L.,L is an equivalent class of G.,"Given the previous statements, is Q a K?",No,Q is not a K.,False,"Yes, E is"
+602,S is a B.,B is an equivalent class of Y.,"Given the previous statements, is S a Y?",Yes,S is a Y.,True,"No.
+The"
+497,P is a Z.,Z is an equivalent class of O.,"Given the previous statements, is P a O?",Yes,P is a O.,True,"Yes, E is"
+1054,K is a U.,U is an equivalent class of B.,"Given the previous statements, is K a J?",No,K is not a J.,False,The answer is no
+829,E is a M.,M is an equivalent class of B.,"Given the previous statements, is E a L?",No,E is not a L.,False,The answer is no
+909,G is a X.,X is an equivalent class of M.,"Given the previous statements, is G a W?",No,G is not a W.,False,The answer is no
+1229,Q is a R.,R is an equivalent class of X.,"Given the previous statements, is Q a E?",No,Q is not a E.,False,The answer is no
+662,U is a C.,C is an equivalent class of V.,"Given the previous statements, is U a V?",Yes,U is a V.,True,The answer is no
+1115,M is a R.,R is an equivalent class of K.,"Given the previous statements, is M a O?",No,M is not a O.,False,H is a J
+984,I is a J.,J is an equivalent class of E.,"Given the previous statements, is I a Q?",No,I is not a Q.,False,The answer is no
+629,T is a N.,N is an equivalent class of Z.,"Given the previous statements, is T a Z?",Yes,T is a Z.,True,The answer is no
+215,G is a R.,R is an equivalent class of S.,"Given the previous statements, is G a S?",Yes,G is a S.,True,"No.
+The"
+53,B is a U.,U is an equivalent class of V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,The answer is no
+727,B is a Y.,Y is an equivalent class of X.,"Given the previous statements, is B a S?",No,B is not a S.,False,H is a V
+998,J is a T.,T is an equivalent class of Z.,"Given the previous statements, is J a I?",No,J is not a I.,False,The answer is no
+623,S is a R.,R is an equivalent class of P.,"Given the previous statements, is S a P?",Yes,S is a P.,True,The answer is no
+194,F is a W.,W is an equivalent class of O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,The answer is no
+719,A is a L.,L is an equivalent class of K.,"Given the previous statements, is A a U?",No,A is not a U.,False,"Yes, F is"
+1375,U is a S.,S is an equivalent class of M.,"Given the previous statements, is U a D?",No,U is not a D.,False,The answer is no
+453,N is a B.,B is an equivalent class of F.,"Given the previous statements, is N a F?",Yes,N is a F.,True,No.
+802,D is a F.,F is an equivalent class of I.,"Given the previous statements, is D a B?",No,D is not a B.,False,The answer is no
+1168,O is a A.,A is an equivalent class of S.,"Given the previous statements, is O a F?",No,O is not a F.,False,H is a I
+245,H is a V.,V is an equivalent class of Y.,"Given the previous statements, is H a Y?",Yes,H is a Y.,True,No.
+1334,T is a E.,E is an equivalent class of V.,"Given the previous statements, is T a J?",No,T is not a J.,False,"Yes, G is"
+625,S is a Q.,Q is an equivalent class of X.,"Given the previous statements, is S a X?",Yes,S is a X.,True,The answer is no
+1120,M is a Y.,Y is an equivalent class of J.,"Given the previous statements, is M a H?",No,M is not a H.,False,The answer is no
+1280,R is a C.,C is an equivalent class of P.,"Given the previous statements, is R a Z?",No,R is not a Z.,False,"Yes, N is"
+1182,O is a H.,H is an equivalent class of Z.,"Given the previous statements, is O a C?",No,O is not a C.,False,No.
+230,G is a S.,S is an equivalent class of V.,"Given the previous statements, is G a V?",Yes,G is a V.,True,"Yes, D is"
+141,E is a C.,C is an equivalent class of P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,"No.
+E"
+533,Q is a P.,P is an equivalent class of D.,"Given the previous statements, is Q a D?",Yes,Q is a D.,True,H is a F
+698,A is a J.,J is an equivalent class of L.,"Given the previous statements, is A a I?",No,A is not a I.,False,"Yes, I is"
+578,R is a O.,O is an equivalent class of V.,"Given the previous statements, is R a V?",Yes,R is a V.,True,"No.
+The"
+137,E is a G.,G is an equivalent class of P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,The answer is no
+680,U is a V.,V is an equivalent class of T.,"Given the previous statements, is U a T?",Yes,U is a T.,True,The answer is no
+5,A is a G.,G is an equivalent class of L.,"Given the previous statements, is A a L?",Yes,A is a L.,True,"Yes, E is"
+567,R is a U.,U is an equivalent class of K.,"Given the previous statements, is R a K?",Yes,R is a K.,True,The answer is no
+673,U is a M.,M is an equivalent class of A.,"Given the previous statements, is U a A?",Yes,U is a A.,True,No.
+708,A is a B.,B is an equivalent class of P.,"Given the previous statements, is A a C?",No,A is not a C.,False,"No.
+G"
+1380,U is a F.,F is an equivalent class of B.,"Given the previous statements, is U a S?",No,U is not a S.,False,The answer is no
+1095,M is a X.,X is an equivalent class of T.,"Given the previous statements, is M a O?",No,M is not a O.,False,"Yes, U is"
+400,M is a Q.,Q is an equivalent class of T.,"Given the previous statements, is M a T?",Yes,M is a T.,True,The answer is no
+656,T is a K.,K is an equivalent class of R.,"Given the previous statements, is T a R?",Yes,T is a R.,True,"Yes, K is"
+1215,P is a T.,T is an equivalent class of A.,"Given the previous statements, is P a K?",No,P is not a K.,False,The answer is no
+489,O is a Y.,Y is an equivalent class of E.,"Given the previous statements, is O a E?",Yes,O is a E.,True,The answer is no
+841,E is a Z.,Z is an equivalent class of J.,"Given the previous statements, is E a U?",No,E is not a U.,False,No.
+819,D is a N.,N is an equivalent class of F.,"Given the previous statements, is D a L?",No,D is not a L.,False,The answer is no
+491,O is a I.,I is an equivalent class of M.,"Given the previous statements, is O a M?",Yes,O is a M.,True,"Yes, G is"
+1116,M is a H.,H is an equivalent class of D.,"Given the previous statements, is M a J?",No,M is not a J.,False,"Yes, M is"
+525,P is a H.,H is an equivalent class of U.,"Given the previous statements, is P a U?",Yes,P is a U.,True,"No.
+Q"
+310,J is a P.,P is an equivalent class of K.,"Given the previous statements, is J a K?",Yes,J is a K.,True,The answer is no
+469,O is a Q.,Q is an equivalent class of B.,"Given the previous statements, is O a B?",Yes,O is a B.,True,"Yes, G is"
+603,S is a W.,W is an equivalent class of D.,"Given the previous statements, is S a D?",Yes,S is a D.,True,"No.
+S"
+237,H is a V.,V is an equivalent class of E.,"Given the previous statements, is H a E?",Yes,H is a E.,True,No.
+1038,K is a D.,D is an equivalent class of V.,"Given the previous statements, is K a Z?",No,K is not a Z.,False,The answer is no
+838,E is a G.,G is an equivalent class of S.,"Given the previous statements, is E a Q?",No,E is not a Q.,False,"Yes, C is"
+875,F is a O.,O is an equivalent class of L.,"Given the previous statements, is F a T?",No,F is not a T.,False,The answer is no
+1164,O is a S.,S is an equivalent class of F.,"Given the previous statements, is O a I?",No,O is not a I.,False,The answer is no
+390,L is a N.,N is an equivalent class of B.,"Given the previous statements, is L a B?",Yes,L is a B.,True,The answer is no
+669,U is a W.,W is an equivalent class of V.,"Given the previous statements, is U a V?",Yes,U is a V.,True,"Yes, N is"
+1267,R is a W.,W is an equivalent class of G.,"Given the previous statements, is R a I?",No,R is not a I.,False,H is a Z
+614,S is a J.,J is an equivalent class of F.,"Given the previous statements, is S a F?",Yes,S is a F.,True,No.
+946,H is a E.,E is an equivalent class of Z.,"Given the previous statements, is H a D?",No,H is not a D.,False,"Yes, E is"
+168,F is a B.,B is an equivalent class of R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,"Yes, D is"
+275,I is a Z.,Z is an equivalent class of U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,The answer is no
+1354,U is a T.,T is an equivalent class of R.,"Given the previous statements, is U a M?",No,U is not a M.,False,"Yes, I is"
+919,G is a N.,N is an equivalent class of S.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,"Yes, S is"
+1367,U is a Z.,Z is an equivalent class of F.,"Given the previous statements, is U a A?",No,U is not a A.,False,"Yes, N is"
+383,L is a F.,F is an equivalent class of X.,"Given the previous statements, is L a X?",Yes,L is a X.,True,"No.
+L"
+1073,L is a W.,W is an equivalent class of S.,"Given the previous statements, is L a K?",No,L is not a K.,False,"Yes, D is"
+1081,L is a C.,C is an equivalent class of K.,"Given the previous statements, is L a O?",No,L is not a O.,False,The answer is no
+637,T is a Z.,Z is an equivalent class of F.,"Given the previous statements, is T a F?",Yes,T is a F.,True,The answer is no
+198,F is a B.,B is an equivalent class of U.,"Given the previous statements, is F a U?",Yes,F is a U.,True,The answer is no
+1336,T is a M.,M is an equivalent class of F.,"Given the previous statements, is T a S?",No,T is not a S.,False,"No.
+The"
+1194,P is a E.,E is an equivalent class of X.,"Given the previous statements, is P a I?",No,P is not a I.,False,"Yes, U is"
+1185,O is a G.,G is an equivalent class of Y.,"Given the previous statements, is O a D?",No,O is not a D.,False,"No.
+The"
+792,C is a Q.,Q is an equivalent class of L.,"Given the previous statements, is C a H?",No,C is not a H.,False,"Yes, T is"
+12,A is a S.,S is an equivalent class of V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,No.
+1279,R is a N.,N is an equivalent class of T.,"Given the previous statements, is R a Y?",No,R is not a Y.,False,No.
+51,B is a R.,R is an equivalent class of K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,The answer is no
+641,T is a Q.,Q is an equivalent class of M.,"Given the previous statements, is T a M?",Yes,T is a M.,True,"Yes, M is"
+718,A is a M.,M is an equivalent class of S.,"Given the previous statements, is A a W?",No,A is not a W.,False,The answer is no
+283,I is a Y.,Y is an equivalent class of U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,"Yes, M is"
+54,B is a P.,P is an equivalent class of V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,The answer is no
+823,D is a N.,N is an equivalent class of P.,"Given the previous statements, is D a R?",No,D is not a R.,False,The answer is no
+271,I is a C.,C is an equivalent class of H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,"Yes, P is"
+1365,U is a G.,G is an equivalent class of Z.,"Given the previous statements, is U a V?",No,U is not a V.,False,The answer is no
+1283,R is a Z.,Z is an equivalent class of X.,"Given the previous statements, is R a P?",No,R is not a P.,False,No.
+76,C is a R.,R is an equivalent class of L.,"Given the previous statements, is C a L?",Yes,C is a L.,True,"Yes, E is"
+785,C is a O.,O is an equivalent class of G.,"Given the previous statements, is C a E?",No,C is not a E.,False,The answer is no
+1066,L is a M.,M is an equivalent class of F.,"Given the previous statements, is L a C?",No,L is not a C.,False,"No.
+The"
+797,D is a N.,N is an equivalent class of F.,"Given the previous statements, is D a Q?",No,D is not a Q.,False,"No.
+G"
+927,H is a F.,F is an equivalent class of X.,"Given the previous statements, is H a I?",No,H is not a I.,False,No.
+640,T is a K.,K is an equivalent class of L.,"Given the previous statements, is T a L?",Yes,T is a L.,True,The answer is no
+876,F is a D.,D is an equivalent class of L.,"Given the previous statements, is F a E?",No,F is not a E.,False,"No.
+The"
+243,H is a O.,O is an equivalent class of P.,"Given the previous statements, is H a P?",Yes,H is a P.,True,The answer is no
+60,B is a Z.,Z is an equivalent class of R.,"Given the previous statements, is B a R?",Yes,B is a R.,True,The answer is no
+233,H is a O.,O is an equivalent class of W.,"Given the previous statements, is H a W?",Yes,H is a W.,True,"Yes, if $"
+17,A is a K.,K is an equivalent class of F.,"Given the previous statements, is A a F?",Yes,A is a F.,True,The answer is no
+1045,K is a Z.,Z is an equivalent class of S.,"Given the previous statements, is K a Y?",No,K is not a Y.,False,"Yes, L is"
+976,I is a Z.,Z is an equivalent class of W.,"Given the previous statements, is I a R?",No,I is not a R.,False,"Yes, F is"
+1348,T is a X.,X is an equivalent class of U.,"Given the previous statements, is T a V?",No,T is not a V.,False,The answer is no
+873,F is a I.,I is an equivalent class of K.,"Given the previous statements, is F a Y?",No,F is not a Y.,False,The answer is no
+1202,P is a I.,I is an equivalent class of M.,"Given the previous statements, is P a U?",No,P is not a U.,False,"Yes, C is"
+286,I is a X.,X is an equivalent class of G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,"Yes, K is"
+393,L is a M.,M is an equivalent class of N.,"Given the previous statements, is L a N?",Yes,L is a N.,True,"Yes, P is"
+643,T is a Q.,Q is an equivalent class of I.,"Given the previous statements, is T a I?",Yes,T is a I.,True,The answer is no
+257,H is a O.,O is an equivalent class of E.,"Given the previous statements, is H a E?",Yes,H is a E.,True,"Yes, A is"
+1010,J is a W.,W is an equivalent class of N.,"Given the previous statements, is J a O?",No,J is not a O.,False,"Yes, S is"
+229,G is a X.,X is an equivalent class of C.,"Given the previous statements, is G a C?",Yes,G is a C.,True,The answer is no
+99,C is a Q.,Q is an equivalent class of Z.,"Given the previous statements, is C a Z?",Yes,C is a Z.,True,The answer is no
+1244,Q is a M.,M is an equivalent class of F.,"Given the previous statements, is Q a E?",No,Q is not a E.,False,"Yes, O is"
+369,L is a K.,K is an equivalent class of O.,"Given the previous statements, is L a O?",Yes,L is a O.,True,The answer is no
+773,C is a Z.,Z is an equivalent class of L.,"Given the previous statements, is C a V?",No,C is not a V.,False,The answer is no
+930,H is a K.,K is an equivalent class of L.,"Given the previous statements, is H a Q?",No,H is not a Q.,False,No.
+216,G is a L.,L is an equivalent class of Z.,"Given the previous statements, is G a Z?",Yes,G is a Z.,True,The answer is no
+487,O is a I.,I is an equivalent class of N.,"Given the previous statements, is O a N?",Yes,O is a N.,True,The answer is no
+990,I is a J.,J is an equivalent class of F.,"Given the previous statements, is I a M?",No,I is not a M.,False,The answer is no
+399,M is a P.,P is an equivalent class of W.,"Given the previous statements, is M a W?",Yes,M is a W.,True,The answer is no
+456,N is a L.,L is an equivalent class of C.,"Given the previous statements, is N a C?",Yes,N is a C.,True,The answer is no
+867,F is a Y.,Y is an equivalent class of U.,"Given the previous statements, is F a H?",No,F is not a H.,False,H is a G
+982,I is a S.,S is an equivalent class of Y.,"Given the previous statements, is I a B?",No,I is not a B.,False,"Yes, A is"
+1091,M is a L.,L is an equivalent class of B.,"Given the previous statements, is M a V?",No,M is not a V.,False,H is a K
+204,G is a I.,I is an equivalent class of R.,"Given the previous statements, is G a R?",Yes,G is a R.,True,"Yes, I is"
+791,C is a Z.,Z is an equivalent class of J.,"Given the previous statements, is C a V?",No,C is not a V.,False,The answer is no
+33,A is a U.,U is an equivalent class of N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,"Yes, F is"
+72,C is a V.,V is an equivalent class of L.,"Given the previous statements, is C a L?",Yes,C is a L.,True,"No.
+The"
+175,F is a J.,J is an equivalent class of S.,"Given the previous statements, is F a S?",Yes,F is a S.,True,The answer is no
+353,K is a J.,J is an equivalent class of P.,"Given the previous statements, is K a P?",Yes,K is a P.,True,The answer is no
+1171,O is a J.,J is an equivalent class of W.,"Given the previous statements, is O a Y?",No,O is not a Y.,False,"Yes, C is"
+1195,P is a W.,W is an equivalent class of Q.,"Given the previous statements, is P a D?",No,P is not a D.,False,No.
+502,P is a G.,G is an equivalent class of K.,"Given the previous statements, is P a K?",Yes,P is a K.,True,"Yes, J is"
+1037,K is a V.,V is an equivalent class of W.,"Given the previous statements, is K a F?",No,K is not a F.,False,"Yes, S is"
+627,S is a V.,V is an equivalent class of A.,"Given the previous statements, is S a A?",Yes,S is a A.,True,The answer is no
+1106,M is a U.,U is an equivalent class of B.,"Given the previous statements, is M a T?",No,M is not a T.,False,"No.
+The"
+1379,U is a D.,D is an equivalent class of V.,"Given the previous statements, is U a G?",No,U is not a G.,False,"Yes, I is"
+321,J is a G.,G is an equivalent class of O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,H is a Q
+987,I is a R.,R is an equivalent class of N.,"Given the previous statements, is I a A?",No,I is not a A.,False,The answer is no
+716,A is a H.,H is an equivalent class of J.,"Given the previous statements, is A a U?",No,A is not a U.,False,The answer is no
+1029,K is a P.,P is an equivalent class of W.,"Given the previous statements, is K a T?",No,K is not a T.,False,The answer is no
+1147,N is a E.,E is an equivalent class of U.,"Given the previous statements, is N a M?",No,N is not a M.,False,H is a F
+1087,L is a S.,S is an equivalent class of T.,"Given the previous statements, is L a U?",No,L is not a U.,False,H is a M
+52,B is a C.,C is an equivalent class of N.,"Given the previous statements, is B a N?",Yes,B is a N.,True,"No.
+G"
+812,D is a P.,P is an equivalent class of X.,"Given the previous statements, is D a I?",No,D is not a I.,False,No.
+994,J is a Q.,Q is an equivalent class of W.,"Given the previous statements, is J a I?",No,J is not a I.,False,The answer is no
+1239,Q is a E.,E is an equivalent class of U.,"Given the previous statements, is Q a P?",No,Q is not a P.,False,"No.
+F"
+597,S is a X.,X is an equivalent class of H.,"Given the previous statements, is S a H?",Yes,S is a H.,True,The answer is no
+298,J is a I.,I is an equivalent class of C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,"No.
+The"
+743,B is a U.,U is an equivalent class of V.,"Given the previous statements, is B a R?",No,B is not a R.,False,The answer is no
+1150,N is a C.,C is an equivalent class of F.,"Given the previous statements, is N a Q?",No,N is not a Q.,False,"No.
+O"
+338,K is a O.,O is an equivalent class of A.,"Given the previous statements, is K a A?",Yes,K is a A.,True,No.
+1208,P is a S.,S is an equivalent class of U.,"Given the previous statements, is P a C?",No,P is not a C.,False,No.
+1311,S is a J.,J is an equivalent class of A.,"Given the previous statements, is S a N?",No,S is not a N.,False,"No.
+The"
+1347,T is a O.,O is an equivalent class of A.,"Given the previous statements, is T a K?",No,T is not a K.,False,H is a F
+481,O is a Z.,Z is an equivalent class of T.,"Given the previous statements, is O a T?",Yes,O is a T.,True,The answer is no
+958,I is a E.,E is an equivalent class of Z.,"Given the previous statements, is I a K?",No,I is not a K.,False,"Yes, K is"
+651,T is a W.,W is an equivalent class of P.,"Given the previous statements, is T a P?",Yes,T is a P.,True,The answer is no
+374,L is a M.,M is an equivalent class of D.,"Given the previous statements, is L a D?",Yes,L is a D.,True,No.
+891,F is a Q.,Q is an equivalent class of Y.,"Given the previous statements, is F a I?",No,F is not a I.,False,"Yes, D is"
+358,K is a S.,S is an equivalent class of Q.,"Given the previous statements, is K a Q?",Yes,K is a Q.,True,The answer is no
+1141,N is a W.,W is an equivalent class of C.,"Given the previous statements, is N a O?",No,N is not a O.,False,"Yes, N is"
+775,C is a F.,F is an equivalent class of N.,"Given the previous statements, is C a M?",No,C is not a M.,False,The answer is no
+925,H is a G.,G is an equivalent class of I.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,The answer is no
+365,L is a Z.,Z is an equivalent class of C.,"Given the previous statements, is L a C?",Yes,L is a C.,True,"Yes, M is"
+539,Q is a W.,W is an equivalent class of Z.,"Given the previous statements, is Q a Z?",Yes,Q is a Z.,True,"Yes, K is"
+889,F is a B.,B is an equivalent class of K.,"Given the previous statements, is F a L?",No,F is not a L.,False,The answer is no
+79,C is a B.,B is an equivalent class of Z.,"Given the previous statements, is C a Z?",Yes,C is a Z.,True,The answer is no
+1341,T is a U.,U is an equivalent class of I.,"Given the previous statements, is T a C?",No,T is not a C.,False,The answer is no
+156,E is a L.,L is an equivalent class of Q.,"Given the previous statements, is E a Q?",Yes,E is a Q.,True,"Yes, N is"
+1278,R is a X.,X is an equivalent class of V.,"Given the previous statements, is R a Q?",No,R is not a Q.,False,"Yes, D is"
+200,G is a Y.,Y is an equivalent class of V.,"Given the previous statements, is G a V?",Yes,G is a V.,True,The answer is no
+152,E is a W.,W is an equivalent class of J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,"Yes, U is"
+3,A is a Q.,Q is an equivalent class of O.,"Given the previous statements, is A a O?",Yes,A is a O.,True,The answer is no
+287,I is a P.,P is an equivalent class of B.,"Given the previous statements, is I a B?",Yes,I is a B.,True,The answer is no
+699,A is a B.,B is an equivalent class of J.,"Given the previous statements, is A a S?",No,A is not a S.,False,The answer is no
+1060,L is a V.,V is an equivalent class of J.,"Given the previous statements, is L a W?",No,L is not a W.,False,No.
+564,R is a D.,D is an equivalent class of M.,"Given the previous statements, is R a M?",Yes,R is a M.,True,No.
+807,D is a P.,P is an equivalent class of Q.,"Given the previous statements, is D a Z?",No,D is not a Z.,False,The answer is no
+1236,Q is a E.,E is an equivalent class of D.,"Given the previous statements, is Q a W?",No,Q is not a W.,False,"Yes, D is"
+103,D is a A.,A is an equivalent class of Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,The answer is no
+903,G is a V.,V is an equivalent class of K.,"Given the previous statements, is G a I?",No,G is not a I.,False,The answer is no
+1034,K is a P.,P is an equivalent class of B.,"Given the previous statements, is K a S?",No,K is not a S.,False,The answer is no
+124,D is a B.,B is an equivalent class of Q.,"Given the previous statements, is D a Q?",Yes,D is a Q.,True,"Yes, D is"
+905,G is a Q.,Q is an equivalent class of Z.,"Given the previous statements, is G a M?",No,G is not a M.,False,No.
+242,H is a U.,U is an equivalent class of G.,"Given the previous statements, is H a G?",Yes,H is a G.,True,The answer is no
+490,O is a X.,X is an equivalent class of D.,"Given the previous statements, is O a D?",Yes,O is a D.,True,The answer is no
+282,I is a O.,O is an equivalent class of J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,"Yes, J is"
+475,O is a Q.,Q is an equivalent class of U.,"Given the previous statements, is O a U?",Yes,O is a U.,True,The answer is no
+1306,S is a K.,K is an equivalent class of N.,"Given the previous statements, is S a C?",No,S is not a C.,False,"No.
+M"
+997,J is a V.,V is an equivalent class of I.,"Given the previous statements, is J a C?",No,J is not a C.,False,"Yes, I is"
+757,B is a W.,W is an equivalent class of R.,"Given the previous statements, is B a S?",No,B is not a S.,False,The answer is no
+319,J is a I.,I is an equivalent class of O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,The answer is no
+499,P is a V.,V is an equivalent class of G.,"Given the previous statements, is P a G?",Yes,P is a G.,True,The answer is no
+916,G is a U.,U is an equivalent class of Y.,"Given the previous statements, is G a B?",No,G is not a B.,False,"Yes, C is"
+219,G is a V.,V is an equivalent class of F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,"No.
+The"
+783,C is a K.,K is an equivalent class of R.,"Given the previous statements, is C a T?",No,C is not a T.,False,H is a B
+1003,J is a W.,W is an equivalent class of X.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,The answer is no
+279,I is a E.,E is an equivalent class of Q.,"Given the previous statements, is I a Q?",Yes,I is a Q.,True,The answer is no
+443,N is a D.,D is an equivalent class of B.,"Given the previous statements, is N a B?",Yes,N is a B.,True,"Yes, J is"
+228,G is a Z.,Z is an equivalent class of Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,The answer is no
+1266,R is a Z.,Z is an equivalent class of X.,"Given the previous statements, is R a D?",No,R is not a D.,False,"Yes, C is"
+559,Q is a Z.,Z is an equivalent class of Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True,"Yes, K is"
+541,Q is a F.,F is an equivalent class of Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True,"Yes, S is"
+901,G is a K.,K is an equivalent class of P.,"Given the previous statements, is G a I?",No,G is not a I.,False,The answer is no
+387,L is a Q.,Q is an equivalent class of P.,"Given the previous statements, is L a P?",Yes,L is a P.,True,The answer is no
+722,A is a C.,C is an equivalent class of B.,"Given the previous statements, is A a L?",No,A is not a L.,False,"No.
+The"
+1353,T is a F.,F is an equivalent class of P.,"Given the previous statements, is T a E?",No,T is not a E.,False,"Yes, N is"
+1134,N is a X.,X is an equivalent class of W.,"Given the previous statements, is N a O?",No,N is not a O.,False,H is a W
+1314,S is a G.,G is an equivalent class of Y.,"Given the previous statements, is S a F?",No,S is not a F.,False,H is a Y
+855,E is a L.,L is an equivalent class of Z.,"Given the previous statements, is E a P?",No,E is not a P.,False,No.
+119,D is a R.,R is an equivalent class of K.,"Given the previous statements, is D a K?",Yes,D is a K.,True,"Yes, L is"
+504,P is a R.,R is an equivalent class of A.,"Given the previous statements, is P a A?",Yes,P is a A.,True,The answer is no
+367,L is a H.,H is an equivalent class of U.,"Given the previous statements, is L a U?",Yes,L is a U.,True,"No.
+Q"
+239,H is a I.,I is an equivalent class of S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,The answer is no

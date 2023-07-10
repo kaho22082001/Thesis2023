@@ -1,0 +1,2001 @@
+ID,triple1,triple2,question,answer,inferred triple,label,LLM output
+154,B V O.,V has domain U.,"Given the previous statements, is B a U?",Yes,B is a U.,True,Yes
+616,G A E.,A has domain P.,"Given the previous statements, is G a P?",Yes,G is a P.,True,Yes
+1839,I A L.,A has domain K.,"Given the previous statements, is I a R?",No,I is not a R.,False,No
+1857,I V S.,V has domain X.,"Given the previous statements, is I a Y?",No,I is not a Y.,False,No
+1578,F M B.,M has domain Y.,"Given the previous statements, is F a G?",No,F is not a G.,False,No
+449,E T U.,T has domain P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,No
+998,J F H.,F has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+855,I X V.,X has domain Y.,"Given the previous statements, is I a Y?",Yes,I is a Y.,True,Yes
+155,B O G.,O has domain Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True,Yes
+1758,H R K.,R has domain U.,"Given the previous statements, is H a I?",No,H is not a I.,False,No
+231,C Q I.,Q has domain E.,"Given the previous statements, is C a E?",Yes,C is a E.,True,Yes
+18,A H W.,H has domain B.,"Given the previous statements, is A a B?",Yes,A is a B.,True,Yes
+485,E Q K.,Q has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+669,G X R.,X has domain L.,"Given the previous statements, is G a L?",Yes,G is a L.,True,Yes
+1110,B T Z.,T has domain M.,"Given the previous statements, is B a H?",No,B is not a H.,False,No
+348,D O U.,O has domain E.,"Given the previous statements, is D a E?",Yes,D is a E.,True,Yes
+1196,B N L.,N has domain E.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,No
+1302,D M K.,M has domain W.,"Given the previous statements, is D a V?",No,D is not a V.,False,No
+1267,C H N.,H has domain U.,"Given the previous statements, is C a D?",No,C is not a D.,False,No
+335,D Q T.,Q has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,Yes
+654,G P W.,P has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+1423,E Z V.,Z has domain F.,"Given the previous statements, is E a M?",No,E is not a M.,False,No
+375,D H X.,H has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,Yes
+526,F B R.,B has domain Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,Yes
+1806,I O V.,O has domain W.,"Given the previous statements, is I a T?",No,I is not a T.,False,Yes
+1257,C D T.,D has domain J.,"Given the previous statements, is C a F?",No,C is not a F.,False,No
+156,B E C.,E has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+56,A W K.,W has domain X.,"Given the previous statements, is A a X?",Yes,A is a X.,True,Yes
+1821,I K J.,K has domain O.,"Given the previous statements, is I a E?",No,I is not a E.,False,No
+297,C L K.,L has domain N.,"Given the previous statements, is C a N?",Yes,C is a N.,True,Yes
+1333,D N J.,N has domain A.,"Given the previous statements, is D a E?",No,D is not a E.,False,No
+187,B Z J.,Z has domain A.,"Given the previous statements, is B a A?",Yes,B is a A.,True,Yes
+1832,I U G.,U has domain N.,"Given the previous statements, is I a J?",No,I is not a J.,False,Yes
+112,B H G.,H has domain L.,"Given the previous statements, is B a L?",Yes,B is a L.,True,Yes
+826,I A V.,A has domain S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,Yes
+1940,J Q K.,Q has domain N.,"Given the previous statements, is J a R?",No,J is not a R.,False,No
+765,H Y A.,Y has domain O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,Yes
+1000,J S B.,S has domain H.,"Given the previous statements, is J a H?",Yes,J is a H.,True,Yes
+1071,A U G.,U has domain Y.,"Given the previous statements, is A a H?",No,A is not a H.,False,No
+1477,E Q P.,Q has domain U.,"Given the previous statements, is E a K?",No,E is not a K.,False,No
+1679,G U C.,U has domain O.,"Given the previous statements, is G a R?",No,G is not a R.,False,No
+1532,F Q E.,Q has domain M.,"Given the previous statements, is F a B?",No,F is not a B.,False,No
+1942,J M C.,M has domain D.,"Given the previous statements, is J a K?",No,J is not a K.,False,No
+1095,A I C.,I has domain Z.,"Given the previous statements, is A a X?",No,A is not a X.,False,No
+1924,J K M.,K has domain U.,"Given the previous statements, is J a Q?",No,J is not a Q.,False,No
+320,D C L.,C has domain J.,"Given the previous statements, is D a J?",Yes,D is a J.,True,Yes
+267,C P U.,P has domain O.,"Given the previous statements, is C a O?",Yes,C is a O.,True,Yes
+1685,G J N.,J has domain C.,"Given the previous statements, is G a M?",No,G is not a M.,False,Yes
+1160,B K P.,K has domain Q.,"Given the previous statements, is B a T?",No,B is not a T.,False,No
+1599,F B Y.,B has domain K.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+458,E O Q.,O has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+1131,B K C.,K has domain X.,"Given the previous statements, is B a T?",No,B is not a T.,False,No
+1473,E F M.,F has domain C.,"Given the previous statements, is E a X?",No,E is not a X.,False,No
+1265,C X N.,X has domain W.,"Given the previous statements, is C a Z?",No,C is not a Z.,False,No
+803,I Z W.,Z has domain A.,"Given the previous statements, is I a A?",Yes,I is a A.,True,Yes
+1209,C I R.,I has domain X.,"Given the previous statements, is C a D?",No,C is not a D.,False,No
+58,A N C.,N has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+265,C J N.,J has domain L.,"Given the previous statements, is C a L?",Yes,C is a L.,True,Yes
+1890,I R P.,R has domain L.,"Given the previous statements, is I a C?",No,I is not a C.,False,No
+1389,D Q H.,Q has domain V.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+1711,H A D.,A has domain N.,"Given the previous statements, is H a X?",No,H is not a X.,False,No
+1157,B M V.,M has domain U.,"Given the previous statements, is B a S?",No,B is not a S.,False,No
+1968,J S T.,S has domain E.,"Given the previous statements, is J a Q?",No,J is not a Q.,False,No
+564,F G W.,G has domain X.,"Given the previous statements, is F a X?",Yes,F is a X.,True,Yes
+1358,D I S.,I has domain L.,"Given the previous statements, is D a Y?",No,D is not a Y.,False,No
+1411,E K P.,K has domain O.,"Given the previous statements, is E a Y?",No,E is not a Y.,False,No
+1006,A O V.,O has domain Y.,"Given the previous statements, is A a B?",No,A is not a B.,False,Yes
+662,G S Z.,S has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+1941,J Y S.,Y has domain X.,"Given the previous statements, is J a C?",No,J is not a C.,False,No
+1859,I G N.,G has domain Q.,"Given the previous statements, is I a J?",No,I is not a J.,False,No
+1088,A Z C.,Z has domain L.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+1543,F I Z.,I has domain T.,"Given the previous statements, is F a S?",No,F is not a S.,False,No
+1483,E Q N.,Q has domain P.,"Given the previous statements, is E a D?",No,E is not a D.,False,Yes
+290,C V E.,V has domain N.,"Given the previous statements, is C a N?",Yes,C is a N.,True,Yes
+1184,B N J.,N has domain E.,"Given the previous statements, is B a Z?",No,B is not a Z.,False,No
+879,I M W.,M has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+1834,I J F.,J has domain R.,"Given the previous statements, is I a D?",No,I is not a D.,False,No
+691,G L N.,L has domain M.,"Given the previous statements, is G a M?",Yes,G is a M.,True,Yes
+1511,F G W.,G has domain B.,"Given the previous statements, is F a L?",No,F is not a L.,False,No
+983,J Z K.,Z has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+1041,A V Y.,V has domain D.,"Given the previous statements, is A a Q?",No,A is not a Q.,False,No
+101,B Z V.,Z has domain H.,"Given the previous statements, is B a H?",Yes,B is a H.,True,Yes
+643,G E K.,E has domain Y.,"Given the previous statements, is G a Y?",Yes,G is a Y.,True,Yes
+1062,A S P.,S has domain I.,"Given the previous statements, is A a H?",No,A is not a H.,False,No
+1764,H T C.,T has domain R.,"Given the previous statements, is H a W?",No,H is not a W.,False,No
+1321,D Y L.,Y has domain T.,"Given the previous statements, is D a B?",No,D is not a B.,False,No
+164,B U X.,U has domain E.,"Given the previous statements, is B a E?",Yes,B is a E.,True,Yes
+1828,I Z J.,Z has domain L.,"Given the previous statements, is I a V?",No,I is not a V.,False,No
+1647,G X D.,X has domain H.,"Given the previous statements, is G a U?",No,G is not a U.,False,No
+804,I W G.,W has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+1144,B R M.,R has domain E.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+553,F S A.,S has domain M.,"Given the previous statements, is F a M?",Yes,F is a M.,True,Yes
+916,J V G.,V has domain S.,"Given the previous statements, is J a S?",Yes,J is a S.,True,Yes
+1310,D X I.,X has domain O.,"Given the previous statements, is D a P?",No,D is not a P.,False,No
+1434,E Q G.,Q has domain I.,"Given the previous statements, is E a C?",No,E is not a C.,False,No
+634,G P B.,P has domain D.,"Given the previous statements, is G a D?",Yes,G is a D.,True,Yes
+1490,E M D.,M has domain H.,"Given the previous statements, is E a A?",No,E is not a A.,False,Yes
+831,I L U.,L has domain Q.,"Given the previous statements, is I a Q?",Yes,I is a Q.,True,Yes
+1486,E J Q.,J has domain W.,"Given the previous statements, is E a C?",No,E is not a C.,False,No
+88,A L M.,L has domain U.,"Given the previous statements, is A a U?",Yes,A is a U.,True,Yes
+183,B X R.,X has domain K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,Yes
+1889,I M B.,M has domain R.,"Given the previous statements, is I a A?",No,I is not a A.,False,No
+867,I R H.,R has domain E.,"Given the previous statements, is I a E?",Yes,I is a E.,True,Yes
+473,E U S.,U has domain G.,"Given the previous statements, is E a G?",Yes,E is a G.,True,Yes
+1377,D G X.,G has domain N.,"Given the previous statements, is D a A?",No,D is not a A.,False,No
+731,H A R.,A has domain L.,"Given the previous statements, is H a L?",Yes,H is a L.,True,Yes
+1170,B H I.,H has domain D.,"Given the previous statements, is B a R?",No,B is not a R.,False,No
+108,B E F.,E has domain X.,"Given the previous statements, is B a X?",Yes,B is a X.,True,Yes
+54,A M V.,M has domain S.,"Given the previous statements, is A a S?",Yes,A is a S.,True,Yes
+7,A B V.,B has domain W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,Yes
+962,J R H.,R has domain F.,"Given the previous statements, is J a F?",Yes,J is a F.,True,Yes
+1488,E K P.,K has domain T.,"Given the previous statements, is E a M?",No,E is not a M.,False,Yes
+399,D F G.,F has domain E.,"Given the previous statements, is D a E?",Yes,D is a E.,True,Yes
+505,F C V.,C has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+153,B Z A.,Z has domain D.,"Given the previous statements, is B a D?",Yes,B is a D.,True,Yes
+1441,E G T.,G has domain I.,"Given the previous statements, is E a Q?",No,E is not a Q.,False,No
+1936,J X O.,X has domain S.,"Given the previous statements, is J a U?",No,J is not a U.,False,No
+92,A W T.,W has domain Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,Yes
+1813,I R V.,R has domain A.,"Given the previous statements, is I a F?",No,I is not a F.,False,No
+176,B T A.,T has domain E.,"Given the previous statements, is B a E?",Yes,B is a E.,True,Yes
+971,J W B.,W has domain K.,"Given the previous statements, is J a K?",Yes,J is a K.,True,Yes
+1126,B T C.,T has domain S.,"Given the previous statements, is B a P?",No,B is not a P.,False,No
+852,I E H.,E has domain Y.,"Given the previous statements, is I a Y?",Yes,I is a Y.,True,Yes
+1700,G N Y.,N has domain U.,"Given the previous statements, is G a P?",No,G is not a P.,False,No
+1705,H U R.,U has domain F.,"Given the previous statements, is H a B?",No,H is not a B.,False,No
+993,J G Q.,G has domain A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,Yes
+661,G S N.,S has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+498,E K G.,K has domain I.,"Given the previous statements, is E a I?",Yes,E is a I.,True,Yes
+543,F M Z.,M has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+339,D R J.,R has domain T.,"Given the previous statements, is D a T?",Yes,D is a T.,True,Yes
+1137,B D E.,D has domain H.,"Given the previous statements, is B a W?",No,B is not a W.,False,No
+451,E J D.,J has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+580,F E B.,E has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+1491,E C L.,C has domain D.,"Given the previous statements, is E a S?",No,E is not a S.,False,No
+499,E F N.,F has domain L.,"Given the previous statements, is E a L?",Yes,E is a L.,True,Yes
+417,E X K.,X has domain G.,"Given the previous statements, is E a G?",Yes,E is a G.,True,Yes
+624,G K U.,K has domain F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,Yes
+714,H C Z.,C has domain X.,"Given the previous statements, is H a X?",Yes,H is a X.,True,Yes
+550,F S N.,S has domain Q.,"Given the previous statements, is F a Q?",Yes,F is a Q.,True,No
+250,C X I.,X has domain V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,Yes
+1916,J D L.,D has domain G.,"Given the previous statements, is J a H?",No,J is not a H.,False,No
+824,I O L.,O has domain Q.,"Given the previous statements, is I a Q?",Yes,I is a Q.,True,Yes
+1585,F D S.,D has domain W.,"Given the previous statements, is F a Q?",No,F is not a Q.,False,No
+324,D Y U.,Y has domain O.,"Given the previous statements, is D a O?",Yes,D is a O.,True,Yes
+477,E A J.,A has domain Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True,Yes
+1869,I X K.,X has domain F.,"Given the previous statements, is I a T?",No,I is not a T.,False,No
+918,J F H.,F has domain T.,"Given the previous statements, is J a T?",Yes,J is a T.,True,Yes
+1563,F D N.,D has domain L.,"Given the previous statements, is F a A?",No,F is not a A.,False,Yes
+1401,E P K.,P has domain T.,"Given the previous statements, is E a Z?",No,E is not a Z.,False,No
+573,F M N.,M has domain S.,"Given the previous statements, is F a S?",Yes,F is a S.,True,Yes
+1594,F Y E.,Y has domain N.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No
+1507,F T O.,T has domain X.,"Given the previous statements, is F a I?",No,F is not a I.,False,No
+232,C G O.,G has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+1583,F R T.,R has domain I.,"Given the previous statements, is F a E?",No,F is not a E.,False,No
+443,E T J.,T has domain Y.,"Given the previous statements, is E a Y?",Yes,E is a Y.,True,Yes
+1761,H J F.,J has domain L.,"Given the previous statements, is H a E?",No,H is not a E.,False,No
+340,D S T.,S has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,Yes
+1400,D W M.,W has domain A.,"Given the previous statements, is D a G?",No,D is not a G.,False,No
+1336,D X E.,X has domain N.,"Given the previous statements, is D a A?",No,D is not a A.,False,No
+494,E X V.,X has domain L.,"Given the previous statements, is E a L?",Yes,E is a L.,True,Yes
+599,F K X.,K has domain Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,Yes
+1537,F M P.,M has domain W.,"Given the previous statements, is F a G?",No,F is not a G.,False,No
+344,D B K.,B has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,Yes
+1522,F N J.,N has domain S.,"Given the previous statements, is F a V?",No,F is not a V.,False,No
+1348,D W Z.,W has domain K.,"Given the previous statements, is D a L?",No,D is not a L.,False,No
+487,E R M.,R has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+1233,C L T.,L has domain O.,"Given the previous statements, is C a W?",No,C is not a W.,False,No
+1269,C T B.,T has domain J.,"Given the previous statements, is C a A?",No,C is not a A.,False,No
+1984,J E N.,E has domain B.,"Given the previous statements, is J a Q?",No,J is not a Q.,False,No
+876,I K Q.,K has domain N.,"Given the previous statements, is I a N?",Yes,I is a N.,True,Yes
+707,H J Q.,J has domain P.,"Given the previous statements, is H a P?",Yes,H is a P.,True,Yes
+866,I L U.,L has domain R.,"Given the previous statements, is I a R?",Yes,I is a R.,True,Yes
+1575,F D L.,D has domain X.,"Given the previous statements, is F a W?",No,F is not a W.,False,No
+303,D M T.,M has domain X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,Yes
+1568,F W S.,W has domain T.,"Given the previous statements, is F a P?",No,F is not a P.,False,No
+1970,J U T.,U has domain H.,"Given the previous statements, is J a O?",No,J is not a O.,False,Yes
+1036,A H K.,H has domain P.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+527,F Y O.,Y has domain M.,"Given the previous statements, is F a M?",Yes,F is a M.,True,Yes
+1236,C U Q.,U has domain F.,"Given the previous statements, is C a E?",No,C is not a E.,False,No
+1830,I R J.,R has domain G.,"Given the previous statements, is I a N?",No,I is not a N.,False,No
+530,F B D.,B has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+1948,J D H.,D has domain X.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,No
+734,H E Z.,E has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+814,I S O.,S has domain F.,"Given the previous statements, is I a F?",Yes,I is a F.,True,Yes
+1417,E L S.,L has domain H.,"Given the previous statements, is E a F?",No,E is not a F.,False,No
+1435,E R W.,R has domain H.,"Given the previous statements, is E a O?",No,E is not a O.,False,No
+651,G E Q.,E has domain O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,Yes
+1031,A Y P.,Y has domain O.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+1462,E R I.,R has domain G.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+136,B L F.,L has domain W.,"Given the previous statements, is B a W?",Yes,B is a W.,True,Yes
+234,C O H.,O has domain R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,Yes
+706,H D F.,D has domain N.,"Given the previous statements, is H a N?",Yes,H is a N.,True,Yes
+1981,J U D.,U has domain C.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+1771,H P Z.,P has domain S.,"Given the previous statements, is H a U?",No,H is not a U.,False,No
+1558,F K R.,K has domain L.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+1800,H D O.,D has domain J.,"Given the previous statements, is H a U?",No,H is not a U.,False,No
+1506,F L I.,L has domain Y.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+122,B A T.,A has domain L.,"Given the previous statements, is B a L?",Yes,B is a L.,True,Yes
+872,I L X.,L has domain N.,"Given the previous statements, is I a N?",Yes,I is a N.,True,Yes
+462,E K G.,K has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+523,F I A.,I has domain W.,"Given the previous statements, is F a W?",Yes,F is a W.,True,Yes
+1819,I N A.,N has domain Y.,"Given the previous statements, is I a G?",No,I is not a G.,False,No
+1860,I J W.,J has domain C.,"Given the previous statements, is I a U?",No,I is not a U.,False,No
+1103,B G K.,G has domain Z.,"Given the previous statements, is B a I?",No,B is not a I.,False,No
+1596,F C U.,C has domain V.,"Given the previous statements, is F a X?",No,F is not a X.,False,No
+1029,A P G.,P has domain I.,"Given the previous statements, is A a T?",No,A is not a T.,False,Yes
+1007,A E Y.,E has domain V.,"Given the previous statements, is A a C?",No,A is not a C.,False,No
+560,F N Q.,N has domain A.,"Given the previous statements, is F a A?",Yes,F is a A.,True,Yes
+1418,E C D.,C has domain U.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+622,G Z E.,Z has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+269,C S E.,S has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+1825,I W F.,W has domain C.,"Given the previous statements, is I a A?",No,I is not a A.,False,No
+685,G T E.,T has domain D.,"Given the previous statements, is G a D?",Yes,G is a D.,True,Yes
+1826,I D A.,D has domain Q.,"Given the previous statements, is I a H?",No,I is not a H.,False,No
+1134,B K F.,K has domain M.,"Given the previous statements, is B a E?",No,B is not a E.,False,No
+1474,E A P.,A has domain T.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+1691,G M J.,M has domain F.,"Given the previous statements, is G a X?",No,G is not a X.,False,No
+1437,E L M.,L has domain D.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+569,F G O.,G has domain J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,Yes
+1708,H Z R.,Z has domain D.,"Given the previous statements, is H a X?",No,H is not a X.,False,No
+229,C T D.,T has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+189,B R F.,R has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+1766,H T J.,T has domain D.,"Given the previous statements, is H a N?",No,H is not a N.,False,No
+273,C Y L.,Y has domain N.,"Given the previous statements, is C a N?",Yes,C is a N.,True,Yes
+1674,G B F.,B has domain C.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,No
+450,E O X.,O has domain L.,"Given the previous statements, is E a L?",Yes,E is a L.,True,Yes
+93,A C B.,C has domain V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,Yes
+562,F P T.,P has domain B.,"Given the previous statements, is F a B?",Yes,F is a B.,True,Yes
+1032,A B Q.,B has domain O.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+1852,I S B.,S has domain Q.,"Given the previous statements, is I a T?",No,I is not a T.,False,Yes
+479,E Y O.,Y has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+1868,I O Q.,O has domain T.,"Given the previous statements, is I a E?",No,I is not a E.,False,No
+1651,G E M.,E has domain O.,"Given the previous statements, is G a S?",No,G is not a S.,False,No
+1493,E W F.,W has domain Z.,"Given the previous statements, is E a B?",No,E is not a B.,False,No
+482,E W Q.,W has domain U.,"Given the previous statements, is E a U?",Yes,E is a U.,True,Yes
+24,A Y U.,Y has domain G.,"Given the previous statements, is A a G?",Yes,A is a G.,True,Yes
+992,J X K.,X has domain M.,"Given the previous statements, is J a M?",Yes,J is a M.,True,Yes
+961,J S D.,S has domain L.,"Given the previous statements, is J a L?",Yes,J is a L.,True,Yes
+1132,B O E.,O has domain H.,"Given the previous statements, is B a W?",No,B is not a W.,False,No
+578,F A M.,A has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+252,C O Z.,O has domain K.,"Given the previous statements, is C a K?",Yes,C is a K.,True,Yes
+1641,G E S.,E has domain B.,"Given the previous statements, is G a R?",No,G is not a R.,False,No
+1969,J Y K.,Y has domain I.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+1752,H F P.,F has domain R.,"Given the previous statements, is H a A?",No,H is not a A.,False,Yes
+1305,D H V.,H has domain S.,"Given the previous statements, is D a Q?",No,D is not a Q.,False,No
+748,H Z Q.,Z has domain G.,"Given the previous statements, is H a G?",Yes,H is a G.,True,Yes
+1697,G Y T.,Y has domain A.,"Given the previous statements, is G a S?",No,G is not a S.,False,No
+230,C U R.,U has domain H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,Yes
+982,J Y H.,Y has domain D.,"Given the previous statements, is J a D?",Yes,J is a D.,True,Yes
+1040,A Q S.,Q has domain E.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+1452,E K Y.,K has domain U.,"Given the previous statements, is E a S?",No,E is not a S.,False,No
+723,H A R.,A has domain C.,"Given the previous statements, is H a C?",Yes,H is a C.,True,Yes
+1008,A V U.,V has domain B.,"Given the previous statements, is A a Q?",No,A is not a Q.,False,No
+1167,B Q W.,Q has domain G.,"Given the previous statements, is B a P?",No,B is not a P.,False,No
+617,G Q D.,Q has domain W.,"Given the previous statements, is G a W?",Yes,G is a W.,True,Yes
+1337,D A H.,A has domain N.,"Given the previous statements, is D a I?",No,D is not a I.,False,No
+125,B J H.,J has domain F.,"Given the previous statements, is B a F?",Yes,B is a F.,True,Yes
+256,C P W.,P has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+1750,H X N.,X has domain G.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,No
+1087,A W Q.,W has domain R.,"Given the previous statements, is A a O?",No,A is not a O.,False,No
+954,J V Q.,V has domain C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,Yes
+1127,B E I.,E has domain O.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+1925,J Y P.,Y has domain M.,"Given the previous statements, is J a I?",No,J is not a I.,False,No
+1874,I S E.,S has domain W.,"Given the previous statements, is I a X?",No,I is not a X.,False,No
+330,D W Y.,W has domain U.,"Given the previous statements, is D a U?",Yes,D is a U.,True,Yes
+96,A P L.,P has domain B.,"Given the previous statements, is A a B?",Yes,A is a B.,True,Yes
+1407,E F K.,F has domain D.,"Given the previous statements, is E a W?",No,E is not a W.,False,No
+430,E G D.,G has domain N.,"Given the previous statements, is E a N?",Yes,E is a N.,True,Yes
+1673,G O Z.,O has domain H.,"Given the previous statements, is G a F?",No,G is not a F.,False,No
+1292,C Y M.,Y has domain O.,"Given the previous statements, is C a V?",No,C is not a V.,False,No
+313,D B V.,B has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,Yes
+1469,E H O.,H has domain C.,"Given the previous statements, is E a B?",No,E is not a B.,False,No
+1959,J P S.,P has domain L.,"Given the previous statements, is J a E?",No,J is not a E.,False,No
+415,E M N.,M has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+1313,D G M.,G has domain A.,"Given the previous statements, is D a K?",No,D is not a K.,False,No
+1518,F O P.,O has domain K.,"Given the previous statements, is F a H?",No,F is not a H.,False,No
+1117,B D I.,D has domain Y.,"Given the previous statements, is B a W?",No,B is not a W.,False,No
+715,H M R.,M has domain B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,Yes
+454,E O R.,O has domain B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,Yes
+90,A V B.,V has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+1468,E A W.,A has domain Y.,"Given the previous statements, is E a O?",No,E is not a O.,False,No
+1726,H I N.,I has domain A.,"Given the previous statements, is H a V?",No,H is not a V.,False,No
+728,H F S.,F has domain D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,Yes
+1249,C U R.,U has domain P.,"Given the previous statements, is C a S?",No,C is not a S.,False,No
+1920,J N K.,N has domain S.,"Given the previous statements, is J a Z?",No,J is not a Z.,False,No
+1643,G S E.,S has domain W.,"Given the previous statements, is G a H?",No,G is not a H.,False,No
+690,G B D.,B has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+712,H Q B.,Q has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,No
+754,H Y C.,Y has domain X.,"Given the previous statements, is H a X?",Yes,H is a X.,True,Yes
+1224,C Q H.,Q has domain N.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+278,C E Z.,E has domain I.,"Given the previous statements, is C a I?",Yes,C is a I.,True,Yes
+650,G X Q.,X has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+1143,B G O.,G has domain W.,"Given the previous statements, is B a K?",No,B is not a K.,False,No
+113,B W I.,W has domain U.,"Given the previous statements, is B a U?",Yes,B is a U.,True,Yes
+638,G W N.,W has domain H.,"Given the previous statements, is G a H?",Yes,G is a H.,True,Yes
+1345,D M I.,M has domain O.,"Given the previous statements, is D a S?",No,D is not a S.,False,Yes
+1588,F C A.,C has domain W.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No
+321,D K B.,K has domain R.,"Given the previous statements, is D a R?",Yes,D is a R.,True,Yes
+440,E D A.,D has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+167,B A Z.,A has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+1763,H O G.,O has domain V.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1815,I R L.,R has domain K.,"Given the previous statements, is I a S?",No,I is not a S.,False,No
+309,D O P.,O has domain A.,"Given the previous statements, is D a A?",Yes,D is a A.,True,Yes
+1482,E U S.,U has domain P.,"Given the previous statements, is E a Q?",No,E is not a Q.,False,No
+811,I K H.,K has domain R.,"Given the previous statements, is I a R?",Yes,I is a R.,True,Yes
+1069,A L S.,L has domain O.,"Given the previous statements, is A a V?",No,A is not a V.,False,No
+216,C L D.,L has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+716,H W X.,W has domain J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,Yes
+182,B C X.,C has domain G.,"Given the previous statements, is B a G?",Yes,B is a G.,True,Yes
+1412,E Y A.,Y has domain W.,"Given the previous statements, is E a S?",No,E is not a S.,False,Yes
+1544,F Z R.,Z has domain Y.,"Given the previous statements, is F a D?",No,F is not a D.,False,No
+1163,B C Y.,C has domain W.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+444,E J T.,J has domain P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,Yes
+1891,I Q P.,Q has domain B.,"Given the previous statements, is I a N?",No,I is not a N.,False,No
+1099,A G N.,G has domain M.,"Given the previous statements, is A a H?",No,A is not a H.,False,No
+1003,A W E.,W has domain M.,"Given the previous statements, is A a X?",No,A is not a X.,False,No
+842,I P S.,P has domain G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,Yes
+491,E Q T.,Q has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+1218,C N B.,N has domain J.,"Given the previous statements, is C a M?",No,C is not a M.,False,No
+411,E M V.,M has domain O.,"Given the previous statements, is E a O?",Yes,E is a O.,True,Yes
+352,D U M.,U has domain R.,"Given the previous statements, is D a R?",Yes,D is a R.,True,Yes
+8,A K H.,K has domain G.,"Given the previous statements, is A a G?",Yes,A is a G.,True,Yes
+244,C S V.,S has domain Z.,"Given the previous statements, is C a Z?",Yes,C is a Z.,True,Yes
+160,B L G.,L has domain O.,"Given the previous statements, is B a O?",Yes,B is a O.,True,Yes
+255,C T S.,T has domain R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,Yes
+1165,B L N.,L has domain U.,"Given the previous statements, is B a I?",No,B is not a I.,False,No
+1433,E F X.,F has domain C.,"Given the previous statements, is E a Z?",No,E is not a Z.,False,No
+832,I G Q.,G has domain D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,Yes
+1193,B Z R.,Z has domain P.,"Given the previous statements, is B a F?",No,B is not a F.,False,No
+402,E G W.,G has domain U.,"Given the previous statements, is E a U?",Yes,E is a U.,True,Yes
+434,E C W.,C has domain N.,"Given the previous statements, is E a N?",Yes,E is a N.,True,Yes
+508,F C B.,C has domain V.,"Given the previous statements, is F a V?",Yes,F is a V.,True,Yes
+1773,H J P.,J has domain U.,"Given the previous statements, is H a C?",No,H is not a C.,False,No
+242,C I Q.,I has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+1812,I J P.,J has domain Q.,"Given the previous statements, is I a A?",No,I is not a A.,False,No
+1442,E V F.,V has domain S.,"Given the previous statements, is E a Z?",No,E is not a Z.,False,No
+302,D T Q.,T has domain M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,Yes
+171,B A W.,A has domain K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,Yes
+1113,B I O.,I has domain J.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+1696,G R E.,R has domain N.,"Given the previous statements, is G a J?",No,G is not a J.,False,Yes
+1675,G Z Y.,Z has domain V.,"Given the previous statements, is G a U?",No,G is not a U.,False,Yes
+594,F J X.,J has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+976,J Y G.,Y has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+1906,J K T.,K has domain Y.,"Given the previous statements, is J a Z?",No,J is not a Z.,False,No
+696,G X T.,X has domain D.,"Given the previous statements, is G a D?",Yes,G is a D.,True,Yes
+1155,B M I.,M has domain T.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+868,I C Z.,C has domain D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,Yes
+1484,E M Y.,M has domain X.,"Given the previous statements, is E a H?",No,E is not a H.,False,No
+1111,B O S.,O has domain Z.,"Given the previous statements, is B a P?",No,B is not a P.,False,No
+95,A M D.,M has domain Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,Yes
+431,E J T.,J has domain D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,Yes
+1592,F M A.,M has domain Q.,"Given the previous statements, is F a T?",No,F is not a T.,False,No
+789,H W Z.,W has domain C.,"Given the previous statements, is H a C?",Yes,H is a C.,True,Yes
+909,J T U.,T has domain D.,"Given the previous statements, is J a D?",Yes,J is a D.,True,Yes
+1402,E O N.,O has domain M.,"Given the previous statements, is E a K?",No,E is not a K.,False,Yes
+773,H N P.,N has domain J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,Yes
+117,B W J.,W has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+779,H O I.,O has domain G.,"Given the previous statements, is H a G?",Yes,H is a G.,True,Yes
+1352,D M N.,M has domain Q.,"Given the previous statements, is D a C?",No,D is not a C.,False,Yes
+1021,A E R.,E has domain S.,"Given the previous statements, is A a W?",No,A is not a W.,False,No
+368,D K E.,K has domain Q.,"Given the previous statements, is D a Q?",Yes,D is a Q.,True,Yes
+512,F Q A.,Q has domain I.,"Given the previous statements, is F a I?",Yes,F is a I.,True,Yes
+1848,I M G.,M has domain Y.,"Given the previous statements, is I a R?",No,I is not a R.,False,No
+1586,F A V.,A has domain H.,"Given the previous statements, is F a X?",No,F is not a X.,False,No
+3,A E K.,E has domain N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,Yes
+1921,J L P.,L has domain B.,"Given the previous statements, is J a E?",No,J is not a E.,False,No
+924,J Q Z.,Q has domain G.,"Given the previous statements, is J a G?",Yes,J is a G.,True,Yes
+1853,I S T.,S has domain M.,"Given the previous statements, is I a J?",No,I is not a J.,False,No
+51,A I B.,I has domain X.,"Given the previous statements, is A a X?",Yes,A is a X.,True,Yes
+554,F O P.,O has domain Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,Yes
+593,F O J.,O has domain P.,"Given the previous statements, is F a P?",Yes,F is a P.,True,Yes
+987,J C P.,C has domain F.,"Given the previous statements, is J a F?",Yes,J is a F.,True,Yes
+1456,E O F.,O has domain C.,"Given the previous statements, is E a J?",No,E is not a J.,False,No
+1508,F L Q.,L has domain P.,"Given the previous statements, is F a N?",No,F is not a N.,False,No
+1368,D Y O.,Y has domain S.,"Given the previous statements, is D a T?",No,D is not a T.,False,No
+5,A I S.,I has domain F.,"Given the previous statements, is A a F?",Yes,A is a F.,True,Yes
+435,E M Z.,M has domain X.,"Given the previous statements, is E a X?",Yes,E is a X.,True,Yes
+547,F I H.,I has domain Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,Yes
+711,H C D.,C has domain N.,"Given the previous statements, is H a N?",Yes,H is a N.,True,Yes
+379,D P E.,P has domain K.,"Given the previous statements, is D a K?",Yes,D is a K.,True,Yes
+806,I N A.,N has domain T.,"Given the previous statements, is I a T?",Yes,I is a T.,True,Yes
+886,I H Y.,H has domain E.,"Given the previous statements, is I a E?",Yes,I is a E.,True,Yes
+397,D X Y.,X has domain H.,"Given the previous statements, is D a H?",Yes,D is a H.,True,Yes
+1384,D X P.,X has domain Y.,"Given the previous statements, is D a K?",No,D is not a K.,False,No
+1404,E B Z.,B has domain X.,"Given the previous statements, is E a U?",No,E is not a U.,False,No
+86,A O S.,O has domain Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,Yes
+933,J M N.,M has domain Y.,"Given the previous statements, is J a Y?",Yes,J is a Y.,True,Yes
+1254,C E D.,E has domain A.,"Given the previous statements, is C a X?",No,C is not a X.,False,No
+1168,B F J.,F has domain M.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+1835,I H F.,H has domain G.,"Given the previous statements, is I a R?",No,I is not a R.,False,Yes
+1185,B J G.,J has domain S.,"Given the previous statements, is B a R?",No,B is not a R.,False,No
+109,B N H.,N has domain X.,"Given the previous statements, is B a X?",Yes,B is a X.,True,Yes
+1314,D B R.,B has domain L.,"Given the previous statements, is D a F?",No,D is not a F.,False,No
+1061,A B P.,B has domain H.,"Given the previous statements, is A a N?",No,A is not a N.,False,No
+1794,H C R.,C has domain M.,"Given the previous statements, is H a B?",No,H is not a B.,False,No
+1439,E N I.,N has domain C.,"Given the previous statements, is E a F?",No,E is not a F.,False,No
+214,C K R.,K has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+1633,G C A.,C has domain E.,"Given the previous statements, is G a I?",No,G is not a I.,False,No
+346,D Q Z.,Q has domain J.,"Given the previous statements, is D a J?",Yes,D is a J.,True,Yes
+1234,C Z W.,Z has domain U.,"Given the previous statements, is C a M?",No,C is not a M.,False,No
+1652,G V T.,V has domain Q.,"Given the previous statements, is G a O?",No,G is not a O.,False,No
+25,A I T.,I has domain E.,"Given the previous statements, is A a E?",Yes,A is a E.,True,Yes
+484,E W H.,W has domain P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,Yes
+1666,G J U.,J has domain N.,"Given the previous statements, is G a B?",No,G is not a B.,False,Yes
+1210,C I Z.,I has domain E.,"Given the previous statements, is C a N?",No,C is not a N.,False,No
+708,H D T.,D has domain V.,"Given the previous statements, is H a V?",Yes,H is a V.,True,Yes
+782,H O B.,O has domain G.,"Given the previous statements, is H a G?",Yes,H is a G.,True,Yes
+959,J D E.,D has domain A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,Yes
+99,A X Y.,X has domain H.,"Given the previous statements, is A a H?",Yes,A is a H.,True,Yes
+1888,I T O.,T has domain J.,"Given the previous statements, is I a G?",No,I is not a G.,False,No
+951,J M S.,M has domain N.,"Given the previous statements, is J a N?",Yes,J is a N.,True,Yes
+135,B Z F.,Z has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+620,G U B.,U has domain H.,"Given the previous statements, is G a H?",Yes,G is a H.,True,Yes
+193,B E N.,E has domain K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,Yes
+74,A Z N.,Z has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+1973,J K A.,K has domain D.,"Given the previous statements, is J a T?",No,J is not a T.,False,No
+960,J S O.,S has domain U.,"Given the previous statements, is J a U?",Yes,J is a U.,True,Yes
+1988,J R S.,R has domain K.,"Given the previous statements, is J a U?",No,J is not a U.,False,No
+587,F M C.,M has domain H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,Yes
+858,I X E.,X has domain Q.,"Given the previous statements, is I a Q?",Yes,I is a Q.,True,Yes
+1037,A I N.,I has domain O.,"Given the previous statements, is A a T?",No,A is not a T.,False,No
+601,G K Q.,K has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+437,E N J.,N has domain R.,"Given the previous statements, is E a R?",Yes,E is a R.,True,Yes
+1590,F W A.,W has domain P.,"Given the previous statements, is F a V?",No,F is not a V.,False,No
+893,I J T.,J has domain C.,"Given the previous statements, is I a C?",Yes,I is a C.,True,Yes
+1385,D C E.,C has domain M.,"Given the previous statements, is D a U?",No,D is not a U.,False,No
+76,A M H.,M has domain Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,Yes
+1463,E M P.,M has domain J.,"Given the previous statements, is E a T?",No,E is not a T.,False,No
+1330,D L F.,L has domain T.,"Given the previous statements, is D a S?",No,D is not a S.,False,No
+131,B V M.,V has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+1241,C A J.,A has domain F.,"Given the previous statements, is C a G?",No,C is not a G.,False,Yes
+1268,C B Z.,B has domain A.,"Given the previous statements, is C a I?",No,C is not a I.,False,Yes
+1046,A X G.,X has domain H.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+41,A B Z.,B has domain H.,"Given the previous statements, is A a H?",Yes,A is a H.,True,Yes
+511,F A I.,A has domain U.,"Given the previous statements, is F a U?",Yes,F is a U.,True,Yes
+1514,F T Q.,T has domain W.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+1383,D S W.,S has domain E.,"Given the previous statements, is D a L?",No,D is not a L.,False,No
+928,J R Y.,R has domain W.,"Given the previous statements, is J a W?",Yes,J is a W.,True,Yes
+865,I V T.,V has domain O.,"Given the previous statements, is I a O?",Yes,I is a O.,True,Yes
+1289,C V M.,V has domain Y.,"Given the previous statements, is C a D?",No,C is not a D.,False,No
+1497,E A M.,A has domain O.,"Given the previous statements, is E a R?",No,E is not a R.,False,No
+1161,B X C.,X has domain T.,"Given the previous statements, is B a E?",No,B is not a E.,False,Yes
+1560,F W Z.,W has domain S.,"Given the previous statements, is F a C?",No,F is not a C.,False,Yes
+966,J C R.,C has domain U.,"Given the previous statements, is J a U?",Yes,J is a U.,True,Yes
+1221,C M A.,M has domain Q.,"Given the previous statements, is C a G?",No,C is not a G.,False,No
+1065,A V Z.,V has domain Y.,"Given the previous statements, is A a D?",No,A is not a D.,False,Yes
+121,B K S.,K has domain Y.,"Given the previous statements, is B a Y?",Yes,B is a Y.,True,Yes
+737,H S M.,S has domain C.,"Given the previous statements, is H a C?",Yes,H is a C.,True,Yes
+561,F P N.,P has domain K.,"Given the previous statements, is F a K?",Yes,F is a K.,True,Yes
+413,E D L.,D has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+184,B K P.,K has domain R.,"Given the previous statements, is B a R?",Yes,B is a R.,True,Yes
+1139,B V A.,V has domain W.,"Given the previous statements, is B a K?",No,B is not a K.,False,No
+1270,C Z B.,Z has domain Q.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+1147,B A J.,A has domain E.,"Given the previous statements, is B a Q?",No,B is not a Q.,False,No
+311,D U C.,U has domain R.,"Given the previous statements, is D a R?",Yes,D is a R.,True,Yes
+1845,I C J.,C has domain M.,"Given the previous statements, is I a K?",No,I is not a K.,False,No
+528,F Z W.,Z has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+1721,H Z N.,Z has domain Q.,"Given the previous statements, is H a W?",No,H is not a W.,False,No
+1141,B L G.,L has domain Z.,"Given the previous statements, is B a N?",No,B is not a N.,False,No
+1892,I S T.,S has domain K.,"Given the previous statements, is I a O?",No,I is not a O.,False,Yes
+1759,H Q S.,Q has domain R.,"Given the previous statements, is H a X?",No,H is not a X.,False,No
+1702,H M U.,M has domain E.,"Given the previous statements, is H a G?",No,H is not a G.,False,No
+422,E C Q.,C has domain L.,"Given the previous statements, is E a L?",Yes,E is a L.,True,Yes
+680,G B N.,B has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+633,G Q C.,Q has domain U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,Yes
+143,B J X.,J has domain Y.,"Given the previous statements, is B a Y?",Yes,B is a Y.,True,Yes
+729,H L W.,L has domain C.,"Given the previous statements, is H a C?",Yes,H is a C.,True,Yes
+672,G Y Z.,Y has domain N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,Yes
+371,D I P.,I has domain W.,"Given the previous statements, is D a W?",Yes,D is a W.,True,Yes
+91,A R F.,R has domain J.,"Given the previous statements, is A a J?",Yes,A is a J.,True,No
+582,F V P.,V has domain K.,"Given the previous statements, is F a K?",Yes,F is a K.,True,Yes
+1450,E Q M.,Q has domain O.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+391,D T J.,T has domain A.,"Given the previous statements, is D a A?",Yes,D is a A.,True,Yes
+81,A K I.,K has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+1793,H M O.,M has domain G.,"Given the previous statements, is H a K?",No,H is not a K.,False,No
+882,I S M.,S has domain B.,"Given the previous statements, is I a B?",Yes,I is a B.,True,Yes
+370,D W S.,W has domain A.,"Given the previous statements, is D a A?",Yes,D is a A.,True,Yes
+77,A O J.,O has domain Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,Yes
+1202,C L J.,L has domain O.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+722,H J W.,J has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+1030,A X L.,X has domain O.,"Given the previous statements, is A a M?",No,A is not a M.,False,Yes
+1944,J X R.,X has domain K.,"Given the previous statements, is J a S?",No,J is not a S.,False,Yes
+105,B V M.,V has domain R.,"Given the previous statements, is B a R?",Yes,B is a R.,True,Yes
+698,G S O.,S has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+208,C X T.,X has domain V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,Yes
+353,D H W.,H has domain M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,Yes
+1027,A D E.,D has domain Q.,"Given the previous statements, is A a R?",No,A is not a R.,False,No
+1542,F H E.,H has domain M.,"Given the previous statements, is F a P?",No,F is not a P.,False,Yes
+369,D K X.,K has domain E.,"Given the previous statements, is D a E?",Yes,D is a E.,True,Yes
+1808,I G V.,G has domain S.,"Given the previous statements, is I a H?",No,I is not a H.,False,Yes
+1978,J O E.,O has domain C.,"Given the previous statements, is J a U?",No,J is not a U.,False,No
+623,G S Q.,S has domain B.,"Given the previous statements, is G a B?",Yes,G is a B.,True,Yes
+127,B F Q.,F has domain K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,Yes
+1510,F L Y.,L has domain A.,"Given the previous statements, is F a J?",No,F is not a J.,False,No
+211,C S B.,S has domain K.,"Given the previous statements, is C a K?",Yes,C is a K.,True,Yes
+1907,J T C.,T has domain M.,"Given the previous statements, is J a D?",No,J is not a D.,False,No
+516,F G X.,G has domain K.,"Given the previous statements, is F a K?",Yes,F is a K.,True,Yes
+1816,I X D.,X has domain Z.,"Given the previous statements, is I a L?",No,I is not a L.,False,Yes
+1309,D L P.,L has domain J.,"Given the previous statements, is D a V?",No,D is not a V.,False,No
+1707,H I D.,I has domain X.,"Given the previous statements, is H a S?",No,H is not a S.,False,No
+1016,A C R.,C has domain Q.,"Given the previous statements, is A a V?",No,A is not a V.,False,Yes
+1443,E P F.,P has domain K.,"Given the previous statements, is E a C?",No,E is not a C.,False,No
+152,B G M.,G has domain O.,"Given the previous statements, is B a O?",Yes,B is a O.,True,Yes
+930,J W F.,W has domain U.,"Given the previous statements, is J a U?",Yes,J is a U.,True,No
+973,J L E.,L has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+710,H P Y.,P has domain L.,"Given the previous statements, is H a L?",Yes,H is a L.,True,No
+1670,G E J.,E has domain V.,"Given the previous statements, is G a X?",No,G is not a X.,False,No
+1171,B K U.,K has domain H.,"Given the previous statements, is B a M?",No,B is not a M.,False,No
+1827,I W P.,W has domain Z.,"Given the previous statements, is I a U?",No,I is not a U.,False,Yes
+407,E I P.,I has domain O.,"Given the previous statements, is E a O?",Yes,E is a O.,True,Yes
+1955,J D P.,D has domain W.,"Given the previous statements, is J a T?",No,J is not a T.,False,No
+996,J D H.,D has domain R.,"Given the previous statements, is J a R?",Yes,J is a R.,True,Yes
+1203,C W B.,W has domain T.,"Given the previous statements, is C a V?",No,C is not a V.,False,No
+772,H Y T.,Y has domain I.,"Given the previous statements, is H a I?",Yes,H is a I.,True,Yes
+1732,H K G.,K has domain M.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1460,E V B.,V has domain P.,"Given the previous statements, is E a X?",No,E is not a X.,False,Yes
+423,E P X.,P has domain T.,"Given the previous statements, is E a T?",Yes,E is a T.,True,Yes
+1554,F E Q.,E has domain L.,"Given the previous statements, is F a T?",No,F is not a T.,False,No
+1871,I K U.,K has domain Q.,"Given the previous statements, is I a Y?",No,I is not a Y.,False,No
+885,I Y K.,Y has domain G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,Yes
+1180,B Z U.,Z has domain L.,"Given the previous statements, is B a I?",No,B is not a I.,False,No
+740,H A X.,A has domain K.,"Given the previous statements, is H a K?",Yes,H is a K.,True,Yes
+281,C H S.,H has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+1052,A Q L.,Q has domain E.,"Given the previous statements, is A a R?",No,A is not a R.,False,No
+1698,G L O.,L has domain B.,"Given the previous statements, is G a Y?",No,G is not a Y.,False,No
+1228,C E G.,E has domain V.,"Given the previous statements, is C a M?",No,C is not a M.,False,No
+532,F Z T.,Z has domain K.,"Given the previous statements, is F a K?",Yes,F is a K.,True,Yes
+1489,E H K.,H has domain S.,"Given the previous statements, is E a Z?",No,E is not a Z.,False,No
+150,B J V.,J has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+1739,H W B.,W has domain K.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1989,J P R.,P has domain O.,"Given the previous statements, is J a A?",No,J is not a A.,False,No
+1882,I F C.,F has domain S.,"Given the previous statements, is I a Y?",No,I is not a Y.,False,No
+1720,H N W.,N has domain P.,"Given the previous statements, is H a E?",No,H is not a E.,False,No
+540,F R C.,R has domain P.,"Given the previous statements, is F a P?",Yes,F is a P.,True,Yes
+1004,A V S.,V has domain D.,"Given the previous statements, is A a T?",No,A is not a T.,False,No
+23,A X R.,X has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+591,F B Z.,B has domain V.,"Given the previous statements, is F a V?",Yes,F is a V.,True,Yes
+1335,D B R.,B has domain K.,"Given the previous statements, is D a P?",No,D is not a P.,False,No
+82,A W O.,W has domain D.,"Given the previous statements, is A a D?",Yes,A is a D.,True,Yes
+1353,D I N.,I has domain Q.,"Given the previous statements, is D a Z?",No,D is not a Z.,False,No
+1849,I N T.,N has domain Q.,"Given the previous statements, is I a V?",No,I is not a V.,False,Yes
+1451,E T Z.,T has domain S.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+130,B U G.,U has domain P.,"Given the previous statements, is B a P?",Yes,B is a P.,True,Yes
+212,C L Y.,L has domain G.,"Given the previous statements, is C a G?",Yes,C is a G.,True,Yes
+764,H S E.,S has domain N.,"Given the previous statements, is H a N?",Yes,H is a N.,True,Yes
+1464,E O W.,O has domain X.,"Given the previous statements, is E a V?",No,E is not a V.,False,No
+1644,G U B.,U has domain R.,"Given the previous statements, is G a A?",No,G is not a A.,False,No
+425,E W O.,W has domain T.,"Given the previous statements, is E a T?",Yes,E is a T.,True,Yes
+1025,A G E.,G has domain M.,"Given the previous statements, is A a Z?",No,A is not a Z.,False,No
+79,A D T.,D has domain O.,"Given the previous statements, is A a O?",Yes,A is a O.,True,Yes
+1232,C S Q.,S has domain M.,"Given the previous statements, is C a L?",No,C is not a L.,False,No
+1049,A T Q.,T has domain G.,"Given the previous statements, is A a P?",No,A is not a P.,False,No
+1728,H K J.,K has domain U.,"Given the previous statements, is H a A?",No,H is not a A.,False,No
+750,H S A.,S has domain K.,"Given the previous statements, is H a K?",Yes,H is a K.,True,No
+763,H R M.,R has domain Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True,No
+1993,J N R.,N has domain G.,"Given the previous statements, is J a V?",No,J is not a V.,False,No
+1409,E S M.,S has domain G.,"Given the previous statements, is E a X?",No,E is not a X.,False,No
+1283,C U W.,U has domain Z.,"Given the previous statements, is C a R?",No,C is not a R.,False,No
+1642,G V T.,V has domain S.,"Given the previous statements, is G a D?",No,G is not a D.,False,No
+27,A U J.,U has domain W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,Yes
+786,H S I.,S has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+310,D W O.,W has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,Yes
+20,A K H.,K has domain Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,Yes
+1388,D I A.,I has domain Y.,"Given the previous statements, is D a T?",No,D is not a T.,False,No
+1101,B Q W.,Q has domain L.,"Given the previous statements, is B a U?",No,B is not a U.,False,No
+114,B U C.,U has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+1929,J A U.,A has domain K.,"Given the previous statements, is J a D?",No,J is not a D.,False,No
+410,E X M.,X has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+1947,J T O.,T has domain B.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,No
+906,J C X.,C has domain G.,"Given the previous statements, is J a G?",Yes,J is a G.,True,Yes
+1605,G Z B.,Z has domain L.,"Given the previous statements, is G a P?",No,G is not a P.,False,No
+1248,C U G.,U has domain V.,"Given the previous statements, is C a N?",No,C is not a N.,False,No
+319,D F O.,F has domain G.,"Given the previous statements, is D a G?",Yes,D is a G.,True,Yes
+75,A P F.,P has domain D.,"Given the previous statements, is A a D?",Yes,A is a D.,True,Yes
+1282,C H Z.,H has domain X.,"Given the previous statements, is C a F?",No,C is not a F.,False,No
+520,F Z N.,Z has domain E.,"Given the previous statements, is F a E?",Yes,F is a E.,True,Yes
+994,J A P.,A has domain V.,"Given the previous statements, is J a V?",Yes,J is a V.,True,Yes
+1765,H Q F.,Q has domain K.,"Given the previous statements, is H a S?",No,H is not a S.,False,No
+50,A L R.,L has domain F.,"Given the previous statements, is A a F?",Yes,A is a F.,True,Yes
+1977,J T U.,T has domain W.,"Given the previous statements, is J a V?",No,J is not a V.,False,No
+1779,H D K.,D has domain O.,"Given the previous statements, is H a U?",No,H is not a U.,False,No
+1926,J H C.,H has domain K.,"Given the previous statements, is J a W?",No,J is not a W.,False,No
+361,D W O.,W has domain Q.,"Given the previous statements, is D a Q?",Yes,D is a Q.,True,Yes
+935,J E W.,E has domain Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True,Yes
+1751,H K L.,K has domain U.,"Given the previous statements, is H a D?",No,H is not a D.,False,No
+1791,H F Y.,F has domain K.,"Given the previous statements, is H a L?",No,H is not a L.,False,No
+1863,I D C.,D has domain U.,"Given the previous statements, is I a A?",No,I is not a A.,False,Yes
+1746,H X T.,X has domain D.,"Given the previous statements, is H a L?",No,H is not a L.,False,No
+1044,A Y J.,Y has domain K.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+1956,J V Q.,V has domain R.,"Given the previous statements, is J a B?",No,J is not a B.,False,No
+525,F I P.,I has domain E.,"Given the previous statements, is F a E?",Yes,F is a E.,True,Yes
+446,E R C.,R has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+53,A L N.,L has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+1528,F Z R.,Z has domain J.,"Given the previous statements, is F a P?",No,F is not a P.,False,No
+1301,D O Q.,O has domain C.,"Given the previous statements, is D a S?",No,D is not a S.,False,No
+1277,C W Z.,W has domain R.,"Given the previous statements, is C a T?",No,C is not a T.,False,No
+1632,G F T.,F has domain D.,"Given the previous statements, is G a J?",No,G is not a J.,False,No
+929,J N O.,N has domain T.,"Given the previous statements, is J a T?",Yes,J is a T.,True,Yes
+66,A T V.,T has domain L.,"Given the previous statements, is A a L?",Yes,A is a L.,True,Yes
+755,H N L.,N has domain Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True,Yes
+592,F J W.,J has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+1933,J V A.,V has domain P.,"Given the previous statements, is J a X?",No,J is not a X.,False,No
+956,J Q K.,Q has domain T.,"Given the previous statements, is J a T?",Yes,J is a T.,True,Yes
+880,I K D.,K has domain L.,"Given the previous statements, is I a L?",Yes,I is a L.,True,Yes
+683,G J R.,J has domain F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,Yes
+881,I W N.,W has domain T.,"Given the previous statements, is I a T?",Yes,I is a T.,True,Yes
+529,F T G.,T has domain H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,Yes
+1908,J F Y.,F has domain N.,"Given the previous statements, is J a X?",No,J is not a X.,False,No
+1291,C F Y.,F has domain J.,"Given the previous statements, is C a S?",No,C is not a S.,False,No
+1243,C V D.,V has domain T.,"Given the previous statements, is C a X?",No,C is not a X.,False,No
+791,H X Q.,X has domain U.,"Given the previous statements, is H a U?",Yes,H is a U.,True,Yes
+615,G Q V.,Q has domain A.,"Given the previous statements, is G a A?",Yes,G is a A.,True,Yes
+849,I W E.,W has domain F.,"Given the previous statements, is I a F?",Yes,I is a F.,True,Yes
+981,J K A.,K has domain V.,"Given the previous statements, is J a V?",Yes,J is a V.,True,No
+1974,J P D.,P has domain K.,"Given the previous statements, is J a I?",No,J is not a I.,False,No
+1792,H A Q.,A has domain K.,"Given the previous statements, is H a N?",No,H is not a N.,False,No
+657,G P V.,P has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+28,A E B.,E has domain H.,"Given the previous statements, is A a H?",Yes,A is a H.,True,Yes
+1430,E U I.,U has domain T.,"Given the previous statements, is E a H?",No,E is not a H.,False,No
+798,H L O.,L has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+1419,E S O.,S has domain W.,"Given the previous statements, is E a I?",No,E is not a I.,False,Yes
+460,E V N.,V has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+1603,G Y J.,Y has domain S.,"Given the previous statements, is G a B?",No,G is not a B.,False,No
+733,H B A.,B has domain L.,"Given the previous statements, is H a L?",Yes,H is a L.,True,Yes
+350,D B S.,B has domain G.,"Given the previous statements, is D a G?",Yes,D is a G.,True,No
+104,B O J.,O has domain M.,"Given the previous statements, is B a M?",Yes,B is a M.,True,Yes
+1884,I V X.,V has domain U.,"Given the previous statements, is I a W?",No,I is not a W.,False,No
+257,C W Z.,W has domain X.,"Given the previous statements, is C a X?",Yes,C is a X.,True,Yes
+1406,E W L.,W has domain H.,"Given the previous statements, is E a T?",No,E is not a T.,False,No
+2,A M N.,M has domain G.,"Given the previous statements, is A a G?",Yes,A is a G.,True,Yes
+194,B W L.,W has domain V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,Yes
+1862,I N P.,N has domain E.,"Given the previous statements, is I a K?",No,I is not a K.,False,No
+692,G L T.,L has domain K.,"Given the previous statements, is G a K?",Yes,G is a K.,True,Yes
+1887,I C D.,C has domain X.,"Given the previous statements, is I a M?",No,I is not a M.,False,No
+1804,I K C.,K has domain F.,"Given the previous statements, is I a Z?",No,I is not a Z.,False,No
+700,G Y H.,Y has domain K.,"Given the previous statements, is G a K?",Yes,G is a K.,True,Yes
+481,E W R.,W has domain C.,"Given the previous statements, is E a C?",Yes,E is a C.,True,Yes
+1618,G B N.,B has domain W.,"Given the previous statements, is G a E?",No,G is not a E.,False,Yes
+1391,D M P.,M has domain Y.,"Given the previous statements, is D a V?",No,D is not a V.,False,No
+1413,E D N.,D has domain F.,"Given the previous statements, is E a Y?",No,E is not a Y.,False,No
+84,A S O.,S has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+920,J W B.,W has domain G.,"Given the previous statements, is J a G?",Yes,J is a G.,True,Yes
+917,J M L.,M has domain N.,"Given the previous statements, is J a N?",Yes,J is a N.,True,Yes
+279,C R G.,R has domain F.,"Given the previous statements, is C a F?",Yes,C is a F.,True,Yes
+1378,D P O.,P has domain L.,"Given the previous statements, is D a T?",No,D is not a T.,False,No
+392,D W H.,W has domain R.,"Given the previous statements, is D a R?",Yes,D is a R.,True,Yes
+946,J D M.,D has domain U.,"Given the previous statements, is J a U?",Yes,J is a U.,True,Yes
+1105,B V H.,V has domain D.,"Given the previous statements, is B a E?",No,B is not a E.,False,No
+1842,I V S.,V has domain F.,"Given the previous statements, is I a U?",No,I is not a U.,False,Yes
+907,J F M.,F has domain T.,"Given the previous statements, is J a T?",Yes,J is a T.,True,Yes
+438,E R V.,R has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+1426,E Y R.,Y has domain S.,"Given the previous statements, is E a A?",No,E is not a A.,False,Yes
+30,A C J.,C has domain I.,"Given the previous statements, is A a I?",Yes,A is a I.,True,Yes
+1904,J U R.,U has domain C.,"Given the previous statements, is J a H?",No,J is not a H.,False,No
+33,A Y G.,Y has domain U.,"Given the previous statements, is A a U?",Yes,A is a U.,True,Yes
+1285,C Y S.,Y has domain Z.,"Given the previous statements, is C a N?",No,C is not a N.,False,No
+349,D O B.,O has domain L.,"Given the previous statements, is D a L?",Yes,D is a L.,True,Yes
+1983,J O D.,O has domain I.,"Given the previous statements, is J a S?",No,J is not a S.,False,Yes
+1344,D P A.,P has domain X.,"Given the previous statements, is D a J?",No,D is not a J.,False,No
+467,E P V.,P has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+1671,G F I.,F has domain Q.,"Given the previous statements, is G a E?",No,G is not a E.,False,Yes
+9,A L T.,L has domain F.,"Given the previous statements, is A a F?",Yes,A is a F.,True,Yes
+463,E T Y.,T has domain U.,"Given the previous statements, is E a U?",Yes,E is a U.,True,Yes
+910,J M E.,M has domain L.,"Given the previous statements, is J a L?",Yes,J is a L.,True,Yes
+1915,J N X.,N has domain Z.,"Given the previous statements, is J a B?",No,J is not a B.,False,Yes
+493,E O L.,O has domain G.,"Given the previous statements, is E a G?",Yes,E is a G.,True,Yes
+1937,J I X.,I has domain U.,"Given the previous statements, is J a Z?",No,J is not a Z.,False,No
+1515,F N W.,N has domain A.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+1057,A E V.,E has domain J.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+1836,I O Z.,O has domain P.,"Given the previous statements, is I a J?",No,I is not a J.,False,No
+837,I Y O.,Y has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+1669,G K E.,K has domain M.,"Given the previous statements, is G a J?",No,G is not a J.,False,No
+904,J N Y.,N has domain Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True,Yes
+342,D E Q.,E has domain H.,"Given the previous statements, is D a H?",Yes,D is a H.,True,Yes
+179,B O J.,O has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+932,J D O.,D has domain R.,"Given the previous statements, is J a R?",Yes,J is a R.,True,Yes
+64,A G Q.,G has domain O.,"Given the previous statements, is A a O?",Yes,A is a O.,True,Yes
+1173,B M O.,M has domain L.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+1013,A S Z.,S has domain G.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+1756,H W L.,W has domain K.,"Given the previous statements, is H a C?",No,H is not a C.,False,No
+480,E H O.,H has domain G.,"Given the previous statements, is E a G?",Yes,E is a G.,True,Yes
+725,H N U.,N has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+1553,F H U.,H has domain T.,"Given the previous statements, is F a X?",No,F is not a X.,False,No
+1375,D I L.,I has domain A.,"Given the previous statements, is D a V?",No,D is not a V.,False,No
+720,H I C.,I has domain Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,Yes
+1102,B Y X.,Y has domain W.,"Given the previous statements, is B a G?",No,B is not a G.,False,No
+1231,C S A.,S has domain B.,"Given the previous statements, is C a T?",No,C is not a T.,False,No
+501,F G U.,G has domain X.,"Given the previous statements, is F a X?",Yes,F is a X.,True,Yes
+225,C N V.,N has domain Q.,"Given the previous statements, is C a Q?",Yes,C is a Q.,True,Yes
+890,I N J.,N has domain X.,"Given the previous statements, is I a X?",Yes,I is a X.,True,Yes
+428,E I C.,I has domain V.,"Given the previous statements, is E a V?",Yes,E is a V.,True,Yes
+247,C Y X.,Y has domain H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,Yes
+456,E H X.,H has domain D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,Yes
+861,I G Y.,G has domain K.,"Given the previous statements, is I a K?",Yes,I is a K.,True,Yes
+1214,C J Z.,J has domain T.,"Given the previous statements, is C a A?",No,C is not a A.,False,No
+1718,H P B.,P has domain G.,"Given the previous statements, is H a N?",No,H is not a N.,False,No
+1055,A S X.,S has domain G.,"Given the previous statements, is A a O?",No,A is not a O.,False,Yes
+1992,J W S.,W has domain L.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+1090,A D E.,D has domain C.,"Given the previous statements, is A a L?",No,A is not a L.,False,No
+1878,I U Z.,U has domain G.,"Given the previous statements, is I a M?",No,I is not a M.,False,No
+1999,J P C.,P has domain G.,"Given the previous statements, is J a E?",No,J is not a E.,False,No
+1174,B D S.,D has domain I.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+787,H M T.,M has domain W.,"Given the previous statements, is H a W?",Yes,H is a W.,True,Yes
+1743,H S F.,S has domain E.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,No
+630,G H B.,H has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+1329,D C N.,C has domain K.,"Given the previous statements, is D a A?",No,D is not a A.,False,No
+1778,H A N.,A has domain Y.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1078,A V C.,V has domain L.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,No
+1322,D O B.,O has domain C.,"Given the previous statements, is D a R?",No,D is not a R.,False,No
+1635,G R X.,R has domain N.,"Given the previous statements, is G a P?",No,G is not a P.,False,Yes
+220,C A R.,A has domain J.,"Given the previous statements, is C a J?",Yes,C is a J.,True,Yes
+1211,C L G.,L has domain D.,"Given the previous statements, is C a H?",No,C is not a H.,False,No
+1068,A E C.,E has domain G.,"Given the previous statements, is A a V?",No,A is not a V.,False,No
+656,G B Q.,B has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+1421,E A W.,A has domain N.,"Given the previous statements, is E a L?",No,E is not a L.,False,No
+1950,J Z S.,Z has domain B.,"Given the previous statements, is J a L?",No,J is not a L.,False,No
+984,J O X.,O has domain Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True,Yes
+605,G M V.,M has domain U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,Yes
+1777,H N K.,N has domain C.,"Given the previous statements, is H a F?",No,H is not a F.,False,No
+1601,G M A.,M has domain P.,"Given the previous statements, is G a O?",No,G is not a O.,False,No
+888,I S L.,S has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+1217,C E N.,E has domain V.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+148,B N H.,N has domain F.,"Given the previous statements, is B a F?",Yes,B is a F.,True,Yes
+351,D Q E.,Q has domain K.,"Given the previous statements, is D a K?",Yes,D is a K.,True,Yes
+1881,I D K.,D has domain N.,"Given the previous statements, is I a B?",No,I is not a B.,False,No
+1780,H I X.,I has domain S.,"Given the previous statements, is H a D?",No,H is not a D.,False,No
+943,J H T.,H has domain D.,"Given the previous statements, is J a D?",Yes,J is a D.,True,Yes
+1056,A R D.,R has domain S.,"Given the previous statements, is A a N?",No,A is not a N.,False,No
+426,E J R.,J has domain K.,"Given the previous statements, is E a K?",Yes,E is a K.,True,Yes
+608,G S T.,S has domain B.,"Given the previous statements, is G a B?",Yes,G is a B.,True,Yes
+405,E S B.,S has domain P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,Yes
+665,G F E.,F has domain V.,"Given the previous statements, is G a V?",Yes,G is a V.,True,Yes
+1919,J V H.,V has domain Z.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+1646,G V H.,V has domain T.,"Given the previous statements, is G a D?",No,G is not a D.,False,No
+1928,J O P.,O has domain W.,"Given the previous statements, is J a F?",No,J is not a F.,False,No
+539,F I Z.,I has domain L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,Yes
+747,H Z L.,Z has domain A.,"Given the previous statements, is H a A?",Yes,H is a A.,True,Yes
+864,I H T.,H has domain C.,"Given the previous statements, is I a C?",Yes,I is a C.,True,Yes
+1949,J F O.,F has domain T.,"Given the previous statements, is J a K?",No,J is not a K.,False,No
+42,A F U.,F has domain Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,Yes
+175,B M R.,M has domain U.,"Given the previous statements, is B a U?",Yes,B is a U.,True,Yes
+854,I J B.,J has domain N.,"Given the previous statements, is I a N?",Yes,I is a N.,True,Yes
+676,G I P.,I has domain W.,"Given the previous statements, is G a W?",Yes,G is a W.,True,Yes
+1067,A U S.,U has domain M.,"Given the previous statements, is A a L?",No,A is not a L.,False,Yes
+163,B Z I.,Z has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+314,D M W.,M has domain V.,"Given the previous statements, is D a V?",Yes,D is a V.,True,Yes
+1166,B G Q.,G has domain P.,"Given the previous statements, is B a K?",No,B is not a K.,False,No
+572,F D Y.,D has domain T.,"Given the previous statements, is F a T?",Yes,F is a T.,True,Yes
+1199,B H K.,H has domain X.,"Given the previous statements, is B a S?",No,B is not a S.,False,No
+209,C N K.,N has domain P.,"Given the previous statements, is C a P?",Yes,C is a P.,True,Yes
+1260,C N R.,N has domain S.,"Given the previous statements, is C a D?",No,C is not a D.,False,No
+259,C I R.,I has domain J.,"Given the previous statements, is C a J?",Yes,C is a J.,True,Yes
+1934,J M K.,M has domain U.,"Given the previous statements, is J a O?",No,J is not a O.,False,No
+307,D F Q.,F has domain M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,Yes
+1861,I J R.,J has domain K.,"Given the previous statements, is I a Q?",No,I is not a Q.,False,No
+1991,J Z P.,Z has domain S.,"Given the previous statements, is J a E?",No,J is not a E.,False,Yes
+1636,G L F.,L has domain M.,"Given the previous statements, is G a N?",No,G is not a N.,False,No
+743,H V R.,V has domain U.,"Given the previous statements, is H a U?",Yes,H is a U.,True,Yes
+1118,B A U.,A has domain Q.,"Given the previous statements, is B a X?",No,B is not a X.,False,Yes
+1271,C W D.,W has domain M.,"Given the previous statements, is C a T?",No,C is not a T.,False,No
+1461,E P W.,P has domain O.,"Given the previous statements, is E a Z?",No,E is not a Z.,False,No
+1189,B N M.,N has domain C.,"Given the previous statements, is B a S?",No,B is not a S.,False,No
+671,G K L.,K has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+1316,D K P.,K has domain Q.,"Given the previous statements, is D a E?",No,D is not a E.,False,No
+583,F S P.,S has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+1158,B E O.,E has domain P.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+702,H B I.,B has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+989,J I C.,I has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+277,C W A.,W has domain D.,"Given the previous statements, is C a D?",Yes,C is a D.,True,No
+381,D S I.,S has domain U.,"Given the previous statements, is D a U?",Yes,D is a U.,True,Yes
+345,D Q M.,Q has domain J.,"Given the previous statements, is D a J?",Yes,D is a J.,True,No
+1879,I G Z.,G has domain P.,"Given the previous statements, is I a M?",No,I is not a M.,False,Yes
+823,I R J.,R has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+1653,G J X.,J has domain E.,"Given the previous statements, is G a B?",No,G is not a B.,False,No
+1183,B V M.,V has domain U.,"Given the previous statements, is B a I?",No,B is not a I.,False,Yes
+1769,H O I.,O has domain D.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1050,A P H.,P has domain S.,"Given the previous statements, is A a Q?",No,A is not a Q.,False,No
+356,D G O.,G has domain F.,"Given the previous statements, is D a F?",Yes,D is a F.,True,Yes
+1311,D C G.,C has domain R.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+1539,F Z A.,Z has domain I.,"Given the previous statements, is F a L?",No,F is not a L.,False,No
+597,F O I.,O has domain Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,Yes
+769,H K C.,K has domain A.,"Given the previous statements, is H a A?",Yes,H is a A.,True,Yes
+1356,D V A.,V has domain H.,"Given the previous statements, is D a J?",No,D is not a J.,False,No
+1833,I A Z.,A has domain G.,"Given the previous statements, is I a E?",No,I is not a E.,False,Yes
+1259,C Z J.,Z has domain O.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+1717,H P T.,P has domain X.,"Given the previous statements, is H a V?",No,H is not a V.,False,No
+1318,D O N.,O has domain L.,"Given the previous statements, is D a E?",No,D is not a E.,False,No
+1399,D E I.,E has domain Q.,"Given the previous statements, is D a F?",No,D is not a F.,False,No
+1495,E L Z.,L has domain D.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+1870,I E F.,E has domain M.,"Given the previous statements, is I a P?",No,I is not a P.,False,No
+276,C A L.,A has domain V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,Yes
+688,G V J.,V has domain M.,"Given the previous statements, is G a M?",Yes,G is a M.,True,Yes
+1261,C W B.,W has domain Y.,"Given the previous statements, is C a V?",No,C is not a V.,False,No
+1449,E L N.,L has domain B.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+398,D Y Q.,Y has domain T.,"Given the previous statements, is D a T?",Yes,D is a T.,True,Yes
+459,E Z W.,Z has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+1627,G D X.,D has domain O.,"Given the previous statements, is G a W?",No,G is not a W.,False,No
+1142,B P D.,P has domain Z.,"Given the previous statements, is B a H?",No,B is not a H.,False,Yes
+1119,B M E.,M has domain A.,"Given the previous statements, is B a K?",No,B is not a K.,False,No
+1901,J L W.,L has domain K.,"Given the previous statements, is J a F?",No,J is not a F.,False,No
+595,F W J.,W has domain U.,"Given the previous statements, is F a U?",Yes,F is a U.,True,Yes
+1178,B J R.,J has domain I.,"Given the previous statements, is B a A?",No,B is not a A.,False,Yes
+83,A G X.,G has domain P.,"Given the previous statements, is A a P?",Yes,A is a P.,True,Yes
+1459,E N A.,N has domain S.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+1365,D S U.,S has domain E.,"Given the previous statements, is D a L?",No,D is not a L.,False,No
+1620,G P M.,P has domain I.,"Given the previous statements, is G a U?",No,G is not a U.,False,No
+515,F G R.,G has domain J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,Yes
+1240,C T S.,T has domain U.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+1704,H E T.,E has domain F.,"Given the previous statements, is H a O?",No,H is not a O.,False,No
+1785,H V D.,V has domain G.,"Given the previous statements, is H a F?",No,H is not a F.,False,No
+1719,H D E.,D has domain J.,"Given the previous statements, is H a O?",No,H is not a O.,False,No
+1958,J Y G.,Y has domain L.,"Given the previous statements, is J a O?",No,J is not a O.,False,Yes
+1807,I N M.,N has domain T.,"Given the previous statements, is I a F?",No,I is not a F.,False,No
+362,D M H.,M has domain C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,Yes
+1034,A P V.,P has domain S.,"Given the previous statements, is A a U?",No,A is not a U.,False,No
+1557,F Q B.,Q has domain M.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No
+1326,D S Z.,S has domain O.,"Given the previous statements, is D a P?",No,D is not a P.,False,No
+589,F D V.,D has domain I.,"Given the previous statements, is F a I?",Yes,F is a I.,True,Yes
+107,B Z X.,Z has domain L.,"Given the previous statements, is B a L?",Yes,B is a L.,True,Yes
+1602,G E N.,E has domain X.,"Given the previous statements, is G a K?",No,G is not a K.,False,No
+1453,E F R.,F has domain U.,"Given the previous statements, is E a I?",No,E is not a I.,False,No
+1775,H B C.,B has domain P.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+524,F Q P.,Q has domain Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,No
+1883,I C B.,C has domain L.,"Given the previous statements, is I a H?",No,I is not a H.,False,No
+103,B X J.,X has domain D.,"Given the previous statements, is B a D?",Yes,B is a D.,True,Yes
+558,F Q R.,Q has domain J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,Yes
+986,J O D.,O has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+98,A Y T.,Y has domain V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,Yes
+196,B H Z.,H has domain F.,"Given the previous statements, is B a F?",Yes,B is a F.,True,Yes
+1689,G J F.,J has domain V.,"Given the previous statements, is G a C?",No,G is not a C.,False,No
+1610,G C Y.,C has domain N.,"Given the previous statements, is G a P?",No,G is not a P.,False,No
+1098,A T P.,T has domain J.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,No
+1100,A U S.,U has domain F.,"Given the previous statements, is A a H?",No,A is not a H.,False,No
+504,F T E.,T has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+224,C P K.,P has domain E.,"Given the previous statements, is C a E?",Yes,C is a E.,True,Yes
+1124,B D H.,D has domain G.,"Given the previous statements, is B a E?",No,B is not a E.,False,No
+1415,E Q G.,Q has domain C.,"Given the previous statements, is E a L?",No,E is not a L.,False,Yes
+1382,D X V.,X has domain P.,"Given the previous statements, is D a Z?",No,D is not a Z.,False,No
+1191,B L W.,L has domain C.,"Given the previous statements, is B a F?",No,B is not a F.,False,No
+1851,I H A.,H has domain Y.,"Given the previous statements, is I a M?",No,I is not a M.,False,Yes
+1278,C P A.,P has domain G.,"Given the previous statements, is C a H?",No,C is not a H.,False,No
+1964,J A E.,A has domain L.,"Given the previous statements, is J a R?",No,J is not a R.,False,No
+1533,F X C.,X has domain V.,"Given the previous statements, is F a Q?",No,F is not a Q.,False,No
+1624,G F S.,F has domain N.,"Given the previous statements, is G a U?",No,G is not a U.,False,Yes
+1672,G H O.,H has domain C.,"Given the previous statements, is G a A?",No,G is not a A.,False,Yes
+1784,H Z K.,Z has domain M.,"Given the previous statements, is H a V?",No,H is not a V.,False,No
+1574,F R L.,R has domain N.,"Given the previous statements, is F a I?",No,F is not a I.,False,Yes
+1481,E Q G.,Q has domain N.,"Given the previous statements, is E a F?",No,E is not a F.,False,No
+44,A R D.,R has domain Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,Yes
+169,B Z G.,Z has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+447,E Y Q.,Y has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+967,J V X.,V has domain T.,"Given the previous statements, is J a T?",Yes,J is a T.,True,Yes
+1082,A H M.,H has domain P.,"Given the previous statements, is A a X?",No,A is not a X.,False,No
+264,C I N.,I has domain A.,"Given the previous statements, is C a A?",Yes,C is a A.,True,Yes
+510,F I E.,I has domain Q.,"Given the previous statements, is F a Q?",Yes,F is a Q.,True,Yes
+915,J O S.,O has domain I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,Yes
+1701,H Q G.,Q has domain M.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,No
+1394,D Z V.,Z has domain C.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+1230,C E Z.,E has domain G.,"Given the previous statements, is C a F?",No,C is not a F.,False,No
+1681,G V H.,V has domain J.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,No
+1727,H G A.,G has domain V.,"Given the previous statements, is H a E?",No,H is not a E.,False,No
+1549,F X G.,X has domain L.,"Given the previous statements, is F a O?",No,F is not a O.,False,No
+16,A N U.,N has domain O.,"Given the previous statements, is A a O?",Yes,A is a O.,True,Yes
+1795,H R E.,R has domain S.,"Given the previous statements, is H a N?",No,H is not a N.,False,No
+1693,G I S.,I has domain Z.,"Given the previous statements, is G a B?",No,G is not a B.,False,No
+846,I O N.,O has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+1405,E Q S.,Q has domain V.,"Given the previous statements, is E a I?",No,E is not a I.,False,Yes
+1614,G C O.,C has domain S.,"Given the previous statements, is G a W?",No,G is not a W.,False,No
+366,D R X.,R has domain P.,"Given the previous statements, is D a P?",Yes,D is a P.,True,No
+488,E A X.,A has domain B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,Yes
+1809,I G J.,G has domain S.,"Given the previous statements, is I a H?",No,I is not a H.,False,No
+1902,J K S.,K has domain Y.,"Given the previous statements, is J a X?",No,J is not a X.,False,No
+1694,G S C.,S has domain P.,"Given the previous statements, is G a N?",No,G is not a N.,False,Yes
+1347,D L I.,L has domain Z.,"Given the previous statements, is D a J?",No,D is not a J.,False,No
+1492,E R G.,R has domain S.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+1296,C A M.,A has domain S.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+1626,G P C.,P has domain S.,"Given the previous statements, is G a A?",No,G is not a A.,False,No
+1089,A J L.,J has domain S.,"Given the previous statements, is A a Q?",No,A is not a Q.,False,No
+756,H P R.,P has domain B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,Yes
+807,I S A.,S has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+1116,B Z F.,Z has domain G.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+1357,D V Q.,V has domain U.,"Given the previous statements, is D a R?",No,D is not a R.,False,Yes
+1930,J Z H.,Z has domain U.,"Given the previous statements, is J a E?",No,J is not a E.,False,No
+495,E F T.,F has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+568,F T D.,T has domain P.,"Given the previous statements, is F a P?",Yes,F is a P.,True,Yes
+1798,H I F.,I has domain G.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1729,H B A.,B has domain G.,"Given the previous statements, is H a R?",No,H is not a R.,False,No
+145,B R Q.,R has domain Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True,Yes
+681,G O Z.,O has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+1782,H Q S.,Q has domain A.,"Given the previous statements, is H a V?",No,H is not a V.,False,No
+1324,D J F.,J has domain H.,"Given the previous statements, is D a O?",No,D is not a O.,False,No
+1140,B V J.,V has domain U.,"Given the previous statements, is B a S?",No,B is not a S.,False,No
+312,D S K.,S has domain B.,"Given the previous statements, is D a B?",Yes,D is a B.,True,Yes
+1667,G A Z.,A has domain M.,"Given the previous statements, is G a V?",No,G is not a V.,False,No
+1995,J M R.,M has domain E.,"Given the previous statements, is J a V?",No,J is not a V.,False,No
+751,H I B.,I has domain J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,Yes
+670,G T V.,T has domain N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,Yes
+1565,F Z T.,Z has domain V.,"Given the previous statements, is F a B?",No,F is not a B.,False,Yes
+377,D S K.,S has domain L.,"Given the previous statements, is D a L?",Yes,D is a L.,True,Yes
+378,D A Z.,A has domain P.,"Given the previous statements, is D a P?",Yes,D is a P.,True,Yes
+822,I Q O.,Q has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+884,I N L.,N has domain P.,"Given the previous statements, is I a P?",Yes,I is a P.,True,Yes
+835,I D W.,D has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+1621,G P U.,P has domain I.,"Given the previous statements, is G a C?",No,G is not a C.,False,No
+645,G M C.,M has domain P.,"Given the previous statements, is G a P?",Yes,G is a P.,True,Yes
+518,F C X.,C has domain J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,Yes
+298,C G Z.,G has domain F.,"Given the previous statements, is C a F?",Yes,C is a F.,True,Yes
+635,G M O.,M has domain P.,"Given the previous statements, is G a P?",Yes,G is a P.,True,Yes
+1073,A K O.,K has domain P.,"Given the previous statements, is A a C?",No,A is not a C.,False,No
+1274,C M L.,M has domain J.,"Given the previous statements, is C a U?",No,C is not a U.,False,Yes
+1814,I U J.,U has domain B.,"Given the previous statements, is I a L?",No,I is not a L.,False,No
+385,D N S.,N has domain L.,"Given the previous statements, is D a L?",Yes,D is a L.,True,Yes
+913,J A T.,A has domain K.,"Given the previous statements, is J a K?",Yes,J is a K.,True,Yes
+636,G W B.,W has domain X.,"Given the previous statements, is G a X?",Yes,G is a X.,True,Yes
+1918,J H F.,H has domain W.,"Given the previous statements, is J a P?",No,J is not a P.,False,No
+863,I L S.,L has domain F.,"Given the previous statements, is I a F?",Yes,I is a F.,True,Yes
+306,D I L.,I has domain V.,"Given the previous statements, is D a V?",Yes,D is a V.,True,Yes
+1971,J R M.,R has domain O.,"Given the previous statements, is J a W?",No,J is not a W.,False,No
+241,C R L.,R has domain U.,"Given the previous statements, is C a U?",Yes,C is a U.,True,Yes
+395,D P H.,P has domain Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,Yes
+990,J H Y.,H has domain G.,"Given the previous statements, is J a G?",Yes,J is a G.,True,Yes
+713,H V T.,V has domain A.,"Given the previous statements, is H a A?",Yes,H is a A.,True,Yes
+689,G A L.,A has domain Z.,"Given the previous statements, is G a Z?",Yes,G is a Z.,True,Yes
+1373,D B M.,B has domain F.,"Given the previous statements, is D a U?",No,D is not a U.,False,No
+1096,A R S.,R has domain U.,"Given the previous statements, is A a Z?",No,A is not a Z.,False,No
+1629,G M B.,M has domain A.,"Given the previous statements, is G a D?",No,G is not a D.,False,No
+1966,J U P.,U has domain W.,"Given the previous statements, is J a A?",No,J is not a A.,False,Yes
+1824,I X K.,X has domain P.,"Given the previous statements, is I a N?",No,I is not a N.,False,No
+732,H K V.,K has domain Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,Yes
+541,F T A.,T has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+328,D J I.,J has domain B.,"Given the previous statements, is D a B?",Yes,D is a B.,True,Yes
+115,B S N.,S has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+1595,F Y Q.,Y has domain G.,"Given the previous statements, is F a X?",No,F is not a X.,False,Yes
+292,C F V.,F has domain W.,"Given the previous statements, is C a W?",Yes,C is a W.,True,Yes
+46,A Z B.,Z has domain E.,"Given the previous statements, is A a E?",Yes,A is a E.,True,Yes
+1042,A M C.,M has domain U.,"Given the previous statements, is A a B?",No,A is not a B.,False,No
+1106,B V Q.,V has domain L.,"Given the previous statements, is B a T?",No,B is not a T.,False,No
+892,I K E.,K has domain S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,Yes
+202,C U Z.,U has domain K.,"Given the previous statements, is C a K?",Yes,C is a K.,True,Yes
+860,I J C.,J has domain K.,"Given the previous statements, is I a K?",Yes,I is a K.,True,Yes
+1410,E F L.,F has domain V.,"Given the previous statements, is E a J?",No,E is not a J.,False,No
+1312,D M Z.,M has domain C.,"Given the previous statements, is D a E?",No,D is not a E.,False,No
+1885,I K Y.,K has domain D.,"Given the previous statements, is I a X?",No,I is not a X.,False,No
+1023,A F K.,F has domain T.,"Given the previous statements, is A a V?",No,A is not a V.,False,No
+621,G V Q.,V has domain Y.,"Given the previous statements, is G a Y?",Yes,G is a Y.,True,Yes
+1024,A O T.,O has domain J.,"Given the previous statements, is A a U?",No,A is not a U.,False,No
+197,B W L.,W has domain D.,"Given the previous statements, is B a D?",Yes,B is a D.,True,Yes
+288,C F G.,F has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,No
+1546,F U V.,U has domain K.,"Given the previous statements, is F a Y?",No,F is not a Y.,False,No
+721,H W C.,W has domain K.,"Given the previous statements, is H a K?",Yes,H is a K.,True,Yes
+1706,H G W.,G has domain Q.,"Given the previous statements, is H a Y?",No,H is not a Y.,False,No
+663,G X C.,X has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+970,J O T.,O has domain W.,"Given the previous statements, is J a W?",Yes,J is a W.,True,Yes
+226,C A E.,A has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+1109,B P R.,P has domain G.,"Given the previous statements, is B a W?",No,B is not a W.,False,No
+142,B S G.,S has domain L.,"Given the previous statements, is B a L?",Yes,B is a L.,True,Yes
+1396,D T W.,T has domain M.,"Given the previous statements, is D a O?",No,D is not a O.,False,No
+406,E J T.,J has domain M.,"Given the previous statements, is E a M?",Yes,E is a M.,True,Yes
+1341,D T Z.,T has domain K.,"Given the previous statements, is D a F?",No,D is not a F.,False,No
+1216,C R P.,R has domain W.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+576,F E Y.,E has domain H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,Yes
+719,H K X.,K has domain N.,"Given the previous statements, is H a N?",Yes,H is a N.,True,Yes
+875,I J E.,J has domain A.,"Given the previous statements, is I a A?",Yes,I is a A.,True,Yes
+275,C F P.,F has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+1238,C V G.,V has domain M.,"Given the previous statements, is C a Q?",No,C is not a Q.,False,No
+291,C T G.,T has domain S.,"Given the previous statements, is C a S?",Yes,C is a S.,True,Yes
+80,A O I.,O has domain Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,Yes
+895,I H Y.,H has domain T.,"Given the previous statements, is I a T?",Yes,I is a T.,True,Yes
+1039,A B E.,B has domain I.,"Given the previous statements, is A a T?",No,A is not a T.,False,No
+433,E B G.,B has domain X.,"Given the previous statements, is E a X?",Yes,E is a X.,True,Yes
+1584,F Z Q.,Z has domain K.,"Given the previous statements, is F a E?",No,F is not a E.,False,No
+327,D A K.,A has domain Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,Yes
+317,D W K.,W has domain X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,Yes
+1500,E R J.,R has domain P.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+531,F T S.,T has domain C.,"Given the previous statements, is F a C?",Yes,F is a C.,True,Yes
+1523,F S E.,S has domain V.,"Given the previous statements, is F a P?",No,F is not a P.,False,No
+1298,C F I.,F has domain S.,"Given the previous statements, is C a T?",No,C is not a T.,False,No
+1176,B V G.,V has domain X.,"Given the previous statements, is B a U?",No,B is not a U.,False,No
+1657,G L M.,L has domain K.,"Given the previous statements, is G a C?",No,G is not a C.,False,No
+1114,B V C.,V has domain N.,"Given the previous statements, is B a Z?",No,B is not a Z.,False,No
+1734,H P J.,P has domain A.,"Given the previous statements, is H a T?",No,H is not a T.,False,Yes
+1640,G I S.,I has domain N.,"Given the previous statements, is G a U?",No,G is not a U.,False,No
+687,G C N.,C has domain M.,"Given the previous statements, is G a M?",Yes,G is a M.,True,Yes
+168,B R W.,R has domain A.,"Given the previous statements, is B a A?",Yes,B is a A.,True,Yes
+359,D V X.,V has domain K.,"Given the previous statements, is D a K?",Yes,D is a K.,True,Yes
+200,B H G.,H has domain U.,"Given the previous statements, is B a U?",Yes,B is a U.,True,Yes
+1005,A T I.,T has domain S.,"Given the previous statements, is A a N?",No,A is not a N.,False,No
+802,I U K.,U has domain O.,"Given the previous statements, is I a O?",Yes,I is a O.,True,Yes
+1556,F A M.,A has domain Z.,"Given the previous statements, is F a I?",No,F is not a I.,False,No
+1796,H C W.,C has domain Y.,"Given the previous statements, is H a J?",No,H is not a J.,False,No
+1303,D Y E.,Y has domain X.,"Given the previous statements, is D a S?",No,D is not a S.,False,Yes
+1898,I H O.,H has domain X.,"Given the previous statements, is I a U?",No,I is not a U.,False,No
+1873,I P B.,P has domain J.,"Given the previous statements, is I a N?",No,I is not a N.,False,No
+1262,C Y S.,Y has domain X.,"Given the previous statements, is C a A?",No,C is not a A.,False,No
+1979,J Y F.,Y has domain Z.,"Given the previous statements, is J a D?",No,J is not a D.,False,No
+1080,A Y W.,Y has domain Q.,"Given the previous statements, is A a S?",No,A is not a S.,False,No
+577,F X G.,X has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+1485,E U S.,U has domain R.,"Given the previous statements, is E a D?",No,E is not a D.,False,No
+254,C I X.,I has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+296,C S F.,S has domain D.,"Given the previous statements, is C a D?",Yes,C is a D.,True,Yes
+354,D R T.,R has domain C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,Yes
+1239,C W S.,W has domain T.,"Given the previous statements, is C a P?",No,C is not a P.,False,No
+365,D K J.,K has domain W.,"Given the previous statements, is D a W?",Yes,D is a W.,True,Yes
+1976,J F Y.,F has domain X.,"Given the previous statements, is J a B?",No,J is not a B.,False,No
+606,G H L.,H has domain A.,"Given the previous statements, is G a A?",Yes,G is a A.,True,Yes
+648,G Z V.,Z has domain N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,Yes
+627,G X Z.,X has domain O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,Yes
+474,E O Y.,O has domain X.,"Given the previous statements, is E a X?",Yes,E is a X.,True,Yes
+62,A W S.,W has domain V.,"Given the previous statements, is A a V?",Yes,A is a V.,True,Yes
+1980,J K N.,K has domain X.,"Given the previous statements, is J a O?",No,J is not a O.,False,No
+1125,B I V.,I has domain R.,"Given the previous statements, is B a Q?",No,B is not a Q.,False,No
+639,G S Z.,S has domain C.,"Given the previous statements, is G a C?",Yes,G is a C.,True,Yes
+590,F P G.,P has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+1961,J F P.,F has domain K.,"Given the previous statements, is J a H?",No,J is not a H.,False,Yes
+1982,J E V.,E has domain S.,"Given the previous statements, is J a I?",No,J is not a I.,False,Yes
+457,E Y A.,Y has domain B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,Yes
+448,E U P.,U has domain D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,Yes
+775,H P Q.,P has domain V.,"Given the previous statements, is H a V?",Yes,H is a V.,True,Yes
+404,E B I.,B has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+705,H Y K.,Y has domain Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,Yes
+207,C D S.,D has domain A.,"Given the previous statements, is C a A?",Yes,C is a A.,True,Yes
+355,D G F.,G has domain C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,Yes
+1448,E M V.,M has domain X.,"Given the previous statements, is E a S?",No,E is not a S.,False,No
+1432,E S J.,S has domain M.,"Given the previous statements, is E a T?",No,E is not a T.,False,Yes
+586,F N L.,N has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+1397,D C R.,C has domain F.,"Given the previous statements, is D a E?",No,D is not a E.,False,No
+1153,B T N.,T has domain Z.,"Given the previous statements, is B a O?",No,B is not a O.,False,Yes
+1975,J A K.,A has domain C.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+1369,D H S.,H has domain L.,"Given the previous statements, is D a A?",No,D is not a A.,False,Yes
+612,G M W.,M has domain D.,"Given the previous statements, is G a D?",Yes,G is a D.,True,Yes
+266,C L H.,L has domain I.,"Given the previous statements, is C a I?",Yes,C is a I.,True,Yes
+1753,H J N.,J has domain O.,"Given the previous statements, is H a R?",No,H is not a R.,False,No
+742,H I P.,I has domain G.,"Given the previous statements, is H a G?",Yes,H is a G.,True,Yes
+1043,A G M.,G has domain T.,"Given the previous statements, is A a Z?",No,A is not a Z.,False,No
+1797,H X T.,X has domain S.,"Given the previous statements, is H a G?",No,H is not a G.,False,No
+821,I O V.,O has domain Q.,"Given the previous statements, is I a Q?",Yes,I is a Q.,True,Yes
+323,D E I.,E has domain C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,Yes
+1650,G X S.,X has domain B.,"Given the previous statements, is G a H?",No,G is not a H.,False,No
+85,A H J.,H has domain B.,"Given the previous statements, is A a B?",Yes,A is a B.,True,Yes
+1427,E M X.,M has domain L.,"Given the previous statements, is E a A?",No,E is not a A.,False,Yes
+186,B Q R.,Q has domain G.,"Given the previous statements, is B a G?",Yes,B is a G.,True,Yes
+964,J D P.,D has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+475,E O S.,O has domain G.,"Given the previous statements, is E a G?",Yes,E is a G.,True,Yes
+260,C M P.,M has domain A.,"Given the previous statements, is C a A?",Yes,C is a A.,True,Yes
+1192,B W H.,W has domain P.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,No
+1664,G L M.,L has domain V.,"Given the previous statements, is G a I?",No,G is not a I.,False,No
+178,B T H.,T has domain V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,Yes
+1115,B O Y.,O has domain P.,"Given the previous statements, is B a V?",No,B is not a V.,False,No
+1351,D H P.,H has domain E.,"Given the previous statements, is D a X?",No,D is not a X.,False,No
+106,B W E.,W has domain X.,"Given the previous statements, is B a X?",Yes,B is a X.,True,Yes
+825,I T M.,T has domain W.,"Given the previous statements, is I a W?",Yes,I is a W.,True,Yes
+65,A Z N.,Z has domain P.,"Given the previous statements, is A a P?",Yes,A is a P.,True,Yes
+1912,J W X.,W has domain Y.,"Given the previous statements, is J a C?",No,J is not a C.,False,No
+1247,C H I.,H has domain S.,"Given the previous statements, is C a L?",No,C is not a L.,False,No
+180,B I P.,I has domain Y.,"Given the previous statements, is B a Y?",Yes,B is a Y.,True,Yes
+249,C B Y.,B has domain O.,"Given the previous statements, is C a O?",Yes,C is a O.,True,Yes
+1917,J Y Z.,Y has domain W.,"Given the previous statements, is J a E?",No,J is not a E.,False,No
+1159,B V Q.,V has domain F.,"Given the previous statements, is B a E?",No,B is not a E.,False,No
+629,G B W.,B has domain X.,"Given the previous statements, is G a X?",Yes,G is a X.,True,Yes
+701,H E T.,E has domain R.,"Given the previous statements, is H a R?",Yes,H is a R.,True,Yes
+912,J B T.,B has domain A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,Yes
+299,C T V.,T has domain R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,Yes
+1954,J S I.,S has domain W.,"Given the previous statements, is J a A?",No,J is not a A.,False,No
+102,B D R.,D has domain J.,"Given the previous statements, is B a J?",Yes,B is a J.,True,Yes
+1295,C L F.,L has domain K.,"Given the previous statements, is C a G?",No,C is not a G.,False,No
+1478,E S Y.,S has domain K.,"Given the previous statements, is E a O?",No,E is not a O.,False,Yes
+1872,I Y J.,Y has domain M.,"Given the previous statements, is I a R?",No,I is not a R.,False,No
+253,C G D.,G has domain U.,"Given the previous statements, is C a U?",Yes,C is a U.,True,Yes
+1545,F P W.,P has domain O.,"Given the previous statements, is F a E?",No,F is not a E.,False,No
+873,I Q D.,Q has domain B.,"Given the previous statements, is I a B?",Yes,I is a B.,True,Yes
+1823,I W H.,W has domain P.,"Given the previous statements, is I a D?",No,I is not a D.,False,Yes
+1014,A O K.,O has domain E.,"Given the previous statements, is A a X?",No,A is not a X.,False,No
+97,A V N.,V has domain R.,"Given the previous statements, is A a R?",Yes,A is a R.,True,Yes
+1580,F C X.,C has domain W.,"Given the previous statements, is F a Y?",No,F is not a Y.,False,No
+1617,G Y F.,Y has domain I.,"Given the previous statements, is G a T?",No,G is not a T.,False,Yes
+1799,H X Q.,X has domain Y.,"Given the previous statements, is H a W?",No,H is not a W.,False,No
+1645,G D B.,D has domain O.,"Given the previous statements, is G a L?",No,G is not a L.,False,Yes
+248,C X M.,X has domain J.,"Given the previous statements, is C a J?",Yes,C is a J.,True,Yes
+1945,J W D.,W has domain N.,"Given the previous statements, is J a T?",No,J is not a T.,False,No
+1843,I M N.,M has domain U.,"Given the previous statements, is I a V?",No,I is not a V.,False,No
+509,F R L.,R has domain Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,Yes
+332,D C V.,C has domain Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,No
+815,I D B.,D has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+1762,H M F.,M has domain X.,"Given the previous statements, is H a C?",No,H is not a C.,False,No
+59,A J T.,J has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+902,J C M.,C has domain I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,Yes
+10,A F R.,F has domain Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,Yes
+1790,H C Y.,C has domain W.,"Given the previous statements, is H a G?",No,H is not a G.,False,No
+1619,G W V.,W has domain R.,"Given the previous statements, is G a H?",No,G is not a H.,False,No
+942,J H B.,H has domain G.,"Given the previous statements, is J a G?",Yes,J is a G.,True,Yes
+128,B U I.,U has domain G.,"Given the previous statements, is B a G?",Yes,B is a G.,True,Yes
+372,D C B.,C has domain T.,"Given the previous statements, is D a T?",Yes,D is a T.,True,Yes
+1699,G D T.,D has domain X.,"Given the previous statements, is G a R?",No,G is not a R.,False,Yes
+850,I K N.,K has domain E.,"Given the previous statements, is I a E?",Yes,I is a E.,True,Yes
+1169,B F A.,F has domain I.,"Given the previous statements, is B a M?",No,B is not a M.,False,No
+1208,C U M.,U has domain I.,"Given the previous statements, is C a F?",No,C is not a F.,False,No
+172,B M N.,M has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+565,F O K.,O has domain C.,"Given the previous statements, is F a C?",Yes,F is a C.,True,Yes
+1531,F Y O.,Y has domain V.,"Given the previous statements, is F a J?",No,F is not a J.,False,No
+502,F E N.,E has domain T.,"Given the previous statements, is F a T?",Yes,F is a T.,True,Yes
+552,F P R.,P has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+1755,H O N.,O has domain A.,"Given the previous statements, is H a K?",No,H is not a K.,False,No
+1009,A R V.,R has domain T.,"Given the previous statements, is A a N?",No,A is not a N.,False,No
+337,D H E.,H has domain Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,Yes
+1162,B E M.,E has domain W.,"Given the previous statements, is B a R?",No,B is not a R.,False,No
+1150,B G Z.,G has domain Q.,"Given the previous statements, is B a P?",No,B is not a P.,False,Yes
+585,F K U.,K has domain J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,Yes
+1362,D C Q.,C has domain B.,"Given the previous statements, is D a Y?",No,D is not a Y.,False,No
+1829,I O W.,O has domain Q.,"Given the previous statements, is I a K?",No,I is not a K.,False,No
+429,E Q B.,Q has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+1422,E D Y.,D has domain R.,"Given the previous statements, is E a F?",No,E is not a F.,False,No
+285,C F X.,F has domain R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,Yes
+1156,B Q K.,Q has domain G.,"Given the previous statements, is B a V?",No,B is not a V.,False,No
+799,H Q Z.,Q has domain O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,Yes
+139,B K N.,K has domain C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,Yes
+1138,B R H.,R has domain Y.,"Given the previous statements, is B a A?",No,B is not a A.,False,No
+1054,A I P.,I has domain L.,"Given the previous statements, is A a G?",No,A is not a G.,False,No
+827,I L P.,L has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+717,H U I.,U has domain Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True,Yes
+749,H E R.,E has domain V.,"Given the previous statements, is H a V?",Yes,H is a V.,True,Yes
+766,H K U.,K has domain F.,"Given the previous statements, is H a F?",Yes,H is a F.,True,Yes
+29,A X R.,X has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+653,G V W.,V has domain D.,"Given the previous statements, is G a D?",Yes,G is a D.,True,Yes
+1709,H A K.,A has domain T.,"Given the previous statements, is H a P?",No,H is not a P.,False,No
+1470,E F J.,F has domain X.,"Given the previous statements, is E a P?",No,E is not a P.,False,Yes
+1145,B T V.,T has domain L.,"Given the previous statements, is B a H?",No,B is not a H.,False,No
+1997,J E M.,E has domain U.,"Given the previous statements, is J a I?",No,J is not a I.,False,Yes
+357,D H F.,H has domain L.,"Given the previous statements, is D a L?",Yes,D is a L.,True,Yes
+542,F S Y.,S has domain H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,Yes
+1447,E Q J.,Q has domain C.,"Given the previous statements, is E a S?",No,E is not a S.,False,No
+12,A V Y.,V has domain W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,Yes
+1393,D P S.,P has domain G.,"Given the previous statements, is D a C?",No,D is not a C.,False,No
+1085,A L C.,L has domain S.,"Given the previous statements, is A a R?",No,A is not a R.,False,No
+684,G K V.,K has domain P.,"Given the previous statements, is G a P?",Yes,G is a P.,True,Yes
+1516,F P V.,P has domain M.,"Given the previous statements, is F a J?",No,F is not a J.,False,No
+1965,J H Y.,H has domain S.,"Given the previous statements, is J a G?",No,J is not a G.,False,No
+373,D X A.,X has domain W.,"Given the previous statements, is D a W?",Yes,D is a W.,True,Yes
+631,G A Q.,A has domain O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,Yes
+1957,J X H.,X has domain Z.,"Given the previous statements, is J a V?",No,J is not a V.,False,No
+1525,F T Z.,T has domain Q.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+199,B T P.,T has domain H.,"Given the previous statements, is B a H?",Yes,B is a H.,True,Yes
+841,I V X.,V has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+341,D G O.,G has domain V.,"Given the previous statements, is D a V?",Yes,D is a V.,True,Yes
+1288,C E S.,E has domain Q.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+1081,A F X.,F has domain Q.,"Given the previous statements, is A a L?",No,A is not a L.,False,Yes
+1740,H J Y.,J has domain I.,"Given the previous statements, is H a Q?",No,H is not a Q.,False,No
+1665,G A C.,A has domain J.,"Given the previous statements, is G a U?",No,G is not a U.,False,No
+132,B X T.,X has domain N.,"Given the previous statements, is B a N?",Yes,B is a N.,True,Yes
+1519,F G S.,G has domain K.,"Given the previous statements, is F a H?",No,F is not a H.,False,Yes
+367,D B H.,B has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,Yes
+1381,D T W.,T has domain C.,"Given the previous statements, is D a V?",No,D is not a V.,False,No
+1338,D Q B.,Q has domain E.,"Given the previous statements, is D a K?",No,D is not a K.,False,No
+1392,D P Q.,P has domain I.,"Given the previous statements, is D a H?",No,D is not a H.,False,No
+513,F I S.,I has domain H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,Yes
+133,B M F.,M has domain K.,"Given the previous statements, is B a K?",Yes,B is a K.,True,Yes
+414,E B P.,B has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,No
+980,J M I.,M has domain L.,"Given the previous statements, is J a L?",Yes,J is a L.,True,Yes
+262,C S O.,S has domain P.,"Given the previous statements, is C a P?",Yes,C is a P.,True,Yes
+469,E J P.,J has domain L.,"Given the previous statements, is E a L?",Yes,E is a L.,True,Yes
+694,G C H.,C has domain M.,"Given the previous statements, is G a M?",Yes,G is a M.,True,Yes
+1767,H O T.,O has domain G.,"Given the previous statements, is H a E?",No,H is not a E.,False,No
+793,H O K.,O has domain C.,"Given the previous statements, is H a C?",Yes,H is a C.,True,Yes
+894,I Q Y.,Q has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,No
+1865,I H O.,H has domain V.,"Given the previous statements, is I a Q?",No,I is not a Q.,False,Yes
+771,H K C.,K has domain O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,Yes
+137,B Q U.,Q has domain X.,"Given the previous statements, is B a X?",Yes,B is a X.,True,Yes
+1181,B U D.,U has domain S.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+1360,D K H.,K has domain Q.,"Given the previous statements, is D a P?",No,D is not a P.,False,No
+1951,J Q Y.,Q has domain Z.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+693,G C K.,C has domain B.,"Given the previous statements, is G a B?",Yes,G is a B.,True,No
+1922,J O I.,O has domain X.,"Given the previous statements, is J a W?",No,J is not a W.,False,No
+1521,F D E.,D has domain U.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No
+1781,H O Z.,O has domain F.,"Given the previous statements, is H a A?",No,H is not a A.,False,No
+1063,A T V.,T has domain D.,"Given the previous statements, is A a E?",No,A is not a E.,False,No
+388,D O X.,O has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,No
+1198,B S P.,S has domain R.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+1035,A J L.,J has domain O.,"Given the previous statements, is A a C?",No,A is not a C.,False,No
+1526,F Q I.,Q has domain G.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No
+1112,B V C.,V has domain W.,"Given the previous statements, is B a T?",No,B is not a T.,False,No
+1219,C X D.,X has domain F.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+289,C Q K.,Q has domain V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,Yes
+1022,A D N.,D has domain W.,"Given the previous statements, is A a V?",No,A is not a V.,False,No
+816,I M O.,M has domain L.,"Given the previous statements, is I a L?",Yes,I is a L.,True,Yes
+1724,H R X.,R has domain T.,"Given the previous statements, is H a K?",No,H is not a K.,False,No
+245,C A Y.,A has domain Q.,"Given the previous statements, is C a Q?",Yes,C is a Q.,True,Yes
+1659,G E Q.,E has domain S.,"Given the previous statements, is G a L?",No,G is not a L.,False,No
+1547,F Z R.,Z has domain Y.,"Given the previous statements, is F a T?",No,F is not a T.,False,No
+1550,F A J.,A has domain N.,"Given the previous statements, is F a I?",No,F is not a I.,False,No
+185,B E Q.,E has domain G.,"Given the previous statements, is B a G?",Yes,B is a G.,True,Yes
+1367,D P O.,P has domain A.,"Given the previous statements, is D a X?",No,D is not a X.,False,No
+914,J C H.,C has domain S.,"Given the previous statements, is J a S?",Yes,J is a S.,True,Yes
+1200,B A M.,A has domain C.,"Given the previous statements, is B a Z?",No,B is not a Z.,False,No
+642,G R Y.,R has domain X.,"Given the previous statements, is G a X?",Yes,G is a X.,True,Yes
+89,A W R.,W has domain U.,"Given the previous statements, is A a U?",Yes,A is a U.,True,Yes
+1074,A B N.,B has domain J.,"Given the previous statements, is A a U?",No,A is not a U.,False,No
+614,G U Q.,U has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+546,F N C.,N has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+1503,F I G.,I has domain N.,"Given the previous statements, is F a A?",No,F is not a A.,False,No
+1923,J L V.,L has domain A.,"Given the previous statements, is J a H?",No,J is not a H.,False,No
+1895,I A W.,A has domain U.,"Given the previous statements, is I a T?",No,I is not a T.,False,No
+1164,B L V.,L has domain S.,"Given the previous statements, is B a U?",No,B is not a U.,False,Yes
+55,A B K.,B has domain W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,Yes
+1608,G M P.,M has domain R.,"Given the previous statements, is G a F?",No,G is not a F.,False,No
+1359,D L M.,L has domain K.,"Given the previous statements, is D a T?",No,D is not a T.,False,No
+1467,E U L.,U has domain A.,"Given the previous statements, is E a I?",No,E is not a I.,False,No
+776,H U I.,U has domain P.,"Given the previous statements, is H a P?",Yes,H is a P.,True,Yes
+709,H L E.,L has domain I.,"Given the previous statements, is H a I?",Yes,H is a I.,True,Yes
+1229,C Q E.,Q has domain J.,"Given the previous statements, is C a L?",No,C is not a L.,False,No
+1572,F B A.,B has domain W.,"Given the previous statements, is F a T?",No,F is not a T.,False,No
+506,F A Q.,A has domain X.,"Given the previous statements, is F a X?",Yes,F is a X.,True,Yes
+246,C Q I.,Q has domain B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,No
+1128,B F N.,F has domain M.,"Given the previous statements, is B a G?",No,B is not a G.,False,No
+1562,F W R.,W has domain G.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+1476,E R P.,R has domain T.,"Given the previous statements, is E a X?",No,E is not a X.,False,No
+1897,I T G.,T has domain C.,"Given the previous statements, is I a N?",No,I is not a N.,False,No
+871,I V X.,V has domain O.,"Given the previous statements, is I a O?",Yes,I is a O.,True,Yes
+927,J Q D.,Q has domain N.,"Given the previous statements, is J a N?",Yes,J is a N.,True,Yes
+926,J E O.,E has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+1272,C G K.,G has domain Y.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+19,A N L.,N has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+533,F O Y.,O has domain H.,"Given the previous statements, is F a H?",Yes,F is a H.,True,Yes
+301,D Z U.,Z has domain C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,Yes
+1284,C Y U.,Y has domain M.,"Given the previous statements, is C a A?",No,C is not a A.,False,No
+45,A X U.,X has domain K.,"Given the previous statements, is A a K?",Yes,A is a K.,True,Yes
+1097,A S E.,S has domain W.,"Given the previous statements, is A a B?",No,A is not a B.,False,No
+1104,B U Y.,U has domain Q.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+1858,I M N.,M has domain G.,"Given the previous statements, is I a K?",No,I is not a K.,False,No
+1509,F N H.,N has domain A.,"Given the previous statements, is F a X?",No,F is not a X.,False,No
+843,I Y S.,Y has domain P.,"Given the previous statements, is I a P?",Yes,I is a P.,True,Yes
+883,I Y L.,Y has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+190,B K O.,K has domain I.,"Given the previous statements, is B a I?",Yes,B is a I.,True,Yes
+584,F H I.,H has domain Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,Yes
+1286,C W G.,W has domain P.,"Given the previous statements, is C a Y?",No,C is not a Y.,False,No
+607,G X B.,X has domain K.,"Given the previous statements, is G a K?",Yes,G is a K.,True,Yes
+1736,H X P.,X has domain C.,"Given the previous statements, is H a Q?",No,H is not a Q.,False,No
+818,I N A.,N has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+544,F E M.,E has domain L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,Yes
+800,H M F.,M has domain W.,"Given the previous statements, is H a W?",Yes,H is a W.,True,Yes
+1576,F I E.,I has domain Q.,"Given the previous statements, is F a W?",No,F is not a W.,False,No
+126,B J O.,J has domain D.,"Given the previous statements, is B a D?",Yes,B is a D.,True,Yes
+1943,J F C.,F has domain Q.,"Given the previous statements, is J a X?",No,J is not a X.,False,No
+470,E G J.,G has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+1612,G Q S.,Q has domain O.,"Given the previous statements, is G a D?",No,G is not a D.,False,Yes
+424,E K P.,K has domain W.,"Given the previous statements, is E a W?",Yes,E is a W.,True,Yes
+834,I U Z.,U has domain S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,Yes
+626,G J F.,J has domain P.,"Given the previous statements, is G a P?",Yes,G is a P.,True,Yes
+2000,J K D.,K has domain Y.,"Given the previous statements, is J a O?",No,J is not a O.,False,No
+263,C B X.,B has domain L.,"Given the previous statements, is C a L?",Yes,C is a L.,True,Yes
+1255,C N T.,N has domain D.,"Given the previous statements, is C a X?",No,C is not a X.,False,No
+1747,H O G.,O has domain M.,"Given the previous statements, is H a I?",No,H is not a I.,False,No
+762,H X S.,X has domain B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,Yes
+39,A J H.,J has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+1281,C K W.,K has domain Z.,"Given the previous statements, is C a E?",No,C is not a E.,False,No
+1222,C R S.,R has domain L.,"Given the previous statements, is C a P?",No,C is not a P.,False,No
+1414,E R C.,R has domain I.,"Given the previous statements, is E a O?",No,E is not a O.,False,Yes
+191,B Z L.,Z has domain C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,Yes
+452,E J P.,J has domain Q.,"Given the previous statements, is E a Q?",Yes,E is a Q.,True,Yes
+1206,C R S.,R has domain E.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+745,H Z U.,Z has domain V.,"Given the previous statements, is H a V?",Yes,H is a V.,True,Yes
+1909,J Z W.,Z has domain A.,"Given the previous statements, is J a K?",No,J is not a K.,False,No
+1093,A F P.,F has domain O.,"Given the previous statements, is A a E?",No,A is not a E.,False,No
+923,J C K.,C has domain U.,"Given the previous statements, is J a U?",Yes,J is a U.,True,Yes
+237,C T B.,T has domain R.,"Given the previous statements, is C a R?",Yes,C is a R.,True,Yes
+1363,D P J.,P has domain W.,"Given the previous statements, is D a F?",No,D is not a F.,False,No
+891,I T K.,T has domain J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,Yes
+947,J L E.,L has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+455,E R X.,R has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+374,D Z F.,Z has domain V.,"Given the previous statements, is D a V?",Yes,D is a V.,True,Yes
+507,F H Y.,H has domain C.,"Given the previous statements, is F a C?",Yes,F is a C.,True,Yes
+384,D M L.,M has domain C.,"Given the previous statements, is D a C?",Yes,D is a C.,True,Yes
+618,G O K.,O has domain W.,"Given the previous statements, is G a W?",Yes,G is a W.,True,Yes
+1048,A X V.,X has domain E.,"Given the previous statements, is A a C?",No,A is not a C.,False,No
+1760,H C J.,C has domain U.,"Given the previous statements, is H a T?",No,H is not a T.,False,No
+1886,I D F.,D has domain K.,"Given the previous statements, is I a J?",No,I is not a J.,False,No
+975,J D Z.,D has domain Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True,Yes
+173,B K Z.,K has domain J.,"Given the previous statements, is B a J?",Yes,B is a J.,True,Yes
+1263,C L V.,L has domain T.,"Given the previous statements, is C a M?",No,C is not a M.,False,No
+1499,E H P.,H has domain U.,"Given the previous statements, is E a S?",No,E is not a S.,False,No
+1076,A Q S.,Q has domain C.,"Given the previous statements, is A a N?",No,A is not a N.,False,No
+1315,D O Q.,O has domain A.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+1188,B K Q.,K has domain I.,"Given the previous statements, is B a A?",No,B is not a A.,False,Yes
+149,B K H.,K has domain F.,"Given the previous statements, is B a F?",Yes,B is a F.,True,Yes
+697,G O U.,O has domain R.,"Given the previous statements, is G a R?",Yes,G is a R.,True,Yes
+978,J F P.,F has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+1398,D V C.,V has domain Q.,"Given the previous statements, is D a L?",No,D is not a L.,False,No
+1304,D M F.,M has domain I.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+416,E T O.,T has domain B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,Yes
+805,I U F.,U has domain J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,No
+322,D Q C.,Q has domain Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,Yes
+1130,B S L.,S has domain T.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+420,E C A.,C has domain D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,Yes
+819,I R T.,R has domain U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,Yes
+284,C G P.,G has domain K.,"Given the previous statements, is C a K?",Yes,C is a K.,True,Yes
+1403,E Z H.,Z has domain X.,"Given the previous statements, is E a K?",No,E is not a K.,False,No
+1227,C Q B.,Q has domain T.,"Given the previous statements, is C a Z?",No,C is not a Z.,False,No
+1440,E Y O.,Y has domain P.,"Given the previous statements, is E a H?",No,E is not a H.,False,No
+204,C L W.,L has domain X.,"Given the previous statements, is C a X?",Yes,C is a X.,True,Yes
+1877,I R X.,R has domain E.,"Given the previous statements, is I a N?",No,I is not a N.,False,Yes
+1589,F D G.,D has domain X.,"Given the previous statements, is F a T?",No,F is not a T.,False,No
+235,C O Y.,O has domain X.,"Given the previous statements, is C a X?",Yes,C is a X.,True,Yes
+613,G V B.,V has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+1436,E K M.,K has domain D.,"Given the previous statements, is E a T?",No,E is not a T.,False,No
+1325,D V B.,V has domain Q.,"Given the previous statements, is D a G?",No,D is not a G.,False,No
+100,A F D.,F has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+1001,A S C.,S has domain T.,"Given the previous statements, is A a I?",No,A is not a I.,False,No
+1172,B H N.,H has domain X.,"Given the previous statements, is B a U?",No,B is not a U.,False,Yes
+919,J T I.,T has domain W.,"Given the previous statements, is J a W?",Yes,J is a W.,True,Yes
+238,C W Y.,W has domain H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,Yes
+1058,A H Z.,H has domain E.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,No
+221,C G F.,G has domain U.,"Given the previous statements, is C a U?",Yes,C is a U.,True,Yes
+161,B H I.,H has domain W.,"Given the previous statements, is B a W?",Yes,B is a W.,True,Yes
+382,D W Q.,W has domain T.,"Given the previous statements, is D a T?",Yes,D is a T.,True,Yes
+1900,I T S.,T has domain B.,"Given the previous statements, is I a Q?",No,I is not a Q.,False,No
+1246,C N X.,N has domain I.,"Given the previous statements, is C a H?",No,C is not a H.,False,No
+453,E C G.,C has domain I.,"Given the previous statements, is E a I?",Yes,E is a I.,True,Yes
+1306,D E W.,E has domain T.,"Given the previous statements, is D a B?",No,D is not a B.,False,No
+1661,G L C.,L has domain S.,"Given the previous statements, is G a H?",No,G is not a H.,False,No
+795,H P B.,P has domain Y.,"Given the previous statements, is H a Y?",Yes,H is a Y.,True,Yes
+1680,G J W.,J has domain A.,"Given the previous statements, is G a N?",No,G is not a N.,False,No
+1361,D Q P.,Q has domain L.,"Given the previous statements, is D a G?",No,D is not a G.,False,No
+1,A V Z.,V has domain E.,"Given the previous statements, is A a E?",Yes,A is a E.,True,Yes
+123,B D K.,D has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+61,A S Q.,S has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+1854,I V Z.,V has domain H.,"Given the previous statements, is I a E?",No,I is not a E.,False,Yes
+1566,F O S.,O has domain M.,"Given the previous statements, is F a E?",No,F is not a E.,False,Yes
+1690,G F J.,F has domain P.,"Given the previous statements, is G a R?",No,G is not a R.,False,No
+1307,D W L.,W has domain V.,"Given the previous statements, is D a M?",No,D is not a M.,False,No
+921,J Y V.,Y has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+151,B U G.,U has domain X.,"Given the previous statements, is B a X?",Yes,B is a X.,True,Yes
+559,F Q R.,Q has domain V.,"Given the previous statements, is F a V?",Yes,F is a V.,True,Yes
+1776,H Y R.,Y has domain S.,"Given the previous statements, is H a V?",No,H is not a V.,False,No
+1662,G M V.,M has domain C.,"Given the previous statements, is G a E?",No,G is not a E.,False,No
+72,A H S.,H has domain I.,"Given the previous statements, is A a I?",Yes,A is a I.,True,Yes
+571,F B T.,B has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+1569,F M H.,M has domain Q.,"Given the previous statements, is F a I?",No,F is not a I.,False,No
+570,F H L.,H has domain N.,"Given the previous statements, is F a N?",Yes,F is a N.,True,Yes
+1504,F G C.,G has domain A.,"Given the previous statements, is F a H?",No,F is not a H.,False,No
+1837,I W Q.,W has domain X.,"Given the previous statements, is I a G?",No,I is not a G.,False,No
+1458,E U L.,U has domain S.,"Given the previous statements, is E a J?",No,E is not a J.,False,Yes
+809,I F G.,F has domain D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,Yes
+389,D S J.,S has domain E.,"Given the previous statements, is D a E?",Yes,D is a E.,True,Yes
+566,F J N.,J has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+333,D J C.,J has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,Yes
+120,B E L.,E has domain C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,Yes
+950,J Q C.,Q has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+644,G F C.,F has domain X.,"Given the previous statements, is G a X?",Yes,G is a X.,True,Yes
+1077,A I J.,I has domain G.,"Given the previous statements, is A a E?",No,A is not a E.,False,Yes
+877,I K B.,K has domain M.,"Given the previous statements, is I a M?",Yes,I is a M.,True,Yes
+780,H C P.,C has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,Yes
+1841,I E T.,E has domain X.,"Given the previous statements, is I a U?",No,I is not a U.,False,No
+403,E K L.,K has domain R.,"Given the previous statements, is E a R?",Yes,E is a R.,True,Yes
+853,I J X.,J has domain T.,"Given the previous statements, is I a T?",Yes,I is a T.,True,Yes
+1899,I Z M.,Z has domain S.,"Given the previous statements, is I a X?",No,I is not a X.,False,Yes
+939,J W X.,W has domain C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,Yes
+464,E H J.,H has domain C.,"Given the previous statements, is E a C?",Yes,E is a C.,True,Yes
+668,G P D.,P has domain B.,"Given the previous statements, is G a B?",Yes,G is a B.,True,Yes
+436,E M N.,M has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+609,G W C.,W has domain F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,Yes
+1300,C R Y.,R has domain J.,"Given the previous statements, is C a N?",No,C is not a N.,False,No
+574,F W N.,W has domain L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,Yes
+953,J Y Z.,Y has domain V.,"Given the previous statements, is J a V?",Yes,J is a V.,True,Yes
+640,G Q S.,Q has domain W.,"Given the previous statements, is G a W?",Yes,G is a W.,True,Yes
+1631,G V B.,V has domain W.,"Given the previous statements, is G a J?",No,G is not a J.,False,No
+792,H G S.,G has domain R.,"Given the previous statements, is H a R?",Yes,H is a R.,True,Yes
+647,G A Z.,A has domain V.,"Given the previous statements, is G a V?",Yes,G is a V.,True,Yes
+1559,F B S.,B has domain D.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+1628,G F X.,F has domain J.,"Given the previous statements, is G a Y?",No,G is not a Y.,False,Yes
+1408,E S W.,S has domain Z.,"Given the previous statements, is E a R?",No,E is not a R.,False,No
+1638,G V T.,V has domain W.,"Given the previous statements, is G a M?",No,G is not a M.,False,No
+1990,J L V.,L has domain Q.,"Given the previous statements, is J a T?",No,J is not a T.,False,No
+201,C M Y.,M has domain S.,"Given the previous statements, is C a S?",Yes,C is a S.,True,Yes
+1299,C R L.,R has domain S.,"Given the previous statements, is C a H?",No,C is not a H.,False,No
+1573,F I B.,I has domain Q.,"Given the previous statements, is F a X?",No,F is not a X.,False,No
+744,H Q S.,Q has domain M.,"Given the previous statements, is H a M?",Yes,H is a M.,True,Yes
+1529,F C J.,C has domain W.,"Given the previous statements, is F a X?",No,F is not a X.,False,No
+206,C I W.,I has domain B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,Yes
+1364,D U T.,U has domain H.,"Given the previous statements, is D a Y?",No,D is not a Y.,False,Yes
+1395,D G X.,G has domain W.,"Given the previous statements, is D a R?",No,D is not a R.,False,No
+1175,B P U.,P has domain O.,"Given the previous statements, is B a W?",No,B is not a W.,False,No
+1938,J X H.,X has domain Y.,"Given the previous statements, is J a Q?",No,J is not a Q.,False,No
+1818,I S Z.,S has domain E.,"Given the previous statements, is I a G?",No,I is not a G.,False,No
+1831,I Y V.,Y has domain L.,"Given the previous statements, is I a J?",No,I is not a J.,False,No
+1429,E G N.,G has domain U.,"Given the previous statements, is E a B?",No,E is not a B.,False,No
+1371,D W N.,W has domain P.,"Given the previous statements, is D a Y?",No,D is not a Y.,False,No
+294,C S G.,S has domain B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,Yes
+1820,I E N.,E has domain Y.,"Given the previous statements, is I a S?",No,I is not a S.,False,No
+129,B L E.,L has domain R.,"Given the previous statements, is B a R?",Yes,B is a R.,True,Yes
+1152,B O F.,O has domain Z.,"Given the previous statements, is B a G?",No,B is not a G.,False,No
+60,A J O.,J has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+134,B C M.,C has domain A.,"Given the previous statements, is B a A?",Yes,B is a A.,True,Yes
+68,A B Y.,B has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+836,I K A.,K has domain S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,Yes
+1354,D Y V.,Y has domain I.,"Given the previous statements, is D a X?",No,D is not a X.,False,No
+704,H Z W.,Z has domain A.,"Given the previous statements, is H a A?",Yes,H is a A.,True,Yes
+1593,F Q D.,Q has domain W.,"Given the previous statements, is F a L?",No,F is not a L.,False,No
+1038,A Q P.,Q has domain F.,"Given the previous statements, is A a N?",No,A is not a N.,False,No
+1135,B V T.,V has domain A.,"Given the previous statements, is B a F?",No,B is not a F.,False,No
+334,D S W.,S has domain L.,"Given the previous statements, is D a L?",Yes,D is a L.,True,Yes
+1018,A R W.,R has domain X.,"Given the previous statements, is A a T?",No,A is not a T.,False,No
+1444,E I A.,I has domain B.,"Given the previous statements, is E a H?",No,E is not a H.,False,No
+1320,D L B.,L has domain R.,"Given the previous statements, is D a U?",No,D is not a U.,False,No
+965,J M V.,M has domain I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,Yes
+1905,J Q I.,Q has domain O.,"Given the previous statements, is J a S?",No,J is not a S.,False,No
+442,E O M.,O has domain J.,"Given the previous statements, is E a J?",Yes,E is a J.,True,Yes
+1072,A E X.,E has domain V.,"Given the previous statements, is A a K?",No,A is not a K.,False,No
+752,H B J.,B has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+461,E U H.,U has domain K.,"Given the previous statements, is E a K?",Yes,E is a K.,True,Yes
+239,C P L.,P has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+497,E Q L.,Q has domain U.,"Given the previous statements, is E a U?",Yes,E is a U.,True,Yes
+952,J I E.,I has domain H.,"Given the previous statements, is J a H?",Yes,J is a H.,True,Yes
+1801,I U A.,U has domain Q.,"Given the previous statements, is I a O?",No,I is not a O.,False,Yes
+678,G X W.,X has domain Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True,Yes
+1457,E J P.,J has domain X.,"Given the previous statements, is E a R?",No,E is not a R.,False,No
+38,A P X.,P has domain G.,"Given the previous statements, is A a G?",Yes,A is a G.,True,Yes
+181,B W R.,W has domain Q.,"Given the previous statements, is B a Q?",Yes,B is a Q.,True,Yes
+1622,G K N.,K has domain A.,"Given the previous statements, is G a S?",No,G is not a S.,False,Yes
+73,A P D.,P has domain Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,Yes
+1355,D T N.,T has domain H.,"Given the previous statements, is D a I?",No,D is not a I.,False,No
+995,J A K.,A has domain S.,"Given the previous statements, is J a S?",Yes,J is a S.,True,Yes
+1803,I J U.,J has domain W.,"Given the previous statements, is I a O?",No,I is not a O.,False,No
+67,A T B.,T has domain Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,Yes
+1294,C V I.,V has domain M.,"Given the previous statements, is C a K?",No,C is not a K.,False,No
+287,C I E.,I has domain U.,"Given the previous statements, is C a U?",Yes,C is a U.,True,Yes
+1079,A C I.,C has domain U.,"Given the previous statements, is A a M?",No,A is not a M.,False,No
+17,A P S.,P has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+1223,C I P.,I has domain Y.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+1343,D M R.,M has domain S.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+63,A J B.,J has domain Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,Yes
+847,I S Y.,S has domain J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,Yes
+1204,C O U.,O has domain F.,"Given the previous statements, is C a Y?",No,C is not a Y.,False,No
+534,F V Q.,V has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+1213,C H W.,H has domain T.,"Given the previous statements, is C a Z?",No,C is not a Z.,False,No
+1060,A Z O.,Z has domain L.,"Given the previous statements, is A a K?",No,A is not a K.,False,No
+1376,D A E.,A has domain Y.,"Given the previous statements, is D a M?",No,D is not a M.,False,Yes
+26,A H Q.,H has domain N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,Yes
+1935,J N K.,N has domain Q.,"Given the previous statements, is J a T?",No,J is not a T.,False,No
+1264,C M I.,M has domain S.,"Given the previous statements, is C a X?",No,C is not a X.,False,No
+1972,J B U.,B has domain N.,"Given the previous statements, is J a T?",No,J is not a T.,False,Yes
+364,D G B.,G has domain F.,"Given the previous statements, is D a F?",Yes,D is a F.,True,Yes
+1914,J P Y.,P has domain E.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+797,H N G.,N has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+900,I B M.,B has domain O.,"Given the previous statements, is I a O?",Yes,I is a O.,True,Yes
+931,J T C.,T has domain Y.,"Given the previous statements, is J a Y?",Yes,J is a Y.,True,Yes
+271,C V Q.,V has domain D.,"Given the previous statements, is C a D?",Yes,C is a D.,True,Yes
+363,D F X.,F has domain N.,"Given the previous statements, is D a N?",Yes,D is a N.,True,Yes
+741,H K F.,K has domain O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,Yes
+828,I E Y.,E has domain D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,Yes
+69,A Z J.,Z has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+718,H S Z.,S has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+600,F V A.,V has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+1148,B A H.,A has domain O.,"Given the previous statements, is B a I?",No,B is not a I.,False,Yes
+1342,D G H.,G has domain U.,"Given the previous statements, is D a M?",No,D is not a M.,False,No
+1844,I O D.,O has domain N.,"Given the previous statements, is I a P?",No,I is not a P.,False,Yes
+1379,D Q U.,Q has domain V.,"Given the previous statements, is D a J?",No,D is not a J.,False,No
+1787,H S O.,S has domain G.,"Given the previous statements, is H a X?",No,H is not a X.,False,No
+905,J C R.,C has domain Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True,Yes
+845,I P E.,P has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+1714,H Q I.,Q has domain V.,"Given the previous statements, is H a K?",No,H is not a K.,False,No
+159,B V A.,V has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+1091,A K G.,K has domain M.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,No
+13,A U F.,U has domain H.,"Given the previous statements, is A a H?",Yes,A is a H.,True,Yes
+1020,A T D.,T has domain Z.,"Given the previous statements, is A a K?",No,A is not a K.,False,No
+1677,G E D.,E has domain C.,"Given the previous statements, is G a K?",No,G is not a K.,False,No
+1386,D V L.,V has domain Q.,"Given the previous statements, is D a F?",No,D is not a F.,False,No
+1251,C R Q.,R has domain K.,"Given the previous statements, is C a H?",No,C is not a H.,False,No
+844,I H R.,H has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+1179,B C D.,C has domain J.,"Given the previous statements, is B a A?",No,B is not a A.,False,Yes
+1713,H J F.,J has domain G.,"Given the previous statements, is H a C?",No,H is not a C.,False,No
+1786,H Q C.,Q has domain S.,"Given the previous statements, is H a X?",No,H is not a X.,False,No
+768,H Y O.,Y has domain W.,"Given the previous statements, is H a W?",Yes,H is a W.,True,Yes
+1177,B V D.,V has domain C.,"Given the previous statements, is B a P?",No,B is not a P.,False,No
+1606,G Q U.,Q has domain H.,"Given the previous statements, is G a I?",No,G is not a I.,False,No
+945,J H C.,H has domain X.,"Given the previous statements, is J a X?",Yes,J is a X.,True,Yes
+1372,D C O.,C has domain X.,"Given the previous statements, is D a N?",No,D is not a N.,False,No
+1334,D F R.,F has domain C.,"Given the previous statements, is D a Z?",No,D is not a Z.,False,No
+1390,D F G.,F has domain C.,"Given the previous statements, is D a U?",No,D is not a U.,False,No
+1420,E H Q.,H has domain Z.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+119,B D X.,D has domain C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,Yes
+1066,A L Z.,L has domain G.,"Given the previous statements, is A a T?",No,A is not a T.,False,No
+968,J G W.,G has domain Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True,Yes
+146,B E R.,E has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+1512,F W D.,W has domain M.,"Given the previous statements, is F a L?",No,F is not a L.,False,No
+1722,H T D.,T has domain N.,"Given the previous statements, is H a K?",No,H is not a K.,False,No
+1749,H V B.,V has domain T.,"Given the previous statements, is H a G?",No,H is not a G.,False,No
+760,H U F.,U has domain Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,Yes
+1051,A K X.,K has domain C.,"Given the previous statements, is A a R?",No,A is not a R.,False,No
+1323,D C F.,C has domain L.,"Given the previous statements, is D a K?",No,D is not a K.,False,No
+563,F A U.,A has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+759,H P Y.,P has domain Q.,"Given the previous statements, is H a Q?",Yes,H is a Q.,True,Yes
+40,A U F.,U has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+11,A X N.,X has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+870,I W F.,W has domain A.,"Given the previous statements, is I a A?",Yes,I is a A.,True,Yes
+1735,H T U.,T has domain R.,"Given the previous statements, is H a S?",No,H is not a S.,False,No
+781,H K A.,K has domain B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,Yes
+1494,E T P.,T has domain I.,"Given the previous statements, is E a B?",No,E is not a B.,False,No
+794,H T Y.,T has domain J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,No
+1548,F C B.,C has domain R.,"Given the previous statements, is F a E?",No,F is not a E.,False,No
+1182,B S P.,S has domain M.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+1349,D Z M.,Z has domain W.,"Given the previous statements, is D a O?",No,D is not a O.,False,No
+1598,F G A.,G has domain T.,"Given the previous statements, is F a E?",No,F is not a E.,False,No
+1953,J L R.,L has domain I.,"Given the previous statements, is J a O?",No,J is not a O.,False,No
+1686,G J H.,J has domain A.,"Given the previous statements, is G a M?",No,G is not a M.,False,No
+326,D C F.,C has domain X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,Yes
+228,C F P.,F has domain T.,"Given the previous statements, is C a T?",Yes,C is a T.,True,Yes
+1607,G I A.,I has domain M.,"Given the previous statements, is G a L?",No,G is not a L.,False,No
+937,J O K.,O has domain X.,"Given the previous statements, is J a X?",Yes,J is a X.,True,Yes
+1275,C M S.,M has domain L.,"Given the previous statements, is C a W?",No,C is not a W.,False,No
+1615,G U X.,U has domain M.,"Given the previous statements, is G a Z?",No,G is not a Z.,False,No
+1611,G S R.,S has domain O.,"Given the previous statements, is G a A?",No,G is not a A.,False,Yes
+358,D U P.,U has domain I.,"Given the previous statements, is D a I?",Yes,D is a I.,True,No
+1712,H W D.,W has domain B.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,No
+445,E C F.,C has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+396,D A S.,A has domain T.,"Given the previous statements, is D a T?",Yes,D is a T.,True,Yes
+1535,F H B.,H has domain P.,"Given the previous statements, is F a L?",No,F is not a L.,False,No
+421,E X R.,X has domain B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,Yes
+1600,F T N.,T has domain X.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+1552,F G Y.,G has domain O.,"Given the previous statements, is F a B?",No,F is not a B.,False,No
+295,C F A.,F has domain H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,Yes
+37,A S Y.,S has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+329,D I J.,I has domain M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,Yes
+316,D H I.,H has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,Yes
+157,B J R.,J has domain V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,Yes
+632,G J Q.,J has domain F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,Yes
+1555,F N J.,N has domain H.,"Given the previous statements, is F a B?",No,F is not a B.,False,No
+767,H B V.,B has domain O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,Yes
+1678,G T E.,T has domain Q.,"Given the previous statements, is G a I?",No,G is not a I.,False,No
+261,C L D.,L has domain F.,"Given the previous statements, is C a F?",Yes,C is a F.,True,Yes
+1577,F B C.,B has domain D.,"Given the previous statements, is F a P?",No,F is not a P.,False,Yes
+567,F I Z.,I has domain E.,"Given the previous statements, is F a E?",Yes,F is a E.,True,Yes
+536,F C V.,C has domain Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True,No
+1317,D O G.,O has domain M.,"Given the previous statements, is D a W?",No,D is not a W.,False,No
+1695,G R B.,R has domain N.,"Given the previous statements, is G a A?",No,G is not a A.,False,Yes
+408,E I K.,I has domain B.,"Given the previous statements, is E a B?",Yes,E is a B.,True,Yes
+274,C G J.,G has domain V.,"Given the previous statements, is C a V?",Yes,C is a V.,True,Yes
+1994,J A Z.,A has domain O.,"Given the previous statements, is J a G?",No,J is not a G.,False,No
+999,J X W.,X has domain Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True,Yes
+401,E G Q.,G has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+934,J Q U.,Q has domain K.,"Given the previous statements, is J a K?",Yes,J is a K.,True,Yes
+174,B T O.,T has domain F.,"Given the previous statements, is B a F?",Yes,B is a F.,True,Yes
+1748,H W S.,W has domain N.,"Given the previous statements, is H a D?",No,H is not a D.,False,No
+1524,F M X.,M has domain C.,"Given the previous statements, is F a O?",No,F is not a O.,False,No
+1687,G I R.,I has domain C.,"Given the previous statements, is G a E?",No,G is not a E.,False,No
+1045,A P R.,P has domain U.,"Given the previous statements, is A a L?",No,A is not a L.,False,No
+1479,E R X.,R has domain I.,"Given the previous statements, is E a F?",No,E is not a F.,False,Yes
+1998,J O P.,O has domain V.,"Given the previous statements, is J a H?",No,J is not a H.,False,No
+34,A N E.,N has domain Z.,"Given the previous statements, is A a Z?",Yes,A is a Z.,True,Yes
+1581,F K O.,K has domain X.,"Given the previous statements, is F a I?",No,F is not a I.,False,Yes
+439,E B M.,B has domain A.,"Given the previous statements, is E a A?",Yes,E is a A.,True,Yes
+1738,H T P.,T has domain Y.,"Given the previous statements, is H a O?",No,H is not a O.,False,No
+1668,G F J.,F has domain L.,"Given the previous statements, is G a E?",No,G is not a E.,False,No
+47,A W E.,W has domain M.,"Given the previous statements, is A a M?",Yes,A is a M.,True,Yes
+1480,E Z S.,Z has domain L.,"Given the previous statements, is E a M?",No,E is not a M.,False,Yes
+387,D O A.,O has domain Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,Yes
+1985,J B D.,B has domain V.,"Given the previous statements, is J a L?",No,J is not a L.,False,No
+1561,F C E.,C has domain Y.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+675,G F P.,F has domain U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,Yes
+1571,F U V.,U has domain N.,"Given the previous statements, is F a J?",No,F is not a J.,False,No
+1931,J I A.,I has domain B.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,No
+1059,A F R.,F has domain Y.,"Given the previous statements, is A a Z?",No,A is not a Z.,False,No
+1730,H C D.,C has domain V.,"Given the previous statements, is H a G?",No,H is not a G.,False,No
+110,B O N.,O has domain V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,Yes
+1731,H R T.,R has domain U.,"Given the previous statements, is H a P?",No,H is not a P.,False,No
+1002,A S L.,S has domain U.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+203,C F B.,F has domain Z.,"Given the previous statements, is C a Z?",Yes,C is a Z.,True,No
+673,G X W.,X has domain J.,"Given the previous statements, is G a J?",Yes,G is a J.,True,Yes
+957,J L E.,L has domain V.,"Given the previous statements, is J a V?",Yes,J is a V.,True,Yes
+1207,C H B.,H has domain V.,"Given the previous statements, is C a A?",No,C is not a A.,False,No
+1963,J C S.,C has domain H.,"Given the previous statements, is J a F?",No,J is not a F.,False,No
+1466,E W R.,W has domain Z.,"Given the previous statements, is E a G?",No,E is not a G.,False,No
+1350,D L X.,L has domain A.,"Given the previous statements, is D a Q?",No,D is not a Q.,False,No
+192,B U W.,U has domain S.,"Given the previous statements, is B a S?",Yes,B is a S.,True,Yes
+1893,I B L.,B has domain K.,"Given the previous statements, is I a D?",No,I is not a D.,False,Yes
+1092,A N T.,N has domain U.,"Given the previous statements, is A a H?",No,A is not a H.,False,No
+859,I A U.,A has domain S.,"Given the previous statements, is I a S?",Yes,I is a S.,True,Yes
+213,C H I.,H has domain G.,"Given the previous statements, is C a G?",Yes,C is a G.,True,Yes
+1910,J S I.,S has domain W.,"Given the previous statements, is J a U?",No,J is not a U.,False,Yes
+1604,G O T.,O has domain K.,"Given the previous statements, is G a I?",No,G is not a I.,False,No
+641,G V M.,V has domain U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,Yes
+1475,E G P.,G has domain U.,"Given the previous statements, is E a H?",No,E is not a H.,False,No
+958,J O W.,O has domain C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,Yes
+548,F Y U.,Y has domain R.,"Given the previous statements, is F a R?",Yes,F is a R.,True,Yes
+293,C V Q.,V has domain W.,"Given the previous statements, is C a W?",Yes,C is a W.,True,Yes
+1154,B Y P.,Y has domain C.,"Given the previous statements, is B a T?",No,B is not a T.,False,No
+1086,A V J.,V has domain E.,"Given the previous statements, is A a U?",No,A is not a U.,False,No
+483,E R I.,R has domain X.,"Given the previous statements, is E a X?",Yes,E is a X.,True,Yes
+679,G W E.,W has domain N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,Yes
+162,B W F.,W has domain V.,"Given the previous statements, is B a V?",Yes,B is a V.,True,Yes
+637,G N L.,N has domain J.,"Given the previous statements, is G a J?",Yes,G is a J.,True,Yes
+579,F E S.,E has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+223,C D K.,D has domain E.,"Given the previous statements, is C a E?",Yes,C is a E.,True,Yes
+997,J H F.,H has domain Y.,"Given the previous statements, is J a Y?",Yes,J is a Y.,True,Yes
+625,G B A.,B has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+1855,I N P.,N has domain L.,"Given the previous statements, is I a J?",No,I is not a J.,False,Yes
+788,H E T.,E has domain M.,"Given the previous statements, is H a M?",Yes,H is a M.,True,Yes
+1609,G H C.,H has domain L.,"Given the previous statements, is G a W?",No,G is not a W.,False,No
+1212,C V W.,V has domain Z.,"Given the previous statements, is C a F?",No,C is not a F.,False,No
+557,F K U.,K has domain D.,"Given the previous statements, is F a D?",Yes,F is a D.,True,Yes
+1754,H E G.,E has domain A.,"Given the previous statements, is H a P?",No,H is not a P.,False,No
+1772,H I W.,I has domain D.,"Given the previous statements, is H a G?",No,H is not a G.,False,No
+1805,I T Q.,T has domain Z.,"Given the previous statements, is I a V?",No,I is not a V.,False,Yes
+551,F P U.,P has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+70,A U Y.,U has domain R.,"Given the previous statements, is A a R?",Yes,A is a R.,True,Yes
+1129,B S Y.,S has domain R.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+878,I W Z.,W has domain U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,Yes
+147,B R V.,R has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+1737,H C V.,C has domain X.,"Given the previous statements, is H a W?",No,H is not a W.,False,No
+897,I W U.,W has domain T.,"Given the previous statements, is I a T?",Yes,I is a T.,True,Yes
+116,B F T.,F has domain L.,"Given the previous statements, is B a L?",Yes,B is a L.,True,Yes
+1472,E P T.,P has domain W.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+1932,J W I.,W has domain H.,"Given the previous statements, is J a O?",No,J is not a O.,False,No
+1587,F I E.,I has domain M.,"Given the previous statements, is F a T?",No,F is not a T.,False,No
+1960,J Z N.,Z has domain F.,"Given the previous statements, is J a M?",No,J is not a M.,False,No
+380,D X S.,X has domain H.,"Given the previous statements, is D a H?",Yes,D is a H.,True,Yes
+21,A H U.,H has domain D.,"Given the previous statements, is A a D?",Yes,A is a D.,True,No
+674,G I N.,I has domain H.,"Given the previous statements, is G a H?",Yes,G is a H.,True,Yes
+1663,G V Y.,V has domain O.,"Given the previous statements, is G a F?",No,G is not a F.,False,Yes
+1634,G D T.,D has domain M.,"Given the previous statements, is G a I?",No,G is not a I.,False,Yes
+1567,F Q A.,Q has domain D.,"Given the previous statements, is F a J?",No,F is not a J.,False,No
+1136,B O J.,O has domain D.,"Given the previous statements, is B a N?",No,B is not a N.,False,Yes
+1293,C F A.,F has domain J.,"Given the previous statements, is C a E?",No,C is not a E.,False,No
+496,E H F.,H has domain D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,Yes
+514,F V K.,V has domain Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True,Yes
+166,B X I.,X has domain O.,"Given the previous statements, is B a O?",Yes,B is a O.,True,Yes
+1149,B N L.,N has domain R.,"Given the previous statements, is B a M?",No,B is not a M.,False,No
+1684,G Z K.,Z has domain J.,"Given the previous statements, is G a N?",No,G is not a N.,False,No
+1446,E Y I.,Y has domain C.,"Given the previous statements, is E a P?",No,E is not a P.,False,No
+1387,D G A.,G has domain Y.,"Given the previous statements, is D a O?",No,D is not a O.,False,No
+1768,H S I.,S has domain E.,"Given the previous statements, is H a D?",No,H is not a D.,False,No
+478,E P T.,P has domain W.,"Given the previous statements, is E a W?",Yes,E is a W.,True,Yes
+659,G K Q.,K has domain B.,"Given the previous statements, is G a B?",Yes,G is a B.,True,Yes
+383,D C T.,C has domain U.,"Given the previous statements, is D a U?",Yes,D is a U.,True,Yes
+1276,C K G.,K has domain U.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+1187,B S V.,S has domain M.,"Given the previous statements, is B a O?",No,B is not a O.,False,No
+165,B F M.,F has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+315,D A M.,A has domain G.,"Given the previous statements, is D a G?",Yes,D is a G.,True,Yes
+1564,F N C.,N has domain S.,"Given the previous statements, is F a G?",No,F is not a G.,False,No
+4,A E N.,E has domain Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,Yes
+465,E S V.,S has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+1946,J U E.,U has domain Z.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,No
+492,E W X.,W has domain U.,"Given the previous statements, is E a U?",Yes,E is a U.,True,Yes
+468,E R O.,R has domain X.,"Given the previous statements, is E a X?",Yes,E is a X.,True,Yes
+1225,C A P.,A has domain K.,"Given the previous statements, is C a H?",No,C is not a H.,False,Yes
+783,H Y I.,Y has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,Yes
+666,G M S.,M has domain D.,"Given the previous statements, is G a D?",Yes,G is a D.,True,Yes
+71,A G D.,G has domain H.,"Given the previous statements, is A a H?",Yes,A is a H.,True,Yes
+394,D W K.,W has domain R.,"Given the previous statements, is D a R?",Yes,D is a R.,True,Yes
+908,J G D.,G has domain W.,"Given the previous statements, is J a W?",Yes,J is a W.,True,Yes
+1986,J H V.,H has domain K.,"Given the previous statements, is J a A?",No,J is not a A.,False,No
+1015,A T P.,T has domain F.,"Given the previous statements, is A a X?",No,A is not a X.,False,No
+991,J P X.,P has domain S.,"Given the previous statements, is J a S?",Yes,J is a S.,True,Yes
+535,F R U.,R has domain V.,"Given the previous statements, is F a V?",Yes,F is a V.,True,Yes
+393,D N E.,N has domain B.,"Given the previous statements, is D a B?",Yes,D is a B.,True,Yes
+217,C G L.,G has domain B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,Yes
+1692,G H M.,H has domain W.,"Given the previous statements, is G a J?",No,G is not a J.,False,No
+1424,E H D.,H has domain I.,"Given the previous statements, is E a Q?",No,E is not a Q.,False,No
+419,E W U.,W has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+1616,G P J.,P has domain Z.,"Given the previous statements, is G a F?",No,G is not a F.,False,No
+1108,B E V.,E has domain N.,"Given the previous statements, is B a S?",No,B is not a S.,False,No
+1094,A N O.,N has domain E.,"Given the previous statements, is A a L?",No,A is not a L.,False,No
+466,E P H.,P has domain R.,"Given the previous statements, is E a R?",Yes,E is a R.,True,Yes
+1319,D H F.,H has domain A.,"Given the previous statements, is D a Q?",No,D is not a Q.,False,No
+851,I B O.,B has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+1875,I C M.,C has domain N.,"Given the previous statements, is I a E?",No,I is not a E.,False,No
+979,J R S.,R has domain Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True,Yes
+1226,C G N.,G has domain M.,"Given the previous statements, is C a Y?",No,C is not a Y.,False,No
+1012,A Y Q.,Y has domain X.,"Given the previous statements, is A a E?",No,A is not a E.,False,No
+32,A W P.,W has domain Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True,Yes
+1676,G E N.,E has domain H.,"Given the previous statements, is G a O?",No,G is not a O.,False,No
+869,I C N.,C has domain R.,"Given the previous statements, is I a R?",Yes,I is a R.,True,Yes
+738,H D K.,D has domain T.,"Given the previous statements, is H a T?",Yes,H is a T.,True,Yes
+963,J V T.,V has domain P.,"Given the previous statements, is J a P?",Yes,J is a P.,True,Yes
+1033,A N G.,N has domain B.,"Given the previous statements, is A a E?",No,A is not a E.,False,No
+52,A N K.,N has domain Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,Yes
+1534,F T Y.,T has domain K.,"Given the previous statements, is F a B?",No,F is not a B.,False,Yes
+1297,C L U.,L has domain G.,"Given the previous statements, is C a E?",No,C is not a E.,False,No
+188,B L H.,L has domain E.,"Given the previous statements, is B a E?",Yes,B is a E.,True,Yes
+1513,F Z K.,Z has domain G.,"Given the previous statements, is F a M?",No,F is not a M.,False,No
+808,I H L.,H has domain F.,"Given the previous statements, is I a F?",Yes,I is a F.,True,Yes
+87,A P J.,P has domain Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True,Yes
+1744,H V N.,V has domain A.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,No
+949,J H N.,H has domain A.,"Given the previous statements, is J a A?",Yes,J is a A.,True,Yes
+1613,G D B.,D has domain M.,"Given the previous statements, is G a K?",No,G is not a K.,False,No
+503,F D J.,D has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+1370,D T U.,T has domain R.,"Given the previous statements, is D a L?",No,D is not a L.,False,No
+598,F U R.,U has domain Q.,"Given the previous statements, is F a Q?",Yes,F is a Q.,True,Yes
+695,G V O.,V has domain E.,"Given the previous statements, is G a E?",Yes,G is a E.,True,Yes
+205,C U R.,U has domain X.,"Given the previous statements, is C a X?",Yes,C is a X.,True,Yes
+1471,E C R.,C has domain Q.,"Given the previous statements, is E a V?",No,E is not a V.,False,No
+1235,C Y E.,Y has domain U.,"Given the previous statements, is C a J?",No,C is not a J.,False,No
+655,G X S.,X has domain F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,Yes
+282,C G L.,G has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+1331,D M W.,M has domain L.,"Given the previous statements, is D a T?",No,D is not a T.,False,No
+820,I N U.,N has domain G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,Yes
+1788,H T Z.,T has domain M.,"Given the previous statements, is H a U?",No,H is not a U.,False,No
+911,J Q H.,Q has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+896,I H O.,H has domain U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,Yes
+118,B G N.,G has domain A.,"Given the previous statements, is B a A?",Yes,B is a A.,True,Yes
+1258,C V F.,V has domain H.,"Given the previous statements, is C a Y?",No,C is not a Y.,False,No
+1597,F W T.,W has domain A.,"Given the previous statements, is F a Q?",No,F is not a Q.,False,No
+796,H W M.,W has domain V.,"Given the previous statements, is H a V?",Yes,H is a V.,True,Yes
+1256,C N K.,N has domain S.,"Given the previous statements, is C a B?",No,C is not a B.,False,Yes
+1723,H X E.,X has domain Y.,"Given the previous statements, is H a O?",No,H is not a O.,False,No
+360,D S B.,S has domain Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True,No
+1648,G J V.,J has domain C.,"Given the previous statements, is G a Q?",No,G is not a Q.,False,No
+476,E R X.,R has domain C.,"Given the previous statements, is E a C?",Yes,E is a C.,True,Yes
+1536,F C Z.,C has domain D.,"Given the previous statements, is F a H?",No,F is not a H.,False,No
+338,D Z B.,Z has domain V.,"Given the previous statements, is D a V?",Yes,D is a V.,True,Yes
+1133,B A Q.,A has domain I.,"Given the previous statements, is B a F?",No,B is not a F.,False,No
+682,G T W.,T has domain S.,"Given the previous statements, is G a S?",Yes,G is a S.,True,Yes
+703,H L E.,L has domain A.,"Given the previous statements, is H a A?",Yes,H is a A.,True,Yes
+889,I E U.,E has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,No
+258,C D W.,D has domain U.,"Given the previous statements, is C a U?",Yes,C is a U.,True,Yes
+1520,F C L.,C has domain S.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+1541,F W L.,W has domain R.,"Given the previous statements, is F a M?",No,F is not a M.,False,No
+198,B X U.,X has domain G.,"Given the previous statements, is B a G?",Yes,B is a G.,True,Yes
+1716,H T J.,T has domain P.,"Given the previous statements, is H a I?",No,H is not a I.,False,No
+757,H D X.,D has domain J.,"Given the previous statements, is H a J?",Yes,H is a J.,True,Yes
+1454,E S Q.,S has domain B.,"Given the previous statements, is E a P?",No,E is not a P.,False,Yes
+856,I Q Y.,Q has domain N.,"Given the previous statements, is I a N?",Yes,I is a N.,True,Yes
+1366,D M C.,M has domain W.,"Given the previous statements, is D a F?",No,D is not a F.,False,No
+936,J T X.,T has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+412,E H G.,H has domain D.,"Given the previous statements, is E a D?",Yes,E is a D.,True,Yes
+195,B C J.,C has domain M.,"Given the previous statements, is B a M?",Yes,B is a M.,True,Yes
+972,J Q U.,Q has domain F.,"Given the previous statements, is J a F?",Yes,J is a F.,True,Yes
+1064,A Y T.,Y has domain V.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+1195,B Y K.,Y has domain D.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+1220,C B U.,B has domain Y.,"Given the previous statements, is C a Q?",No,C is not a Q.,False,No
+1122,B Q X.,Q has domain W.,"Given the previous statements, is B a T?",No,B is not a T.,False,No
+1846,I S O.,S has domain C.,"Given the previous statements, is I a N?",No,I is not a N.,False,No
+829,I Q E.,Q has domain J.,"Given the previous statements, is I a J?",Yes,I is a J.,True,Yes
+1656,G P C.,P has domain U.,"Given the previous statements, is G a F?",No,G is not a F.,False,No
+1425,E T X.,T has domain Z.,"Given the previous statements, is E a U?",No,E is not a U.,False,No
+1083,A X Q.,X has domain F.,"Given the previous statements, is A a H?",No,A is not a H.,False,No
+1253,C T P.,T has domain U.,"Given the previous statements, is C a X?",No,C is not a X.,False,No
+1864,I H J.,H has domain C.,"Given the previous statements, is I a T?",No,I is not a T.,False,Yes
+270,C T Q.,T has domain Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True,Yes
+1725,H Y T.,Y has domain Q.,"Given the previous statements, is H a P?",No,H is not a P.,False,No
+219,C Y G.,Y has domain W.,"Given the previous statements, is C a W?",Yes,C is a W.,True,Yes
+1146,B J I.,J has domain D.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+300,C Z T.,Z has domain H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,Yes
+1252,C Q H.,Q has domain S.,"Given the previous statements, is C a M?",No,C is not a M.,False,No
+1047,A Q S.,Q has domain N.,"Given the previous statements, is A a W?",No,A is not a W.,False,No
+1308,D Q X.,Q has domain P.,"Given the previous statements, is D a T?",No,D is not a T.,False,No
+390,D W J.,W has domain X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,Yes
+727,H S F.,S has domain B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,Yes
+1123,B J V.,J has domain N.,"Given the previous statements, is B a L?",No,B is not a L.,False,No
+611,G C B.,C has domain I.,"Given the previous statements, is G a I?",Yes,G is a I.,True,Yes
+331,D B I.,B has domain O.,"Given the previous statements, is D a O?",Yes,D is a O.,True,Yes
+1438,E T Y.,T has domain I.,"Given the previous statements, is E a H?",No,E is not a H.,False,No
+1502,F K I.,K has domain H.,"Given the previous statements, is F a J?",No,F is not a J.,False,No
+1591,F D U.,D has domain J.,"Given the previous statements, is F a P?",No,F is not a P.,False,No
+400,D M H.,M has domain K.,"Given the previous statements, is D a K?",Yes,D is a K.,True,Yes
+664,G M E.,M has domain F.,"Given the previous statements, is G a F?",Yes,G is a F.,True,Yes
+948,J P V.,P has domain X.,"Given the previous statements, is J a X?",Yes,J is a X.,True,Yes
+376,D Q K.,Q has domain M.,"Given the previous statements, is D a M?",Yes,D is a M.,True,Yes
+770,H O M.,O has domain B.,"Given the previous statements, is H a B?",Yes,H is a B.,True,Yes
+500,E Z C.,Z has domain S.,"Given the previous statements, is E a S?",Yes,E is a S.,True,Yes
+243,C P X.,P has domain U.,"Given the previous statements, is C a U?",Yes,C is a U.,True,Yes
+1487,E G Y.,G has domain I.,"Given the previous statements, is E a L?",No,E is not a L.,False,No
+138,B K Q.,K has domain N.,"Given the previous statements, is B a N?",Yes,B is a N.,True,Yes
+1894,I C S.,C has domain P.,"Given the previous statements, is I a H?",No,I is not a H.,False,No
+988,J V M.,V has domain E.,"Given the previous statements, is J a E?",Yes,J is a E.,True,Yes
+170,B C Q.,C has domain W.,"Given the previous statements, is B a W?",Yes,B is a W.,True,Yes
+343,D M R.,M has domain B.,"Given the previous statements, is D a B?",Yes,D is a B.,True,Yes
+177,B O W.,O has domain T.,"Given the previous statements, is B a T?",Yes,B is a T.,True,Yes
+1582,F J Y.,J has domain P.,"Given the previous statements, is F a A?",No,F is not a A.,False,No
+1625,G T B.,T has domain W.,"Given the previous statements, is G a U?",No,G is not a U.,False,No
+1084,A M L.,M has domain W.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+677,G R I.,R has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+602,G H J.,H has domain T.,"Given the previous statements, is G a T?",Yes,G is a T.,True,Yes
+1649,G C M.,C has domain H.,"Given the previous statements, is G a D?",No,G is not a D.,False,No
+556,F N C.,N has domain K.,"Given the previous statements, is F a K?",Yes,F is a K.,True,Yes
+784,H V Y.,V has domain L.,"Given the previous statements, is H a L?",Yes,H is a L.,True,Yes
+236,C J K.,J has domain G.,"Given the previous statements, is C a G?",Yes,C is a G.,True,Yes
+862,I D L.,D has domain B.,"Given the previous statements, is I a B?",Yes,I is a B.,True,Yes
+736,H N Y.,N has domain O.,"Given the previous statements, is H a O?",Yes,H is a O.,True,Yes
+899,I C Y.,C has domain N.,"Given the previous statements, is I a N?",Yes,I is a N.,True,Yes
+1505,F B G.,B has domain Q.,"Given the previous statements, is F a Y?",No,F is not a Y.,False,No
+43,A H D.,H has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+240,C E P.,E has domain S.,"Given the previous statements, is C a S?",Yes,C is a S.,True,Yes
+386,D S C.,S has domain Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,Yes
+1501,F O P.,O has domain J.,"Given the previous statements, is F a Z?",No,F is not a Z.,False,No
+1340,D L Q.,L has domain X.,"Given the previous statements, is D a B?",No,D is not a B.,False,No
+1838,I W E.,W has domain U.,"Given the previous statements, is I a T?",No,I is not a T.,False,No
+1346,D B P.,B has domain Q.,"Given the previous statements, is D a S?",No,D is not a S.,False,No
+1070,A K X.,K has domain N.,"Given the previous statements, is A a D?",No,A is not a D.,False,No
+726,H K W.,K has domain Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True,Yes
+1245,C W Z.,W has domain R.,"Given the previous statements, is C a U?",No,C is not a U.,False,No
+746,H B I.,B has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,No
+1121,B V X.,V has domain P.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+1623,G X Y.,X has domain C.,"Given the previous statements, is G a D?",No,G is not a D.,False,No
+489,E K V.,K has domain P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,Yes
+1741,H Y Z.,Y has domain X.,"Given the previous statements, is H a C?",No,H is not a C.,False,No
+938,J U R.,U has domain C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,Yes
+1244,C V R.,V has domain O.,"Given the previous statements, is C a I?",No,C is not a I.,False,No
+1011,A R X.,R has domain S.,"Given the previous statements, is A a F?",No,A is not a F.,False,No
+1866,I Y M.,Y has domain W.,"Given the previous statements, is I a S?",No,I is not a S.,False,No
+1010,A U O.,U has domain B.,"Given the previous statements, is A a J?",No,A is not a J.,False,No
+1742,H O S.,O has domain R.,"Given the previous statements, is H a Q?",No,H is not a Q.,False,No
+35,A Q F.,Q has domain O.,"Given the previous statements, is A a O?",Yes,A is a O.,True,Yes
+537,F M D.,M has domain N.,"Given the previous statements, is F a N?",Yes,F is a N.,True,Yes
+1996,J Z T.,Z has domain A.,"Given the previous statements, is J a R?",No,J is not a R.,False,No
+1530,F T J.,T has domain I.,"Given the previous statements, is F a O?",No,F is not a O.,False,No
+1551,F Z M.,Z has domain N.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+1927,J L B.,L has domain O.,"Given the previous statements, is J a A?",No,J is not a A.,False,No
+48,A Z P.,Z has domain R.,"Given the previous statements, is A a R?",Yes,A is a R.,True,Yes
+1903,J H E.,H has domain P.,"Given the previous statements, is J a Y?",No,J is not a Y.,False,No
+610,G N Q.,N has domain M.,"Given the previous statements, is G a M?",Yes,G is a M.,True,Yes
+830,I A T.,A has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+140,B C V.,C has domain H.,"Given the previous statements, is B a H?",Yes,B is a H.,True,Yes
+941,J S L.,S has domain X.,"Given the previous statements, is J a X?",Yes,J is a X.,True,Yes
+486,E B M.,B has domain P.,"Given the previous statements, is E a P?",Yes,E is a P.,True,Yes
+1339,D E Q.,E has domain Y.,"Given the previous statements, is D a K?",No,D is not a K.,False,No
+1987,J X M.,X has domain Q.,"Given the previous statements, is J a A?",No,J is not a A.,False,Yes
+1205,C A U.,A has domain O.,"Given the previous statements, is C a Q?",No,C is not a Q.,False,Yes
+753,H U J.,U has domain M.,"Given the previous statements, is H a M?",Yes,H is a M.,True,Yes
+521,F K A.,K has domain J.,"Given the previous statements, is F a J?",Yes,F is a J.,True,Yes
+144,B M O.,M has domain C.,"Given the previous statements, is B a C?",Yes,B is a C.,True,Yes
+78,A O H.,O has domain N.,"Given the previous statements, is A a N?",Yes,A is a N.,True,Yes
+1287,C Z O.,Z has domain R.,"Given the previous statements, is C a V?",No,C is not a V.,False,Yes
+427,E N J.,N has domain H.,"Given the previous statements, is E a H?",Yes,E is a H.,True,Yes
+6,A J T.,J has domain K.,"Given the previous statements, is A a K?",Yes,A is a K.,True,Yes
+604,G Y N.,Y has domain L.,"Given the previous statements, is G a L?",Yes,G is a L.,True,Yes
+603,G J D.,J has domain Y.,"Given the previous statements, is G a Y?",Yes,G is a Y.,True,Yes
+1660,G O E.,O has domain P.,"Given the previous statements, is G a T?",No,G is not a T.,False,No
+233,C M I.,M has domain N.,"Given the previous statements, is C a N?",Yes,C is a N.,True,Yes
+1876,I Q E.,Q has domain K.,"Given the previous statements, is I a A?",No,I is not a A.,False,No
+1637,G C P.,C has domain Z.,"Given the previous statements, is G a K?",No,G is not a K.,False,No
+649,G I W.,I has domain E.,"Given the previous statements, is G a E?",Yes,G is a E.,True,Yes
+1840,I E S.,E has domain M.,"Given the previous statements, is I a F?",No,I is not a F.,False,No
+1850,I C Y.,C has domain Z.,"Given the previous statements, is I a T?",No,I is not a T.,False,No
+1817,I G L.,G has domain Z.,"Given the previous statements, is I a X?",No,I is not a X.,False,No
+667,G C D.,C has domain L.,"Given the previous statements, is G a L?",Yes,G is a L.,True,Yes
+1757,H Y B.,Y has domain A.,"Given the previous statements, is H a I?",No,H is not a I.,False,No
+1107,B A N.,A has domain M.,"Given the previous statements, is B a X?",No,B is not a X.,False,No
+210,C Q A.,Q has domain X.,"Given the previous statements, is C a X?",Yes,C is a X.,True,Yes
+251,C W L.,W has domain M.,"Given the previous statements, is C a M?",Yes,C is a M.,True,Yes
+1273,C E H.,E has domain I.,"Given the previous statements, is C a W?",No,C is not a W.,False,No
+1952,J X E.,X has domain W.,"Given the previous statements, is J a C?",No,J is not a C.,False,No
+1527,F N A.,N has domain J.,"Given the previous statements, is F a G?",No,F is not a G.,False,No
+1810,I W P.,W has domain V.,"Given the previous statements, is I a X?",No,I is not a X.,False,No
+1733,H M O.,M has domain L.,"Given the previous statements, is H a P?",No,H is not a P.,False,No
+1967,J C L.,C has domain I.,"Given the previous statements, is J a H?",No,J is not a H.,False,No
+519,F N U.,N has domain L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,Yes
+1327,D R C.,R has domain Z.,"Given the previous statements, is D a L?",No,D is not a L.,False,No
+840,I N B.,N has domain L.,"Given the previous statements, is I a L?",Yes,I is a L.,True,Yes
+985,J K L.,K has domain O.,"Given the previous statements, is J a O?",Yes,J is a O.,True,Yes
+1028,A W H.,W has domain C.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,No
+1374,D L B.,L has domain G.,"Given the previous statements, is D a R?",No,D is not a R.,False,No
+1867,I G D.,G has domain H.,"Given the previous statements, is I a V?",No,I is not a V.,False,Yes
+901,J B I.,B has domain D.,"Given the previous statements, is J a D?",Yes,J is a D.,True,Yes
+660,G S D.,S has domain O.,"Given the previous statements, is G a O?",Yes,G is a O.,True,Yes
+974,J E T.,E has domain X.,"Given the previous statements, is J a X?",Yes,J is a X.,True,Yes
+158,B U G.,U has domain E.,"Given the previous statements, is B a E?",Yes,B is a E.,True,Yes
+777,H X B.,X has domain E.,"Given the previous statements, is H a E?",Yes,H is a E.,True,Yes
+1745,H Q L.,Q has domain G.,"Given the previous statements, is H a R?",No,H is not a R.,False,No
+1237,C T B.,T has domain V.,"Given the previous statements, is C a U?",No,C is not a U.,False,No
+1630,G O I.,O has domain S.,"Given the previous statements, is G a B?",No,G is not a B.,False,Yes
+1683,G E V.,E has domain N.,"Given the previous statements, is G a P?",No,G is not a P.,False,Yes
+268,C S N.,S has domain Q.,"Given the previous statements, is C a Q?",Yes,C is a Q.,True,Yes
+549,F Q S.,Q has domain P.,"Given the previous statements, is F a P?",Yes,F is a P.,True,Yes
+1783,H S W.,S has domain M.,"Given the previous statements, is H a Z?",No,H is not a Z.,False,No
+686,G F O.,F has domain S.,"Given the previous statements, is G a S?",Yes,G is a S.,True,Yes
+801,I J V.,J has domain E.,"Given the previous statements, is I a E?",Yes,I is a E.,True,Yes
+785,H J E.,J has domain D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,Yes
+1703,H U W.,U has domain O.,"Given the previous statements, is H a E?",No,H is not a E.,False,No
+1498,E H N.,H has domain R.,"Given the previous statements, is E a U?",No,E is not a U.,False,No
+325,D B X.,B has domain Y.,"Given the previous statements, is D a Y?",Yes,D is a Y.,True,Yes
+1655,G L O.,L has domain Q.,"Given the previous statements, is G a K?",No,G is not a K.,False,No
+1913,J H K.,H has domain T.,"Given the previous statements, is J a Q?",No,J is not a Q.,False,No
+1280,C X Z.,X has domain J.,"Given the previous statements, is C a E?",No,C is not a E.,False,No
+778,H I Y.,I has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,Yes
+222,C X E.,X has domain A.,"Given the previous statements, is C a A?",Yes,C is a A.,True,Yes
+575,F L T.,L has domain U.,"Given the previous statements, is F a U?",Yes,F is a U.,True,Yes
+1120,B M Q.,M has domain H.,"Given the previous statements, is B a V?",No,B is not a V.,False,No
+1215,C T Z.,T has domain O.,"Given the previous statements, is C a R?",No,C is not a R.,False,Yes
+619,G D C.,D has domain Z.,"Given the previous statements, is G a Z?",Yes,G is a Z.,True,Yes
+15,A K X.,K has domain W.,"Given the previous statements, is A a W?",Yes,A is a W.,True,Yes
+111,B X J.,X has domain A.,"Given the previous statements, is B a A?",Yes,B is a A.,True,Yes
+1266,C J Q.,J has domain F.,"Given the previous statements, is C a E?",No,C is not a E.,False,No
+1026,A B O.,B has domain S.,"Given the previous statements, is A a X?",No,A is not a X.,False,No
+817,I R T.,R has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+218,C S E.,S has domain Z.,"Given the previous statements, is C a Z?",Yes,C is a Z.,True,Yes
+922,J H T.,H has domain I.,"Given the previous statements, is J a I?",Yes,J is a I.,True,Yes
+1538,F T Z.,T has domain U.,"Given the previous statements, is F a C?",No,F is not a C.,False,No
+1654,G K N.,K has domain R.,"Given the previous statements, is G a H?",No,G is not a H.,False,No
+1455,E A B.,A has domain Y.,"Given the previous statements, is E a X?",No,E is not a X.,False,No
+336,D I G.,I has domain N.,"Given the previous statements, is D a N?",Yes,D is a N.,True,Yes
+318,D R T.,R has domain X.,"Given the previous statements, is D a X?",Yes,D is a X.,True,Yes
+1710,H S X.,S has domain F.,"Given the previous statements, is H a M?",No,H is not a M.,False,No
+49,A H E.,H has domain B.,"Given the previous statements, is A a B?",Yes,A is a B.,True,Yes
+833,I Y G.,Y has domain X.,"Given the previous statements, is I a X?",Yes,I is a X.,True,Yes
+1911,J D X.,D has domain T.,"Given the previous statements, is J a Q?",No,J is not a Q.,False,No
+14,A J Q.,J has domain C.,"Given the previous statements, is A a C?",Yes,A is a C.,True,Yes
+1856,I N P.,N has domain X.,"Given the previous statements, is I a K?",No,I is not a K.,False,No
+522,F R K.,R has domain G.,"Given the previous statements, is F a G?",Yes,F is a G.,True,Yes
+280,C M H.,M has domain K.,"Given the previous statements, is C a K?",Yes,C is a K.,True,Yes
+1822,I H E.,H has domain K.,"Given the previous statements, is I a J?",No,I is not a J.,False,No
+1431,E I D.,I has domain J.,"Given the previous statements, is E a N?",No,E is not a N.,False,No
+848,I C J.,C has domain M.,"Given the previous statements, is I a M?",Yes,I is a M.,True,Yes
+839,I S T.,S has domain U.,"Given the previous statements, is I a U?",Yes,I is a U.,True,Yes
+272,C S H.,S has domain O.,"Given the previous statements, is C a O?",Yes,C is a O.,True,No
+1517,F I V.,I has domain Y.,"Given the previous statements, is F a R?",No,F is not a R.,False,No
+1847,I J Z.,J has domain N.,"Given the previous statements, is I a X?",No,I is not a X.,False,No
+730,H G W.,G has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,Yes
+1465,E D R.,D has domain C.,"Given the previous statements, is E a U?",No,E is not a U.,False,No
+1279,C O H.,O has domain R.,"Given the previous statements, is C a M?",No,C is not a M.,False,No
+305,D G L.,G has domain R.,"Given the previous statements, is D a R?",Yes,D is a R.,True,Yes
+1789,H P E.,P has domain C.,"Given the previous statements, is H a W?",No,H is not a W.,False,No
+227,C Q K.,Q has domain H.,"Given the previous statements, is C a H?",Yes,C is a H.,True,Yes
+538,F N L.,N has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+874,I M P.,M has domain G.,"Given the previous statements, is I a G?",Yes,I is a G.,True,Yes
+699,G F T.,F has domain W.,"Given the previous statements, is G a W?",Yes,G is a W.,True,Yes
+652,G J K.,J has domain H.,"Given the previous statements, is G a H?",Yes,G is a H.,True,Yes
+1770,H L V.,L has domain S.,"Given the previous statements, is H a N?",No,H is not a N.,False,No
+588,F T A.,T has domain S.,"Given the previous statements, is F a S?",Yes,F is a S.,True,No
+761,H L S.,L has domain E.,"Given the previous statements, is H a E?",Yes,H is a E.,True,Yes
+215,C O A.,O has domain B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,Yes
+1682,G M P.,M has domain T.,"Given the previous statements, is G a Q?",No,G is not a Q.,False,No
+347,D T I.,T has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,Yes
+646,G U Q.,U has domain N.,"Given the previous statements, is G a N?",Yes,G is a N.,True,Yes
+969,J E V.,E has domain P.,"Given the previous statements, is J a P?",Yes,J is a P.,True,Yes
+944,J O B.,O has domain H.,"Given the previous statements, is J a H?",Yes,J is a H.,True,Yes
+1579,F V M.,V has domain L.,"Given the previous statements, is F a K?",No,F is not a K.,False,No
+304,D G T.,G has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,Yes
+1880,I H C.,H has domain X.,"Given the previous statements, is I a W?",No,I is not a W.,False,No
+1242,C U E.,U has domain F.,"Given the previous statements, is C a L?",No,C is not a L.,False,Yes
+1019,A J I.,J has domain T.,"Given the previous statements, is A a Y?",No,A is not a Y.,False,No
+790,H K F.,K has domain C.,"Given the previous statements, is H a C?",Yes,H is a C.,True,Yes
+1540,F G Y.,G has domain E.,"Given the previous statements, is F a U?",No,F is not a U.,False,No
+1190,B L W.,L has domain H.,"Given the previous statements, is B a C?",No,B is not a C.,False,No
+1250,C Z M.,Z has domain K.,"Given the previous statements, is C a A?",No,C is not a A.,False,Yes
+857,I Z K.,Z has domain D.,"Given the previous statements, is I a D?",Yes,I is a D.,True,Yes
+1496,E Q U.,Q has domain O.,"Given the previous statements, is E a S?",No,E is not a S.,False,No
+1186,B Y C.,Y has domain I.,"Given the previous statements, is B a W?",No,B is not a W.,False,No
+286,C T P.,T has domain B.,"Given the previous statements, is C a B?",Yes,C is a B.,True,No
+658,G H R.,H has domain L.,"Given the previous statements, is G a L?",Yes,G is a L.,True,Yes
+1570,F T P.,T has domain L.,"Given the previous statements, is F a V?",No,F is not a V.,False,No
+31,A F B.,F has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+545,F Q J.,Q has domain A.,"Given the previous statements, is F a A?",Yes,F is a A.,True,Yes
+490,E U A.,U has domain X.,"Given the previous statements, is E a X?",Yes,E is a X.,True,Yes
+1017,A W C.,W has domain P.,"Given the previous statements, is A a O?",No,A is not a O.,False,No
+409,E L Q.,L has domain F.,"Given the previous statements, is E a F?",Yes,E is a F.,True,Yes
+1428,E G U.,G has domain W.,"Given the previous statements, is E a O?",No,E is not a O.,False,Yes
+628,G J K.,J has domain U.,"Given the previous statements, is G a U?",Yes,G is a U.,True,Yes
+1151,B Y G.,Y has domain O.,"Given the previous statements, is B a Z?",No,B is not a Z.,False,No
+903,J S X.,S has domain B.,"Given the previous statements, is J a B?",Yes,J is a B.,True,Yes
+471,E L F.,L has domain N.,"Given the previous statements, is E a N?",Yes,E is a N.,True,Yes
+94,A L T.,L has domain D.,"Given the previous statements, is A a D?",Yes,A is a D.,True,Yes
+1332,D K I.,K has domain V.,"Given the previous statements, is D a M?",No,D is not a M.,False,No
+1658,G M U.,M has domain X.,"Given the previous statements, is G a R?",No,G is not a R.,False,No
+813,I P L.,P has domain V.,"Given the previous statements, is I a V?",Yes,I is a V.,True,Yes
+581,F I Q.,I has domain C.,"Given the previous statements, is F a C?",Yes,F is a C.,True,Yes
+1802,I N R.,N has domain P.,"Given the previous statements, is I a B?",No,I is not a B.,False,No
+735,H C V.,C has domain Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True,Yes
+57,A Z Y.,Z has domain T.,"Given the previous statements, is A a T?",Yes,A is a T.,True,Yes
+940,J P Q.,P has domain T.,"Given the previous statements, is J a T?",Yes,J is a T.,True,Yes
+418,E R N.,R has domain Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True,Yes
+1053,A N U.,N has domain Z.,"Given the previous statements, is A a T?",No,A is not a T.,False,No
+36,A L M.,L has domain K.,"Given the previous statements, is A a K?",Yes,A is a K.,True,Yes
+955,J Z Y.,Z has domain D.,"Given the previous statements, is J a D?",Yes,J is a D.,True,Yes
+1896,I F K.,F has domain H.,"Given the previous statements, is I a Y?",No,I is not a Y.,False,No
+977,J P E.,P has domain C.,"Given the previous statements, is J a C?",Yes,J is a C.,True,No
+1380,D J E.,J has domain Y.,"Given the previous statements, is D a R?",No,D is not a R.,False,Yes
+1715,H Z G.,Z has domain X.,"Given the previous statements, is H a I?",No,H is not a I.,False,No
+596,F Q Z.,Q has domain L.,"Given the previous statements, is F a L?",Yes,F is a L.,True,Yes
+22,A J D.,J has domain F.,"Given the previous statements, is A a F?",Yes,A is a F.,True,Yes
+1639,G J A.,J has domain Z.,"Given the previous statements, is G a T?",No,G is not a T.,False,No
+1939,J X R.,X has domain B.,"Given the previous statements, is J a N?",No,J is not a N.,False,No
+432,E U X.,U has domain O.,"Given the previous statements, is E a O?",Yes,E is a O.,True,Yes
+1197,B P Z.,P has domain R.,"Given the previous statements, is B a Y?",No,B is not a Y.,False,No
+1075,A O W.,O has domain D.,"Given the previous statements, is A a H?",No,A is not a H.,False,Yes
+1194,B A T.,A has domain M.,"Given the previous statements, is B a O?",No,B is not a O.,False,No
+472,E L N.,L has domain Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True,Yes
+308,D M Z.,M has domain S.,"Given the previous statements, is D a S?",Yes,D is a S.,True,Yes
+1290,C L I.,L has domain X.,"Given the previous statements, is C a A?",No,C is not a A.,False,Yes
+1774,H C K.,C has domain I.,"Given the previous statements, is H a Y?",No,H is not a Y.,False,No
+141,B W H.,W has domain P.,"Given the previous statements, is B a P?",Yes,B is a P.,True,Yes
+810,I Y F.,Y has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+555,F U K.,U has domain I.,"Given the previous statements, is F a I?",Yes,F is a I.,True,Yes
+724,H D P.,D has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,Yes
+774,H E B.,E has domain D.,"Given the previous statements, is H a D?",Yes,H is a D.,True,Yes
+1416,E J C.,J has domain Q.,"Given the previous statements, is E a K?",No,E is not a K.,False,No
+812,I T W.,T has domain Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True,Yes
+925,J N C.,N has domain R.,"Given the previous statements, is J a R?",Yes,J is a R.,True,Yes
+517,F D Z.,D has domain O.,"Given the previous statements, is F a O?",Yes,F is a O.,True,Yes
+838,I Y M.,Y has domain P.,"Given the previous statements, is I a P?",Yes,I is a P.,True,Yes
+1811,I O A.,O has domain S.,"Given the previous statements, is I a W?",No,I is not a W.,False,Yes
+1201,C S K.,S has domain Z.,"Given the previous statements, is C a B?",No,C is not a B.,False,No
+1962,J P M.,P has domain K.,"Given the previous statements, is J a G?",No,J is not a G.,False,No
+887,I K E.,K has domain C.,"Given the previous statements, is I a C?",Yes,I is a C.,True,Yes
+124,B S K.,S has domain G.,"Given the previous statements, is B a G?",Yes,B is a G.,True,Yes
+1328,D L U.,L has domain Z.,"Given the previous statements, is D a Y?",No,D is not a Y.,False,No
+441,E T G.,T has domain Q.,"Given the previous statements, is E a Q?",Yes,E is a Q.,True,Yes
+739,H B L.,B has domain K.,"Given the previous statements, is H a K?",Yes,H is a K.,True,Yes
+898,I W S.,W has domain H.,"Given the previous statements, is I a H?",Yes,I is a H.,True,Yes
+1688,G Y L.,Y has domain M.,"Given the previous statements, is G a X?",No,G is not a X.,False,No
+758,H Y F.,Y has domain S.,"Given the previous statements, is H a S?",Yes,H is a S.,True,Yes
+1445,E L D.,L has domain T.,"Given the previous statements, is E a Q?",No,E is not a Q.,False,No
+283,C A B.,A has domain T.,"Given the previous statements, is C a T?",Yes,C is a T.,True,Yes

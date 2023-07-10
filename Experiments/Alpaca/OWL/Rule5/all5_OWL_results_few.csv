@@ -1,0 +1,21 @@
+Zero shot
+,DBpedia data,abstract
+TP,110,110
+FP,110,110
+FN,0,0
+TN,0,0
+Accuracy,0.5,0.5
+Precision,0.5,0.5
+Recall,1.0,1.0
+F1 Score,0.6666666666666666,0.6666666666666666
+
+Few shot
+,DBpedia data,abstract
+TP,110,110
+FP,109,110
+FN,0,0
+TN,1,0
+Accuracy,0.5045454545454545,0.5
+Precision,0.502283105022831,0.5
+Recall,1.0,1.0
+F1 Score,0.6686930091185409,0.6666666666666666

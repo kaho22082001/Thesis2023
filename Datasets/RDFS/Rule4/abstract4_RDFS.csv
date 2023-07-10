@@ -1,0 +1,2001 @@
+ID,triple1,triple2,question,answer,inferred triple,label
+1,A W I.,W has range O.,"Given the previous statements, is I a O?",Yes,I is a O.,True
+2,A N F.,N has range V.,"Given the previous statements, is F a V?",Yes,F is a V.,True
+3,A Q I.,Q has range D.,"Given the previous statements, is I a D?",Yes,I is a D.,True
+4,A C F.,C has range G.,"Given the previous statements, is F a G?",Yes,F is a G.,True
+5,A M F.,M has range L.,"Given the previous statements, is F a L?",Yes,F is a L.,True
+6,A Z G.,Z has range D.,"Given the previous statements, is G a D?",Yes,G is a D.,True
+7,A R H.,R has range F.,"Given the previous statements, is H a F?",Yes,H is a F.,True
+8,A J I.,J has range C.,"Given the previous statements, is I a C?",Yes,I is a C.,True
+9,A F I.,F has range L.,"Given the previous statements, is I a L?",Yes,I is a L.,True
+10,A E G.,E has range N.,"Given the previous statements, is G a N?",Yes,G is a N.,True
+11,A H Y.,H has range E.,"Given the previous statements, is Y a E?",Yes,Y is a E.,True
+12,A X J.,X has range E.,"Given the previous statements, is J a E?",Yes,J is a E.,True
+13,A L Z.,L has range D.,"Given the previous statements, is Z a D?",Yes,Z is a D.,True
+14,A Z J.,Z has range E.,"Given the previous statements, is J a E?",Yes,J is a E.,True
+15,A C P.,C has range N.,"Given the previous statements, is P a N?",Yes,P is a N.,True
+16,A M X.,M has range T.,"Given the previous statements, is X a T?",Yes,X is a T.,True
+17,A R S.,R has range L.,"Given the previous statements, is S a L?",Yes,S is a L.,True
+18,A D B.,D has range O.,"Given the previous statements, is B a O?",Yes,B is a O.,True
+19,A P W.,P has range Q.,"Given the previous statements, is W a Q?",Yes,W is a Q.,True
+20,A N J.,N has range C.,"Given the previous statements, is J a C?",Yes,J is a C.,True
+21,A L G.,L has range O.,"Given the previous statements, is G a O?",Yes,G is a O.,True
+22,A U K.,U has range I.,"Given the previous statements, is K a I?",Yes,K is a I.,True
+23,A D R.,D has range U.,"Given the previous statements, is R a U?",Yes,R is a U.,True
+24,A R W.,R has range C.,"Given the previous statements, is W a C?",Yes,W is a C.,True
+25,A P Z.,P has range T.,"Given the previous statements, is Z a T?",Yes,Z is a T.,True
+26,A B P.,B has range M.,"Given the previous statements, is P a M?",Yes,P is a M.,True
+27,A P V.,P has range O.,"Given the previous statements, is V a O?",Yes,V is a O.,True
+28,A H P.,H has range G.,"Given the previous statements, is P a G?",Yes,P is a G.,True
+29,A X O.,X has range Z.,"Given the previous statements, is O a Z?",Yes,O is a Z.,True
+30,A L N.,L has range Y.,"Given the previous statements, is N a Y?",Yes,N is a Y.,True
+31,A P X.,P has range W.,"Given the previous statements, is X a W?",Yes,X is a W.,True
+32,A R G.,R has range O.,"Given the previous statements, is G a O?",Yes,G is a O.,True
+33,A N E.,N has range Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True
+34,A D S.,D has range Q.,"Given the previous statements, is S a Q?",Yes,S is a Q.,True
+35,A B T.,B has range Q.,"Given the previous statements, is T a Q?",Yes,T is a Q.,True
+36,A W R.,W has range O.,"Given the previous statements, is R a O?",Yes,R is a O.,True
+37,A D H.,D has range F.,"Given the previous statements, is H a F?",Yes,H is a F.,True
+38,A Y P.,Y has range H.,"Given the previous statements, is P a H?",Yes,P is a H.,True
+39,A P K.,P has range T.,"Given the previous statements, is K a T?",Yes,K is a T.,True
+40,A K H.,K has range J.,"Given the previous statements, is H a J?",Yes,H is a J.,True
+41,A V U.,V has range M.,"Given the previous statements, is U a M?",Yes,U is a M.,True
+42,A S T.,S has range C.,"Given the previous statements, is T a C?",Yes,T is a C.,True
+43,A L K.,L has range U.,"Given the previous statements, is K a U?",Yes,K is a U.,True
+44,A G O.,G has range W.,"Given the previous statements, is O a W?",Yes,O is a W.,True
+45,A S V.,S has range K.,"Given the previous statements, is V a K?",Yes,V is a K.,True
+46,A Q U.,Q has range F.,"Given the previous statements, is U a F?",Yes,U is a F.,True
+47,A Z X.,Z has range Q.,"Given the previous statements, is X a Q?",Yes,X is a Q.,True
+48,A Q W.,Q has range F.,"Given the previous statements, is W a F?",Yes,W is a F.,True
+49,A I Y.,I has range N.,"Given the previous statements, is Y a N?",Yes,Y is a N.,True
+50,A M R.,M has range E.,"Given the previous statements, is R a E?",Yes,R is a E.,True
+51,A Z Q.,Z has range D.,"Given the previous statements, is Q a D?",Yes,Q is a D.,True
+52,A J D.,J has range F.,"Given the previous statements, is D a F?",Yes,D is a F.,True
+53,A M C.,M has range V.,"Given the previous statements, is C a V?",Yes,C is a V.,True
+54,A V D.,V has range I.,"Given the previous statements, is D a I?",Yes,D is a I.,True
+55,A V D.,V has range S.,"Given the previous statements, is D a S?",Yes,D is a S.,True
+56,A O X.,O has range I.,"Given the previous statements, is X a I?",Yes,X is a I.,True
+57,A R C.,R has range D.,"Given the previous statements, is C a D?",Yes,C is a D.,True
+58,A G F.,G has range X.,"Given the previous statements, is F a X?",Yes,F is a X.,True
+59,A C Q.,C has range Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True
+60,A E I.,E has range H.,"Given the previous statements, is I a H?",Yes,I is a H.,True
+61,A U W.,U has range G.,"Given the previous statements, is W a G?",Yes,W is a G.,True
+62,A Z F.,Z has range U.,"Given the previous statements, is F a U?",Yes,F is a U.,True
+63,A W O.,W has range K.,"Given the previous statements, is O a K?",Yes,O is a K.,True
+64,A N U.,N has range G.,"Given the previous statements, is U a G?",Yes,U is a G.,True
+65,A U S.,U has range K.,"Given the previous statements, is S a K?",Yes,S is a K.,True
+66,A J H.,J has range C.,"Given the previous statements, is H a C?",Yes,H is a C.,True
+67,A T D.,T has range N.,"Given the previous statements, is D a N?",Yes,D is a N.,True
+68,A X B.,X has range V.,"Given the previous statements, is B a V?",Yes,B is a V.,True
+69,A B J.,B has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+70,A G L.,G has range H.,"Given the previous statements, is L a H?",Yes,L is a H.,True
+71,A Q R.,Q has range F.,"Given the previous statements, is R a F?",Yes,R is a F.,True
+72,A R I.,R has range P.,"Given the previous statements, is I a P?",Yes,I is a P.,True
+73,A H S.,H has range T.,"Given the previous statements, is S a T?",Yes,S is a T.,True
+74,A X C.,X has range H.,"Given the previous statements, is C a H?",Yes,C is a H.,True
+75,A G Z.,G has range O.,"Given the previous statements, is Z a O?",Yes,Z is a O.,True
+76,A T I.,T has range U.,"Given the previous statements, is I a U?",Yes,I is a U.,True
+77,A T J.,T has range D.,"Given the previous statements, is J a D?",Yes,J is a D.,True
+78,A W I.,W has range F.,"Given the previous statements, is I a F?",Yes,I is a F.,True
+79,A W D.,W has range P.,"Given the previous statements, is D a P?",Yes,D is a P.,True
+80,A Y M.,Y has range B.,"Given the previous statements, is M a B?",Yes,M is a B.,True
+81,A N G.,N has range X.,"Given the previous statements, is G a X?",Yes,G is a X.,True
+82,A G O.,G has range I.,"Given the previous statements, is O a I?",Yes,O is a I.,True
+83,A J K.,J has range P.,"Given the previous statements, is K a P?",Yes,K is a P.,True
+84,A L G.,L has range F.,"Given the previous statements, is G a F?",Yes,G is a F.,True
+85,A Z V.,Z has range L.,"Given the previous statements, is V a L?",Yes,V is a L.,True
+86,A Y T.,Y has range R.,"Given the previous statements, is T a R?",Yes,T is a R.,True
+87,A Z V.,Z has range I.,"Given the previous statements, is V a I?",Yes,V is a I.,True
+88,A N S.,N has range Q.,"Given the previous statements, is S a Q?",Yes,S is a Q.,True
+89,A T H.,T has range C.,"Given the previous statements, is H a C?",Yes,H is a C.,True
+90,A R I.,R has range C.,"Given the previous statements, is I a C?",Yes,I is a C.,True
+91,A I V.,I has range U.,"Given the previous statements, is V a U?",Yes,V is a U.,True
+92,A J S.,J has range C.,"Given the previous statements, is S a C?",Yes,S is a C.,True
+93,A S R.,S has range J.,"Given the previous statements, is R a J?",Yes,R is a J.,True
+94,A K V.,K has range E.,"Given the previous statements, is V a E?",Yes,V is a E.,True
+95,A Y T.,Y has range U.,"Given the previous statements, is T a U?",Yes,T is a U.,True
+96,A X O.,X has range D.,"Given the previous statements, is O a D?",Yes,O is a D.,True
+97,A U M.,U has range N.,"Given the previous statements, is M a N?",Yes,M is a N.,True
+98,A S W.,S has range V.,"Given the previous statements, is W a V?",Yes,W is a V.,True
+99,A B R.,B has range D.,"Given the previous statements, is R a D?",Yes,R is a D.,True
+100,A V J.,V has range N.,"Given the previous statements, is J a N?",Yes,J is a N.,True
+101,B Z M.,Z has range N.,"Given the previous statements, is M a N?",Yes,M is a N.,True
+102,B Z Q.,Z has range H.,"Given the previous statements, is Q a H?",Yes,Q is a H.,True
+103,B K P.,K has range E.,"Given the previous statements, is P a E?",Yes,P is a E.,True
+104,B Y N.,Y has range I.,"Given the previous statements, is N a I?",Yes,N is a I.,True
+105,B E Z.,E has range Q.,"Given the previous statements, is Z a Q?",Yes,Z is a Q.,True
+106,B L F.,L has range X.,"Given the previous statements, is F a X?",Yes,F is a X.,True
+107,B Z E.,Z has range S.,"Given the previous statements, is E a S?",Yes,E is a S.,True
+108,B Y E.,Y has range M.,"Given the previous statements, is E a M?",Yes,E is a M.,True
+109,B A M.,A has range Z.,"Given the previous statements, is M a Z?",Yes,M is a Z.,True
+110,B T P.,T has range K.,"Given the previous statements, is P a K?",Yes,P is a K.,True
+111,B Z E.,Z has range D.,"Given the previous statements, is E a D?",Yes,E is a D.,True
+112,B M F.,M has range G.,"Given the previous statements, is F a G?",Yes,F is a G.,True
+113,B P N.,P has range E.,"Given the previous statements, is N a E?",Yes,N is a E.,True
+114,B P D.,P has range Q.,"Given the previous statements, is D a Q?",Yes,D is a Q.,True
+115,B L T.,L has range Q.,"Given the previous statements, is T a Q?",Yes,T is a Q.,True
+116,B L K.,L has range R.,"Given the previous statements, is K a R?",Yes,K is a R.,True
+117,B H Q.,H has range Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True
+118,B K R.,K has range J.,"Given the previous statements, is R a J?",Yes,R is a J.,True
+119,B O C.,O has range R.,"Given the previous statements, is C a R?",Yes,C is a R.,True
+120,B X A.,X has range V.,"Given the previous statements, is A a V?",Yes,A is a V.,True
+121,B Y W.,Y has range L.,"Given the previous statements, is W a L?",Yes,W is a L.,True
+122,B T E.,T has range R.,"Given the previous statements, is E a R?",Yes,E is a R.,True
+123,B X O.,X has range E.,"Given the previous statements, is O a E?",Yes,O is a E.,True
+124,B C N.,C has range R.,"Given the previous statements, is N a R?",Yes,N is a R.,True
+125,B I E.,I has range V.,"Given the previous statements, is E a V?",Yes,E is a V.,True
+126,B W C.,W has range J.,"Given the previous statements, is C a J?",Yes,C is a J.,True
+127,B C Z.,C has range S.,"Given the previous statements, is Z a S?",Yes,Z is a S.,True
+128,B G Z.,G has range D.,"Given the previous statements, is Z a D?",Yes,Z is a D.,True
+129,B A D.,A has range P.,"Given the previous statements, is D a P?",Yes,D is a P.,True
+130,B U E.,U has range S.,"Given the previous statements, is E a S?",Yes,E is a S.,True
+131,B R C.,R has range J.,"Given the previous statements, is C a J?",Yes,C is a J.,True
+132,B E R.,E has range J.,"Given the previous statements, is R a J?",Yes,R is a J.,True
+133,B R M.,R has range Q.,"Given the previous statements, is M a Q?",Yes,M is a Q.,True
+134,B X P.,X has range V.,"Given the previous statements, is P a V?",Yes,P is a V.,True
+135,B K H.,K has range U.,"Given the previous statements, is H a U?",Yes,H is a U.,True
+136,B M N.,M has range G.,"Given the previous statements, is N a G?",Yes,N is a G.,True
+137,B R J.,R has range N.,"Given the previous statements, is J a N?",Yes,J is a N.,True
+138,B K E.,K has range M.,"Given the previous statements, is E a M?",Yes,E is a M.,True
+139,B N E.,N has range J.,"Given the previous statements, is E a J?",Yes,E is a J.,True
+140,B U V.,U has range H.,"Given the previous statements, is V a H?",Yes,V is a H.,True
+141,B L H.,L has range U.,"Given the previous statements, is H a U?",Yes,H is a U.,True
+142,B P R.,P has range K.,"Given the previous statements, is R a K?",Yes,R is a K.,True
+143,B E L.,E has range O.,"Given the previous statements, is L a O?",Yes,L is a O.,True
+144,B X E.,X has range F.,"Given the previous statements, is E a F?",Yes,E is a F.,True
+145,B E L.,E has range V.,"Given the previous statements, is L a V?",Yes,L is a V.,True
+146,B P Q.,P has range E.,"Given the previous statements, is Q a E?",Yes,Q is a E.,True
+147,B U L.,U has range F.,"Given the previous statements, is L a F?",Yes,L is a F.,True
+148,B N W.,N has range S.,"Given the previous statements, is W a S?",Yes,W is a S.,True
+149,B M S.,M has range F.,"Given the previous statements, is S a F?",Yes,S is a F.,True
+150,B V E.,V has range R.,"Given the previous statements, is E a R?",Yes,E is a R.,True
+151,B J I.,J has range U.,"Given the previous statements, is I a U?",Yes,I is a U.,True
+152,B H U.,H has range J.,"Given the previous statements, is U a J?",Yes,U is a J.,True
+153,B R U.,R has range M.,"Given the previous statements, is U a M?",Yes,U is a M.,True
+154,B V N.,V has range H.,"Given the previous statements, is N a H?",Yes,N is a H.,True
+155,B Q E.,Q has range Y.,"Given the previous statements, is E a Y?",Yes,E is a Y.,True
+156,B Q I.,Q has range J.,"Given the previous statements, is I a J?",Yes,I is a J.,True
+157,B W K.,W has range Y.,"Given the previous statements, is K a Y?",Yes,K is a Y.,True
+158,B G P.,G has range L.,"Given the previous statements, is P a L?",Yes,P is a L.,True
+159,B E I.,E has range S.,"Given the previous statements, is I a S?",Yes,I is a S.,True
+160,B P J.,P has range T.,"Given the previous statements, is J a T?",Yes,J is a T.,True
+161,B D T.,D has range G.,"Given the previous statements, is T a G?",Yes,T is a G.,True
+162,B V D.,V has range O.,"Given the previous statements, is D a O?",Yes,D is a O.,True
+163,B S G.,S has range T.,"Given the previous statements, is G a T?",Yes,G is a T.,True
+164,B G S.,G has range Y.,"Given the previous statements, is S a Y?",Yes,S is a Y.,True
+165,B I N.,I has range A.,"Given the previous statements, is N a A?",Yes,N is a A.,True
+166,B I A.,I has range R.,"Given the previous statements, is A a R?",Yes,A is a R.,True
+167,B L K.,L has range P.,"Given the previous statements, is K a P?",Yes,K is a P.,True
+168,B Z E.,Z has range K.,"Given the previous statements, is E a K?",Yes,E is a K.,True
+169,B Z F.,Z has range E.,"Given the previous statements, is F a E?",Yes,F is a E.,True
+170,B D H.,D has range M.,"Given the previous statements, is H a M?",Yes,H is a M.,True
+171,B E G.,E has range T.,"Given the previous statements, is G a T?",Yes,G is a T.,True
+172,B W H.,W has range J.,"Given the previous statements, is H a J?",Yes,H is a J.,True
+173,B A E.,A has range Y.,"Given the previous statements, is E a Y?",Yes,E is a Y.,True
+174,B C F.,C has range U.,"Given the previous statements, is F a U?",Yes,F is a U.,True
+175,B U Q.,U has range T.,"Given the previous statements, is Q a T?",Yes,Q is a T.,True
+176,B E T.,E has range J.,"Given the previous statements, is T a J?",Yes,T is a J.,True
+177,B K Z.,K has range X.,"Given the previous statements, is Z a X?",Yes,Z is a X.,True
+178,B I F.,I has range N.,"Given the previous statements, is F a N?",Yes,F is a N.,True
+179,B W V.,W has range R.,"Given the previous statements, is V a R?",Yes,V is a R.,True
+180,B M V.,M has range Z.,"Given the previous statements, is V a Z?",Yes,V is a Z.,True
+181,B R Q.,R has range A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True
+182,B J E.,J has range Y.,"Given the previous statements, is E a Y?",Yes,E is a Y.,True
+183,B P T.,P has range W.,"Given the previous statements, is T a W?",Yes,T is a W.,True
+184,B J Y.,J has range X.,"Given the previous statements, is Y a X?",Yes,Y is a X.,True
+185,B I M.,I has range F.,"Given the previous statements, is M a F?",Yes,M is a F.,True
+186,B U M.,U has range F.,"Given the previous statements, is M a F?",Yes,M is a F.,True
+187,B A G.,A has range Z.,"Given the previous statements, is G a Z?",Yes,G is a Z.,True
+188,B R N.,R has range M.,"Given the previous statements, is N a M?",Yes,N is a M.,True
+189,B V I.,V has range L.,"Given the previous statements, is I a L?",Yes,I is a L.,True
+190,B P Y.,P has range T.,"Given the previous statements, is Y a T?",Yes,Y is a T.,True
+191,B N M.,N has range R.,"Given the previous statements, is M a R?",Yes,M is a R.,True
+192,B O N.,O has range E.,"Given the previous statements, is N a E?",Yes,N is a E.,True
+193,B F W.,F has range D.,"Given the previous statements, is W a D?",Yes,W is a D.,True
+194,B A I.,A has range E.,"Given the previous statements, is I a E?",Yes,I is a E.,True
+195,B L R.,L has range C.,"Given the previous statements, is R a C?",Yes,R is a C.,True
+196,B U C.,U has range P.,"Given the previous statements, is C a P?",Yes,C is a P.,True
+197,B W L.,W has range N.,"Given the previous statements, is L a N?",Yes,L is a N.,True
+198,B L P.,L has range C.,"Given the previous statements, is P a C?",Yes,P is a C.,True
+199,B F W.,F has range Z.,"Given the previous statements, is W a Z?",Yes,W is a Z.,True
+200,B X U.,X has range M.,"Given the previous statements, is U a M?",Yes,U is a M.,True
+201,C H Q.,H has range M.,"Given the previous statements, is Q a M?",Yes,Q is a M.,True
+202,C Q P.,Q has range J.,"Given the previous statements, is P a J?",Yes,P is a J.,True
+203,C E T.,E has range G.,"Given the previous statements, is T a G?",Yes,T is a G.,True
+204,C J T.,J has range B.,"Given the previous statements, is T a B?",Yes,T is a B.,True
+205,C J S.,J has range U.,"Given the previous statements, is S a U?",Yes,S is a U.,True
+206,C T D.,T has range J.,"Given the previous statements, is D a J?",Yes,D is a J.,True
+207,C W S.,W has range J.,"Given the previous statements, is S a J?",Yes,S is a J.,True
+208,C P L.,P has range J.,"Given the previous statements, is L a J?",Yes,L is a J.,True
+209,C V Q.,V has range Z.,"Given the previous statements, is Q a Z?",Yes,Q is a Z.,True
+210,C X R.,X has range W.,"Given the previous statements, is R a W?",Yes,R is a W.,True
+211,C E F.,E has range L.,"Given the previous statements, is F a L?",Yes,F is a L.,True
+212,C I P.,I has range L.,"Given the previous statements, is P a L?",Yes,P is a L.,True
+213,C U S.,U has range M.,"Given the previous statements, is S a M?",Yes,S is a M.,True
+214,C U W.,U has range B.,"Given the previous statements, is W a B?",Yes,W is a B.,True
+215,C W P.,W has range S.,"Given the previous statements, is P a S?",Yes,P is a S.,True
+216,C P B.,P has range O.,"Given the previous statements, is B a O?",Yes,B is a O.,True
+217,C U J.,U has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+218,C X T.,X has range I.,"Given the previous statements, is T a I?",Yes,T is a I.,True
+219,C L J.,L has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+220,C I V.,I has range P.,"Given the previous statements, is V a P?",Yes,V is a P.,True
+221,C R A.,R has range H.,"Given the previous statements, is A a H?",Yes,A is a H.,True
+222,C J Z.,J has range U.,"Given the previous statements, is Z a U?",Yes,Z is a U.,True
+223,C Z I.,Z has range H.,"Given the previous statements, is I a H?",Yes,I is a H.,True
+224,C L I.,L has range M.,"Given the previous statements, is I a M?",Yes,I is a M.,True
+225,C A I.,A has range T.,"Given the previous statements, is I a T?",Yes,I is a T.,True
+226,C X Z.,X has range W.,"Given the previous statements, is Z a W?",Yes,Z is a W.,True
+227,C A T.,A has range M.,"Given the previous statements, is T a M?",Yes,T is a M.,True
+228,C P X.,P has range L.,"Given the previous statements, is X a L?",Yes,X is a L.,True
+229,C F R.,F has range Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True
+230,C P F.,P has range U.,"Given the previous statements, is F a U?",Yes,F is a U.,True
+231,C L P.,L has range K.,"Given the previous statements, is P a K?",Yes,P is a K.,True
+232,C K X.,K has range F.,"Given the previous statements, is X a F?",Yes,X is a F.,True
+233,C B W.,B has range R.,"Given the previous statements, is W a R?",Yes,W is a R.,True
+234,C T H.,T has range S.,"Given the previous statements, is H a S?",Yes,H is a S.,True
+235,C M Q.,M has range G.,"Given the previous statements, is Q a G?",Yes,Q is a G.,True
+236,C U P.,U has range H.,"Given the previous statements, is P a H?",Yes,P is a H.,True
+237,C N F.,N has range L.,"Given the previous statements, is F a L?",Yes,F is a L.,True
+238,C Z J.,Z has range A.,"Given the previous statements, is J a A?",Yes,J is a A.,True
+239,C A T.,A has range X.,"Given the previous statements, is T a X?",Yes,T is a X.,True
+240,C E A.,E has range Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True
+241,C A E.,A has range N.,"Given the previous statements, is E a N?",Yes,E is a N.,True
+242,C P Y.,P has range D.,"Given the previous statements, is Y a D?",Yes,Y is a D.,True
+243,C L J.,L has range N.,"Given the previous statements, is J a N?",Yes,J is a N.,True
+244,C D V.,D has range H.,"Given the previous statements, is V a H?",Yes,V is a H.,True
+245,C Y P.,Y has range W.,"Given the previous statements, is P a W?",Yes,P is a W.,True
+246,C G E.,G has range L.,"Given the previous statements, is E a L?",Yes,E is a L.,True
+247,C X T.,X has range Z.,"Given the previous statements, is T a Z?",Yes,T is a Z.,True
+248,C H S.,H has range Q.,"Given the previous statements, is S a Q?",Yes,S is a Q.,True
+249,C P F.,P has range J.,"Given the previous statements, is F a J?",Yes,F is a J.,True
+250,C K M.,K has range U.,"Given the previous statements, is M a U?",Yes,M is a U.,True
+251,C R K.,R has range O.,"Given the previous statements, is K a O?",Yes,K is a O.,True
+252,C B W.,B has range M.,"Given the previous statements, is W a M?",Yes,W is a M.,True
+253,C N D.,N has range S.,"Given the previous statements, is D a S?",Yes,D is a S.,True
+254,C L R.,L has range T.,"Given the previous statements, is R a T?",Yes,R is a T.,True
+255,C D R.,D has range X.,"Given the previous statements, is R a X?",Yes,R is a X.,True
+256,C V X.,V has range Q.,"Given the previous statements, is X a Q?",Yes,X is a Q.,True
+257,C O A.,O has range S.,"Given the previous statements, is A a S?",Yes,A is a S.,True
+258,C U P.,U has range R.,"Given the previous statements, is P a R?",Yes,P is a R.,True
+259,C W M.,W has range X.,"Given the previous statements, is M a X?",Yes,M is a X.,True
+260,C M Q.,M has range B.,"Given the previous statements, is Q a B?",Yes,Q is a B.,True
+261,C K R.,K has range F.,"Given the previous statements, is R a F?",Yes,R is a F.,True
+262,C D U.,D has range R.,"Given the previous statements, is U a R?",Yes,U is a R.,True
+263,C O H.,O has range P.,"Given the previous statements, is H a P?",Yes,H is a P.,True
+264,C R N.,R has range W.,"Given the previous statements, is N a W?",Yes,N is a W.,True
+265,C A P.,A has range V.,"Given the previous statements, is P a V?",Yes,P is a V.,True
+266,C T R.,T has range Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True
+267,C F U.,F has range T.,"Given the previous statements, is U a T?",Yes,U is a T.,True
+268,C L V.,L has range Z.,"Given the previous statements, is V a Z?",Yes,V is a Z.,True
+269,C K J.,K has range Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True
+270,C M E.,M has range Q.,"Given the previous statements, is E a Q?",Yes,E is a Q.,True
+271,C Z V.,Z has range D.,"Given the previous statements, is V a D?",Yes,V is a D.,True
+272,C M V.,M has range J.,"Given the previous statements, is V a J?",Yes,V is a J.,True
+273,C S M.,S has range T.,"Given the previous statements, is M a T?",Yes,M is a T.,True
+274,C X Z.,X has range T.,"Given the previous statements, is Z a T?",Yes,Z is a T.,True
+275,C E W.,E has range R.,"Given the previous statements, is W a R?",Yes,W is a R.,True
+276,C J S.,J has range K.,"Given the previous statements, is S a K?",Yes,S is a K.,True
+277,C V S.,V has range G.,"Given the previous statements, is S a G?",Yes,S is a G.,True
+278,C S K.,S has range L.,"Given the previous statements, is K a L?",Yes,K is a L.,True
+279,C Q X.,Q has range D.,"Given the previous statements, is X a D?",Yes,X is a D.,True
+280,C N J.,N has range L.,"Given the previous statements, is J a L?",Yes,J is a L.,True
+281,C F Z.,F has range R.,"Given the previous statements, is Z a R?",Yes,Z is a R.,True
+282,C T I.,T has range B.,"Given the previous statements, is I a B?",Yes,I is a B.,True
+283,C V O.,V has range Y.,"Given the previous statements, is O a Y?",Yes,O is a Y.,True
+284,C L K.,L has range Q.,"Given the previous statements, is K a Q?",Yes,K is a Q.,True
+285,C U P.,U has range E.,"Given the previous statements, is P a E?",Yes,P is a E.,True
+286,C E P.,E has range I.,"Given the previous statements, is P a I?",Yes,P is a I.,True
+287,C A D.,A has range B.,"Given the previous statements, is D a B?",Yes,D is a B.,True
+288,C J L.,J has range D.,"Given the previous statements, is L a D?",Yes,L is a D.,True
+289,C F B.,F has range O.,"Given the previous statements, is B a O?",Yes,B is a O.,True
+290,C B E.,B has range F.,"Given the previous statements, is E a F?",Yes,E is a F.,True
+291,C J D.,J has range G.,"Given the previous statements, is D a G?",Yes,D is a G.,True
+292,C P T.,P has range D.,"Given the previous statements, is T a D?",Yes,T is a D.,True
+293,C K T.,K has range W.,"Given the previous statements, is T a W?",Yes,T is a W.,True
+294,C I V.,I has range Z.,"Given the previous statements, is V a Z?",Yes,V is a Z.,True
+295,C H Q.,H has range A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True
+296,C A Q.,A has range I.,"Given the previous statements, is Q a I?",Yes,Q is a I.,True
+297,C Y J.,Y has range T.,"Given the previous statements, is J a T?",Yes,J is a T.,True
+298,C G N.,G has range D.,"Given the previous statements, is N a D?",Yes,N is a D.,True
+299,C V H.,V has range W.,"Given the previous statements, is H a W?",Yes,H is a W.,True
+300,C P J.,P has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+301,D L U.,L has range H.,"Given the previous statements, is U a H?",Yes,U is a H.,True
+302,D Y G.,Y has range U.,"Given the previous statements, is G a U?",Yes,G is a U.,True
+303,D A L.,A has range M.,"Given the previous statements, is L a M?",Yes,L is a M.,True
+304,D R G.,R has range O.,"Given the previous statements, is G a O?",Yes,G is a O.,True
+305,D H A.,H has range J.,"Given the previous statements, is A a J?",Yes,A is a J.,True
+306,D S X.,S has range R.,"Given the previous statements, is X a R?",Yes,X is a R.,True
+307,D Q W.,Q has range P.,"Given the previous statements, is W a P?",Yes,W is a P.,True
+308,D H V.,H has range I.,"Given the previous statements, is V a I?",Yes,V is a I.,True
+309,D N H.,N has range M.,"Given the previous statements, is H a M?",Yes,H is a M.,True
+310,D F W.,F has range H.,"Given the previous statements, is W a H?",Yes,W is a H.,True
+311,D X I.,X has range K.,"Given the previous statements, is I a K?",Yes,I is a K.,True
+312,D R X.,R has range Z.,"Given the previous statements, is X a Z?",Yes,X is a Z.,True
+313,D V A.,V has range Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True
+314,D B W.,B has range K.,"Given the previous statements, is W a K?",Yes,W is a K.,True
+315,D V L.,V has range C.,"Given the previous statements, is L a C?",Yes,L is a C.,True
+316,D O E.,O has range R.,"Given the previous statements, is E a R?",Yes,E is a R.,True
+317,D O R.,O has range E.,"Given the previous statements, is R a E?",Yes,R is a E.,True
+318,D F Z.,F has range E.,"Given the previous statements, is Z a E?",Yes,Z is a E.,True
+319,D U E.,U has range C.,"Given the previous statements, is E a C?",Yes,E is a C.,True
+320,D N C.,N has range S.,"Given the previous statements, is C a S?",Yes,C is a S.,True
+321,D L C.,L has range I.,"Given the previous statements, is C a I?",Yes,C is a I.,True
+322,D C X.,C has range Y.,"Given the previous statements, is X a Y?",Yes,X is a Y.,True
+323,D B W.,B has range S.,"Given the previous statements, is W a S?",Yes,W is a S.,True
+324,D P F.,P has range W.,"Given the previous statements, is F a W?",Yes,F is a W.,True
+325,D G E.,G has range R.,"Given the previous statements, is E a R?",Yes,E is a R.,True
+326,D S N.,S has range W.,"Given the previous statements, is N a W?",Yes,N is a W.,True
+327,D U K.,U has range V.,"Given the previous statements, is K a V?",Yes,K is a V.,True
+328,D B W.,B has range O.,"Given the previous statements, is W a O?",Yes,W is a O.,True
+329,D O A.,O has range H.,"Given the previous statements, is A a H?",Yes,A is a H.,True
+330,D P U.,P has range V.,"Given the previous statements, is U a V?",Yes,U is a V.,True
+331,D O N.,O has range R.,"Given the previous statements, is N a R?",Yes,N is a R.,True
+332,D A V.,A has range U.,"Given the previous statements, is V a U?",Yes,V is a U.,True
+333,D Q Z.,Q has range B.,"Given the previous statements, is Z a B?",Yes,Z is a B.,True
+334,D K N.,K has range C.,"Given the previous statements, is N a C?",Yes,N is a C.,True
+335,D H F.,H has range W.,"Given the previous statements, is F a W?",Yes,F is a W.,True
+336,D O R.,O has range T.,"Given the previous statements, is R a T?",Yes,R is a T.,True
+337,D C W.,C has range K.,"Given the previous statements, is W a K?",Yes,W is a K.,True
+338,D V N.,V has range F.,"Given the previous statements, is N a F?",Yes,N is a F.,True
+339,D Z B.,Z has range R.,"Given the previous statements, is B a R?",Yes,B is a R.,True
+340,D W H.,W has range Y.,"Given the previous statements, is H a Y?",Yes,H is a Y.,True
+341,D J H.,J has range A.,"Given the previous statements, is H a A?",Yes,H is a A.,True
+342,D A E.,A has range Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True
+343,D H X.,H has range S.,"Given the previous statements, is X a S?",Yes,X is a S.,True
+344,D R L.,R has range S.,"Given the previous statements, is L a S?",Yes,L is a S.,True
+345,D I L.,I has range R.,"Given the previous statements, is L a R?",Yes,L is a R.,True
+346,D T N.,T has range S.,"Given the previous statements, is N a S?",Yes,N is a S.,True
+347,D M G.,M has range F.,"Given the previous statements, is G a F?",Yes,G is a F.,True
+348,D Y S.,Y has range J.,"Given the previous statements, is S a J?",Yes,S is a J.,True
+349,D Y G.,Y has range P.,"Given the previous statements, is G a P?",Yes,G is a P.,True
+350,D U S.,U has range C.,"Given the previous statements, is S a C?",Yes,S is a C.,True
+351,D S E.,S has range F.,"Given the previous statements, is E a F?",Yes,E is a F.,True
+352,D T G.,T has range Q.,"Given the previous statements, is G a Q?",Yes,G is a Q.,True
+353,D B G.,B has range P.,"Given the previous statements, is G a P?",Yes,G is a P.,True
+354,D M C.,M has range N.,"Given the previous statements, is C a N?",Yes,C is a N.,True
+355,D V T.,V has range J.,"Given the previous statements, is T a J?",Yes,T is a J.,True
+356,D F O.,F has range U.,"Given the previous statements, is O a U?",Yes,O is a U.,True
+357,D K R.,K has range Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True
+358,D L U.,L has range F.,"Given the previous statements, is U a F?",Yes,U is a F.,True
+359,D S I.,S has range F.,"Given the previous statements, is I a F?",Yes,I is a F.,True
+360,D Z F.,Z has range E.,"Given the previous statements, is F a E?",Yes,F is a E.,True
+361,D W V.,W has range Y.,"Given the previous statements, is V a Y?",Yes,V is a Y.,True
+362,D K E.,K has range Q.,"Given the previous statements, is E a Q?",Yes,E is a Q.,True
+363,D V C.,V has range T.,"Given the previous statements, is C a T?",Yes,C is a T.,True
+364,D B T.,B has range K.,"Given the previous statements, is T a K?",Yes,T is a K.,True
+365,D N G.,N has range E.,"Given the previous statements, is G a E?",Yes,G is a E.,True
+366,D L P.,L has range H.,"Given the previous statements, is P a H?",Yes,P is a H.,True
+367,D X V.,X has range W.,"Given the previous statements, is V a W?",Yes,V is a W.,True
+368,D X T.,X has range M.,"Given the previous statements, is T a M?",Yes,T is a M.,True
+369,D Q H.,Q has range S.,"Given the previous statements, is H a S?",Yes,H is a S.,True
+370,D A N.,A has range K.,"Given the previous statements, is N a K?",Yes,N is a K.,True
+371,D K O.,K has range A.,"Given the previous statements, is O a A?",Yes,O is a A.,True
+372,D K B.,K has range W.,"Given the previous statements, is B a W?",Yes,B is a W.,True
+373,D A T.,A has range G.,"Given the previous statements, is T a G?",Yes,T is a G.,True
+374,D I Z.,I has range T.,"Given the previous statements, is Z a T?",Yes,Z is a T.,True
+375,D P J.,P has range U.,"Given the previous statements, is J a U?",Yes,J is a U.,True
+376,D W V.,W has range U.,"Given the previous statements, is V a U?",Yes,V is a U.,True
+377,D R M.,R has range V.,"Given the previous statements, is M a V?",Yes,M is a V.,True
+378,D Y L.,Y has range X.,"Given the previous statements, is L a X?",Yes,L is a X.,True
+379,D E Z.,E has range H.,"Given the previous statements, is Z a H?",Yes,Z is a H.,True
+380,D R K.,R has range S.,"Given the previous statements, is K a S?",Yes,K is a S.,True
+381,D E X.,E has range Y.,"Given the previous statements, is X a Y?",Yes,X is a Y.,True
+382,D F H.,F has range C.,"Given the previous statements, is H a C?",Yes,H is a C.,True
+383,D I T.,I has range G.,"Given the previous statements, is T a G?",Yes,T is a G.,True
+384,D Z G.,Z has range I.,"Given the previous statements, is G a I?",Yes,G is a I.,True
+385,D V S.,V has range M.,"Given the previous statements, is S a M?",Yes,S is a M.,True
+386,D L O.,L has range T.,"Given the previous statements, is O a T?",Yes,O is a T.,True
+387,D F S.,F has range B.,"Given the previous statements, is S a B?",Yes,S is a B.,True
+388,D P E.,P has range K.,"Given the previous statements, is E a K?",Yes,E is a K.,True
+389,D F Q.,F has range V.,"Given the previous statements, is Q a V?",Yes,Q is a V.,True
+390,D B J.,B has range R.,"Given the previous statements, is J a R?",Yes,J is a R.,True
+391,D L B.,L has range E.,"Given the previous statements, is B a E?",Yes,B is a E.,True
+392,D N U.,N has range C.,"Given the previous statements, is U a C?",Yes,U is a C.,True
+393,D X E.,X has range I.,"Given the previous statements, is E a I?",Yes,E is a I.,True
+394,D A Q.,A has range S.,"Given the previous statements, is Q a S?",Yes,Q is a S.,True
+395,D B C.,B has range A.,"Given the previous statements, is C a A?",Yes,C is a A.,True
+396,D O H.,O has range Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True
+397,D M S.,M has range N.,"Given the previous statements, is S a N?",Yes,S is a N.,True
+398,D E A.,E has range I.,"Given the previous statements, is A a I?",Yes,A is a I.,True
+399,D K I.,K has range R.,"Given the previous statements, is I a R?",Yes,I is a R.,True
+400,D X V.,X has range Z.,"Given the previous statements, is V a Z?",Yes,V is a Z.,True
+401,E R U.,R has range Q.,"Given the previous statements, is U a Q?",Yes,U is a Q.,True
+402,E W S.,W has range T.,"Given the previous statements, is S a T?",Yes,S is a T.,True
+403,E O C.,O has range Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True
+404,E B H.,B has range Y.,"Given the previous statements, is H a Y?",Yes,H is a Y.,True
+405,E G P.,G has range Q.,"Given the previous statements, is P a Q?",Yes,P is a Q.,True
+406,E V C.,V has range Q.,"Given the previous statements, is C a Q?",Yes,C is a Q.,True
+407,E T O.,T has range G.,"Given the previous statements, is O a G?",Yes,O is a G.,True
+408,E V H.,V has range P.,"Given the previous statements, is H a P?",Yes,H is a P.,True
+409,E T D.,T has range B.,"Given the previous statements, is D a B?",Yes,D is a B.,True
+410,E A Y.,A has range B.,"Given the previous statements, is Y a B?",Yes,Y is a B.,True
+411,E A O.,A has range Z.,"Given the previous statements, is O a Z?",Yes,O is a Z.,True
+412,E N K.,N has range W.,"Given the previous statements, is K a W?",Yes,K is a W.,True
+413,E P D.,P has range I.,"Given the previous statements, is D a I?",Yes,D is a I.,True
+414,E V X.,V has range O.,"Given the previous statements, is X a O?",Yes,X is a O.,True
+415,E C B.,C has range Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True
+416,E H W.,H has range A.,"Given the previous statements, is W a A?",Yes,W is a A.,True
+417,E H X.,H has range W.,"Given the previous statements, is X a W?",Yes,X is a W.,True
+418,E I S.,I has range Z.,"Given the previous statements, is S a Z?",Yes,S is a Z.,True
+419,E S X.,S has range N.,"Given the previous statements, is X a N?",Yes,X is a N.,True
+420,E R V.,R has range M.,"Given the previous statements, is V a M?",Yes,V is a M.,True
+421,E A O.,A has range K.,"Given the previous statements, is O a K?",Yes,O is a K.,True
+422,E L Q.,L has range A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True
+423,E Y A.,Y has range J.,"Given the previous statements, is A a J?",Yes,A is a J.,True
+424,E A F.,A has range J.,"Given the previous statements, is F a J?",Yes,F is a J.,True
+425,E P X.,P has range I.,"Given the previous statements, is X a I?",Yes,X is a I.,True
+426,E N K.,N has range J.,"Given the previous statements, is K a J?",Yes,K is a J.,True
+427,E H V.,H has range R.,"Given the previous statements, is V a R?",Yes,V is a R.,True
+428,E U Y.,U has range D.,"Given the previous statements, is Y a D?",Yes,Y is a D.,True
+429,E U I.,U has range J.,"Given the previous statements, is I a J?",Yes,I is a J.,True
+430,E Y W.,Y has range O.,"Given the previous statements, is W a O?",Yes,W is a O.,True
+431,E L H.,L has range A.,"Given the previous statements, is H a A?",Yes,H is a A.,True
+432,E F N.,F has range R.,"Given the previous statements, is N a R?",Yes,N is a R.,True
+433,E D W.,D has range U.,"Given the previous statements, is W a U?",Yes,W is a U.,True
+434,E P O.,P has range D.,"Given the previous statements, is O a D?",Yes,O is a D.,True
+435,E Z K.,Z has range W.,"Given the previous statements, is K a W?",Yes,K is a W.,True
+436,E F M.,F has range L.,"Given the previous statements, is M a L?",Yes,M is a L.,True
+437,E N P.,N has range X.,"Given the previous statements, is P a X?",Yes,P is a X.,True
+438,E L G.,L has range H.,"Given the previous statements, is G a H?",Yes,G is a H.,True
+439,E K H.,K has range G.,"Given the previous statements, is H a G?",Yes,H is a G.,True
+440,E H Z.,H has range N.,"Given the previous statements, is Z a N?",Yes,Z is a N.,True
+441,E J B.,J has range L.,"Given the previous statements, is B a L?",Yes,B is a L.,True
+442,E H L.,H has range U.,"Given the previous statements, is L a U?",Yes,L is a U.,True
+443,E N T.,N has range M.,"Given the previous statements, is T a M?",Yes,T is a M.,True
+444,E X J.,X has range L.,"Given the previous statements, is J a L?",Yes,J is a L.,True
+445,E B G.,B has range O.,"Given the previous statements, is G a O?",Yes,G is a O.,True
+446,E R W.,R has range X.,"Given the previous statements, is W a X?",Yes,W is a X.,True
+447,E I P.,I has range F.,"Given the previous statements, is P a F?",Yes,P is a F.,True
+448,E B T.,B has range Z.,"Given the previous statements, is T a Z?",Yes,T is a Z.,True
+449,E N H.,N has range I.,"Given the previous statements, is H a I?",Yes,H is a I.,True
+450,E N R.,N has range D.,"Given the previous statements, is R a D?",Yes,R is a D.,True
+451,E U R.,U has range X.,"Given the previous statements, is R a X?",Yes,R is a X.,True
+452,E H O.,H has range Q.,"Given the previous statements, is O a Q?",Yes,O is a Q.,True
+453,E Y W.,Y has range F.,"Given the previous statements, is W a F?",Yes,W is a F.,True
+454,E G D.,G has range N.,"Given the previous statements, is D a N?",Yes,D is a N.,True
+455,E I G.,I has range Z.,"Given the previous statements, is G a Z?",Yes,G is a Z.,True
+456,E P L.,P has range V.,"Given the previous statements, is L a V?",Yes,L is a V.,True
+457,E A I.,A has range D.,"Given the previous statements, is I a D?",Yes,I is a D.,True
+458,E S L.,S has range P.,"Given the previous statements, is L a P?",Yes,L is a P.,True
+459,E B K.,B has range W.,"Given the previous statements, is K a W?",Yes,K is a W.,True
+460,E I Z.,I has range B.,"Given the previous statements, is Z a B?",Yes,Z is a B.,True
+461,E D L.,D has range I.,"Given the previous statements, is L a I?",Yes,L is a I.,True
+462,E I H.,I has range C.,"Given the previous statements, is H a C?",Yes,H is a C.,True
+463,E Z B.,Z has range H.,"Given the previous statements, is B a H?",Yes,B is a H.,True
+464,E X K.,X has range G.,"Given the previous statements, is K a G?",Yes,K is a G.,True
+465,E F V.,F has range C.,"Given the previous statements, is V a C?",Yes,V is a C.,True
+466,E H T.,H has range F.,"Given the previous statements, is T a F?",Yes,T is a F.,True
+467,E K J.,K has range I.,"Given the previous statements, is J a I?",Yes,J is a I.,True
+468,E B G.,B has range P.,"Given the previous statements, is G a P?",Yes,G is a P.,True
+469,E P B.,P has range G.,"Given the previous statements, is B a G?",Yes,B is a G.,True
+470,E Y U.,Y has range W.,"Given the previous statements, is U a W?",Yes,U is a W.,True
+471,E G L.,G has range M.,"Given the previous statements, is L a M?",Yes,L is a M.,True
+472,E L J.,L has range Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True
+473,E N H.,N has range X.,"Given the previous statements, is H a X?",Yes,H is a X.,True
+474,E D L.,D has range R.,"Given the previous statements, is L a R?",Yes,L is a R.,True
+475,E P G.,P has range N.,"Given the previous statements, is G a N?",Yes,G is a N.,True
+476,E Q N.,Q has range M.,"Given the previous statements, is N a M?",Yes,N is a M.,True
+477,E O U.,O has range T.,"Given the previous statements, is U a T?",Yes,U is a T.,True
+478,E J M.,J has range V.,"Given the previous statements, is M a V?",Yes,M is a V.,True
+479,E Z T.,Z has range H.,"Given the previous statements, is T a H?",Yes,T is a H.,True
+480,E Q F.,Q has range Z.,"Given the previous statements, is F a Z?",Yes,F is a Z.,True
+481,E X P.,X has range Y.,"Given the previous statements, is P a Y?",Yes,P is a Y.,True
+482,E X Q.,X has range C.,"Given the previous statements, is Q a C?",Yes,Q is a C.,True
+483,E Q D.,Q has range M.,"Given the previous statements, is D a M?",Yes,D is a M.,True
+484,E W V.,W has range Y.,"Given the previous statements, is V a Y?",Yes,V is a Y.,True
+485,E R V.,R has range W.,"Given the previous statements, is V a W?",Yes,V is a W.,True
+486,E N T.,N has range B.,"Given the previous statements, is T a B?",Yes,T is a B.,True
+487,E V L.,V has range J.,"Given the previous statements, is L a J?",Yes,L is a J.,True
+488,E B A.,B has range U.,"Given the previous statements, is A a U?",Yes,A is a U.,True
+489,E Z F.,Z has range Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True
+490,E C N.,C has range G.,"Given the previous statements, is N a G?",Yes,N is a G.,True
+491,E L Z.,L has range G.,"Given the previous statements, is Z a G?",Yes,Z is a G.,True
+492,E Z J.,Z has range K.,"Given the previous statements, is J a K?",Yes,J is a K.,True
+493,E Z F.,Z has range T.,"Given the previous statements, is F a T?",Yes,F is a T.,True
+494,E N Z.,N has range T.,"Given the previous statements, is Z a T?",Yes,Z is a T.,True
+495,E I W.,I has range B.,"Given the previous statements, is W a B?",Yes,W is a B.,True
+496,E L H.,L has range J.,"Given the previous statements, is H a J?",Yes,H is a J.,True
+497,E C F.,C has range Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True
+498,E B Y.,B has range X.,"Given the previous statements, is Y a X?",Yes,Y is a X.,True
+499,E X Z.,X has range J.,"Given the previous statements, is Z a J?",Yes,Z is a J.,True
+500,E R Z.,R has range Y.,"Given the previous statements, is Z a Y?",Yes,Z is a Y.,True
+501,F J R.,J has range L.,"Given the previous statements, is R a L?",Yes,R is a L.,True
+502,F H W.,H has range A.,"Given the previous statements, is W a A?",Yes,W is a A.,True
+503,F G K.,G has range M.,"Given the previous statements, is K a M?",Yes,K is a M.,True
+504,F V A.,V has range Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True
+505,F E M.,E has range J.,"Given the previous statements, is M a J?",Yes,M is a J.,True
+506,F R T.,R has range M.,"Given the previous statements, is T a M?",Yes,T is a M.,True
+507,F H Q.,H has range O.,"Given the previous statements, is Q a O?",Yes,Q is a O.,True
+508,F E O.,E has range B.,"Given the previous statements, is O a B?",Yes,O is a B.,True
+509,F Z U.,Z has range E.,"Given the previous statements, is U a E?",Yes,U is a E.,True
+510,F T I.,T has range M.,"Given the previous statements, is I a M?",Yes,I is a M.,True
+511,F B C.,B has range Q.,"Given the previous statements, is C a Q?",Yes,C is a Q.,True
+512,F U R.,U has range E.,"Given the previous statements, is R a E?",Yes,R is a E.,True
+513,F S N.,S has range E.,"Given the previous statements, is N a E?",Yes,N is a E.,True
+514,F Y U.,Y has range C.,"Given the previous statements, is U a C?",Yes,U is a C.,True
+515,F L Q.,L has range G.,"Given the previous statements, is Q a G?",Yes,Q is a G.,True
+516,F Y U.,Y has range A.,"Given the previous statements, is U a A?",Yes,U is a A.,True
+517,F O X.,O has range C.,"Given the previous statements, is X a C?",Yes,X is a C.,True
+518,F A G.,A has range N.,"Given the previous statements, is G a N?",Yes,G is a N.,True
+519,F U I.,U has range Z.,"Given the previous statements, is I a Z?",Yes,I is a Z.,True
+520,F L N.,L has range Y.,"Given the previous statements, is N a Y?",Yes,N is a Y.,True
+521,F W V.,W has range J.,"Given the previous statements, is V a J?",Yes,V is a J.,True
+522,F D H.,D has range W.,"Given the previous statements, is H a W?",Yes,H is a W.,True
+523,F J O.,J has range A.,"Given the previous statements, is O a A?",Yes,O is a A.,True
+524,F O P.,O has range R.,"Given the previous statements, is P a R?",Yes,P is a R.,True
+525,F I V.,I has range Y.,"Given the previous statements, is V a Y?",Yes,V is a Y.,True
+526,F L E.,L has range B.,"Given the previous statements, is E a B?",Yes,E is a B.,True
+527,F G P.,G has range I.,"Given the previous statements, is P a I?",Yes,P is a I.,True
+528,F I O.,I has range V.,"Given the previous statements, is O a V?",Yes,O is a V.,True
+529,F X O.,X has range D.,"Given the previous statements, is O a D?",Yes,O is a D.,True
+530,F W K.,W has range M.,"Given the previous statements, is K a M?",Yes,K is a M.,True
+531,F O D.,O has range C.,"Given the previous statements, is D a C?",Yes,D is a C.,True
+532,F K G.,K has range Z.,"Given the previous statements, is G a Z?",Yes,G is a Z.,True
+533,F L M.,L has range I.,"Given the previous statements, is M a I?",Yes,M is a I.,True
+534,F Z J.,Z has range G.,"Given the previous statements, is J a G?",Yes,J is a G.,True
+535,F H P.,H has range O.,"Given the previous statements, is P a O?",Yes,P is a O.,True
+536,F K E.,K has range Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True
+537,F L I.,L has range R.,"Given the previous statements, is I a R?",Yes,I is a R.,True
+538,F Y L.,Y has range R.,"Given the previous statements, is L a R?",Yes,L is a R.,True
+539,F L U.,L has range Q.,"Given the previous statements, is U a Q?",Yes,U is a Q.,True
+540,F B V.,B has range X.,"Given the previous statements, is V a X?",Yes,V is a X.,True
+541,F J A.,J has range O.,"Given the previous statements, is A a O?",Yes,A is a O.,True
+542,F Y C.,Y has range N.,"Given the previous statements, is C a N?",Yes,C is a N.,True
+543,F G C.,G has range I.,"Given the previous statements, is C a I?",Yes,C is a I.,True
+544,F B H.,B has range R.,"Given the previous statements, is H a R?",Yes,H is a R.,True
+545,F J T.,J has range N.,"Given the previous statements, is T a N?",Yes,T is a N.,True
+546,F L X.,L has range Q.,"Given the previous statements, is X a Q?",Yes,X is a Q.,True
+547,F W P.,W has range I.,"Given the previous statements, is P a I?",Yes,P is a I.,True
+548,F M E.,M has range S.,"Given the previous statements, is E a S?",Yes,E is a S.,True
+549,F B R.,B has range P.,"Given the previous statements, is R a P?",Yes,R is a P.,True
+550,F Q M.,Q has range Y.,"Given the previous statements, is M a Y?",Yes,M is a Y.,True
+551,F O R.,O has range A.,"Given the previous statements, is R a A?",Yes,R is a A.,True
+552,F I C.,I has range G.,"Given the previous statements, is C a G?",Yes,C is a G.,True
+553,F E P.,E has range Z.,"Given the previous statements, is P a Z?",Yes,P is a Z.,True
+554,F S P.,S has range Z.,"Given the previous statements, is P a Z?",Yes,P is a Z.,True
+555,F B K.,B has range L.,"Given the previous statements, is K a L?",Yes,K is a L.,True
+556,F V C.,V has range U.,"Given the previous statements, is C a U?",Yes,C is a U.,True
+557,F I A.,I has range B.,"Given the previous statements, is A a B?",Yes,A is a B.,True
+558,F Y K.,Y has range N.,"Given the previous statements, is K a N?",Yes,K is a N.,True
+559,F I V.,I has range P.,"Given the previous statements, is V a P?",Yes,V is a P.,True
+560,F Q J.,Q has range E.,"Given the previous statements, is J a E?",Yes,J is a E.,True
+561,F S A.,S has range X.,"Given the previous statements, is A a X?",Yes,A is a X.,True
+562,F K G.,K has range W.,"Given the previous statements, is G a W?",Yes,G is a W.,True
+563,F G T.,G has range S.,"Given the previous statements, is T a S?",Yes,T is a S.,True
+564,F W K.,W has range X.,"Given the previous statements, is K a X?",Yes,K is a X.,True
+565,F Q Z.,Q has range C.,"Given the previous statements, is Z a C?",Yes,Z is a C.,True
+566,F Z K.,Z has range N.,"Given the previous statements, is K a N?",Yes,K is a N.,True
+567,F K G.,K has range V.,"Given the previous statements, is G a V?",Yes,G is a V.,True
+568,F G K.,G has range X.,"Given the previous statements, is K a X?",Yes,K is a X.,True
+569,F R S.,R has range D.,"Given the previous statements, is S a D?",Yes,S is a D.,True
+570,F D E.,D has range S.,"Given the previous statements, is E a S?",Yes,E is a S.,True
+571,F I R.,I has range P.,"Given the previous statements, is R a P?",Yes,R is a P.,True
+572,F S X.,S has range O.,"Given the previous statements, is X a O?",Yes,X is a O.,True
+573,F O G.,O has range A.,"Given the previous statements, is G a A?",Yes,G is a A.,True
+574,F X O.,X has range S.,"Given the previous statements, is O a S?",Yes,O is a S.,True
+575,F Z R.,Z has range U.,"Given the previous statements, is R a U?",Yes,R is a U.,True
+576,F A H.,A has range W.,"Given the previous statements, is H a W?",Yes,H is a W.,True
+577,F D W.,D has range H.,"Given the previous statements, is W a H?",Yes,W is a H.,True
+578,F D S.,D has range C.,"Given the previous statements, is S a C?",Yes,S is a C.,True
+579,F V S.,V has range E.,"Given the previous statements, is S a E?",Yes,S is a E.,True
+580,F B I.,B has range A.,"Given the previous statements, is I a A?",Yes,I is a A.,True
+581,F V Z.,V has range A.,"Given the previous statements, is Z a A?",Yes,Z is a A.,True
+582,F E Z.,E has range G.,"Given the previous statements, is Z a G?",Yes,Z is a G.,True
+583,F Q P.,Q has range B.,"Given the previous statements, is P a B?",Yes,P is a B.,True
+584,F A J.,A has range D.,"Given the previous statements, is J a D?",Yes,J is a D.,True
+585,F Q W.,Q has range I.,"Given the previous statements, is W a I?",Yes,W is a I.,True
+586,F Y H.,Y has range X.,"Given the previous statements, is H a X?",Yes,H is a X.,True
+587,F C V.,C has range Z.,"Given the previous statements, is V a Z?",Yes,V is a Z.,True
+588,F C Z.,C has range X.,"Given the previous statements, is Z a X?",Yes,Z is a X.,True
+589,F J H.,J has range N.,"Given the previous statements, is H a N?",Yes,H is a N.,True
+590,F C M.,C has range H.,"Given the previous statements, is M a H?",Yes,M is a H.,True
+591,F L C.,L has range E.,"Given the previous statements, is C a E?",Yes,C is a E.,True
+592,F A T.,A has range V.,"Given the previous statements, is T a V?",Yes,T is a V.,True
+593,F N S.,N has range L.,"Given the previous statements, is S a L?",Yes,S is a L.,True
+594,F A H.,A has range N.,"Given the previous statements, is H a N?",Yes,H is a N.,True
+595,F P X.,P has range K.,"Given the previous statements, is X a K?",Yes,X is a K.,True
+596,F I C.,I has range R.,"Given the previous statements, is C a R?",Yes,C is a R.,True
+597,F J C.,J has range H.,"Given the previous statements, is C a H?",Yes,C is a H.,True
+598,F R U.,R has range N.,"Given the previous statements, is U a N?",Yes,U is a N.,True
+599,F R Q.,R has range A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True
+600,F A K.,A has range G.,"Given the previous statements, is K a G?",Yes,K is a G.,True
+601,G Y Z.,Y has range P.,"Given the previous statements, is Z a P?",Yes,Z is a P.,True
+602,G W O.,W has range M.,"Given the previous statements, is O a M?",Yes,O is a M.,True
+603,G H T.,H has range A.,"Given the previous statements, is T a A?",Yes,T is a A.,True
+604,G J C.,J has range P.,"Given the previous statements, is C a P?",Yes,C is a P.,True
+605,G H I.,H has range E.,"Given the previous statements, is I a E?",Yes,I is a E.,True
+606,G S V.,S has range W.,"Given the previous statements, is V a W?",Yes,V is a W.,True
+607,G R K.,R has range D.,"Given the previous statements, is K a D?",Yes,K is a D.,True
+608,G L I.,L has range E.,"Given the previous statements, is I a E?",Yes,I is a E.,True
+609,G Y Z.,Y has range B.,"Given the previous statements, is Z a B?",Yes,Z is a B.,True
+610,G L K.,L has range O.,"Given the previous statements, is K a O?",Yes,K is a O.,True
+611,G E R.,E has range Z.,"Given the previous statements, is R a Z?",Yes,R is a Z.,True
+612,G I Z.,I has range S.,"Given the previous statements, is Z a S?",Yes,Z is a S.,True
+613,G A R.,A has range M.,"Given the previous statements, is R a M?",Yes,R is a M.,True
+614,G W S.,W has range F.,"Given the previous statements, is S a F?",Yes,S is a F.,True
+615,G L D.,L has range B.,"Given the previous statements, is D a B?",Yes,D is a B.,True
+616,G U W.,U has range P.,"Given the previous statements, is W a P?",Yes,W is a P.,True
+617,G X J.,X has range Z.,"Given the previous statements, is J a Z?",Yes,J is a Z.,True
+618,G T J.,T has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+619,G H Y.,H has range Z.,"Given the previous statements, is Y a Z?",Yes,Y is a Z.,True
+620,G Q T.,Q has range W.,"Given the previous statements, is T a W?",Yes,T is a W.,True
+621,G O B.,O has range L.,"Given the previous statements, is B a L?",Yes,B is a L.,True
+622,G M O.,M has range W.,"Given the previous statements, is O a W?",Yes,O is a W.,True
+623,G X M.,X has range I.,"Given the previous statements, is M a I?",Yes,M is a I.,True
+624,G M U.,M has range S.,"Given the previous statements, is U a S?",Yes,U is a S.,True
+625,G Q Z.,Q has range N.,"Given the previous statements, is Z a N?",Yes,Z is a N.,True
+626,G P M.,P has range V.,"Given the previous statements, is M a V?",Yes,M is a V.,True
+627,G Q N.,Q has range B.,"Given the previous statements, is N a B?",Yes,N is a B.,True
+628,G P V.,P has range M.,"Given the previous statements, is V a M?",Yes,V is a M.,True
+629,G K U.,K has range A.,"Given the previous statements, is U a A?",Yes,U is a A.,True
+630,G C U.,C has range A.,"Given the previous statements, is U a A?",Yes,U is a A.,True
+631,G W S.,W has range I.,"Given the previous statements, is S a I?",Yes,S is a I.,True
+632,G P B.,P has range Z.,"Given the previous statements, is B a Z?",Yes,B is a Z.,True
+633,G B W.,B has range U.,"Given the previous statements, is W a U?",Yes,W is a U.,True
+634,G A V.,A has range Z.,"Given the previous statements, is V a Z?",Yes,V is a Z.,True
+635,G N J.,N has range E.,"Given the previous statements, is J a E?",Yes,J is a E.,True
+636,G R C.,R has range O.,"Given the previous statements, is C a O?",Yes,C is a O.,True
+637,G T R.,T has range L.,"Given the previous statements, is R a L?",Yes,R is a L.,True
+638,G O R.,O has range N.,"Given the previous statements, is R a N?",Yes,R is a N.,True
+639,G P T.,P has range U.,"Given the previous statements, is T a U?",Yes,T is a U.,True
+640,G O B.,O has range F.,"Given the previous statements, is B a F?",Yes,B is a F.,True
+641,G T Y.,T has range W.,"Given the previous statements, is Y a W?",Yes,Y is a W.,True
+642,G C Y.,C has range R.,"Given the previous statements, is Y a R?",Yes,Y is a R.,True
+643,G V Q.,V has range P.,"Given the previous statements, is Q a P?",Yes,Q is a P.,True
+644,G H A.,H has range Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True
+645,G Y V.,Y has range R.,"Given the previous statements, is V a R?",Yes,V is a R.,True
+646,G U K.,U has range A.,"Given the previous statements, is K a A?",Yes,K is a A.,True
+647,G O I.,O has range K.,"Given the previous statements, is I a K?",Yes,I is a K.,True
+648,G Q J.,Q has range E.,"Given the previous statements, is J a E?",Yes,J is a E.,True
+649,G O T.,O has range N.,"Given the previous statements, is T a N?",Yes,T is a N.,True
+650,G I E.,I has range H.,"Given the previous statements, is E a H?",Yes,E is a H.,True
+651,G O T.,O has range L.,"Given the previous statements, is T a L?",Yes,T is a L.,True
+652,G J O.,J has range W.,"Given the previous statements, is O a W?",Yes,O is a W.,True
+653,G D H.,D has range J.,"Given the previous statements, is H a J?",Yes,H is a J.,True
+654,G Z S.,Z has range H.,"Given the previous statements, is S a H?",Yes,S is a H.,True
+655,G R D.,R has range H.,"Given the previous statements, is D a H?",Yes,D is a H.,True
+656,G Z W.,Z has range X.,"Given the previous statements, is W a X?",Yes,W is a X.,True
+657,G E V.,E has range Q.,"Given the previous statements, is V a Q?",Yes,V is a Q.,True
+658,G N R.,N has range E.,"Given the previous statements, is R a E?",Yes,R is a E.,True
+659,G S Q.,S has range Y.,"Given the previous statements, is Q a Y?",Yes,Q is a Y.,True
+660,G B R.,B has range M.,"Given the previous statements, is R a M?",Yes,R is a M.,True
+661,G C O.,C has range A.,"Given the previous statements, is O a A?",Yes,O is a A.,True
+662,G I B.,I has range D.,"Given the previous statements, is B a D?",Yes,B is a D.,True
+663,G B Z.,B has range W.,"Given the previous statements, is Z a W?",Yes,Z is a W.,True
+664,G D Y.,D has range U.,"Given the previous statements, is Y a U?",Yes,Y is a U.,True
+665,G T P.,T has range L.,"Given the previous statements, is P a L?",Yes,P is a L.,True
+666,G C K.,C has range X.,"Given the previous statements, is K a X?",Yes,K is a X.,True
+667,G X H.,X has range M.,"Given the previous statements, is H a M?",Yes,H is a M.,True
+668,G J B.,J has range U.,"Given the previous statements, is B a U?",Yes,B is a U.,True
+669,G V Q.,V has range F.,"Given the previous statements, is Q a F?",Yes,Q is a F.,True
+670,G Q W.,Q has range S.,"Given the previous statements, is W a S?",Yes,W is a S.,True
+671,G A Q.,A has range P.,"Given the previous statements, is Q a P?",Yes,Q is a P.,True
+672,G N U.,N has range B.,"Given the previous statements, is U a B?",Yes,U is a B.,True
+673,G K C.,K has range S.,"Given the previous statements, is C a S?",Yes,C is a S.,True
+674,G E T.,E has range R.,"Given the previous statements, is T a R?",Yes,T is a R.,True
+675,G C Q.,C has range B.,"Given the previous statements, is Q a B?",Yes,Q is a B.,True
+676,G P E.,P has range A.,"Given the previous statements, is E a A?",Yes,E is a A.,True
+677,G V Y.,V has range Z.,"Given the previous statements, is Y a Z?",Yes,Y is a Z.,True
+678,G E V.,E has range J.,"Given the previous statements, is V a J?",Yes,V is a J.,True
+679,G J C.,J has range B.,"Given the previous statements, is C a B?",Yes,C is a B.,True
+680,G B J.,B has range T.,"Given the previous statements, is J a T?",Yes,J is a T.,True
+681,G Y T.,Y has range J.,"Given the previous statements, is T a J?",Yes,T is a J.,True
+682,G B R.,B has range Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True
+683,G R U.,R has range Q.,"Given the previous statements, is U a Q?",Yes,U is a Q.,True
+684,G E X.,E has range Q.,"Given the previous statements, is X a Q?",Yes,X is a Q.,True
+685,G Y I.,Y has range K.,"Given the previous statements, is I a K?",Yes,I is a K.,True
+686,G B K.,B has range V.,"Given the previous statements, is K a V?",Yes,K is a V.,True
+687,G F B.,F has range R.,"Given the previous statements, is B a R?",Yes,B is a R.,True
+688,G T R.,T has range U.,"Given the previous statements, is R a U?",Yes,R is a U.,True
+689,G A O.,A has range V.,"Given the previous statements, is O a V?",Yes,O is a V.,True
+690,G F P.,F has range J.,"Given the previous statements, is P a J?",Yes,P is a J.,True
+691,G H D.,H has range O.,"Given the previous statements, is D a O?",Yes,D is a O.,True
+692,G X E.,X has range F.,"Given the previous statements, is E a F?",Yes,E is a F.,True
+693,G V A.,V has range H.,"Given the previous statements, is A a H?",Yes,A is a H.,True
+694,G D F.,D has range K.,"Given the previous statements, is F a K?",Yes,F is a K.,True
+695,G U Q.,U has range J.,"Given the previous statements, is Q a J?",Yes,Q is a J.,True
+696,G H Q.,H has range S.,"Given the previous statements, is Q a S?",Yes,Q is a S.,True
+697,G I D.,I has range A.,"Given the previous statements, is D a A?",Yes,D is a A.,True
+698,G X Z.,X has range H.,"Given the previous statements, is Z a H?",Yes,Z is a H.,True
+699,G E L.,E has range C.,"Given the previous statements, is L a C?",Yes,L is a C.,True
+700,G D K.,D has range W.,"Given the previous statements, is K a W?",Yes,K is a W.,True
+701,H V W.,V has range O.,"Given the previous statements, is W a O?",Yes,W is a O.,True
+702,H C F.,C has range A.,"Given the previous statements, is F a A?",Yes,F is a A.,True
+703,H P W.,P has range Z.,"Given the previous statements, is W a Z?",Yes,W is a Z.,True
+704,H D M.,D has range B.,"Given the previous statements, is M a B?",Yes,M is a B.,True
+705,H Y L.,Y has range M.,"Given the previous statements, is L a M?",Yes,L is a M.,True
+706,H W U.,W has range F.,"Given the previous statements, is U a F?",Yes,U is a F.,True
+707,H P R.,P has range A.,"Given the previous statements, is R a A?",Yes,R is a A.,True
+708,H D W.,D has range E.,"Given the previous statements, is W a E?",Yes,W is a E.,True
+709,H C Q.,C has range A.,"Given the previous statements, is Q a A?",Yes,Q is a A.,True
+710,H P U.,P has range Q.,"Given the previous statements, is U a Q?",Yes,U is a Q.,True
+711,H J Z.,J has range S.,"Given the previous statements, is Z a S?",Yes,Z is a S.,True
+712,H Q R.,Q has range Z.,"Given the previous statements, is R a Z?",Yes,R is a Z.,True
+713,H F D.,F has range N.,"Given the previous statements, is D a N?",Yes,D is a N.,True
+714,H N M.,N has range X.,"Given the previous statements, is M a X?",Yes,M is a X.,True
+715,H I P.,I has range G.,"Given the previous statements, is P a G?",Yes,P is a G.,True
+716,H K O.,K has range V.,"Given the previous statements, is O a V?",Yes,O is a V.,True
+717,H E F.,E has range B.,"Given the previous statements, is F a B?",Yes,F is a B.,True
+718,H D A.,D has range Y.,"Given the previous statements, is A a Y?",Yes,A is a Y.,True
+719,H M G.,M has range O.,"Given the previous statements, is G a O?",Yes,G is a O.,True
+720,H P S.,P has range J.,"Given the previous statements, is S a J?",Yes,S is a J.,True
+721,H E K.,E has range G.,"Given the previous statements, is K a G?",Yes,K is a G.,True
+722,H Q R.,Q has range L.,"Given the previous statements, is R a L?",Yes,R is a L.,True
+723,H O Q.,O has range E.,"Given the previous statements, is Q a E?",Yes,Q is a E.,True
+724,H X N.,X has range V.,"Given the previous statements, is N a V?",Yes,N is a V.,True
+725,H Q W.,Q has range V.,"Given the previous statements, is W a V?",Yes,W is a V.,True
+726,H M Q.,M has range R.,"Given the previous statements, is Q a R?",Yes,Q is a R.,True
+727,H G V.,G has range Q.,"Given the previous statements, is V a Q?",Yes,V is a Q.,True
+728,H U D.,U has range F.,"Given the previous statements, is D a F?",Yes,D is a F.,True
+729,H C S.,C has range W.,"Given the previous statements, is S a W?",Yes,S is a W.,True
+730,H Q L.,Q has range C.,"Given the previous statements, is L a C?",Yes,L is a C.,True
+731,H Y V.,Y has range Q.,"Given the previous statements, is V a Q?",Yes,V is a Q.,True
+732,H K S.,K has range Y.,"Given the previous statements, is S a Y?",Yes,S is a Y.,True
+733,H V S.,V has range D.,"Given the previous statements, is S a D?",Yes,S is a D.,True
+734,H A W.,A has range B.,"Given the previous statements, is W a B?",Yes,W is a B.,True
+735,H B A.,B has range D.,"Given the previous statements, is A a D?",Yes,A is a D.,True
+736,H A V.,A has range O.,"Given the previous statements, is V a O?",Yes,V is a O.,True
+737,H P R.,P has range V.,"Given the previous statements, is R a V?",Yes,R is a V.,True
+738,H D Q.,D has range W.,"Given the previous statements, is Q a W?",Yes,Q is a W.,True
+739,H K N.,K has range Y.,"Given the previous statements, is N a Y?",Yes,N is a Y.,True
+740,H B Z.,B has range U.,"Given the previous statements, is Z a U?",Yes,Z is a U.,True
+741,H B F.,B has range G.,"Given the previous statements, is F a G?",Yes,F is a G.,True
+742,H E G.,E has range K.,"Given the previous statements, is G a K?",Yes,G is a K.,True
+743,H O T.,O has range Z.,"Given the previous statements, is T a Z?",Yes,T is a Z.,True
+744,H B C.,B has range U.,"Given the previous statements, is C a U?",Yes,C is a U.,True
+745,H U G.,U has range W.,"Given the previous statements, is G a W?",Yes,G is a W.,True
+746,H B M.,B has range X.,"Given the previous statements, is M a X?",Yes,M is a X.,True
+747,H M S.,M has range V.,"Given the previous statements, is S a V?",Yes,S is a V.,True
+748,H O L.,O has range U.,"Given the previous statements, is L a U?",Yes,L is a U.,True
+749,H I Y.,I has range X.,"Given the previous statements, is Y a X?",Yes,Y is a X.,True
+750,H R J.,R has range P.,"Given the previous statements, is J a P?",Yes,J is a P.,True
+751,H G R.,G has range D.,"Given the previous statements, is R a D?",Yes,R is a D.,True
+752,H E K.,E has range O.,"Given the previous statements, is K a O?",Yes,K is a O.,True
+753,H Q R.,Q has range G.,"Given the previous statements, is R a G?",Yes,R is a G.,True
+754,H Z M.,Z has range Q.,"Given the previous statements, is M a Q?",Yes,M is a Q.,True
+755,H P U.,P has range D.,"Given the previous statements, is U a D?",Yes,U is a D.,True
+756,H S I.,S has range N.,"Given the previous statements, is I a N?",Yes,I is a N.,True
+757,H I F.,I has range K.,"Given the previous statements, is F a K?",Yes,F is a K.,True
+758,H N K.,N has range P.,"Given the previous statements, is K a P?",Yes,K is a P.,True
+759,H O Q.,O has range K.,"Given the previous statements, is Q a K?",Yes,Q is a K.,True
+760,H D Q.,D has range G.,"Given the previous statements, is Q a G?",Yes,Q is a G.,True
+761,H Z S.,Z has range F.,"Given the previous statements, is S a F?",Yes,S is a F.,True
+762,H I M.,I has range R.,"Given the previous statements, is M a R?",Yes,M is a R.,True
+763,H V A.,V has range X.,"Given the previous statements, is A a X?",Yes,A is a X.,True
+764,H S G.,S has range V.,"Given the previous statements, is G a V?",Yes,G is a V.,True
+765,H F E.,F has range P.,"Given the previous statements, is E a P?",Yes,E is a P.,True
+766,H W U.,W has range A.,"Given the previous statements, is U a A?",Yes,U is a A.,True
+767,H E S.,E has range J.,"Given the previous statements, is S a J?",Yes,S is a J.,True
+768,H T E.,T has range C.,"Given the previous statements, is E a C?",Yes,E is a C.,True
+769,H B Z.,B has range M.,"Given the previous statements, is Z a M?",Yes,Z is a M.,True
+770,H N Q.,N has range X.,"Given the previous statements, is Q a X?",Yes,Q is a X.,True
+771,H P S.,P has range X.,"Given the previous statements, is S a X?",Yes,S is a X.,True
+772,H I O.,I has range M.,"Given the previous statements, is O a M?",Yes,O is a M.,True
+773,H F N.,F has range A.,"Given the previous statements, is N a A?",Yes,N is a A.,True
+774,H N K.,N has range E.,"Given the previous statements, is K a E?",Yes,K is a E.,True
+775,H B S.,B has range N.,"Given the previous statements, is S a N?",Yes,S is a N.,True
+776,H G C.,G has range J.,"Given the previous statements, is C a J?",Yes,C is a J.,True
+777,H R B.,R has range C.,"Given the previous statements, is B a C?",Yes,B is a C.,True
+778,H U L.,U has range F.,"Given the previous statements, is L a F?",Yes,L is a F.,True
+779,H L R.,L has range Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True
+780,H R B.,R has range M.,"Given the previous statements, is B a M?",Yes,B is a M.,True
+781,H X J.,X has range R.,"Given the previous statements, is J a R?",Yes,J is a R.,True
+782,H T B.,T has range Q.,"Given the previous statements, is B a Q?",Yes,B is a Q.,True
+783,H K F.,K has range V.,"Given the previous statements, is F a V?",Yes,F is a V.,True
+784,H P S.,P has range O.,"Given the previous statements, is S a O?",Yes,S is a O.,True
+785,H P X.,P has range N.,"Given the previous statements, is X a N?",Yes,X is a N.,True
+786,H D C.,D has range K.,"Given the previous statements, is C a K?",Yes,C is a K.,True
+787,H K L.,K has range A.,"Given the previous statements, is L a A?",Yes,L is a A.,True
+788,H L A.,L has range K.,"Given the previous statements, is A a K?",Yes,A is a K.,True
+789,H F M.,F has range Z.,"Given the previous statements, is M a Z?",Yes,M is a Z.,True
+790,H S K.,S has range I.,"Given the previous statements, is K a I?",Yes,K is a I.,True
+791,H E T.,E has range V.,"Given the previous statements, is T a V?",Yes,T is a V.,True
+792,H J M.,J has range A.,"Given the previous statements, is M a A?",Yes,M is a A.,True
+793,H T P.,T has range Q.,"Given the previous statements, is P a Q?",Yes,P is a Q.,True
+794,H L O.,L has range F.,"Given the previous statements, is O a F?",Yes,O is a F.,True
+795,H S K.,S has range R.,"Given the previous statements, is K a R?",Yes,K is a R.,True
+796,H O B.,O has range U.,"Given the previous statements, is B a U?",Yes,B is a U.,True
+797,H K S.,K has range T.,"Given the previous statements, is S a T?",Yes,S is a T.,True
+798,H Z J.,Z has range E.,"Given the previous statements, is J a E?",Yes,J is a E.,True
+799,H Y L.,Y has range Z.,"Given the previous statements, is L a Z?",Yes,L is a Z.,True
+800,H N Z.,N has range F.,"Given the previous statements, is Z a F?",Yes,Z is a F.,True
+801,I Q W.,Q has range S.,"Given the previous statements, is W a S?",Yes,W is a S.,True
+802,I A D.,A has range N.,"Given the previous statements, is D a N?",Yes,D is a N.,True
+803,I J Q.,J has range D.,"Given the previous statements, is Q a D?",Yes,Q is a D.,True
+804,I L H.,L has range V.,"Given the previous statements, is H a V?",Yes,H is a V.,True
+805,I D B.,D has range U.,"Given the previous statements, is B a U?",Yes,B is a U.,True
+806,I B S.,B has range D.,"Given the previous statements, is S a D?",Yes,S is a D.,True
+807,I T E.,T has range J.,"Given the previous statements, is E a J?",Yes,E is a J.,True
+808,I Z L.,Z has range R.,"Given the previous statements, is L a R?",Yes,L is a R.,True
+809,I Z W.,Z has range L.,"Given the previous statements, is W a L?",Yes,W is a L.,True
+810,I C P.,C has range F.,"Given the previous statements, is P a F?",Yes,P is a F.,True
+811,I P S.,P has range W.,"Given the previous statements, is S a W?",Yes,S is a W.,True
+812,I M P.,M has range C.,"Given the previous statements, is P a C?",Yes,P is a C.,True
+813,I N G.,N has range J.,"Given the previous statements, is G a J?",Yes,G is a J.,True
+814,I M U.,M has range O.,"Given the previous statements, is U a O?",Yes,U is a O.,True
+815,I J Q.,J has range R.,"Given the previous statements, is Q a R?",Yes,Q is a R.,True
+816,I P X.,P has range W.,"Given the previous statements, is X a W?",Yes,X is a W.,True
+817,I T K.,T has range J.,"Given the previous statements, is K a J?",Yes,K is a J.,True
+818,I B M.,B has range K.,"Given the previous statements, is M a K?",Yes,M is a K.,True
+819,I R C.,R has range T.,"Given the previous statements, is C a T?",Yes,C is a T.,True
+820,I P R.,P has range S.,"Given the previous statements, is R a S?",Yes,R is a S.,True
+821,I C A.,C has range Q.,"Given the previous statements, is A a Q?",Yes,A is a Q.,True
+822,I C B.,C has range K.,"Given the previous statements, is B a K?",Yes,B is a K.,True
+823,I L T.,L has range Q.,"Given the previous statements, is T a Q?",Yes,T is a Q.,True
+824,I M N.,M has range R.,"Given the previous statements, is N a R?",Yes,N is a R.,True
+825,I E H.,E has range Y.,"Given the previous statements, is H a Y?",Yes,H is a Y.,True
+826,I N J.,N has range Q.,"Given the previous statements, is J a Q?",Yes,J is a Q.,True
+827,I O A.,O has range L.,"Given the previous statements, is A a L?",Yes,A is a L.,True
+828,I Y Q.,Y has range R.,"Given the previous statements, is Q a R?",Yes,Q is a R.,True
+829,I V K.,V has range B.,"Given the previous statements, is K a B?",Yes,K is a B.,True
+830,I O D.,O has range B.,"Given the previous statements, is D a B?",Yes,D is a B.,True
+831,I U M.,U has range S.,"Given the previous statements, is M a S?",Yes,M is a S.,True
+832,I D W.,D has range Z.,"Given the previous statements, is W a Z?",Yes,W is a Z.,True
+833,I T Y.,T has range E.,"Given the previous statements, is Y a E?",Yes,Y is a E.,True
+834,I O B.,O has range C.,"Given the previous statements, is B a C?",Yes,B is a C.,True
+835,I P J.,P has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+836,I P Z.,P has range W.,"Given the previous statements, is Z a W?",Yes,Z is a W.,True
+837,I T C.,T has range Y.,"Given the previous statements, is C a Y?",Yes,C is a Y.,True
+838,I V B.,V has range J.,"Given the previous statements, is B a J?",Yes,B is a J.,True
+839,I W V.,W has range N.,"Given the previous statements, is V a N?",Yes,V is a N.,True
+840,I V E.,V has range U.,"Given the previous statements, is E a U?",Yes,E is a U.,True
+841,I E P.,E has range R.,"Given the previous statements, is P a R?",Yes,P is a R.,True
+842,I B H.,B has range D.,"Given the previous statements, is H a D?",Yes,H is a D.,True
+843,I D C.,D has range R.,"Given the previous statements, is C a R?",Yes,C is a R.,True
+844,I R F.,R has range K.,"Given the previous statements, is F a K?",Yes,F is a K.,True
+845,I A J.,A has range H.,"Given the previous statements, is J a H?",Yes,J is a H.,True
+846,I K P.,K has range M.,"Given the previous statements, is P a M?",Yes,P is a M.,True
+847,I P O.,P has range Y.,"Given the previous statements, is O a Y?",Yes,O is a Y.,True
+848,I W V.,W has range Q.,"Given the previous statements, is V a Q?",Yes,V is a Q.,True
+849,I E A.,E has range F.,"Given the previous statements, is A a F?",Yes,A is a F.,True
+850,I R G.,R has range V.,"Given the previous statements, is G a V?",Yes,G is a V.,True
+851,I A C.,A has range L.,"Given the previous statements, is C a L?",Yes,C is a L.,True
+852,I U E.,U has range D.,"Given the previous statements, is E a D?",Yes,E is a D.,True
+853,I S P.,S has range R.,"Given the previous statements, is P a R?",Yes,P is a R.,True
+854,I N W.,N has range M.,"Given the previous statements, is W a M?",Yes,W is a M.,True
+855,I J E.,J has range R.,"Given the previous statements, is E a R?",Yes,E is a R.,True
+856,I J R.,J has range L.,"Given the previous statements, is R a L?",Yes,R is a L.,True
+857,I D Z.,D has range E.,"Given the previous statements, is Z a E?",Yes,Z is a E.,True
+858,I R P.,R has range U.,"Given the previous statements, is P a U?",Yes,P is a U.,True
+859,I D L.,D has range O.,"Given the previous statements, is L a O?",Yes,L is a O.,True
+860,I U Z.,U has range C.,"Given the previous statements, is Z a C?",Yes,Z is a C.,True
+861,I W X.,W has range F.,"Given the previous statements, is X a F?",Yes,X is a F.,True
+862,I F C.,F has range D.,"Given the previous statements, is C a D?",Yes,C is a D.,True
+863,I X Y.,X has range K.,"Given the previous statements, is Y a K?",Yes,Y is a K.,True
+864,I M H.,M has range W.,"Given the previous statements, is H a W?",Yes,H is a W.,True
+865,I J W.,J has range L.,"Given the previous statements, is W a L?",Yes,W is a L.,True
+866,I A P.,A has range K.,"Given the previous statements, is P a K?",Yes,P is a K.,True
+867,I V E.,V has range G.,"Given the previous statements, is E a G?",Yes,E is a G.,True
+868,I W D.,W has range Z.,"Given the previous statements, is D a Z?",Yes,D is a Z.,True
+869,I N Y.,N has range H.,"Given the previous statements, is Y a H?",Yes,Y is a H.,True
+870,I G M.,G has range B.,"Given the previous statements, is M a B?",Yes,M is a B.,True
+871,I Q N.,Q has range Z.,"Given the previous statements, is N a Z?",Yes,N is a Z.,True
+872,I Z F.,Z has range W.,"Given the previous statements, is F a W?",Yes,F is a W.,True
+873,I Y H.,Y has range A.,"Given the previous statements, is H a A?",Yes,H is a A.,True
+874,I L F.,L has range Y.,"Given the previous statements, is F a Y?",Yes,F is a Y.,True
+875,I O V.,O has range P.,"Given the previous statements, is V a P?",Yes,V is a P.,True
+876,I R U.,R has range O.,"Given the previous statements, is U a O?",Yes,U is a O.,True
+877,I L P.,L has range A.,"Given the previous statements, is P a A?",Yes,P is a A.,True
+878,I V D.,V has range Q.,"Given the previous statements, is D a Q?",Yes,D is a Q.,True
+879,I U C.,U has range K.,"Given the previous statements, is C a K?",Yes,C is a K.,True
+880,I Y F.,Y has range W.,"Given the previous statements, is F a W?",Yes,F is a W.,True
+881,I J E.,J has range Y.,"Given the previous statements, is E a Y?",Yes,E is a Y.,True
+882,I U H.,U has range N.,"Given the previous statements, is H a N?",Yes,H is a N.,True
+883,I O H.,O has range L.,"Given the previous statements, is H a L?",Yes,H is a L.,True
+884,I D N.,D has range E.,"Given the previous statements, is N a E?",Yes,N is a E.,True
+885,I V S.,V has range A.,"Given the previous statements, is S a A?",Yes,S is a A.,True
+886,I Z F.,Z has range E.,"Given the previous statements, is F a E?",Yes,F is a E.,True
+887,I Q D.,Q has range X.,"Given the previous statements, is D a X?",Yes,D is a X.,True
+888,I E R.,E has range V.,"Given the previous statements, is R a V?",Yes,R is a V.,True
+889,I E T.,E has range M.,"Given the previous statements, is T a M?",Yes,T is a M.,True
+890,I J N.,J has range K.,"Given the previous statements, is N a K?",Yes,N is a K.,True
+891,I P M.,P has range R.,"Given the previous statements, is M a R?",Yes,M is a R.,True
+892,I B H.,B has range X.,"Given the previous statements, is H a X?",Yes,H is a X.,True
+893,I E H.,E has range A.,"Given the previous statements, is H a A?",Yes,H is a A.,True
+894,I W R.,W has range P.,"Given the previous statements, is R a P?",Yes,R is a P.,True
+895,I E Y.,E has range J.,"Given the previous statements, is Y a J?",Yes,Y is a J.,True
+896,I Z V.,Z has range X.,"Given the previous statements, is V a X?",Yes,V is a X.,True
+897,I X H.,X has range W.,"Given the previous statements, is H a W?",Yes,H is a W.,True
+898,I D K.,D has range Z.,"Given the previous statements, is K a Z?",Yes,K is a Z.,True
+899,I Q A.,Q has range N.,"Given the previous statements, is A a N?",Yes,A is a N.,True
+900,I P T.,P has range M.,"Given the previous statements, is T a M?",Yes,T is a M.,True
+901,J C I.,C has range P.,"Given the previous statements, is I a P?",Yes,I is a P.,True
+902,J I K.,I has range G.,"Given the previous statements, is K a G?",Yes,K is a G.,True
+903,J S N.,S has range A.,"Given the previous statements, is N a A?",Yes,N is a A.,True
+904,J G I.,G has range A.,"Given the previous statements, is I a A?",Yes,I is a A.,True
+905,J G A.,G has range W.,"Given the previous statements, is A a W?",Yes,A is a W.,True
+906,J Q P.,Q has range Z.,"Given the previous statements, is P a Z?",Yes,P is a Z.,True
+907,J C V.,C has range X.,"Given the previous statements, is V a X?",Yes,V is a X.,True
+908,J M Q.,M has range B.,"Given the previous statements, is Q a B?",Yes,Q is a B.,True
+909,J U W.,U has range G.,"Given the previous statements, is W a G?",Yes,W is a G.,True
+910,J H Y.,H has range N.,"Given the previous statements, is Y a N?",Yes,Y is a N.,True
+911,J S Q.,S has range M.,"Given the previous statements, is Q a M?",Yes,Q is a M.,True
+912,J I Q.,I has range L.,"Given the previous statements, is Q a L?",Yes,Q is a L.,True
+913,J D N.,D has range M.,"Given the previous statements, is N a M?",Yes,N is a M.,True
+914,J X P.,X has range Y.,"Given the previous statements, is P a Y?",Yes,P is a Y.,True
+915,J B X.,B has range L.,"Given the previous statements, is X a L?",Yes,X is a L.,True
+916,J F I.,F has range S.,"Given the previous statements, is I a S?",Yes,I is a S.,True
+917,J S T.,S has range Q.,"Given the previous statements, is T a Q?",Yes,T is a Q.,True
+918,J X G.,X has range C.,"Given the previous statements, is G a C?",Yes,G is a C.,True
+919,J C T.,C has range D.,"Given the previous statements, is T a D?",Yes,T is a D.,True
+920,J W A.,W has range D.,"Given the previous statements, is A a D?",Yes,A is a D.,True
+921,J T U.,T has range N.,"Given the previous statements, is U a N?",Yes,U is a N.,True
+922,J D M.,D has range X.,"Given the previous statements, is M a X?",Yes,M is a X.,True
+923,J D Y.,D has range U.,"Given the previous statements, is Y a U?",Yes,Y is a U.,True
+924,J O H.,O has range Z.,"Given the previous statements, is H a Z?",Yes,H is a Z.,True
+925,J C O.,C has range W.,"Given the previous statements, is O a W?",Yes,O is a W.,True
+926,J E I.,E has range P.,"Given the previous statements, is I a P?",Yes,I is a P.,True
+927,J E Z.,E has range Y.,"Given the previous statements, is Z a Y?",Yes,Z is a Y.,True
+928,J W V.,W has range C.,"Given the previous statements, is V a C?",Yes,V is a C.,True
+929,J H Q.,H has range S.,"Given the previous statements, is Q a S?",Yes,Q is a S.,True
+930,J U K.,U has range D.,"Given the previous statements, is K a D?",Yes,K is a D.,True
+931,J F D.,F has range M.,"Given the previous statements, is D a M?",Yes,D is a M.,True
+932,J X L.,X has range R.,"Given the previous statements, is L a R?",Yes,L is a R.,True
+933,J U A.,U has range B.,"Given the previous statements, is A a B?",Yes,A is a B.,True
+934,J N Y.,N has range Q.,"Given the previous statements, is Y a Q?",Yes,Y is a Q.,True
+935,J X I.,X has range E.,"Given the previous statements, is I a E?",Yes,I is a E.,True
+936,J D H.,D has range S.,"Given the previous statements, is H a S?",Yes,H is a S.,True
+937,J N W.,N has range S.,"Given the previous statements, is W a S?",Yes,W is a S.,True
+938,J Y S.,Y has range O.,"Given the previous statements, is S a O?",Yes,S is a O.,True
+939,J L R.,L has range W.,"Given the previous statements, is R a W?",Yes,R is a W.,True
+940,J L S.,L has range F.,"Given the previous statements, is S a F?",Yes,S is a F.,True
+941,J L K.,L has range A.,"Given the previous statements, is K a A?",Yes,K is a A.,True
+942,J X D.,X has range F.,"Given the previous statements, is D a F?",Yes,D is a F.,True
+943,J Q C.,Q has range B.,"Given the previous statements, is C a B?",Yes,C is a B.,True
+944,J N S.,N has range B.,"Given the previous statements, is S a B?",Yes,S is a B.,True
+945,J Z V.,Z has range O.,"Given the previous statements, is V a O?",Yes,V is a O.,True
+946,J F U.,F has range M.,"Given the previous statements, is U a M?",Yes,U is a M.,True
+947,J A Q.,A has range G.,"Given the previous statements, is Q a G?",Yes,Q is a G.,True
+948,J Q R.,Q has range N.,"Given the previous statements, is R a N?",Yes,R is a N.,True
+949,J S B.,S has range Y.,"Given the previous statements, is B a Y?",Yes,B is a Y.,True
+950,J S P.,S has range C.,"Given the previous statements, is P a C?",Yes,P is a C.,True
+951,J E X.,E has range G.,"Given the previous statements, is X a G?",Yes,X is a G.,True
+952,J Q W.,Q has range I.,"Given the previous statements, is W a I?",Yes,W is a I.,True
+953,J A M.,A has range N.,"Given the previous statements, is M a N?",Yes,M is a N.,True
+954,J L I.,L has range N.,"Given the previous statements, is I a N?",Yes,I is a N.,True
+955,J P E.,P has range X.,"Given the previous statements, is E a X?",Yes,E is a X.,True
+956,J Q R.,Q has range X.,"Given the previous statements, is R a X?",Yes,R is a X.,True
+957,J L N.,L has range T.,"Given the previous statements, is N a T?",Yes,N is a T.,True
+958,J Z I.,Z has range U.,"Given the previous statements, is I a U?",Yes,I is a U.,True
+959,J T E.,T has range I.,"Given the previous statements, is E a I?",Yes,E is a I.,True
+960,J K S.,K has range P.,"Given the previous statements, is S a P?",Yes,S is a P.,True
+961,J Q P.,Q has range A.,"Given the previous statements, is P a A?",Yes,P is a A.,True
+962,J L M.,L has range E.,"Given the previous statements, is M a E?",Yes,M is a E.,True
+963,J H F.,H has range S.,"Given the previous statements, is F a S?",Yes,F is a S.,True
+964,J O P.,O has range R.,"Given the previous statements, is P a R?",Yes,P is a R.,True
+965,J W K.,W has range D.,"Given the previous statements, is K a D?",Yes,K is a D.,True
+966,J F D.,F has range E.,"Given the previous statements, is D a E?",Yes,D is a E.,True
+967,J M K.,M has range E.,"Given the previous statements, is K a E?",Yes,K is a E.,True
+968,J P R.,P has range T.,"Given the previous statements, is R a T?",Yes,R is a T.,True
+969,J L O.,L has range F.,"Given the previous statements, is O a F?",Yes,O is a F.,True
+970,J C T.,C has range Q.,"Given the previous statements, is T a Q?",Yes,T is a Q.,True
+971,J A X.,A has range G.,"Given the previous statements, is X a G?",Yes,X is a G.,True
+972,J Z A.,Z has range I.,"Given the previous statements, is A a I?",Yes,A is a I.,True
+973,J U E.,U has range Z.,"Given the previous statements, is E a Z?",Yes,E is a Z.,True
+974,J X O.,X has range U.,"Given the previous statements, is O a U?",Yes,O is a U.,True
+975,J V K.,V has range O.,"Given the previous statements, is K a O?",Yes,K is a O.,True
+976,J P R.,P has range E.,"Given the previous statements, is R a E?",Yes,R is a E.,True
+977,J G D.,G has range U.,"Given the previous statements, is D a U?",Yes,D is a U.,True
+978,J E X.,E has range V.,"Given the previous statements, is X a V?",Yes,X is a V.,True
+979,J C Y.,C has range P.,"Given the previous statements, is Y a P?",Yes,Y is a P.,True
+980,J F D.,F has range I.,"Given the previous statements, is D a I?",Yes,D is a I.,True
+981,J L N.,L has range D.,"Given the previous statements, is N a D?",Yes,N is a D.,True
+982,J T Z.,T has range U.,"Given the previous statements, is Z a U?",Yes,Z is a U.,True
+983,J R H.,R has range C.,"Given the previous statements, is H a C?",Yes,H is a C.,True
+984,J S T.,S has range C.,"Given the previous statements, is T a C?",Yes,T is a C.,True
+985,J F S.,F has range P.,"Given the previous statements, is S a P?",Yes,S is a P.,True
+986,J T U.,T has range I.,"Given the previous statements, is U a I?",Yes,U is a I.,True
+987,J V E.,V has range G.,"Given the previous statements, is E a G?",Yes,E is a G.,True
+988,J I U.,I has range T.,"Given the previous statements, is U a T?",Yes,U is a T.,True
+989,J K A.,K has range V.,"Given the previous statements, is A a V?",Yes,A is a V.,True
+990,J R S.,R has range I.,"Given the previous statements, is S a I?",Yes,S is a I.,True
+991,J I O.,I has range Y.,"Given the previous statements, is O a Y?",Yes,O is a Y.,True
+992,J X T.,X has range U.,"Given the previous statements, is T a U?",Yes,T is a U.,True
+993,J H R.,H has range B.,"Given the previous statements, is R a B?",Yes,R is a B.,True
+994,J G B.,G has range Y.,"Given the previous statements, is B a Y?",Yes,B is a Y.,True
+995,J C R.,C has range X.,"Given the previous statements, is R a X?",Yes,R is a X.,True
+996,J X P.,X has range Q.,"Given the previous statements, is P a Q?",Yes,P is a Q.,True
+997,J C Q.,C has range Z.,"Given the previous statements, is Q a Z?",Yes,Q is a Z.,True
+998,J W H.,W has range I.,"Given the previous statements, is H a I?",Yes,H is a I.,True
+999,J F R.,F has range Q.,"Given the previous statements, is R a Q?",Yes,R is a Q.,True
+1000,J B Z.,B has range U.,"Given the previous statements, is Z a U?",Yes,Z is a U.,True
+1001,A E D.,E has range C.,"Given the previous statements, is D a M?",No,D is not a M.,False
+1002,A V F.,V has range J.,"Given the previous statements, is F a U?",No,F is not a U.,False
+1003,A L S.,L has range H.,"Given the previous statements, is S a X?",No,S is not a X.,False
+1004,A R F.,R has range Q.,"Given the previous statements, is F a Y?",No,F is not a Y.,False
+1005,A Q C.,Q has range T.,"Given the previous statements, is C a U?",No,C is not a U.,False
+1006,A F C.,F has range T.,"Given the previous statements, is C a U?",No,C is not a U.,False
+1007,A L H.,L has range C.,"Given the previous statements, is H a V?",No,H is not a V.,False
+1008,A N S.,N has range V.,"Given the previous statements, is S a W?",No,S is not a W.,False
+1009,A W E.,W has range G.,"Given the previous statements, is E a F?",No,E is not a F.,False
+1010,A M N.,M has range V.,"Given the previous statements, is N a U?",No,N is not a U.,False
+1011,A H P.,H has range Q.,"Given the previous statements, is P a T?",No,P is not a T.,False
+1012,A M E.,M has range F.,"Given the previous statements, is E a B?",No,E is not a B.,False
+1013,A I E.,I has range C.,"Given the previous statements, is E a X?",No,E is not a X.,False
+1014,A J H.,J has range W.,"Given the previous statements, is H a M?",No,H is not a M.,False
+1015,A P C.,P has range N.,"Given the previous statements, is C a R?",No,C is not a R.,False
+1016,A E D.,E has range K.,"Given the previous statements, is D a R?",No,D is not a R.,False
+1017,A O S.,O has range F.,"Given the previous statements, is S a R?",No,S is not a R.,False
+1018,A P F.,P has range M.,"Given the previous statements, is F a B?",No,F is not a B.,False
+1019,A L M.,L has range C.,"Given the previous statements, is M a N?",No,M is not a N.,False
+1020,A W E.,W has range L.,"Given the previous statements, is E a O?",No,E is not a O.,False
+1021,A M W.,M has range B.,"Given the previous statements, is W a D?",No,W is not a D.,False
+1022,A N H.,N has range C.,"Given the previous statements, is H a T?",No,H is not a T.,False
+1023,A U E.,U has range D.,"Given the previous statements, is E a N?",No,E is not a N.,False
+1024,A Z O.,Z has range H.,"Given the previous statements, is O a W?",No,O is not a W.,False
+1025,A G M.,G has range K.,"Given the previous statements, is M a S?",No,M is not a S.,False
+1026,A C J.,C has range Z.,"Given the previous statements, is J a V?",No,J is not a V.,False
+1027,A M S.,M has range F.,"Given the previous statements, is S a U?",No,S is not a U.,False
+1028,A Q U.,Q has range T.,"Given the previous statements, is U a N?",No,U is not a N.,False
+1029,A K Q.,K has range T.,"Given the previous statements, is Q a D?",No,Q is not a D.,False
+1030,A N D.,N has range Q.,"Given the previous statements, is D a V?",No,D is not a V.,False
+1031,A X U.,X has range J.,"Given the previous statements, is U a B?",No,U is not a B.,False
+1032,A N B.,N has range O.,"Given the previous statements, is B a Z?",No,B is not a Z.,False
+1033,A T W.,T has range L.,"Given the previous statements, is W a Y?",No,W is not a Y.,False
+1034,A R V.,R has range G.,"Given the previous statements, is V a X?",No,V is not a X.,False
+1035,A V G.,V has range K.,"Given the previous statements, is G a R?",No,G is not a R.,False
+1036,A D K.,D has range F.,"Given the previous statements, is K a R?",No,K is not a R.,False
+1037,A I R.,I has range W.,"Given the previous statements, is R a Z?",No,R is not a Z.,False
+1038,A W E.,W has range L.,"Given the previous statements, is E a U?",No,E is not a U.,False
+1039,A T W.,T has range G.,"Given the previous statements, is W a E?",No,W is not a E.,False
+1040,A Y C.,Y has range I.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1041,A H U.,H has range E.,"Given the previous statements, is U a V?",No,U is not a V.,False
+1042,A O K.,O has range J.,"Given the previous statements, is K a R?",No,K is not a R.,False
+1043,A N O.,N has range L.,"Given the previous statements, is O a H?",No,O is not a H.,False
+1044,A J C.,J has range Y.,"Given the previous statements, is C a E?",No,C is not a E.,False
+1045,A S B.,S has range E.,"Given the previous statements, is B a M?",No,B is not a M.,False
+1046,A P K.,P has range Q.,"Given the previous statements, is K a W?",No,K is not a W.,False
+1047,A F S.,F has range M.,"Given the previous statements, is S a L?",No,S is not a L.,False
+1048,A G I.,G has range W.,"Given the previous statements, is I a D?",No,I is not a D.,False
+1049,A T B.,T has range V.,"Given the previous statements, is B a E?",No,B is not a E.,False
+1050,A D S.,D has range R.,"Given the previous statements, is S a U?",No,S is not a U.,False
+1051,A V Q.,V has range T.,"Given the previous statements, is Q a R?",No,Q is not a R.,False
+1052,A Y N.,Y has range P.,"Given the previous statements, is N a Q?",No,N is not a Q.,False
+1053,A G Y.,G has range X.,"Given the previous statements, is Y a W?",No,Y is not a W.,False
+1054,A N D.,N has range M.,"Given the previous statements, is D a Q?",No,D is not a Q.,False
+1055,A I K.,I has range B.,"Given the previous statements, is K a P?",No,K is not a P.,False
+1056,A M G.,M has range V.,"Given the previous statements, is G a P?",No,G is not a P.,False
+1057,A D J.,D has range O.,"Given the previous statements, is J a Q?",No,J is not a Q.,False
+1058,A Y G.,Y has range V.,"Given the previous statements, is G a X?",No,G is not a X.,False
+1059,A B Z.,B has range I.,"Given the previous statements, is Z a D?",No,Z is not a D.,False
+1060,A T B.,T has range O.,"Given the previous statements, is B a P?",No,B is not a P.,False
+1061,A C W.,C has range R.,"Given the previous statements, is W a F?",No,W is not a F.,False
+1062,A I Y.,I has range W.,"Given the previous statements, is Y a S?",No,Y is not a S.,False
+1063,A L R.,L has range H.,"Given the previous statements, is R a G?",No,R is not a G.,False
+1064,A Z L.,Z has range V.,"Given the previous statements, is L a X?",No,L is not a X.,False
+1065,A L S.,L has range D.,"Given the previous statements, is S a Z?",No,S is not a Z.,False
+1066,A O R.,O has range W.,"Given the previous statements, is R a Z?",No,R is not a Z.,False
+1067,A P Z.,P has range O.,"Given the previous statements, is Z a R?",No,Z is not a R.,False
+1068,A D M.,D has range T.,"Given the previous statements, is M a Z?",No,M is not a Z.,False
+1069,A Z N.,Z has range H.,"Given the previous statements, is N a K?",No,N is not a K.,False
+1070,A F X.,F has range M.,"Given the previous statements, is X a H?",No,X is not a H.,False
+1071,A W I.,W has range L.,"Given the previous statements, is I a Y?",No,I is not a Y.,False
+1072,A P H.,P has range Y.,"Given the previous statements, is H a U?",No,H is not a U.,False
+1073,A M S.,M has range E.,"Given the previous statements, is S a V?",No,S is not a V.,False
+1074,A X Y.,X has range W.,"Given the previous statements, is Y a S?",No,Y is not a S.,False
+1075,A Q E.,Q has range F.,"Given the previous statements, is E a B?",No,E is not a B.,False
+1076,A U T.,U has range V.,"Given the previous statements, is T a G?",No,T is not a G.,False
+1077,A W H.,W has range X.,"Given the previous statements, is H a P?",No,H is not a P.,False
+1078,A H J.,H has range W.,"Given the previous statements, is J a Q?",No,J is not a Q.,False
+1079,A N R.,N has range O.,"Given the previous statements, is R a B?",No,R is not a B.,False
+1080,A V Q.,V has range I.,"Given the previous statements, is Q a O?",No,Q is not a O.,False
+1081,A B D.,B has range M.,"Given the previous statements, is D a N?",No,D is not a N.,False
+1082,A K I.,K has range M.,"Given the previous statements, is I a W?",No,I is not a W.,False
+1083,A Y U.,Y has range Z.,"Given the previous statements, is U a F?",No,U is not a F.,False
+1084,A Q Y.,Q has range L.,"Given the previous statements, is Y a Z?",No,Y is not a Z.,False
+1085,A H X.,H has range C.,"Given the previous statements, is X a K?",No,X is not a K.,False
+1086,A D J.,D has range V.,"Given the previous statements, is J a C?",No,J is not a C.,False
+1087,A D N.,D has range T.,"Given the previous statements, is N a E?",No,N is not a E.,False
+1088,A I F.,I has range J.,"Given the previous statements, is F a O?",No,F is not a O.,False
+1089,A Z X.,Z has range W.,"Given the previous statements, is X a I?",No,X is not a I.,False
+1090,A Z P.,Z has range T.,"Given the previous statements, is P a I?",No,P is not a I.,False
+1091,A U F.,U has range T.,"Given the previous statements, is F a C?",No,F is not a C.,False
+1092,A D C.,D has range Q.,"Given the previous statements, is C a P?",No,C is not a P.,False
+1093,A G P.,G has range O.,"Given the previous statements, is P a J?",No,P is not a J.,False
+1094,A C F.,C has range R.,"Given the previous statements, is F a Y?",No,F is not a Y.,False
+1095,A K Q.,K has range V.,"Given the previous statements, is Q a S?",No,Q is not a S.,False
+1096,A X B.,X has range L.,"Given the previous statements, is B a O?",No,B is not a O.,False
+1097,A G J.,G has range Y.,"Given the previous statements, is J a L?",No,J is not a L.,False
+1098,A B O.,B has range I.,"Given the previous statements, is O a T?",No,O is not a T.,False
+1099,A K N.,K has range X.,"Given the previous statements, is N a E?",No,N is not a E.,False
+1100,A N J.,N has range S.,"Given the previous statements, is J a X?",No,J is not a X.,False
+1101,B X D.,X has range U.,"Given the previous statements, is D a C?",No,D is not a C.,False
+1102,B D O.,D has range K.,"Given the previous statements, is O a H?",No,O is not a H.,False
+1103,B N Z.,N has range J.,"Given the previous statements, is Z a C?",No,Z is not a C.,False
+1104,B Z E.,Z has range F.,"Given the previous statements, is E a U?",No,E is not a U.,False
+1105,B K O.,K has range P.,"Given the previous statements, is O a F?",No,O is not a F.,False
+1106,B A N.,A has range D.,"Given the previous statements, is N a J?",No,N is not a J.,False
+1107,B A M.,A has range Y.,"Given the previous statements, is M a F?",No,M is not a F.,False
+1108,B N A.,N has range L.,"Given the previous statements, is A a F?",No,A is not a F.,False
+1109,B D W.,D has range N.,"Given the previous statements, is W a J?",No,W is not a J.,False
+1110,B Q M.,Q has range P.,"Given the previous statements, is M a X?",No,M is not a X.,False
+1111,B M N.,M has range S.,"Given the previous statements, is N a V?",No,N is not a V.,False
+1112,B Q V.,Q has range P.,"Given the previous statements, is V a J?",No,V is not a J.,False
+1113,B U Q.,U has range T.,"Given the previous statements, is Q a I?",No,Q is not a I.,False
+1114,B D O.,D has range T.,"Given the previous statements, is O a Q?",No,O is not a Q.,False
+1115,B J W.,J has range F.,"Given the previous statements, is W a R?",No,W is not a R.,False
+1116,B T M.,T has range G.,"Given the previous statements, is M a I?",No,M is not a I.,False
+1117,B J W.,J has range C.,"Given the previous statements, is W a X?",No,W is not a X.,False
+1118,B V C.,V has range E.,"Given the previous statements, is C a L?",No,C is not a L.,False
+1119,B H D.,H has range V.,"Given the previous statements, is D a J?",No,D is not a J.,False
+1120,B X R.,X has range V.,"Given the previous statements, is R a C?",No,R is not a C.,False
+1121,B V Z.,V has range I.,"Given the previous statements, is Z a Y?",No,Z is not a Y.,False
+1122,B N A.,N has range I.,"Given the previous statements, is A a F?",No,A is not a F.,False
+1123,B O N.,O has range A.,"Given the previous statements, is N a S?",No,N is not a S.,False
+1124,B C Y.,C has range K.,"Given the previous statements, is Y a U?",No,Y is not a U.,False
+1125,B E Z.,E has range D.,"Given the previous statements, is Z a R?",No,Z is not a R.,False
+1126,B O C.,O has range E.,"Given the previous statements, is C a P?",No,C is not a P.,False
+1127,B A X.,A has range H.,"Given the previous statements, is X a K?",No,X is not a K.,False
+1128,B F P.,F has range N.,"Given the previous statements, is P a Y?",No,P is not a Y.,False
+1129,B N W.,N has range I.,"Given the previous statements, is W a C?",No,W is not a C.,False
+1130,B H E.,H has range P.,"Given the previous statements, is E a N?",No,E is not a N.,False
+1131,B D A.,D has range T.,"Given the previous statements, is A a F?",No,A is not a F.,False
+1132,B G U.,G has range H.,"Given the previous statements, is U a I?",No,U is not a I.,False
+1133,B Z T.,Z has range Q.,"Given the previous statements, is T a R?",No,T is not a R.,False
+1134,B E S.,E has range D.,"Given the previous statements, is S a G?",No,S is not a G.,False
+1135,B E J.,E has range D.,"Given the previous statements, is J a X?",No,J is not a X.,False
+1136,B N W.,N has range U.,"Given the previous statements, is W a D?",No,W is not a D.,False
+1137,B N E.,N has range W.,"Given the previous statements, is E a K?",No,E is not a K.,False
+1138,B K F.,K has range D.,"Given the previous statements, is F a H?",No,F is not a H.,False
+1139,B Q P.,Q has range O.,"Given the previous statements, is P a U?",No,P is not a U.,False
+1140,B G S.,G has range Q.,"Given the previous statements, is S a O?",No,S is not a O.,False
+1141,B C P.,C has range W.,"Given the previous statements, is P a U?",No,P is not a U.,False
+1142,B L Z.,L has range W.,"Given the previous statements, is Z a P?",No,Z is not a P.,False
+1143,B E I.,E has range U.,"Given the previous statements, is I a H?",No,I is not a H.,False
+1144,B F I.,F has range J.,"Given the previous statements, is I a M?",No,I is not a M.,False
+1145,B D A.,D has range H.,"Given the previous statements, is A a J?",No,A is not a J.,False
+1146,B C R.,C has range X.,"Given the previous statements, is R a N?",No,R is not a N.,False
+1147,B Y R.,Y has range G.,"Given the previous statements, is R a M?",No,R is not a M.,False
+1148,B F P.,F has range G.,"Given the previous statements, is P a H?",No,P is not a H.,False
+1149,B I D.,I has range R.,"Given the previous statements, is D a U?",No,D is not a U.,False
+1150,B C W.,C has range A.,"Given the previous statements, is W a V?",No,W is not a V.,False
+1151,B O U.,O has range H.,"Given the previous statements, is U a D?",No,U is not a D.,False
+1152,B A J.,A has range I.,"Given the previous statements, is J a U?",No,J is not a U.,False
+1153,B D L.,D has range E.,"Given the previous statements, is L a X?",No,L is not a X.,False
+1154,B P K.,P has range X.,"Given the previous statements, is K a A?",No,K is not a A.,False
+1155,B V Q.,V has range L.,"Given the previous statements, is Q a F?",No,Q is not a F.,False
+1156,B K A.,K has range X.,"Given the previous statements, is A a L?",No,A is not a L.,False
+1157,B R I.,R has range N.,"Given the previous statements, is I a M?",No,I is not a M.,False
+1158,B S K.,S has range M.,"Given the previous statements, is K a I?",No,K is not a I.,False
+1159,B T E.,T has range S.,"Given the previous statements, is E a V?",No,E is not a V.,False
+1160,B A U.,A has range R.,"Given the previous statements, is U a W?",No,U is not a W.,False
+1161,B Q I.,Q has range U.,"Given the previous statements, is I a X?",No,I is not a X.,False
+1162,B R S.,R has range Y.,"Given the previous statements, is S a T?",No,S is not a T.,False
+1163,B U W.,U has range G.,"Given the previous statements, is W a H?",No,W is not a H.,False
+1164,B J X.,J has range A.,"Given the previous statements, is X a Y?",No,X is not a Y.,False
+1165,B T O.,T has range E.,"Given the previous statements, is O a Q?",No,O is not a Q.,False
+1166,B I H.,I has range P.,"Given the previous statements, is H a J?",No,H is not a J.,False
+1167,B U T.,U has range X.,"Given the previous statements, is T a K?",No,T is not a K.,False
+1168,B A C.,A has range V.,"Given the previous statements, is C a Y?",No,C is not a Y.,False
+1169,B A G.,A has range P.,"Given the previous statements, is G a J?",No,G is not a J.,False
+1170,B R E.,R has range N.,"Given the previous statements, is E a Y?",No,E is not a Y.,False
+1171,B L D.,L has range Z.,"Given the previous statements, is D a P?",No,D is not a P.,False
+1172,B H C.,H has range F.,"Given the previous statements, is C a Z?",No,C is not a Z.,False
+1173,B A F.,A has range N.,"Given the previous statements, is F a J?",No,F is not a J.,False
+1174,B W K.,W has range R.,"Given the previous statements, is K a X?",No,K is not a X.,False
+1175,B G Q.,G has range J.,"Given the previous statements, is Q a P?",No,Q is not a P.,False
+1176,B V Y.,V has range M.,"Given the previous statements, is Y a Q?",No,Y is not a Q.,False
+1177,B I M.,I has range F.,"Given the previous statements, is M a C?",No,M is not a C.,False
+1178,B E H.,E has range K.,"Given the previous statements, is H a N?",No,H is not a N.,False
+1179,B F Y.,F has range V.,"Given the previous statements, is Y a L?",No,Y is not a L.,False
+1180,B S Z.,S has range Q.,"Given the previous statements, is Z a T?",No,Z is not a T.,False
+1181,B S D.,S has range N.,"Given the previous statements, is D a Y?",No,D is not a Y.,False
+1182,B R D.,R has range M.,"Given the previous statements, is D a O?",No,D is not a O.,False
+1183,B G L.,G has range N.,"Given the previous statements, is L a D?",No,L is not a D.,False
+1184,B Q F.,Q has range A.,"Given the previous statements, is F a U?",No,F is not a U.,False
+1185,B U Y.,U has range O.,"Given the previous statements, is Y a A?",No,Y is not a A.,False
+1186,B V A.,V has range O.,"Given the previous statements, is A a F?",No,A is not a F.,False
+1187,B L W.,L has range U.,"Given the previous statements, is W a Z?",No,W is not a Z.,False
+1188,B F D.,F has range O.,"Given the previous statements, is D a E?",No,D is not a E.,False
+1189,B G I.,G has range R.,"Given the previous statements, is I a E?",No,I is not a E.,False
+1190,B N T.,N has range X.,"Given the previous statements, is T a F?",No,T is not a F.,False
+1191,B H N.,H has range Y.,"Given the previous statements, is N a I?",No,N is not a I.,False
+1192,B V R.,V has range G.,"Given the previous statements, is R a T?",No,R is not a T.,False
+1193,B G L.,G has range A.,"Given the previous statements, is L a I?",No,L is not a I.,False
+1194,B I K.,I has range Y.,"Given the previous statements, is K a A?",No,K is not a A.,False
+1195,B X J.,X has range I.,"Given the previous statements, is J a T?",No,J is not a T.,False
+1196,B J V.,J has range F.,"Given the previous statements, is V a A?",No,V is not a A.,False
+1197,B M N.,M has range E.,"Given the previous statements, is N a D?",No,N is not a D.,False
+1198,B G S.,G has range E.,"Given the previous statements, is S a A?",No,S is not a A.,False
+1199,B E A.,E has range K.,"Given the previous statements, is A a H?",No,A is not a H.,False
+1200,B F A.,F has range H.,"Given the previous statements, is A a L?",No,A is not a L.,False
+1201,C N H.,N has range Z.,"Given the previous statements, is H a U?",No,H is not a U.,False
+1202,C M Y.,M has range A.,"Given the previous statements, is Y a U?",No,Y is not a U.,False
+1203,C L U.,L has range G.,"Given the previous statements, is U a F?",No,U is not a F.,False
+1204,C B R.,B has range O.,"Given the previous statements, is R a I?",No,R is not a I.,False
+1205,C T S.,T has range W.,"Given the previous statements, is S a J?",No,S is not a J.,False
+1206,C R X.,R has range J.,"Given the previous statements, is X a O?",No,X is not a O.,False
+1207,C Y H.,Y has range U.,"Given the previous statements, is H a X?",No,H is not a X.,False
+1208,C J X.,J has range W.,"Given the previous statements, is X a E?",No,X is not a E.,False
+1209,C H X.,H has range I.,"Given the previous statements, is X a D?",No,X is not a D.,False
+1210,C O L.,O has range T.,"Given the previous statements, is L a B?",No,L is not a B.,False
+1211,C H X.,H has range N.,"Given the previous statements, is X a U?",No,X is not a U.,False
+1212,C K W.,K has range T.,"Given the previous statements, is W a U?",No,W is not a U.,False
+1213,C Q J.,Q has range D.,"Given the previous statements, is J a A?",No,J is not a A.,False
+1214,C U I.,U has range B.,"Given the previous statements, is I a M?",No,I is not a M.,False
+1215,C B O.,B has range H.,"Given the previous statements, is O a R?",No,O is not a R.,False
+1216,C P H.,P has range W.,"Given the previous statements, is H a F?",No,H is not a F.,False
+1217,C V X.,V has range K.,"Given the previous statements, is X a M?",No,X is not a M.,False
+1218,C I S.,I has range M.,"Given the previous statements, is S a F?",No,S is not a F.,False
+1219,C T Y.,T has range D.,"Given the previous statements, is Y a H?",No,Y is not a H.,False
+1220,C Z O.,Z has range W.,"Given the previous statements, is O a H?",No,O is not a H.,False
+1221,C S N.,S has range R.,"Given the previous statements, is N a K?",No,N is not a K.,False
+1222,C Q B.,Q has range F.,"Given the previous statements, is B a V?",No,B is not a V.,False
+1223,C K N.,K has range H.,"Given the previous statements, is N a I?",No,N is not a I.,False
+1224,C F N.,F has range B.,"Given the previous statements, is N a O?",No,N is not a O.,False
+1225,C X P.,X has range Z.,"Given the previous statements, is P a Q?",No,P is not a Q.,False
+1226,C X F.,X has range O.,"Given the previous statements, is F a D?",No,F is not a D.,False
+1227,C T R.,T has range H.,"Given the previous statements, is R a J?",No,R is not a J.,False
+1228,C I X.,I has range Z.,"Given the previous statements, is X a P?",No,X is not a P.,False
+1229,C I G.,I has range W.,"Given the previous statements, is G a T?",No,G is not a T.,False
+1230,C H M.,H has range G.,"Given the previous statements, is M a B?",No,M is not a B.,False
+1231,C E U.,E has range G.,"Given the previous statements, is U a Y?",No,U is not a Y.,False
+1232,C K H.,K has range N.,"Given the previous statements, is H a W?",No,H is not a W.,False
+1233,C U X.,U has range T.,"Given the previous statements, is X a D?",No,X is not a D.,False
+1234,C V Q.,V has range W.,"Given the previous statements, is Q a P?",No,Q is not a P.,False
+1235,C D P.,D has range H.,"Given the previous statements, is P a B?",No,P is not a B.,False
+1236,C P D.,P has range F.,"Given the previous statements, is D a X?",No,D is not a X.,False
+1237,C L G.,L has range Z.,"Given the previous statements, is G a J?",No,G is not a J.,False
+1238,C M F.,M has range T.,"Given the previous statements, is F a E?",No,F is not a E.,False
+1239,C G I.,G has range F.,"Given the previous statements, is I a H?",No,I is not a H.,False
+1240,C F M.,F has range B.,"Given the previous statements, is M a W?",No,M is not a W.,False
+1241,C H E.,H has range Q.,"Given the previous statements, is E a S?",No,E is not a S.,False
+1242,C L J.,L has range E.,"Given the previous statements, is J a V?",No,J is not a V.,False
+1243,C J X.,J has range D.,"Given the previous statements, is X a Q?",No,X is not a Q.,False
+1244,C E L.,E has range Q.,"Given the previous statements, is L a T?",No,L is not a T.,False
+1245,C G R.,G has range L.,"Given the previous statements, is R a A?",No,R is not a A.,False
+1246,C O N.,O has range G.,"Given the previous statements, is N a R?",No,N is not a R.,False
+1247,C V W.,V has range E.,"Given the previous statements, is W a F?",No,W is not a F.,False
+1248,C L V.,L has range J.,"Given the previous statements, is V a T?",No,V is not a T.,False
+1249,C B R.,B has range W.,"Given the previous statements, is R a K?",No,R is not a K.,False
+1250,C T I.,T has range Z.,"Given the previous statements, is I a E?",No,I is not a E.,False
+1251,C P I.,P has range L.,"Given the previous statements, is I a M?",No,I is not a M.,False
+1252,C L A.,L has range H.,"Given the previous statements, is A a W?",No,A is not a W.,False
+1253,C H F.,H has range B.,"Given the previous statements, is F a P?",No,F is not a P.,False
+1254,C I N.,I has range M.,"Given the previous statements, is N a G?",No,N is not a G.,False
+1255,C V O.,V has range L.,"Given the previous statements, is O a U?",No,O is not a U.,False
+1256,C O V.,O has range J.,"Given the previous statements, is V a S?",No,V is not a S.,False
+1257,C E S.,E has range T.,"Given the previous statements, is S a B?",No,S is not a B.,False
+1258,C P G.,P has range T.,"Given the previous statements, is G a V?",No,G is not a V.,False
+1259,C T A.,T has range W.,"Given the previous statements, is A a K?",No,A is not a K.,False
+1260,C B E.,B has range R.,"Given the previous statements, is E a P?",No,E is not a P.,False
+1261,C H U.,H has range W.,"Given the previous statements, is U a F?",No,U is not a F.,False
+1262,C D K.,D has range T.,"Given the previous statements, is K a N?",No,K is not a N.,False
+1263,C Y M.,Y has range O.,"Given the previous statements, is M a D?",No,M is not a D.,False
+1264,C S U.,S has range B.,"Given the previous statements, is U a Q?",No,U is not a Q.,False
+1265,C L O.,L has range F.,"Given the previous statements, is O a W?",No,O is not a W.,False
+1266,C J Y.,J has range Z.,"Given the previous statements, is Y a M?",No,Y is not a M.,False
+1267,C J G.,J has range E.,"Given the previous statements, is G a H?",No,G is not a H.,False
+1268,C O R.,O has range W.,"Given the previous statements, is R a D?",No,R is not a D.,False
+1269,C P J.,P has range M.,"Given the previous statements, is J a I?",No,J is not a I.,False
+1270,C T Q.,T has range L.,"Given the previous statements, is Q a P?",No,Q is not a P.,False
+1271,C M Y.,M has range G.,"Given the previous statements, is Y a L?",No,Y is not a L.,False
+1272,C H Y.,H has range I.,"Given the previous statements, is Y a N?",No,Y is not a N.,False
+1273,C W N.,W has range S.,"Given the previous statements, is N a U?",No,N is not a U.,False
+1274,C B A.,B has range O.,"Given the previous statements, is A a F?",No,A is not a F.,False
+1275,C H L.,H has range W.,"Given the previous statements, is L a V?",No,L is not a V.,False
+1276,C Y D.,Y has range E.,"Given the previous statements, is D a S?",No,D is not a S.,False
+1277,C G M.,G has range K.,"Given the previous statements, is M a B?",No,M is not a B.,False
+1278,C B Q.,B has range A.,"Given the previous statements, is Q a L?",No,Q is not a L.,False
+1279,C A G.,A has range T.,"Given the previous statements, is G a L?",No,G is not a L.,False
+1280,C I W.,I has range M.,"Given the previous statements, is W a G?",No,W is not a G.,False
+1281,C L M.,L has range O.,"Given the previous statements, is M a N?",No,M is not a N.,False
+1282,C H B.,H has range K.,"Given the previous statements, is B a I?",No,B is not a I.,False
+1283,C J K.,J has range L.,"Given the previous statements, is K a B?",No,K is not a B.,False
+1284,C A M.,A has range V.,"Given the previous statements, is M a Q?",No,M is not a Q.,False
+1285,C E K.,E has range M.,"Given the previous statements, is K a V?",No,K is not a V.,False
+1286,C R P.,R has range M.,"Given the previous statements, is P a F?",No,P is not a F.,False
+1287,C G E.,G has range Z.,"Given the previous statements, is E a I?",No,E is not a I.,False
+1288,C W E.,W has range K.,"Given the previous statements, is E a X?",No,E is not a X.,False
+1289,C O J.,O has range S.,"Given the previous statements, is J a W?",No,J is not a W.,False
+1290,C Z K.,Z has range N.,"Given the previous statements, is K a Y?",No,K is not a Y.,False
+1291,C A F.,A has range B.,"Given the previous statements, is F a K?",No,F is not a K.,False
+1292,C S O.,S has range Y.,"Given the previous statements, is O a K?",No,O is not a K.,False
+1293,C D B.,D has range U.,"Given the previous statements, is B a Y?",No,B is not a Y.,False
+1294,C D Q.,D has range E.,"Given the previous statements, is Q a Z?",No,Q is not a Z.,False
+1295,C T R.,T has range B.,"Given the previous statements, is R a P?",No,R is not a P.,False
+1296,C Q R.,Q has range U.,"Given the previous statements, is R a K?",No,R is not a K.,False
+1297,C J P.,J has range B.,"Given the previous statements, is P a T?",No,P is not a T.,False
+1298,C G P.,G has range O.,"Given the previous statements, is P a M?",No,P is not a M.,False
+1299,C X Q.,X has range A.,"Given the previous statements, is Q a T?",No,Q is not a T.,False
+1300,C V K.,V has range Q.,"Given the previous statements, is K a O?",No,K is not a O.,False
+1301,D F H.,F has range R.,"Given the previous statements, is H a G?",No,H is not a G.,False
+1302,D F P.,F has range S.,"Given the previous statements, is P a T?",No,P is not a T.,False
+1303,D F Y.,F has range M.,"Given the previous statements, is Y a E?",No,Y is not a E.,False
+1304,D T X.,T has range Q.,"Given the previous statements, is X a W?",No,X is not a W.,False
+1305,D Q X.,Q has range F.,"Given the previous statements, is X a L?",No,X is not a L.,False
+1306,D G O.,G has range P.,"Given the previous statements, is O a V?",No,O is not a V.,False
+1307,D Y A.,Y has range X.,"Given the previous statements, is A a S?",No,A is not a S.,False
+1308,D P S.,P has range N.,"Given the previous statements, is S a A?",No,S is not a A.,False
+1309,D B R.,B has range I.,"Given the previous statements, is R a Z?",No,R is not a Z.,False
+1310,D N O.,N has range U.,"Given the previous statements, is O a L?",No,O is not a L.,False
+1311,D B F.,B has range W.,"Given the previous statements, is F a P?",No,F is not a P.,False
+1312,D R O.,R has range M.,"Given the previous statements, is O a Y?",No,O is not a Y.,False
+1313,D C H.,C has range M.,"Given the previous statements, is H a F?",No,H is not a F.,False
+1314,D A G.,A has range V.,"Given the previous statements, is G a C?",No,G is not a C.,False
+1315,D L C.,L has range X.,"Given the previous statements, is C a U?",No,C is not a U.,False
+1316,D K J.,K has range I.,"Given the previous statements, is J a F?",No,J is not a F.,False
+1317,D C B.,C has range U.,"Given the previous statements, is B a F?",No,B is not a F.,False
+1318,D Z X.,Z has range K.,"Given the previous statements, is X a E?",No,X is not a E.,False
+1319,D W Q.,W has range B.,"Given the previous statements, is Q a Y?",No,Q is not a Y.,False
+1320,D P J.,P has range X.,"Given the previous statements, is J a U?",No,J is not a U.,False
+1321,D K G.,K has range X.,"Given the previous statements, is G a A?",No,G is not a A.,False
+1322,D J Y.,J has range M.,"Given the previous statements, is Y a O?",No,Y is not a O.,False
+1323,D F M.,F has range K.,"Given the previous statements, is M a R?",No,M is not a R.,False
+1324,D J P.,J has range E.,"Given the previous statements, is P a H?",No,P is not a H.,False
+1325,D B C.,B has range Z.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1326,D L F.,L has range R.,"Given the previous statements, is F a J?",No,F is not a J.,False
+1327,D I J.,I has range Z.,"Given the previous statements, is J a R?",No,J is not a R.,False
+1328,D B O.,B has range W.,"Given the previous statements, is O a H?",No,O is not a H.,False
+1329,D S A.,S has range C.,"Given the previous statements, is A a W?",No,A is not a W.,False
+1330,D N W.,N has range C.,"Given the previous statements, is W a J?",No,W is not a J.,False
+1331,D Q B.,Q has range F.,"Given the previous statements, is B a A?",No,B is not a A.,False
+1332,D L X.,L has range Q.,"Given the previous statements, is X a P?",No,X is not a P.,False
+1333,D R M.,R has range U.,"Given the previous statements, is M a O?",No,M is not a O.,False
+1334,D A E.,A has range Q.,"Given the previous statements, is E a J?",No,E is not a J.,False
+1335,D U T.,U has range V.,"Given the previous statements, is T a W?",No,T is not a W.,False
+1336,D L K.,L has range U.,"Given the previous statements, is K a A?",No,K is not a A.,False
+1337,D Z O.,Z has range Q.,"Given the previous statements, is O a C?",No,O is not a C.,False
+1338,D O P.,O has range K.,"Given the previous statements, is P a C?",No,P is not a C.,False
+1339,D X Y.,X has range J.,"Given the previous statements, is Y a O?",No,Y is not a O.,False
+1340,D X Y.,X has range T.,"Given the previous statements, is Y a L?",No,Y is not a L.,False
+1341,D L S.,L has range J.,"Given the previous statements, is S a G?",No,S is not a G.,False
+1342,D Q I.,Q has range C.,"Given the previous statements, is I a A?",No,I is not a A.,False
+1343,D V W.,V has range F.,"Given the previous statements, is W a G?",No,W is not a G.,False
+1344,D Q F.,Q has range B.,"Given the previous statements, is F a U?",No,F is not a U.,False
+1345,D Y E.,Y has range J.,"Given the previous statements, is E a N?",No,E is not a N.,False
+1346,D W G.,W has range L.,"Given the previous statements, is G a T?",No,G is not a T.,False
+1347,D T E.,T has range U.,"Given the previous statements, is E a M?",No,E is not a M.,False
+1348,D P S.,P has range W.,"Given the previous statements, is S a Z?",No,S is not a Z.,False
+1349,D T M.,T has range H.,"Given the previous statements, is M a K?",No,M is not a K.,False
+1350,D A F.,A has range H.,"Given the previous statements, is F a Q?",No,F is not a Q.,False
+1351,D G S.,G has range O.,"Given the previous statements, is S a U?",No,S is not a U.,False
+1352,D S O.,S has range Q.,"Given the previous statements, is O a U?",No,O is not a U.,False
+1353,D T M.,T has range W.,"Given the previous statements, is M a F?",No,M is not a F.,False
+1354,D C T.,C has range Q.,"Given the previous statements, is T a I?",No,T is not a I.,False
+1355,D V Q.,V has range X.,"Given the previous statements, is Q a F?",No,Q is not a F.,False
+1356,D F O.,F has range P.,"Given the previous statements, is O a W?",No,O is not a W.,False
+1357,D P K.,P has range E.,"Given the previous statements, is K a O?",No,K is not a O.,False
+1358,D U X.,U has range M.,"Given the previous statements, is X a L?",No,X is not a L.,False
+1359,D L B.,L has range U.,"Given the previous statements, is B a O?",No,B is not a O.,False
+1360,D M P.,M has range I.,"Given the previous statements, is P a H?",No,P is not a H.,False
+1361,D N Z.,N has range Q.,"Given the previous statements, is Z a V?",No,Z is not a V.,False
+1362,D Z X.,Z has range I.,"Given the previous statements, is X a W?",No,X is not a W.,False
+1363,D N T.,N has range C.,"Given the previous statements, is T a Z?",No,T is not a Z.,False
+1364,D A E.,A has range K.,"Given the previous statements, is E a Z?",No,E is not a Z.,False
+1365,D Q X.,Q has range B.,"Given the previous statements, is X a L?",No,X is not a L.,False
+1366,D G C.,G has range B.,"Given the previous statements, is C a N?",No,C is not a N.,False
+1367,D J U.,J has range T.,"Given the previous statements, is U a P?",No,U is not a P.,False
+1368,D Q H.,Q has range A.,"Given the previous statements, is H a K?",No,H is not a K.,False
+1369,D W N.,W has range I.,"Given the previous statements, is N a G?",No,N is not a G.,False
+1370,D U I.,U has range Y.,"Given the previous statements, is I a F?",No,I is not a F.,False
+1371,D Y O.,Y has range H.,"Given the previous statements, is O a U?",No,O is not a U.,False
+1372,D B U.,B has range K.,"Given the previous statements, is U a X?",No,U is not a X.,False
+1373,D V Y.,V has range I.,"Given the previous statements, is Y a B?",No,Y is not a B.,False
+1374,D M V.,M has range B.,"Given the previous statements, is V a S?",No,V is not a S.,False
+1375,D F Y.,F has range R.,"Given the previous statements, is Y a E?",No,Y is not a E.,False
+1376,D Q P.,Q has range L.,"Given the previous statements, is P a N?",No,P is not a N.,False
+1377,D Q I.,Q has range P.,"Given the previous statements, is I a K?",No,I is not a K.,False
+1378,D E H.,E has range W.,"Given the previous statements, is H a Y?",No,H is not a Y.,False
+1379,D K A.,K has range O.,"Given the previous statements, is A a Q?",No,A is not a Q.,False
+1380,D U Y.,U has range W.,"Given the previous statements, is Y a R?",No,Y is not a R.,False
+1381,D Y O.,Y has range N.,"Given the previous statements, is O a J?",No,O is not a J.,False
+1382,D E L.,E has range B.,"Given the previous statements, is L a U?",No,L is not a U.,False
+1383,D R U.,R has range W.,"Given the previous statements, is U a T?",No,U is not a T.,False
+1384,D E B.,E has range U.,"Given the previous statements, is B a T?",No,B is not a T.,False
+1385,D H K.,H has range Q.,"Given the previous statements, is K a O?",No,K is not a O.,False
+1386,D J W.,J has range G.,"Given the previous statements, is W a Y?",No,W is not a Y.,False
+1387,D G O.,G has range A.,"Given the previous statements, is O a N?",No,O is not a N.,False
+1388,D U A.,U has range E.,"Given the previous statements, is A a N?",No,A is not a N.,False
+1389,D M X.,M has range L.,"Given the previous statements, is X a Q?",No,X is not a Q.,False
+1390,D H K.,H has range G.,"Given the previous statements, is K a E?",No,K is not a E.,False
+1391,D M Z.,M has range W.,"Given the previous statements, is Z a Q?",No,Z is not a Q.,False
+1392,D G Q.,G has range U.,"Given the previous statements, is Q a O?",No,Q is not a O.,False
+1393,D Z H.,Z has range S.,"Given the previous statements, is H a F?",No,H is not a F.,False
+1394,D Y I.,Y has range A.,"Given the previous statements, is I a S?",No,I is not a S.,False
+1395,D V Q.,V has range R.,"Given the previous statements, is Q a L?",No,Q is not a L.,False
+1396,D P N.,P has range M.,"Given the previous statements, is N a H?",No,N is not a H.,False
+1397,D W V.,W has range Z.,"Given the previous statements, is V a Q?",No,V is not a Q.,False
+1398,D L X.,L has range U.,"Given the previous statements, is X a Z?",No,X is not a Z.,False
+1399,D P Q.,P has range J.,"Given the previous statements, is Q a M?",No,Q is not a M.,False
+1400,D Y X.,Y has range M.,"Given the previous statements, is X a B?",No,X is not a B.,False
+1401,E K I.,K has range F.,"Given the previous statements, is I a C?",No,I is not a C.,False
+1402,E V C.,V has range G.,"Given the previous statements, is C a T?",No,C is not a T.,False
+1403,E Y I.,Y has range O.,"Given the previous statements, is I a K?",No,I is not a K.,False
+1404,E D N.,D has range W.,"Given the previous statements, is N a J?",No,N is not a J.,False
+1405,E M N.,M has range W.,"Given the previous statements, is N a S?",No,N is not a S.,False
+1406,E K F.,K has range J.,"Given the previous statements, is F a U?",No,F is not a U.,False
+1407,E I D.,I has range G.,"Given the previous statements, is D a R?",No,D is not a R.,False
+1408,E Z I.,Z has range N.,"Given the previous statements, is I a S?",No,I is not a S.,False
+1409,E H P.,H has range Q.,"Given the previous statements, is P a U?",No,P is not a U.,False
+1410,E X R.,X has range P.,"Given the previous statements, is R a W?",No,R is not a W.,False
+1411,E U V.,U has range R.,"Given the previous statements, is V a D?",No,V is not a D.,False
+1412,E I B.,I has range S.,"Given the previous statements, is B a J?",No,B is not a J.,False
+1413,E T K.,T has range J.,"Given the previous statements, is K a A?",No,K is not a A.,False
+1414,E F I.,F has range H.,"Given the previous statements, is I a A?",No,I is not a A.,False
+1415,E L P.,L has range Q.,"Given the previous statements, is P a U?",No,P is not a U.,False
+1416,E K Z.,K has range G.,"Given the previous statements, is Z a H?",No,Z is not a H.,False
+1417,E I M.,I has range C.,"Given the previous statements, is M a N?",No,M is not a N.,False
+1418,E V Z.,V has range W.,"Given the previous statements, is Z a T?",No,Z is not a T.,False
+1419,E A P.,A has range K.,"Given the previous statements, is P a R?",No,P is not a R.,False
+1420,E A S.,A has range U.,"Given the previous statements, is S a G?",No,S is not a G.,False
+1421,E F X.,F has range C.,"Given the previous statements, is X a K?",No,X is not a K.,False
+1422,E V F.,V has range N.,"Given the previous statements, is F a Y?",No,F is not a Y.,False
+1423,E T J.,T has range Q.,"Given the previous statements, is J a X?",No,J is not a X.,False
+1424,E J R.,J has range Q.,"Given the previous statements, is R a F?",No,R is not a F.,False
+1425,E Y O.,Y has range X.,"Given the previous statements, is O a W?",No,O is not a W.,False
+1426,E T H.,T has range V.,"Given the previous statements, is H a X?",No,H is not a X.,False
+1427,E M D.,M has range W.,"Given the previous statements, is D a L?",No,D is not a L.,False
+1428,E S O.,S has range N.,"Given the previous statements, is O a L?",No,O is not a L.,False
+1429,E N V.,N has range F.,"Given the previous statements, is V a Z?",No,V is not a Z.,False
+1430,E I Z.,I has range C.,"Given the previous statements, is Z a Q?",No,Z is not a Q.,False
+1431,E Z J.,Z has range D.,"Given the previous statements, is J a G?",No,J is not a G.,False
+1432,E X G.,X has range W.,"Given the previous statements, is G a O?",No,G is not a O.,False
+1433,E Y P.,Y has range H.,"Given the previous statements, is P a V?",No,P is not a V.,False
+1434,E W G.,W has range P.,"Given the previous statements, is G a M?",No,G is not a M.,False
+1435,E Z G.,Z has range V.,"Given the previous statements, is G a O?",No,G is not a O.,False
+1436,E B O.,B has range H.,"Given the previous statements, is O a R?",No,O is not a R.,False
+1437,E I N.,I has range O.,"Given the previous statements, is N a V?",No,N is not a V.,False
+1438,E S K.,S has range B.,"Given the previous statements, is K a U?",No,K is not a U.,False
+1439,E T V.,T has range A.,"Given the previous statements, is V a P?",No,V is not a P.,False
+1440,E P Z.,P has range V.,"Given the previous statements, is Z a W?",No,Z is not a W.,False
+1441,E I C.,I has range F.,"Given the previous statements, is C a U?",No,C is not a U.,False
+1442,E Q V.,Q has range Y.,"Given the previous statements, is V a L?",No,V is not a L.,False
+1443,E D O.,D has range V.,"Given the previous statements, is O a M?",No,O is not a M.,False
+1444,E L O.,L has range T.,"Given the previous statements, is O a K?",No,O is not a K.,False
+1445,E V M.,V has range R.,"Given the previous statements, is M a T?",No,M is not a T.,False
+1446,E C O.,C has range P.,"Given the previous statements, is O a T?",No,O is not a T.,False
+1447,E C M.,C has range O.,"Given the previous statements, is M a A?",No,M is not a A.,False
+1448,E B J.,B has range N.,"Given the previous statements, is J a K?",No,J is not a K.,False
+1449,E J G.,J has range L.,"Given the previous statements, is G a W?",No,G is not a W.,False
+1450,E N V.,N has range I.,"Given the previous statements, is V a Y?",No,V is not a Y.,False
+1451,E D J.,D has range U.,"Given the previous statements, is J a K?",No,J is not a K.,False
+1452,E P M.,P has range D.,"Given the previous statements, is M a I?",No,M is not a I.,False
+1453,E J D.,J has range F.,"Given the previous statements, is D a Z?",No,D is not a Z.,False
+1454,E T L.,T has range W.,"Given the previous statements, is L a R?",No,L is not a R.,False
+1455,E S H.,S has range R.,"Given the previous statements, is H a P?",No,H is not a P.,False
+1456,E C U.,C has range K.,"Given the previous statements, is U a M?",No,U is not a M.,False
+1457,E I U.,I has range L.,"Given the previous statements, is U a N?",No,U is not a N.,False
+1458,E I M.,I has range B.,"Given the previous statements, is M a S?",No,M is not a S.,False
+1459,E H O.,H has range K.,"Given the previous statements, is O a Q?",No,O is not a Q.,False
+1460,E A V.,A has range R.,"Given the previous statements, is V a K?",No,V is not a K.,False
+1461,E Y V.,Y has range F.,"Given the previous statements, is V a D?",No,V is not a D.,False
+1462,E Q V.,Q has range G.,"Given the previous statements, is V a S?",No,V is not a S.,False
+1463,E Y O.,Y has range K.,"Given the previous statements, is O a X?",No,O is not a X.,False
+1464,E H A.,H has range K.,"Given the previous statements, is A a S?",No,A is not a S.,False
+1465,E T P.,T has range M.,"Given the previous statements, is P a X?",No,P is not a X.,False
+1466,E X G.,X has range H.,"Given the previous statements, is G a V?",No,G is not a V.,False
+1467,E X V.,X has range K.,"Given the previous statements, is V a B?",No,V is not a B.,False
+1468,E Z F.,Z has range X.,"Given the previous statements, is F a I?",No,F is not a I.,False
+1469,E N Y.,N has range G.,"Given the previous statements, is Y a D?",No,Y is not a D.,False
+1470,E N A.,N has range Y.,"Given the previous statements, is A a K?",No,A is not a K.,False
+1471,E W D.,W has range P.,"Given the previous statements, is D a L?",No,D is not a L.,False
+1472,E R J.,R has range S.,"Given the previous statements, is J a F?",No,J is not a F.,False
+1473,E S K.,S has range O.,"Given the previous statements, is K a F?",No,K is not a F.,False
+1474,E P F.,P has range U.,"Given the previous statements, is F a A?",No,F is not a A.,False
+1475,E O C.,O has range R.,"Given the previous statements, is C a I?",No,C is not a I.,False
+1476,E F C.,F has range H.,"Given the previous statements, is C a R?",No,C is not a R.,False
+1477,E R U.,R has range C.,"Given the previous statements, is U a H?",No,U is not a H.,False
+1478,E A X.,A has range F.,"Given the previous statements, is X a Z?",No,X is not a Z.,False
+1479,E T Z.,T has range I.,"Given the previous statements, is Z a X?",No,Z is not a X.,False
+1480,E B K.,B has range J.,"Given the previous statements, is K a L?",No,K is not a L.,False
+1481,E T K.,T has range W.,"Given the previous statements, is K a P?",No,K is not a P.,False
+1482,E F V.,F has range T.,"Given the previous statements, is V a I?",No,V is not a I.,False
+1483,E W Z.,W has range A.,"Given the previous statements, is Z a R?",No,Z is not a R.,False
+1484,E R G.,R has range X.,"Given the previous statements, is G a S?",No,G is not a S.,False
+1485,E B G.,B has range J.,"Given the previous statements, is G a N?",No,G is not a N.,False
+1486,E D W.,D has range Q.,"Given the previous statements, is W a V?",No,W is not a V.,False
+1487,E L T.,L has range A.,"Given the previous statements, is T a U?",No,T is not a U.,False
+1488,E J G.,J has range L.,"Given the previous statements, is G a A?",No,G is not a A.,False
+1489,E A M.,A has range I.,"Given the previous statements, is M a K?",No,M is not a K.,False
+1490,E R G.,R has range K.,"Given the previous statements, is G a U?",No,G is not a U.,False
+1491,E O R.,O has range F.,"Given the previous statements, is R a I?",No,R is not a I.,False
+1492,E B Q.,B has range C.,"Given the previous statements, is Q a X?",No,Q is not a X.,False
+1493,E F H.,F has range A.,"Given the previous statements, is H a X?",No,H is not a X.,False
+1494,E J Q.,J has range N.,"Given the previous statements, is Q a O?",No,Q is not a O.,False
+1495,E U W.,U has range O.,"Given the previous statements, is W a F?",No,W is not a F.,False
+1496,E H A.,H has range Y.,"Given the previous statements, is A a V?",No,A is not a V.,False
+1497,E K Z.,K has range J.,"Given the previous statements, is Z a W?",No,Z is not a W.,False
+1498,E S K.,S has range O.,"Given the previous statements, is K a X?",No,K is not a X.,False
+1499,E L I.,L has range V.,"Given the previous statements, is I a J?",No,I is not a J.,False
+1500,E M V.,M has range U.,"Given the previous statements, is V a O?",No,V is not a O.,False
+1501,F O K.,O has range X.,"Given the previous statements, is K a G?",No,K is not a G.,False
+1502,F Z T.,Z has range G.,"Given the previous statements, is T a X?",No,T is not a X.,False
+1503,F T Q.,T has range P.,"Given the previous statements, is Q a M?",No,Q is not a M.,False
+1504,F I O.,I has range V.,"Given the previous statements, is O a T?",No,O is not a T.,False
+1505,F Z Y.,Z has range R.,"Given the previous statements, is Y a M?",No,Y is not a M.,False
+1506,F Y Z.,Y has range A.,"Given the previous statements, is Z a K?",No,Z is not a K.,False
+1507,F X U.,X has range A.,"Given the previous statements, is U a J?",No,U is not a J.,False
+1508,F V B.,V has range S.,"Given the previous statements, is B a M?",No,B is not a M.,False
+1509,F J Z.,J has range E.,"Given the previous statements, is Z a K?",No,Z is not a K.,False
+1510,F J C.,J has range L.,"Given the previous statements, is C a T?",No,C is not a T.,False
+1511,F Q L.,Q has range J.,"Given the previous statements, is L a Y?",No,L is not a Y.,False
+1512,F N I.,N has range R.,"Given the previous statements, is I a K?",No,I is not a K.,False
+1513,F J O.,J has range U.,"Given the previous statements, is O a A?",No,O is not a A.,False
+1514,F H L.,H has range I.,"Given the previous statements, is L a W?",No,L is not a W.,False
+1515,F S P.,S has range V.,"Given the previous statements, is P a Z?",No,P is not a Z.,False
+1516,F N X.,N has range W.,"Given the previous statements, is X a Q?",No,X is not a Q.,False
+1517,F Q T.,Q has range A.,"Given the previous statements, is T a G?",No,T is not a G.,False
+1518,F E W.,E has range J.,"Given the previous statements, is W a G?",No,W is not a G.,False
+1519,F N T.,N has range Z.,"Given the previous statements, is T a A?",No,T is not a A.,False
+1520,F W L.,W has range B.,"Given the previous statements, is L a Q?",No,L is not a Q.,False
+1521,F D N.,D has range I.,"Given the previous statements, is N a R?",No,N is not a R.,False
+1522,F U L.,U has range S.,"Given the previous statements, is L a T?",No,L is not a T.,False
+1523,F S I.,S has range J.,"Given the previous statements, is I a Q?",No,I is not a Q.,False
+1524,F W S.,W has range N.,"Given the previous statements, is S a A?",No,S is not a A.,False
+1525,F U H.,U has range O.,"Given the previous statements, is H a E?",No,H is not a E.,False
+1526,F P I.,P has range A.,"Given the previous statements, is I a W?",No,I is not a W.,False
+1527,F U A.,U has range V.,"Given the previous statements, is A a R?",No,A is not a R.,False
+1528,F H S.,H has range O.,"Given the previous statements, is S a V?",No,S is not a V.,False
+1529,F W C.,W has range N.,"Given the previous statements, is C a O?",No,C is not a O.,False
+1530,F U X.,U has range P.,"Given the previous statements, is X a J?",No,X is not a J.,False
+1531,F Q P.,Q has range L.,"Given the previous statements, is P a C?",No,P is not a C.,False
+1532,F O Q.,O has range M.,"Given the previous statements, is Q a X?",No,Q is not a X.,False
+1533,F M L.,M has range T.,"Given the previous statements, is L a E?",No,L is not a E.,False
+1534,F V C.,V has range E.,"Given the previous statements, is C a O?",No,C is not a O.,False
+1535,F D M.,D has range L.,"Given the previous statements, is M a Y?",No,M is not a Y.,False
+1536,F X C.,X has range O.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1537,F X H.,X has range L.,"Given the previous statements, is H a Z?",No,H is not a Z.,False
+1538,F Z S.,Z has range B.,"Given the previous statements, is S a P?",No,S is not a P.,False
+1539,F X I.,X has range H.,"Given the previous statements, is I a V?",No,I is not a V.,False
+1540,F U A.,U has range S.,"Given the previous statements, is A a X?",No,A is not a X.,False
+1541,F Q Z.,Q has range Y.,"Given the previous statements, is Z a E?",No,Z is not a E.,False
+1542,F S X.,S has range J.,"Given the previous statements, is X a B?",No,X is not a B.,False
+1543,F V D.,V has range R.,"Given the previous statements, is D a J?",No,D is not a J.,False
+1544,F Y S.,Y has range X.,"Given the previous statements, is S a O?",No,S is not a O.,False
+1545,F K T.,K has range U.,"Given the previous statements, is T a W?",No,T is not a W.,False
+1546,F E T.,E has range V.,"Given the previous statements, is T a J?",No,T is not a J.,False
+1547,F W J.,W has range K.,"Given the previous statements, is J a X?",No,J is not a X.,False
+1548,F B U.,B has range C.,"Given the previous statements, is U a S?",No,U is not a S.,False
+1549,F D P.,D has range A.,"Given the previous statements, is P a K?",No,P is not a K.,False
+1550,F N Y.,N has range B.,"Given the previous statements, is Y a G?",No,Y is not a G.,False
+1551,F D V.,D has range S.,"Given the previous statements, is V a W?",No,V is not a W.,False
+1552,F N C.,N has range A.,"Given the previous statements, is C a P?",No,C is not a P.,False
+1553,F X Y.,X has range R.,"Given the previous statements, is Y a A?",No,Y is not a A.,False
+1554,F G I.,G has range J.,"Given the previous statements, is I a E?",No,I is not a E.,False
+1555,F O B.,O has range P.,"Given the previous statements, is B a M?",No,B is not a M.,False
+1556,F V B.,V has range H.,"Given the previous statements, is B a E?",No,B is not a E.,False
+1557,F W E.,W has range K.,"Given the previous statements, is E a N?",No,E is not a N.,False
+1558,F V Z.,V has range P.,"Given the previous statements, is Z a S?",No,Z is not a S.,False
+1559,F L D.,L has range I.,"Given the previous statements, is D a G?",No,D is not a G.,False
+1560,F Y A.,Y has range D.,"Given the previous statements, is A a V?",No,A is not a V.,False
+1561,F R T.,R has range K.,"Given the previous statements, is T a S?",No,T is not a S.,False
+1562,F D A.,D has range G.,"Given the previous statements, is A a M?",No,A is not a M.,False
+1563,F E I.,E has range O.,"Given the previous statements, is I a D?",No,I is not a D.,False
+1564,F H Q.,H has range O.,"Given the previous statements, is Q a Y?",No,Q is not a Y.,False
+1565,F A J.,A has range R.,"Given the previous statements, is J a Q?",No,J is not a Q.,False
+1566,F Z L.,Z has range D.,"Given the previous statements, is L a J?",No,L is not a J.,False
+1567,F V T.,V has range W.,"Given the previous statements, is T a L?",No,T is not a L.,False
+1568,F S V.,S has range Q.,"Given the previous statements, is V a N?",No,V is not a N.,False
+1569,F N Z.,N has range E.,"Given the previous statements, is Z a L?",No,Z is not a L.,False
+1570,F X Q.,X has range S.,"Given the previous statements, is Q a I?",No,Q is not a I.,False
+1571,F R C.,R has range P.,"Given the previous statements, is C a I?",No,C is not a I.,False
+1572,F U L.,U has range H.,"Given the previous statements, is L a Y?",No,L is not a Y.,False
+1573,F L K.,L has range A.,"Given the previous statements, is K a H?",No,K is not a H.,False
+1574,F A X.,A has range G.,"Given the previous statements, is X a E?",No,X is not a E.,False
+1575,F W U.,W has range Y.,"Given the previous statements, is U a A?",No,U is not a A.,False
+1576,F X R.,X has range S.,"Given the previous statements, is R a Q?",No,R is not a Q.,False
+1577,F U Y.,U has range T.,"Given the previous statements, is Y a E?",No,Y is not a E.,False
+1578,F O N.,O has range M.,"Given the previous statements, is N a L?",No,N is not a L.,False
+1579,F W T.,W has range I.,"Given the previous statements, is T a A?",No,T is not a A.,False
+1580,F S A.,S has range P.,"Given the previous statements, is A a C?",No,A is not a C.,False
+1581,F X U.,X has range B.,"Given the previous statements, is U a K?",No,U is not a K.,False
+1582,F M C.,M has range D.,"Given the previous statements, is C a J?",No,C is not a J.,False
+1583,F M N.,M has range T.,"Given the previous statements, is N a P?",No,N is not a P.,False
+1584,F R I.,R has range C.,"Given the previous statements, is I a D?",No,I is not a D.,False
+1585,F R E.,R has range G.,"Given the previous statements, is E a N?",No,E is not a N.,False
+1586,F T M.,T has range K.,"Given the previous statements, is M a H?",No,M is not a H.,False
+1587,F B J.,B has range R.,"Given the previous statements, is J a W?",No,J is not a W.,False
+1588,F V C.,V has range Z.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1589,F J R.,J has range Z.,"Given the previous statements, is R a I?",No,R is not a I.,False
+1590,F C B.,C has range Y.,"Given the previous statements, is B a S?",No,B is not a S.,False
+1591,F Q U.,Q has range T.,"Given the previous statements, is U a B?",No,U is not a B.,False
+1592,F O Z.,O has range N.,"Given the previous statements, is Z a T?",No,Z is not a T.,False
+1593,F K Q.,K has range G.,"Given the previous statements, is Q a R?",No,Q is not a R.,False
+1594,F K C.,K has range T.,"Given the previous statements, is C a Z?",No,C is not a Z.,False
+1595,F E Z.,E has range Y.,"Given the previous statements, is Z a K?",No,Z is not a K.,False
+1596,F L A.,L has range V.,"Given the previous statements, is A a C?",No,A is not a C.,False
+1597,F R G.,R has range N.,"Given the previous statements, is G a Z?",No,G is not a Z.,False
+1598,F X D.,X has range H.,"Given the previous statements, is D a A?",No,D is not a A.,False
+1599,F Y J.,Y has range N.,"Given the previous statements, is J a Z?",No,J is not a Z.,False
+1600,F D E.,D has range H.,"Given the previous statements, is E a Y?",No,E is not a Y.,False
+1601,G B U.,B has range L.,"Given the previous statements, is U a Y?",No,U is not a Y.,False
+1602,G O M.,O has range X.,"Given the previous statements, is M a C?",No,M is not a C.,False
+1603,G L K.,L has range S.,"Given the previous statements, is K a R?",No,K is not a R.,False
+1604,G H X.,H has range V.,"Given the previous statements, is X a F?",No,X is not a F.,False
+1605,G H A.,H has range O.,"Given the previous statements, is A a B?",No,A is not a B.,False
+1606,G H K.,H has range B.,"Given the previous statements, is K a X?",No,K is not a X.,False
+1607,G B J.,B has range Z.,"Given the previous statements, is J a M?",No,J is not a M.,False
+1608,G Q A.,Q has range R.,"Given the previous statements, is A a S?",No,A is not a S.,False
+1609,G S C.,S has range Y.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1610,G Z I.,Z has range K.,"Given the previous statements, is I a L?",No,I is not a L.,False
+1611,G T P.,T has range R.,"Given the previous statements, is P a N?",No,P is not a N.,False
+1612,G P K.,P has range X.,"Given the previous statements, is K a Q?",No,K is not a Q.,False
+1613,G V K.,V has range R.,"Given the previous statements, is K a Y?",No,K is not a Y.,False
+1614,G I S.,I has range X.,"Given the previous statements, is S a D?",No,S is not a D.,False
+1615,G B U.,B has range A.,"Given the previous statements, is U a Y?",No,U is not a Y.,False
+1616,G P J.,P has range X.,"Given the previous statements, is J a Q?",No,J is not a Q.,False
+1617,G E I.,E has range P.,"Given the previous statements, is I a W?",No,I is not a W.,False
+1618,G Q B.,Q has range D.,"Given the previous statements, is B a Y?",No,B is not a Y.,False
+1619,G D J.,D has range O.,"Given the previous statements, is J a T?",No,J is not a T.,False
+1620,G U R.,U has range X.,"Given the previous statements, is R a W?",No,R is not a W.,False
+1621,G M H.,M has range E.,"Given the previous statements, is H a K?",No,H is not a K.,False
+1622,G N I.,N has range K.,"Given the previous statements, is I a H?",No,I is not a H.,False
+1623,G Y M.,Y has range Z.,"Given the previous statements, is M a K?",No,M is not a K.,False
+1624,G C D.,C has range N.,"Given the previous statements, is D a T?",No,D is not a T.,False
+1625,G A O.,A has range C.,"Given the previous statements, is O a R?",No,O is not a R.,False
+1626,G U N.,U has range Q.,"Given the previous statements, is N a T?",No,N is not a T.,False
+1627,G P T.,P has range Z.,"Given the previous statements, is T a E?",No,T is not a E.,False
+1628,G L B.,L has range F.,"Given the previous statements, is B a Z?",No,B is not a Z.,False
+1629,G L I.,L has range X.,"Given the previous statements, is I a R?",No,I is not a R.,False
+1630,G Q C.,Q has range P.,"Given the previous statements, is C a D?",No,C is not a D.,False
+1631,G M F.,M has range L.,"Given the previous statements, is F a V?",No,F is not a V.,False
+1632,G O E.,O has range H.,"Given the previous statements, is E a W?",No,E is not a W.,False
+1633,G A K.,A has range M.,"Given the previous statements, is K a O?",No,K is not a O.,False
+1634,G Y E.,Y has range F.,"Given the previous statements, is E a O?",No,E is not a O.,False
+1635,G E S.,E has range K.,"Given the previous statements, is S a Y?",No,S is not a Y.,False
+1636,G I P.,I has range F.,"Given the previous statements, is P a O?",No,P is not a O.,False
+1637,G S K.,S has range P.,"Given the previous statements, is K a Y?",No,K is not a Y.,False
+1638,G Q I.,Q has range E.,"Given the previous statements, is I a M?",No,I is not a M.,False
+1639,G B I.,B has range M.,"Given the previous statements, is I a H?",No,I is not a H.,False
+1640,G M N.,M has range C.,"Given the previous statements, is N a Z?",No,N is not a Z.,False
+1641,G J P.,J has range B.,"Given the previous statements, is P a H?",No,P is not a H.,False
+1642,G J Y.,J has range E.,"Given the previous statements, is Y a T?",No,Y is not a T.,False
+1643,G I U.,I has range M.,"Given the previous statements, is U a S?",No,U is not a S.,False
+1644,G U A.,U has range B.,"Given the previous statements, is A a Z?",No,A is not a Z.,False
+1645,G H R.,H has range U.,"Given the previous statements, is R a P?",No,R is not a P.,False
+1646,G I F.,I has range C.,"Given the previous statements, is F a E?",No,F is not a E.,False
+1647,G O X.,O has range U.,"Given the previous statements, is X a F?",No,X is not a F.,False
+1648,G N K.,N has range V.,"Given the previous statements, is K a J?",No,K is not a J.,False
+1649,G N S.,N has range E.,"Given the previous statements, is S a A?",No,S is not a A.,False
+1650,G W N.,W has range J.,"Given the previous statements, is N a C?",No,N is not a C.,False
+1651,G N Y.,N has range K.,"Given the previous statements, is Y a M?",No,Y is not a M.,False
+1652,G P N.,P has range K.,"Given the previous statements, is N a C?",No,N is not a C.,False
+1653,G I R.,I has range B.,"Given the previous statements, is R a D?",No,R is not a D.,False
+1654,G B U.,B has range W.,"Given the previous statements, is U a P?",No,U is not a P.,False
+1655,G J Q.,J has range M.,"Given the previous statements, is Q a X?",No,Q is not a X.,False
+1656,G P Q.,P has range U.,"Given the previous statements, is Q a Z?",No,Q is not a Z.,False
+1657,G X P.,X has range E.,"Given the previous statements, is P a W?",No,P is not a W.,False
+1658,G R T.,R has range M.,"Given the previous statements, is T a V?",No,T is not a V.,False
+1659,G M L.,M has range R.,"Given the previous statements, is L a A?",No,L is not a A.,False
+1660,G H L.,H has range D.,"Given the previous statements, is L a M?",No,L is not a M.,False
+1661,G L O.,L has range D.,"Given the previous statements, is O a Y?",No,O is not a Y.,False
+1662,G O V.,O has range Y.,"Given the previous statements, is V a W?",No,V is not a W.,False
+1663,G K U.,K has range A.,"Given the previous statements, is U a R?",No,U is not a R.,False
+1664,G V A.,V has range O.,"Given the previous statements, is A a E?",No,A is not a E.,False
+1665,G U N.,U has range P.,"Given the previous statements, is N a C?",No,N is not a C.,False
+1666,G M X.,M has range V.,"Given the previous statements, is X a Q?",No,X is not a Q.,False
+1667,G U K.,U has range R.,"Given the previous statements, is K a F?",No,K is not a F.,False
+1668,G N I.,N has range L.,"Given the previous statements, is I a K?",No,I is not a K.,False
+1669,G B O.,B has range N.,"Given the previous statements, is O a J?",No,O is not a J.,False
+1670,G M O.,M has range R.,"Given the previous statements, is O a P?",No,O is not a P.,False
+1671,G A C.,A has range J.,"Given the previous statements, is C a M?",No,C is not a M.,False
+1672,G N S.,N has range W.,"Given the previous statements, is S a U?",No,S is not a U.,False
+1673,G R M.,R has range A.,"Given the previous statements, is M a B?",No,M is not a B.,False
+1674,G V J.,V has range C.,"Given the previous statements, is J a Q?",No,J is not a Q.,False
+1675,G N R.,N has range A.,"Given the previous statements, is R a U?",No,R is not a U.,False
+1676,G J S.,J has range O.,"Given the previous statements, is S a P?",No,S is not a P.,False
+1677,G U E.,U has range D.,"Given the previous statements, is E a K?",No,E is not a K.,False
+1678,G U Z.,U has range H.,"Given the previous statements, is Z a O?",No,Z is not a O.,False
+1679,G F Y.,F has range H.,"Given the previous statements, is Y a W?",No,Y is not a W.,False
+1680,G F S.,F has range I.,"Given the previous statements, is S a R?",No,S is not a R.,False
+1681,G V N.,V has range C.,"Given the previous statements, is N a X?",No,N is not a X.,False
+1682,G R F.,R has range U.,"Given the previous statements, is F a A?",No,F is not a A.,False
+1683,G S K.,S has range Y.,"Given the previous statements, is K a F?",No,K is not a F.,False
+1684,G A T.,A has range V.,"Given the previous statements, is T a H?",No,T is not a H.,False
+1685,G A U.,A has range X.,"Given the previous statements, is U a C?",No,U is not a C.,False
+1686,G M X.,M has range A.,"Given the previous statements, is X a H?",No,X is not a H.,False
+1687,G V W.,V has range F.,"Given the previous statements, is W a C?",No,W is not a C.,False
+1688,G Y O.,Y has range S.,"Given the previous statements, is O a M?",No,O is not a M.,False
+1689,G S X.,S has range F.,"Given the previous statements, is X a R?",No,X is not a R.,False
+1690,G E K.,E has range J.,"Given the previous statements, is K a W?",No,K is not a W.,False
+1691,G H B.,H has range J.,"Given the previous statements, is B a L?",No,B is not a L.,False
+1692,G P T.,P has range U.,"Given the previous statements, is T a Z?",No,T is not a Z.,False
+1693,G A C.,A has range R.,"Given the previous statements, is C a U?",No,C is not a U.,False
+1694,G R X.,R has range D.,"Given the previous statements, is X a M?",No,X is not a M.,False
+1695,G E Z.,E has range V.,"Given the previous statements, is Z a A?",No,Z is not a A.,False
+1696,G V H.,V has range N.,"Given the previous statements, is H a T?",No,H is not a T.,False
+1697,G D N.,D has range B.,"Given the previous statements, is N a X?",No,N is not a X.,False
+1698,G C W.,C has range Z.,"Given the previous statements, is W a K?",No,W is not a K.,False
+1699,G Q N.,Q has range U.,"Given the previous statements, is N a I?",No,N is not a I.,False
+1700,G B Z.,B has range X.,"Given the previous statements, is Z a Q?",No,Z is not a Q.,False
+1701,H E F.,E has range D.,"Given the previous statements, is F a T?",No,F is not a T.,False
+1702,H J Q.,J has range C.,"Given the previous statements, is Q a O?",No,Q is not a O.,False
+1703,H I Q.,I has range P.,"Given the previous statements, is Q a S?",No,Q is not a S.,False
+1704,H C S.,C has range Q.,"Given the previous statements, is S a T?",No,S is not a T.,False
+1705,H A S.,A has range P.,"Given the previous statements, is S a O?",No,S is not a O.,False
+1706,H O A.,O has range D.,"Given the previous statements, is A a W?",No,A is not a W.,False
+1707,H W S.,W has range Y.,"Given the previous statements, is S a Q?",No,S is not a Q.,False
+1708,H M X.,M has range G.,"Given the previous statements, is X a A?",No,X is not a A.,False
+1709,H J Z.,J has range L.,"Given the previous statements, is Z a M?",No,Z is not a M.,False
+1710,H M G.,M has range C.,"Given the previous statements, is G a A?",No,G is not a A.,False
+1711,H Y M.,Y has range I.,"Given the previous statements, is M a D?",No,M is not a D.,False
+1712,H A M.,A has range J.,"Given the previous statements, is M a U?",No,M is not a U.,False
+1713,H J F.,J has range V.,"Given the previous statements, is F a S?",No,F is not a S.,False
+1714,H R D.,R has range S.,"Given the previous statements, is D a I?",No,D is not a I.,False
+1715,H W R.,W has range E.,"Given the previous statements, is R a X?",No,R is not a X.,False
+1716,H E I.,E has range T.,"Given the previous statements, is I a D?",No,I is not a D.,False
+1717,H F P.,F has range I.,"Given the previous statements, is P a D?",No,P is not a D.,False
+1718,H Q G.,Q has range R.,"Given the previous statements, is G a K?",No,G is not a K.,False
+1719,H M B.,M has range O.,"Given the previous statements, is B a J?",No,B is not a J.,False
+1720,H O S.,O has range D.,"Given the previous statements, is S a R?",No,S is not a R.,False
+1721,H D N.,D has range Y.,"Given the previous statements, is N a K?",No,N is not a K.,False
+1722,H B Q.,B has range X.,"Given the previous statements, is Q a F?",No,Q is not a F.,False
+1723,H F Q.,F has range G.,"Given the previous statements, is Q a J?",No,Q is not a J.,False
+1724,H A N.,A has range J.,"Given the previous statements, is N a U?",No,N is not a U.,False
+1725,H A R.,A has range L.,"Given the previous statements, is R a M?",No,R is not a M.,False
+1726,H A C.,A has range Y.,"Given the previous statements, is C a O?",No,C is not a O.,False
+1727,H U M.,U has range R.,"Given the previous statements, is M a D?",No,M is not a D.,False
+1728,H D G.,D has range F.,"Given the previous statements, is G a K?",No,G is not a K.,False
+1729,H I D.,I has range J.,"Given the previous statements, is D a G?",No,D is not a G.,False
+1730,H Z F.,Z has range Y.,"Given the previous statements, is F a C?",No,F is not a C.,False
+1731,H O Y.,O has range V.,"Given the previous statements, is Y a J?",No,Y is not a J.,False
+1732,H T W.,T has range N.,"Given the previous statements, is W a B?",No,W is not a B.,False
+1733,H M X.,M has range B.,"Given the previous statements, is X a P?",No,X is not a P.,False
+1734,H L U.,L has range S.,"Given the previous statements, is U a M?",No,U is not a M.,False
+1735,H Z Q.,Z has range T.,"Given the previous statements, is Q a O?",No,Q is not a O.,False
+1736,H N Q.,N has range I.,"Given the previous statements, is Q a F?",No,Q is not a F.,False
+1737,H X C.,X has range N.,"Given the previous statements, is C a G?",No,C is not a G.,False
+1738,H T U.,T has range S.,"Given the previous statements, is U a K?",No,U is not a K.,False
+1739,H A V.,A has range Z.,"Given the previous statements, is V a R?",No,V is not a R.,False
+1740,H Y L.,Y has range R.,"Given the previous statements, is L a U?",No,L is not a U.,False
+1741,H J U.,J has range C.,"Given the previous statements, is U a I?",No,U is not a I.,False
+1742,H C K.,C has range X.,"Given the previous statements, is K a R?",No,K is not a R.,False
+1743,H U V.,U has range J.,"Given the previous statements, is V a P?",No,V is not a P.,False
+1744,H D P.,D has range Q.,"Given the previous statements, is P a J?",No,P is not a J.,False
+1745,H Q U.,Q has range G.,"Given the previous statements, is U a B?",No,U is not a B.,False
+1746,H G X.,G has range N.,"Given the previous statements, is X a C?",No,X is not a C.,False
+1747,H D O.,D has range U.,"Given the previous statements, is O a V?",No,O is not a V.,False
+1748,H Y C.,Y has range S.,"Given the previous statements, is C a O?",No,C is not a O.,False
+1749,H A E.,A has range D.,"Given the previous statements, is E a C?",No,E is not a C.,False
+1750,H B T.,B has range G.,"Given the previous statements, is T a M?",No,T is not a M.,False
+1751,H O D.,O has range P.,"Given the previous statements, is D a Q?",No,D is not a Q.,False
+1752,H R S.,R has range E.,"Given the previous statements, is S a I?",No,S is not a I.,False
+1753,H I X.,I has range T.,"Given the previous statements, is X a U?",No,X is not a U.,False
+1754,H A S.,A has range O.,"Given the previous statements, is S a X?",No,S is not a X.,False
+1755,H A W.,A has range O.,"Given the previous statements, is W a B?",No,W is not a B.,False
+1756,H M R.,M has range W.,"Given the previous statements, is R a V?",No,R is not a V.,False
+1757,H F M.,F has range B.,"Given the previous statements, is M a Q?",No,M is not a Q.,False
+1758,H W I.,W has range Q.,"Given the previous statements, is I a F?",No,I is not a F.,False
+1759,H U I.,U has range T.,"Given the previous statements, is I a A?",No,I is not a A.,False
+1760,H Q Y.,Q has range J.,"Given the previous statements, is Y a A?",No,Y is not a A.,False
+1761,H O K.,O has range U.,"Given the previous statements, is K a L?",No,K is not a L.,False
+1762,H Y Z.,Y has range X.,"Given the previous statements, is Z a K?",No,Z is not a K.,False
+1763,H Q S.,Q has range R.,"Given the previous statements, is S a W?",No,S is not a W.,False
+1764,H S Q.,S has range A.,"Given the previous statements, is Q a I?",No,Q is not a I.,False
+1765,H C E.,C has range K.,"Given the previous statements, is E a Z?",No,E is not a Z.,False
+1766,H I V.,I has range B.,"Given the previous statements, is V a J?",No,V is not a J.,False
+1767,H T W.,T has range F.,"Given the previous statements, is W a B?",No,W is not a B.,False
+1768,H Z E.,Z has range J.,"Given the previous statements, is E a N?",No,E is not a N.,False
+1769,H N D.,N has range G.,"Given the previous statements, is D a M?",No,D is not a M.,False
+1770,H G K.,G has range S.,"Given the previous statements, is K a M?",No,K is not a M.,False
+1771,H T U.,T has range I.,"Given the previous statements, is U a P?",No,U is not a P.,False
+1772,H K R.,K has range Y.,"Given the previous statements, is R a F?",No,R is not a F.,False
+1773,H C S.,C has range R.,"Given the previous statements, is S a D?",No,S is not a D.,False
+1774,H Y S.,Y has range T.,"Given the previous statements, is S a V?",No,S is not a V.,False
+1775,H U I.,U has range D.,"Given the previous statements, is I a Z?",No,I is not a Z.,False
+1776,H N U.,N has range B.,"Given the previous statements, is U a D?",No,U is not a D.,False
+1777,H J X.,J has range D.,"Given the previous statements, is X a R?",No,X is not a R.,False
+1778,H C T.,C has range U.,"Given the previous statements, is T a K?",No,T is not a K.,False
+1779,H B V.,B has range Z.,"Given the previous statements, is V a F?",No,V is not a F.,False
+1780,H C A.,C has range K.,"Given the previous statements, is A a O?",No,A is not a O.,False
+1781,H T D.,T has range S.,"Given the previous statements, is D a I?",No,D is not a I.,False
+1782,H A O.,A has range B.,"Given the previous statements, is O a P?",No,O is not a P.,False
+1783,H R N.,R has range V.,"Given the previous statements, is N a T?",No,N is not a T.,False
+1784,H A Q.,A has range M.,"Given the previous statements, is Q a W?",No,Q is not a W.,False
+1785,H L Q.,L has range V.,"Given the previous statements, is Q a K?",No,Q is not a K.,False
+1786,H D W.,D has range G.,"Given the previous statements, is W a F?",No,W is not a F.,False
+1787,H L Y.,L has range G.,"Given the previous statements, is Y a U?",No,Y is not a U.,False
+1788,H A W.,A has range D.,"Given the previous statements, is W a Z?",No,W is not a Z.,False
+1789,H R J.,R has range N.,"Given the previous statements, is J a A?",No,J is not a A.,False
+1790,H X N.,X has range V.,"Given the previous statements, is N a Q?",No,N is not a Q.,False
+1791,H Q K.,Q has range F.,"Given the previous statements, is K a T?",No,K is not a T.,False
+1792,H N B.,N has range I.,"Given the previous statements, is B a M?",No,B is not a M.,False
+1793,H T S.,T has range D.,"Given the previous statements, is S a J?",No,S is not a J.,False
+1794,H G Z.,G has range W.,"Given the previous statements, is Z a Q?",No,Z is not a Q.,False
+1795,H A R.,A has range W.,"Given the previous statements, is R a Y?",No,R is not a Y.,False
+1796,H G L.,G has range B.,"Given the previous statements, is L a Q?",No,L is not a Q.,False
+1797,H P N.,P has range I.,"Given the previous statements, is N a J?",No,N is not a J.,False
+1798,H Q O.,Q has range C.,"Given the previous statements, is O a U?",No,O is not a U.,False
+1799,H J N.,J has range T.,"Given the previous statements, is N a Y?",No,N is not a Y.,False
+1800,H V D.,V has range Q.,"Given the previous statements, is D a K?",No,D is not a K.,False
+1801,I Z P.,Z has range W.,"Given the previous statements, is P a H?",No,P is not a H.,False
+1802,I C T.,C has range L.,"Given the previous statements, is T a R?",No,T is not a R.,False
+1803,I F O.,F has range K.,"Given the previous statements, is O a P?",No,O is not a P.,False
+1804,I K L.,K has range Y.,"Given the previous statements, is L a H?",No,L is not a H.,False
+1805,I E Y.,E has range M.,"Given the previous statements, is Y a W?",No,Y is not a W.,False
+1806,I K M.,K has range B.,"Given the previous statements, is M a Q?",No,M is not a Q.,False
+1807,I Z X.,Z has range T.,"Given the previous statements, is X a F?",No,X is not a F.,False
+1808,I X W.,X has range U.,"Given the previous statements, is W a D?",No,W is not a D.,False
+1809,I P S.,P has range A.,"Given the previous statements, is S a M?",No,S is not a M.,False
+1810,I T M.,T has range O.,"Given the previous statements, is M a J?",No,M is not a J.,False
+1811,I E M.,E has range T.,"Given the previous statements, is M a R?",No,M is not a R.,False
+1812,I Y U.,Y has range D.,"Given the previous statements, is U a K?",No,U is not a K.,False
+1813,I C D.,C has range U.,"Given the previous statements, is D a P?",No,D is not a P.,False
+1814,I R A.,R has range E.,"Given the previous statements, is A a B?",No,A is not a B.,False
+1815,I N A.,N has range E.,"Given the previous statements, is A a Y?",No,A is not a Y.,False
+1816,I N B.,N has range K.,"Given the previous statements, is B a X?",No,B is not a X.,False
+1817,I X S.,X has range C.,"Given the previous statements, is S a R?",No,S is not a R.,False
+1818,I Q O.,Q has range E.,"Given the previous statements, is O a A?",No,O is not a A.,False
+1819,I V W.,V has range K.,"Given the previous statements, is W a D?",No,W is not a D.,False
+1820,I M K.,M has range B.,"Given the previous statements, is K a A?",No,K is not a A.,False
+1821,I Q G.,Q has range X.,"Given the previous statements, is G a H?",No,G is not a H.,False
+1822,I F U.,F has range W.,"Given the previous statements, is U a G?",No,U is not a G.,False
+1823,I U H.,U has range N.,"Given the previous statements, is H a M?",No,H is not a M.,False
+1824,I Y Q.,Y has range W.,"Given the previous statements, is Q a P?",No,Q is not a P.,False
+1825,I O B.,O has range F.,"Given the previous statements, is B a N?",No,B is not a N.,False
+1826,I T X.,T has range O.,"Given the previous statements, is X a Q?",No,X is not a Q.,False
+1827,I U H.,U has range A.,"Given the previous statements, is H a D?",No,H is not a D.,False
+1828,I D N.,D has range B.,"Given the previous statements, is N a T?",No,N is not a T.,False
+1829,I B U.,B has range X.,"Given the previous statements, is U a R?",No,U is not a R.,False
+1830,I O Z.,O has range M.,"Given the previous statements, is Z a A?",No,Z is not a A.,False
+1831,I R M.,R has range C.,"Given the previous statements, is M a Q?",No,M is not a Q.,False
+1832,I Q H.,Q has range W.,"Given the previous statements, is H a K?",No,H is not a K.,False
+1833,I N B.,N has range V.,"Given the previous statements, is B a D?",No,B is not a D.,False
+1834,I K B.,K has range C.,"Given the previous statements, is B a Y?",No,B is not a Y.,False
+1835,I M H.,M has range Q.,"Given the previous statements, is H a O?",No,H is not a O.,False
+1836,I R W.,R has range J.,"Given the previous statements, is W a B?",No,W is not a B.,False
+1837,I N R.,N has range U.,"Given the previous statements, is R a A?",No,R is not a A.,False
+1838,I Z W.,Z has range L.,"Given the previous statements, is W a O?",No,W is not a O.,False
+1839,I B A.,B has range W.,"Given the previous statements, is A a S?",No,A is not a S.,False
+1840,I D S.,D has range R.,"Given the previous statements, is S a V?",No,S is not a V.,False
+1841,I V M.,V has range Z.,"Given the previous statements, is M a U?",No,M is not a U.,False
+1842,I V P.,V has range K.,"Given the previous statements, is P a N?",No,P is not a N.,False
+1843,I Y L.,Y has range U.,"Given the previous statements, is L a E?",No,L is not a E.,False
+1844,I W P.,W has range F.,"Given the previous statements, is P a B?",No,P is not a B.,False
+1845,I F P.,F has range Z.,"Given the previous statements, is P a C?",No,P is not a C.,False
+1846,I E O.,E has range N.,"Given the previous statements, is O a W?",No,O is not a W.,False
+1847,I L A.,L has range T.,"Given the previous statements, is A a M?",No,A is not a M.,False
+1848,I G K.,G has range F.,"Given the previous statements, is K a N?",No,K is not a N.,False
+1849,I B Q.,B has range Y.,"Given the previous statements, is Q a P?",No,Q is not a P.,False
+1850,I A Z.,A has range M.,"Given the previous statements, is Z a U?",No,Z is not a U.,False
+1851,I O T.,O has range Y.,"Given the previous statements, is T a D?",No,T is not a D.,False
+1852,I T J.,T has range H.,"Given the previous statements, is J a F?",No,J is not a F.,False
+1853,I V B.,V has range Q.,"Given the previous statements, is B a L?",No,B is not a L.,False
+1854,I K E.,K has range Z.,"Given the previous statements, is E a D?",No,E is not a D.,False
+1855,I B G.,B has range R.,"Given the previous statements, is G a P?",No,G is not a P.,False
+1856,I N W.,N has range R.,"Given the previous statements, is W a C?",No,W is not a C.,False
+1857,I A N.,A has range X.,"Given the previous statements, is N a W?",No,N is not a W.,False
+1858,I X T.,X has range J.,"Given the previous statements, is T a Y?",No,T is not a Y.,False
+1859,I Q M.,Q has range J.,"Given the previous statements, is M a X?",No,M is not a X.,False
+1860,I S H.,S has range E.,"Given the previous statements, is H a O?",No,H is not a O.,False
+1861,I B A.,B has range F.,"Given the previous statements, is A a K?",No,A is not a K.,False
+1862,I K N.,K has range R.,"Given the previous statements, is N a V?",No,N is not a V.,False
+1863,I M D.,M has range N.,"Given the previous statements, is D a T?",No,D is not a T.,False
+1864,I S L.,S has range R.,"Given the previous statements, is L a F?",No,L is not a F.,False
+1865,I Z G.,Z has range E.,"Given the previous statements, is G a D?",No,G is not a D.,False
+1866,I B O.,B has range P.,"Given the previous statements, is O a Z?",No,O is not a Z.,False
+1867,I A P.,A has range V.,"Given the previous statements, is P a X?",No,P is not a X.,False
+1868,I C B.,C has range L.,"Given the previous statements, is B a D?",No,B is not a D.,False
+1869,I L N.,L has range Z.,"Given the previous statements, is N a Q?",No,N is not a Q.,False
+1870,I K A.,K has range N.,"Given the previous statements, is A a S?",No,A is not a S.,False
+1871,I K O.,K has range B.,"Given the previous statements, is O a C?",No,O is not a C.,False
+1872,I S H.,S has range A.,"Given the previous statements, is H a N?",No,H is not a N.,False
+1873,I A S.,A has range C.,"Given the previous statements, is S a W?",No,S is not a W.,False
+1874,I K Q.,K has range D.,"Given the previous statements, is Q a T?",No,Q is not a T.,False
+1875,I D H.,D has range R.,"Given the previous statements, is H a K?",No,H is not a K.,False
+1876,I A P.,A has range S.,"Given the previous statements, is P a V?",No,P is not a V.,False
+1877,I L X.,L has range Y.,"Given the previous statements, is X a E?",No,X is not a E.,False
+1878,I N X.,N has range S.,"Given the previous statements, is X a P?",No,X is not a P.,False
+1879,I Y G.,Y has range D.,"Given the previous statements, is G a Z?",No,G is not a Z.,False
+1880,I X C.,X has range J.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1881,I R G.,R has range Q.,"Given the previous statements, is G a A?",No,G is not a A.,False
+1882,I K F.,K has range A.,"Given the previous statements, is F a M?",No,F is not a M.,False
+1883,I W Z.,W has range L.,"Given the previous statements, is Z a B?",No,Z is not a B.,False
+1884,I N K.,N has range F.,"Given the previous statements, is K a V?",No,K is not a V.,False
+1885,I K A.,K has range R.,"Given the previous statements, is A a L?",No,A is not a L.,False
+1886,I P K.,P has range R.,"Given the previous statements, is K a O?",No,K is not a O.,False
+1887,I Q B.,Q has range E.,"Given the previous statements, is B a M?",No,B is not a M.,False
+1888,I T G.,T has range Z.,"Given the previous statements, is G a C?",No,G is not a C.,False
+1889,I P A.,P has range M.,"Given the previous statements, is A a K?",No,A is not a K.,False
+1890,I Y R.,Y has range P.,"Given the previous statements, is R a G?",No,R is not a G.,False
+1891,I E F.,E has range S.,"Given the previous statements, is F a O?",No,F is not a O.,False
+1892,I P Q.,P has range U.,"Given the previous statements, is Q a M?",No,Q is not a M.,False
+1893,I U D.,U has range L.,"Given the previous statements, is D a P?",No,D is not a P.,False
+1894,I U C.,U has range L.,"Given the previous statements, is C a P?",No,C is not a P.,False
+1895,I E B.,E has range C.,"Given the previous statements, is B a K?",No,B is not a K.,False
+1896,I D N.,D has range O.,"Given the previous statements, is N a U?",No,N is not a U.,False
+1897,I H Q.,H has range N.,"Given the previous statements, is Q a U?",No,Q is not a U.,False
+1898,I P T.,P has range H.,"Given the previous statements, is T a W?",No,T is not a W.,False
+1899,I L W.,L has range U.,"Given the previous statements, is W a H?",No,W is not a H.,False
+1900,I T X.,T has range R.,"Given the previous statements, is X a O?",No,X is not a O.,False
+1901,J W H.,W has range T.,"Given the previous statements, is H a C?",No,H is not a C.,False
+1902,J O Y.,O has range F.,"Given the previous statements, is Y a I?",No,Y is not a I.,False
+1903,J F G.,F has range Q.,"Given the previous statements, is G a H?",No,G is not a H.,False
+1904,J B Q.,B has range G.,"Given the previous statements, is Q a M?",No,Q is not a M.,False
+1905,J X O.,X has range V.,"Given the previous statements, is O a L?",No,O is not a L.,False
+1906,J G N.,G has range T.,"Given the previous statements, is N a Z?",No,N is not a Z.,False
+1907,J B G.,B has range R.,"Given the previous statements, is G a O?",No,G is not a O.,False
+1908,J V D.,V has range O.,"Given the previous statements, is D a C?",No,D is not a C.,False
+1909,J D Q.,D has range P.,"Given the previous statements, is Q a C?",No,Q is not a C.,False
+1910,J N K.,N has range C.,"Given the previous statements, is K a E?",No,K is not a E.,False
+1911,J Z B.,Z has range U.,"Given the previous statements, is B a Y?",No,B is not a Y.,False
+1912,J S Y.,S has range L.,"Given the previous statements, is Y a W?",No,Y is not a W.,False
+1913,J N S.,N has range T.,"Given the previous statements, is S a C?",No,S is not a C.,False
+1914,J X E.,X has range P.,"Given the previous statements, is E a T?",No,E is not a T.,False
+1915,J F C.,F has range P.,"Given the previous statements, is C a W?",No,C is not a W.,False
+1916,J T P.,T has range V.,"Given the previous statements, is P a D?",No,P is not a D.,False
+1917,J L G.,L has range N.,"Given the previous statements, is G a V?",No,G is not a V.,False
+1918,J R D.,R has range F.,"Given the previous statements, is D a S?",No,D is not a S.,False
+1919,J S F.,S has range D.,"Given the previous statements, is F a T?",No,F is not a T.,False
+1920,J S Y.,S has range H.,"Given the previous statements, is Y a U?",No,Y is not a U.,False
+1921,J X M.,X has range P.,"Given the previous statements, is M a C?",No,M is not a C.,False
+1922,J C S.,C has range W.,"Given the previous statements, is S a H?",No,S is not a H.,False
+1923,J M G.,M has range A.,"Given the previous statements, is G a W?",No,G is not a W.,False
+1924,J Y F.,Y has range A.,"Given the previous statements, is F a T?",No,F is not a T.,False
+1925,J O Z.,O has range B.,"Given the previous statements, is Z a X?",No,Z is not a X.,False
+1926,J F H.,F has range M.,"Given the previous statements, is H a E?",No,H is not a E.,False
+1927,J G P.,G has range M.,"Given the previous statements, is P a V?",No,P is not a V.,False
+1928,J A B.,A has range K.,"Given the previous statements, is B a W?",No,B is not a W.,False
+1929,J O U.,O has range L.,"Given the previous statements, is U a K?",No,U is not a K.,False
+1930,J L O.,L has range W.,"Given the previous statements, is O a H?",No,O is not a H.,False
+1931,J R S.,R has range Y.,"Given the previous statements, is S a B?",No,S is not a B.,False
+1932,J H Q.,H has range L.,"Given the previous statements, is Q a O?",No,Q is not a O.,False
+1933,J K C.,K has range N.,"Given the previous statements, is C a I?",No,C is not a I.,False
+1934,J O Q.,O has range G.,"Given the previous statements, is Q a M?",No,Q is not a M.,False
+1935,J P X.,P has range B.,"Given the previous statements, is X a R?",No,X is not a R.,False
+1936,J Q Y.,Q has range T.,"Given the previous statements, is Y a U?",No,Y is not a U.,False
+1937,J I K.,I has range H.,"Given the previous statements, is K a G?",No,K is not a G.,False
+1938,J R H.,R has range N.,"Given the previous statements, is H a U?",No,H is not a U.,False
+1939,J P K.,P has range W.,"Given the previous statements, is K a Y?",No,K is not a Y.,False
+1940,J R M.,R has range E.,"Given the previous statements, is M a A?",No,M is not a A.,False
+1941,J T Z.,T has range S.,"Given the previous statements, is Z a W?",No,Z is not a W.,False
+1942,J Q P.,Q has range T.,"Given the previous statements, is P a A?",No,P is not a A.,False
+1943,J K B.,K has range R.,"Given the previous statements, is B a Q?",No,B is not a Q.,False
+1944,J X B.,X has range V.,"Given the previous statements, is B a F?",No,B is not a F.,False
+1945,J O W.,O has range F.,"Given the previous statements, is W a Y?",No,W is not a Y.,False
+1946,J R H.,R has range Z.,"Given the previous statements, is H a V?",No,H is not a V.,False
+1947,J F M.,F has range H.,"Given the previous statements, is M a R?",No,M is not a R.,False
+1948,J R Z.,R has range T.,"Given the previous statements, is Z a E?",No,Z is not a E.,False
+1949,J E I.,E has range S.,"Given the previous statements, is I a L?",No,I is not a L.,False
+1950,J K R.,K has range N.,"Given the previous statements, is R a B?",No,R is not a B.,False
+1951,J K N.,K has range M.,"Given the previous statements, is N a I?",No,N is not a I.,False
+1952,J L N.,L has range C.,"Given the previous statements, is N a D?",No,N is not a D.,False
+1953,J M U.,M has range I.,"Given the previous statements, is U a H?",No,U is not a H.,False
+1954,J X P.,X has range W.,"Given the previous statements, is P a F?",No,P is not a F.,False
+1955,J A C.,A has range B.,"Given the previous statements, is C a U?",No,C is not a U.,False
+1956,J C I.,C has range F.,"Given the previous statements, is I a M?",No,I is not a M.,False
+1957,J Z G.,Z has range B.,"Given the previous statements, is G a X?",No,G is not a X.,False
+1958,J C I.,C has range K.,"Given the previous statements, is I a H?",No,I is not a H.,False
+1959,J I V.,I has range P.,"Given the previous statements, is V a E?",No,V is not a E.,False
+1960,J I Q.,I has range C.,"Given the previous statements, is Q a E?",No,Q is not a E.,False
+1961,J F Q.,F has range L.,"Given the previous statements, is Q a C?",No,Q is not a C.,False
+1962,J M T.,M has range S.,"Given the previous statements, is T a P?",No,T is not a P.,False
+1963,J L Z.,L has range O.,"Given the previous statements, is Z a Q?",No,Z is not a Q.,False
+1964,J W H.,W has range Q.,"Given the previous statements, is H a R?",No,H is not a R.,False
+1965,J Z P.,Z has range E.,"Given the previous statements, is P a N?",No,P is not a N.,False
+1966,J E G.,E has range D.,"Given the previous statements, is G a M?",No,G is not a M.,False
+1967,J X O.,X has range L.,"Given the previous statements, is O a W?",No,O is not a W.,False
+1968,J P Q.,P has range Z.,"Given the previous statements, is Q a F?",No,Q is not a F.,False
+1969,J F W.,F has range L.,"Given the previous statements, is W a X?",No,W is not a X.,False
+1970,J P R.,P has range E.,"Given the previous statements, is R a L?",No,R is not a L.,False
+1971,J Q O.,Q has range V.,"Given the previous statements, is O a T?",No,O is not a T.,False
+1972,J M I.,M has range A.,"Given the previous statements, is I a Y?",No,I is not a Y.,False
+1973,J D L.,D has range U.,"Given the previous statements, is L a Y?",No,L is not a Y.,False
+1974,J P G.,P has range R.,"Given the previous statements, is G a W?",No,G is not a W.,False
+1975,J H M.,H has range K.,"Given the previous statements, is M a I?",No,M is not a I.,False
+1976,J F M.,F has range O.,"Given the previous statements, is M a P?",No,M is not a P.,False
+1977,J W B.,W has range X.,"Given the previous statements, is B a P?",No,B is not a P.,False
+1978,J G R.,G has range Q.,"Given the previous statements, is R a W?",No,R is not a W.,False
+1979,J K C.,K has range P.,"Given the previous statements, is C a Q?",No,C is not a Q.,False
+1980,J I Y.,I has range K.,"Given the previous statements, is Y a M?",No,Y is not a M.,False
+1981,J W N.,W has range U.,"Given the previous statements, is N a I?",No,N is not a I.,False
+1982,J V Q.,V has range W.,"Given the previous statements, is Q a C?",No,Q is not a C.,False
+1983,J I F.,I has range C.,"Given the previous statements, is F a V?",No,F is not a V.,False
+1984,J Z Y.,Z has range S.,"Given the previous statements, is Y a V?",No,Y is not a V.,False
+1985,J O D.,O has range E.,"Given the previous statements, is D a S?",No,D is not a S.,False
+1986,J C Z.,C has range A.,"Given the previous statements, is Z a M?",No,Z is not a M.,False
+1987,J A T.,A has range U.,"Given the previous statements, is T a W?",No,T is not a W.,False
+1988,J O F.,O has range H.,"Given the previous statements, is F a I?",No,F is not a I.,False
+1989,J K U.,K has range X.,"Given the previous statements, is U a F?",No,U is not a F.,False
+1990,J Y A.,Y has range D.,"Given the previous statements, is A a K?",No,A is not a K.,False
+1991,J S X.,S has range Y.,"Given the previous statements, is X a P?",No,X is not a P.,False
+1992,J U N.,U has range A.,"Given the previous statements, is N a G?",No,N is not a G.,False
+1993,J T N.,T has range M.,"Given the previous statements, is N a H?",No,N is not a H.,False
+1994,J M L.,M has range I.,"Given the previous statements, is L a F?",No,L is not a F.,False
+1995,J R A.,R has range C.,"Given the previous statements, is A a N?",No,A is not a N.,False
+1996,J E I.,E has range S.,"Given the previous statements, is I a H?",No,I is not a H.,False
+1997,J R P.,R has range Y.,"Given the previous statements, is P a C?",No,P is not a C.,False
+1998,J F S.,F has range B.,"Given the previous statements, is S a Y?",No,S is not a Y.,False
+1999,J P K.,P has range Q.,"Given the previous statements, is K a N?",No,K is not a N.,False
+2000,J N L.,N has range U.,"Given the previous statements, is L a Y?",No,L is not a Y.,False

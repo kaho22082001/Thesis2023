@@ -1,0 +1,221 @@
+ID,triple1,triple2,question,answer,inferred triple,label,LLM output
+112,Cab Calloway is a Person.,Person is disjoint with BloodVessel.,"Given the previous statements, is Cab Calloway not an Activity?",No,Cab Calloway could be an Activity.,False,The answer is no
+4,Cabal of Naples is a Person.,Person is disjoint with Activity.,"Given the previous statements, is Cabal of Naples not an Activity?",Yes,Cabal of Naples is not an Activity.,True,The answer is no
+168,Cab Kaye is a Person.,Person is disjoint with Sport.,"Given the previous statements, is Cab Kaye not an Escalator?",No,Cab Kaye could be an Escalator.,False,The question is not
+163,Cab Kaye is a Person.,Person is disjoint with Website.,"Given the previous statements, is Cab Kaye not a ConveyorSystem?",No,Cab Kaye could be a ConveyorSystem.,False,The answer is no
+51,CaMia Hopson is a Person.,Person is disjoint with ConveyorSystem.,"Given the previous statements, is CaMia Hopson not a ConveyorSystem?",Yes,CaMia Hopson is not a ConveyorSystem.,True,The answer is no
+124,Cabal of Naples is a Person.,Person is disjoint with OfficeHolder.,"Given the previous statements, is Cabal of Naples not a MeanOfTransportation?",No,Cabal of Naples could be a MeanOfTransportation.,False,The answer is no
+180,Cabassous is a Person.,Person is disjoint with Book.,"Given the previous statements, is Cabassous not a GeologicalPeriod?",No,Cabassous could be a GeologicalPeriod.,False,The answer is no
+101,CaMia Hopson is a Person.,Person is disjoint with ProtohistoricalPeriod.,"Given the previous statements, is CaMia Hopson not a ProtohistoricalPeriod?",Yes,CaMia Hopson is not a ProtohistoricalPeriod.,True,The answer is no
+80,Cabassous is a Person.,Person is disjoint with Mine.,"Given the previous statements, is Cabassous not a Mine?",Yes,Cabassous is not a Mine.,True,The answer is no
+126,CaMia Hopson is a Person.,Person is disjoint with AustralianRulesFootballPlayer.,"Given the previous statements, is CaMia Hopson not an UnitOfWork?",No,CaMia Hopson could be an UnitOfWork.,False,The answer is no
+25,Cabassous is a Person.,Person is disjoint with Tower.,"Given the previous statements, is Cabassous not a Tower?",Yes,Cabassous is not a Tower.,True,The answer is no
+71,CaMia Hopson is a Person.,Person is disjoint with HistoricalPeriod.,"Given the previous statements, is CaMia Hopson not a HistoricalPeriod?",Yes,CaMia Hopson is not a HistoricalPeriod.,True,The answer is no
+191,CaMia Hopson is a Person.,Person is disjoint with Flag.,"Given the previous statements, is CaMia Hopson not a MovingWalkway?",No,CaMia Hopson could be a MovingWalkway.,False,The answer is no
+46,CaMia Hopson is a Person.,Person is disjoint with Mountain.,"Given the previous statements, is CaMia Hopson not a Mountain?",Yes,CaMia Hopson is not a Mountain.,True,"Yes, CaM"
+204,Cabal of Naples is a Person.,Person is disjoint with PoliceOfficer.,"Given the previous statements, is Cabal of Naples not an On-SiteTransportation?",No,Cabal of Naples could be an On-SiteTransportation.,False,The answer is no
+15,Cabassous is a Person.,Person is disjoint with MeanOfTransportation.,"Given the previous statements, is Cabassous not a MeanOfTransportation?",Yes,Cabassous is not a MeanOfTransportation.,True,The answer is no
+185,Cabassous is a Person.,Person is disjoint with PublicService.,"Given the previous statements, is Cabassous not a HistoricalPeriod?",No,Cabassous could be a HistoricalPeriod.,False,The answer is no
+116,Ca' Rezzonico is a Place.,Place is disjoint with Tank.,"Given the previous statements, is Ca' Rezzonico not an Agent?",No,Ca' Rezzonico could be an Agent.,False,The answer is no
+210,Cabassous is a Person.,Person is disjoint with Region.,"Given the previous statements, is Cabassous not a PeriodOfArtisticStyle?",No,Cabassous could be a PeriodOfArtisticStyle.,False,The answer is no
+95,Cabassous is a Person.,Person is disjoint with On-SiteTransportation.,"Given the previous statements, is Cabassous not an On-SiteTransportation?",Yes,Cabassous is not an On-SiteTransportation.,True,The answer is no
+16,CaMia Hopson is a Person.,Person is disjoint with UnitOfWork.,"Given the previous statements, is CaMia Hopson not an UnitOfWork?",Yes,CaMia Hopson is not an UnitOfWork.,True,The answer is no
+198,Cab Kaye is a Person.,Person is disjoint with Language.,"Given the previous statements, is Cab Kaye not a Nebula?",No,Cab Kaye could be a Nebula.,False,The answer is no
+73,Cab Kaye is a Person.,Person is disjoint with HistoricalPeriod.,"Given the previous statements, is Cab Kaye not a HistoricalPeriod?",Yes,Cab Kaye is not a HistoricalPeriod.,True,The answer is no
+29,Calamus is a Fish.,Fish is disjoint with Mammal.,"Given the previous statements, is Calamus not a Mammal?",Yes,Calamus is not a Mammal.,True,The answer is no
+139,Calamus is a Fish.,Fish is disjoint with GovernmentalAdministrativeRegion.,"Given the previous statements, is Calamus not a Mammal?",No,Calamus could be a Mammal.,False,The answer is no
+122,Cab Calloway is a Person.,Person is disjoint with PenaltyShootOut.,"Given the previous statements, is Cab Calloway not a MeanOfTransportation?",No,Cab Calloway could be a MeanOfTransportation.,False,The answer is no
+137,Calamopleurus is a Fish.,Fish is disjoint with Rower.,"Given the previous statements, is Calamopleurus not a Mammal?",No,Calamopleurus could be a Mammal.,False,The answer is no
+151,CaMia Hopson is a Person.,Person is disjoint with Muscle.,"Given the previous statements, is CaMia Hopson not an Event?",No,CaMia Hopson could be an Event.,False,The answer is no
+87,Cab Calloway is a Person.,Person is disjoint with Nebula.,"Given the previous statements, is Cab Calloway not a Nebula?",Yes,Cab Calloway is not a Nebula.,True,The answer is no
+38,Cab Kaye is a Person.,Person is disjoint with Building.,"Given the previous statements, is Cab Kaye not a Building?",Yes,Cab Kaye is not a Building.,True,"Yes, Cabass"
+83,Cab Kaye is a Person.,Person is disjoint with MovingWalkway.,"Given the previous statements, is Cab Kaye not a MovingWalkway?",Yes,Cab Kaye is not a MovingWalkway.,True,The answer is no
+115,Cabassous is a Person.,Person is disjoint with GolfTournament.,"Given the previous statements, is Cabassous not an Activity?",No,Cabassous could be an Activity.,False,The answer is no
+53,Cab Kaye is a Person.,Person is disjoint with ConveyorSystem.,"Given the previous statements, is Cab Kaye not a ConveyorSystem?",Yes,Cab Kaye is not a ConveyorSystem.,True,The first two statements
+12,Cab Calloway is a Person.,Person is disjoint with MeanOfTransportation.,"Given the previous statements, is Cab Calloway not a MeanOfTransportation?",Yes,Cab Calloway is not a MeanOfTransportation.,True,The answer is no
+110,Cabassous is a Person.,Person is disjoint with StarCluster.,"Given the previous statements, is Cabassous not a StarCluster?",Yes,Cabassous is not a StarCluster.,True,The answer is no
+153,Cab Kaye is a Person.,Person is disjoint with BloodVessel.,"Given the previous statements, is Cab Kaye not an Event?",No,Cab Kaye could be an Event.,False,The answer is no
+218,Cab Kaye is a Person.,Person is disjoint with Colour.,"Given the previous statements, is Cab Kaye not a StarCluster?",No,Cab Kaye could be a StarCluster.,False,The answer is no
+171,CaMia Hopson is a Person.,Person is disjoint with BloodVessel.,"Given the previous statements, is CaMia Hopson not a FileSystem?",No,CaMia Hopson could be a FileSystem.,False,The answer is no
+186,CaMia Hopson is a Person.,Person is disjoint with IceHockeyPlayer.,"Given the previous statements, is CaMia Hopson not a Mine?",No,CaMia Hopson could be a Mine.,False,The answer is no
+79,Cabal of Naples is a Person.,Person is disjoint with Mine.,"Given the previous statements, is Cabal of Naples not a Mine?",Yes,Cabal of Naples is not a Mine.,True,The answer is no
+214,Cabal of Naples is a Person.,Person is disjoint with Vein.,"Given the previous statements, is Cabal of Naples not a ProtohistoricalPeriod?",No,Cabal of Naples could be a ProtohistoricalPeriod.,False,The answer is no
+34,Cabal of Naples is a Person.,Person is disjoint with TimePeriod.,"Given the previous statements, is Cabal of Naples not a TimePeriod?",Yes,Cabal of Naples is not a TimePeriod.,True,The answer is no
+166,CaMia Hopson is a Person.,Person is disjoint with Archipelago.,"Given the previous statements, is CaMia Hopson not an Escalator?",No,CaMia Hopson could be an Escalator.,False,The answer is no
+197,Cab Calloway is a Person.,Person is disjoint with Village.,"Given the previous statements, is Cab Calloway not a Nebula?",No,Cab Calloway could be a Nebula.,False,The answer is no
+161,CaMia Hopson is a Person.,Person is disjoint with Escalator.,"Given the previous statements, is CaMia Hopson not a ConveyorSystem?",No,CaMia Hopson could be a ConveyorSystem.,False,The answer is no
+187,Cab Calloway is a Person.,Person is disjoint with Village.,"Given the previous statements, is Cab Calloway not a Mine?",No,Cab Calloway could be a Mine.,False,The answer is no
+182,Cab Calloway is a Person.,Person is disjoint with Disease.,"Given the previous statements, is Cab Calloway not a HistoricalPeriod?",No,Cab Calloway could be a HistoricalPeriod.,False,The answer is no
+134,Cabal of Naples is a Person.,Person is disjoint with SoccerLeague.,"Given the previous statements, is Cabal of Naples not a Tower?",No,Cabal of Naples could be a Tower.,False,The answer is no
+44,Cabal of Naples is a Person.,Person is disjoint with Event.,"Given the previous statements, is Cabal of Naples not an Event?",Yes,Cabal of Naples is not an Event.,True,The answer is no
+103,Cab Kaye is a Person.,Person is disjoint with ProtohistoricalPeriod.,"Given the previous statements, is Cab Kaye not a ProtohistoricalPeriod?",Yes,Cab Kaye is not a ProtohistoricalPeriod.,True,The answer is no
+17,Cab Calloway is a Person.,Person is disjoint with UnitOfWork.,"Given the previous statements, is Cab Calloway not an UnitOfWork?",Yes,Cab Calloway is not an UnitOfWork.,True,The answer is no
+59,Cabal of Naples is a Person.,Person is disjoint with Escalator.,"Given the previous statements, is Cabal of Naples not an Escalator?",Yes,Cabal of Naples is not an Escalator.,True,The answer is no
+167,Cab Calloway is a Person.,Person is disjoint with GovernmentType.,"Given the previous statements, is Cab Calloway not an Escalator?",No,Cab Calloway could be an Escalator.,False,The answer is no
+69,Cabal of Naples is a Person.,Person is disjoint with GeologicalPeriod.,"Given the previous statements, is Cabal of Naples not a GeologicalPeriod?",Yes,Cabal of Naples is not a GeologicalPeriod.,True,The Cabal of
+81,CaMia Hopson is a Person.,Person is disjoint with MovingWalkway.,"Given the previous statements, is CaMia Hopson not a MovingWalkway?",Yes,CaMia Hopson is not a MovingWalkway.,True,The answer is no
+67,Cab Calloway is a Person.,Person is disjoint with GeologicalPeriod.,"Given the previous statements, is Cab Calloway not a GeologicalPeriod?",Yes,Cab Calloway is not a GeologicalPeriod.,True,The answer is no
+201,CaMia Hopson is a Person.,Person is disjoint with PhilosophicalConcept.,"Given the previous statements, is CaMia Hopson not an On-SiteTransportation?",No,CaMia Hopson could be an On-SiteTransportation.,False,The answer is no
+88,Cab Kaye is a Person.,Person is disjoint with Nebula.,"Given the previous statements, is Cab Kaye not a Nebula?",Yes,Cab Kaye is not a Nebula.,True,The answer is no
+152,Cab Calloway is a Person.,Person is disjoint with RacingDriver.,"Given the previous statements, is Cab Calloway not an Event?",No,Cab Calloway could be an Event.,False,The answer is no
+24,Cabal of Naples is a Person.,Person is disjoint with Tower.,"Given the previous statements, is Cabal of Naples not a Tower?",Yes,Cabal of Naples is not a Tower.,True,The answer is no
+159,Cabal of Naples is a Person.,Person is disjoint with EthnicGroup.,"Given the previous statements, is Cabal of Naples not a Mountain?",No,Cabal of Naples could be a Mountain.,False,The answer is no
+165,Cabassous is a Person.,Person is disjoint with BasketballPlayer.,"Given the previous statements, is Cabassous not a ConveyorSystem?",No,Cabassous could be a ConveyorSystem.,False,"Yes, Cab Call"
+205,Cabassous is a Person.,Person is disjoint with Guitar.,"Given the previous statements, is Cabassous not an On-SiteTransportation?",No,Cabassous could be an On-SiteTransportation.,False,The answer is no
+64,Cabal of Naples is a Person.,Person is disjoint with FileSystem.,"Given the previous statements, is Cabal of Naples not a FileSystem?",Yes,Cabal of Naples is not a FileSystem.,True,The answer is no
+114,Cabal of Naples is a Person.,Person is disjoint with GovernmentType.,"Given the previous statements, is Cabal of Naples not an Activity?",No,Cabal of Naples could be an Activity.,False,The answer is no
+127,Cab Calloway is a Person.,Person is disjoint with RadioControlledRacingLeague.,"Given the previous statements, is Cab Calloway not an UnitOfWork?",No,Cab Calloway could be an UnitOfWork.,False,"Yes, CaM"
+199,Cabal of Naples is a Person.,Person is disjoint with FootballMatch.,"Given the previous statements, is Cabal of Naples not a Nebula?",No,Cabal of Naples could be a Nebula.,False,The answer is no
+14,Cabal of Naples is a Person.,Person is disjoint with MeanOfTransportation.,"Given the previous statements, is Cabal of Naples not a MeanOfTransportation?",Yes,Cabal of Naples is not a MeanOfTransportation.,True,The answer is no
+8,Ca' d'Zan is a Place.,Place is disjoint with Agent.,"Given the previous statements, is Ca' d'Zan not an Agent?",Yes,Ca' d'Zan is not an Agent.,True,The answer is no
+21,CaMia Hopson is a Person.,Person is disjoint with Tower.,"Given the previous statements, is CaMia Hopson not a Tower?",Yes,CaMia Hopson is not a Tower.,True,"Yes, Cab Call"
+162,Cab Calloway is a Person.,Person is disjoint with Tenure.,"Given the previous statements, is Cab Calloway not a ConveyorSystem?",No,Cab Calloway could be a ConveyorSystem.,False,The answer is no
+156,CaMia Hopson is a Person.,Person is disjoint with Openswarm.,"Given the previous statements, is CaMia Hopson not a Mountain?",No,CaMia Hopson could be a Mountain.,False,The answer is no
+18,Cab Kaye is a Person.,Person is disjoint with UnitOfWork.,"Given the previous statements, is Cab Kaye not an UnitOfWork?",Yes,Cab Kaye is not an UnitOfWork.,True,The answer is no
+54,Cabal of Naples is a Person.,Person is disjoint with ConveyorSystem.,"Given the previous statements, is Cabal of Naples not a ConveyorSystem?",Yes,Cabal of Naples is not a ConveyorSystem.,True,The Cabal of
+42,Cab Calloway is a Person.,Person is disjoint with Event.,"Given the previous statements, is Cab Calloway not an Event?",Yes,Cab Calloway is not an Event.,True,The answer is no
+35,Cabassous is a Person.,Person is disjoint with TimePeriod.,"Given the previous statements, is Cabassous not a TimePeriod?",Yes,Cabassous is not a TimePeriod.,True,The answer is no
+93,Cab Kaye is a Person.,Person is disjoint with On-SiteTransportation.,"Given the previous statements, is Cab Kaye not an On-SiteTransportation?",Yes,Cab Kaye is not an On-SiteTransportation.,True,The answer is no
+145,Cabassous is a Person.,Person is disjoint with SportsManager.,"Given the previous statements, is Cabassous not a TimePeriod?",No,Cabassous could be a TimePeriod.,False,The answer is no
+5,Cabassous is a Person.,Person is disjoint with Activity.,"Given the previous statements, is Cabassous not an Activity?",Yes,Cabassous is not an Activity.,True,The answer is no
+216,CaMia Hopson is a Person.,Person is disjoint with TheatreDirector.,"Given the previous statements, is CaMia Hopson not a StarCluster?",No,CaMia Hopson could be a StarCluster.,False,The answer is no
+78,Cab Kaye is a Person.,Person is disjoint with Mine.,"Given the previous statements, is Cab Kaye not a Mine?",Yes,Cab Kaye is not a Mine.,True,"Yes, the answer"
+76,CaMia Hopson is a Person.,Person is disjoint with Mine.,"Given the previous statements, is CaMia Hopson not a Mine?",Yes,CaMia Hopson is not a Mine.,True,The answer is no
+60,Cabassous is a Person.,Person is disjoint with Escalator.,"Given the previous statements, is Cabassous not an Escalator?",Yes,Cabassous is not an Escalator.,True,"Yes, Cabass"
+3,Cab Kaye is a Person.,Person is disjoint with Activity.,"Given the previous statements, is Cab Kaye not an Activity?",Yes,Cab Kaye is not an Activity.,True,The answer is no
+11,CaMia Hopson is a Person.,Person is disjoint with MeanOfTransportation.,"Given the previous statements, is CaMia Hopson not a MeanOfTransportation?",Yes,CaMia Hopson is not a MeanOfTransportation.,True,"Yes, CaM"
+9,"Ca Goulmie, Port-Salut, Haiti is a Place.",Place is disjoint with Agent.,"Given the previous statements, is Ca Goulmie, Port-Salut, Haiti not an Agent?",Yes,"Ca Goulmie, Port-Salut, Haiti is not an Agent.",True,The answer is no
+56,CaMia Hopson is a Person.,Person is disjoint with Escalator.,"Given the previous statements, is CaMia Hopson not an Escalator?",Yes,CaMia Hopson is not an Escalator.,True,The answer is no
+131,CaMia Hopson is a Person.,Person is disjoint with AcademicConference.,"Given the previous statements, is CaMia Hopson not a Tower?",No,CaMia Hopson could be a Tower.,False,The answer is no
+86,CaMia Hopson is a Person.,Person is disjoint with Nebula.,"Given the previous statements, is CaMia Hopson not a Nebula?",Yes,CaMia Hopson is not a Nebula.,True,The answer is no
+82,Cab Calloway is a Person.,Person is disjoint with MovingWalkway.,"Given the previous statements, is Cab Calloway not a MovingWalkway?",Yes,Cab Calloway is not a MovingWalkway.,True,The answer is no
+208,Cab Kaye is a Person.,Person is disjoint with Hospital.,"Given the previous statements, is Cab Kaye not a PeriodOfArtisticStyle?",No,Cab Kaye could be a PeriodOfArtisticStyle.,False,"Yes, Cabass"
+84,Cabal of Naples is a Person.,Person is disjoint with MovingWalkway.,"Given the previous statements, is Cabal of Naples not a MovingWalkway?",Yes,Cabal of Naples is not a MovingWalkway.,True,The answer is yes
+26,Caecocypris basimi is a Fish.,Fish is disjoint with Mammal.,"Given the previous statements, is Caecocypris basimi not a Mammal?",Yes,Caecocypris basimi is not a Mammal.,True,The answer is no
+217,Cab Calloway is a Person.,Person is disjoint with Port.,"Given the previous statements, is Cab Calloway not a StarCluster?",No,Cab Calloway could be a StarCluster.,False,The answer is no
+135,Cabassous is a Person.,Person is disjoint with Singer.,"Given the previous statements, is Cabassous not a Tower?",No,Cabassous could be a Tower.,False,The answer is no
+85,Cabassous is a Person.,Person is disjoint with MovingWalkway.,"Given the previous statements, is Cabassous not a MovingWalkway?",Yes,Cabassous is not a MovingWalkway.,True,The answer is no
+106,CaMia Hopson is a Person.,Person is disjoint with StarCluster.,"Given the previous statements, is CaMia Hopson not a StarCluster?",Yes,CaMia Hopson is not a StarCluster.,True,The answer is no
+181,CaMia Hopson is a Person.,Person is disjoint with Crustacean.,"Given the previous statements, is CaMia Hopson not a HistoricalPeriod?",No,CaMia Hopson could be a HistoricalPeriod.,False,The answer is no
+37,Cab Calloway is a Person.,Person is disjoint with Building.,"Given the previous statements, is Cab Calloway not a Building?",Yes,Cab Calloway is not a Building.,True,The answer is no
+174,Cabal of Naples is a Person.,Person is disjoint with Train.,"Given the previous statements, is Cabal of Naples not a FileSystem?",No,Cabal of Naples could be a FileSystem.,False,The answer is no
+48,Cab Kaye is a Person.,Person is disjoint with Mountain.,"Given the previous statements, is Cab Kaye not a Mountain?",Yes,Cab Kaye is not a Mountain.,True,"Yes, Cabass"
+206,CaMia Hopson is a Person.,Person is disjoint with File.,"Given the previous statements, is CaMia Hopson not a PeriodOfArtisticStyle?",No,CaMia Hopson could be a PeriodOfArtisticStyle.,False,The answer is no
+215,Cabassous is a Person.,Person is disjoint with Song.,"Given the previous statements, is Cabassous not a ProtohistoricalPeriod?",No,Cabassous could be a ProtohistoricalPeriod.,False,The answer is no
+45,Cabassous is a Person.,Person is disjoint with Event.,"Given the previous statements, is Cabassous not an Event?",Yes,Cabassous is not an Event.,True,The answer is no
+94,Cabal of Naples is a Person.,Person is disjoint with On-SiteTransportation.,"Given the previous statements, is Cabal of Naples not an On-SiteTransportation?",Yes,Cabal of Naples is not an On-SiteTransportation.,True,The answer is no
+136,Caecocypris basimi is a Fish.,Fish is disjoint with Tower.,"Given the previous statements, is Caecocypris basimi not a Mammal?",No,Caecocypris basimi could be a Mammal.,False,The answer is no
+121,CaMia Hopson is a Person.,Person is disjoint with NationalFootballLeagueEvent.,"Given the previous statements, is CaMia Hopson not a MeanOfTransportation?",No,CaMia Hopson could be a MeanOfTransportation.,False,The answer is no
+28,Calamostoma is a Fish.,Fish is disjoint with Mammal.,"Given the previous statements, is Calamostoma not a Mammal?",Yes,Calamostoma is not a Mammal.,True,The answer is no
+189,Cabal of Naples is a Person.,Person is disjoint with RocketEngine.,"Given the previous statements, is Cabal of Naples not a Mine?",No,Cabal of Naples could be a Mine.,False,The Cabal of
+178,Cab Kaye is a Person.,Person is disjoint with Island.,"Given the previous statements, is Cab Kaye not a GeologicalPeriod?",No,Cab Kaye could be a GeologicalPeriod.,False,The first two statements
+50,Cabassous is a Person.,Person is disjoint with Mountain.,"Given the previous statements, is Cabassous not a Mountain?",Yes,Cabassous is not a Mountain.,True,The answer is no
+99,Cabal of Naples is a Person.,Person is disjoint with PeriodOfArtisticStyle.,"Given the previous statements, is Cabal of Naples not a PeriodOfArtisticStyle?",Yes,Cabal of Naples is not a PeriodOfArtisticStyle.,True,The Cabal of
+13,Cab Kaye is a Person.,Person is disjoint with MeanOfTransportation.,"Given the previous statements, is Cab Kaye not a MeanOfTransportation?",Yes,Cab Kaye is not a MeanOfTransportation.,True,The answer is no
+7,Ca' d'Andrea is a Place.,Place is disjoint with Agent.,"Given the previous statements, is Ca' d'Andrea not an Agent?",Yes,Ca' d'Andrea is not an Agent.,True,"Yes, Cab Kay"
+20,Cabassous is a Person.,Person is disjoint with UnitOfWork.,"Given the previous statements, is Cabassous not an UnitOfWork?",Yes,Cabassous is not an UnitOfWork.,True,The Cabal of
+72,Cab Calloway is a Person.,Person is disjoint with HistoricalPeriod.,"Given the previous statements, is Cab Calloway not a HistoricalPeriod?",Yes,Cab Calloway is not a HistoricalPeriod.,True,The answer is no
+47,Cab Calloway is a Person.,Person is disjoint with Mountain.,"Given the previous statements, is Cab Calloway not a Mountain?",Yes,Cab Calloway is not a Mountain.,True,The answer is no
+184,Cabal of Naples is a Person.,Person is disjoint with RoadTunnel.,"Given the previous statements, is Cabal of Naples not a HistoricalPeriod?",No,Cabal of Naples could be a HistoricalPeriod.,False,The answer is no
+31,CaMia Hopson is a Person.,Person is disjoint with TimePeriod.,"Given the previous statements, is CaMia Hopson not a TimePeriod?",Yes,CaMia Hopson is not a TimePeriod.,True,The answer is no
+43,Cab Kaye is a Person.,Person is disjoint with Event.,"Given the previous statements, is Cab Kaye not an Event?",Yes,Cab Kaye is not an Event.,True,The answer is no
+207,Cab Calloway is a Person.,Person is disjoint with Racecourse.,"Given the previous statements, is Cab Calloway not a PeriodOfArtisticStyle?",No,Cab Calloway could be a PeriodOfArtisticStyle.,False,The answer is no
+148,Cab Kaye is a Person.,Person is disjoint with OlympicEvent.,"Given the previous statements, is Cab Kaye not a Building?",No,Cab Kaye could be a Building.,False,The answer is no
+188,Cab Kaye is a Person.,Person is disjoint with SnookerWorldRanking.,"Given the previous statements, is Cab Kaye not a Mine?",No,Cab Kaye could be a Mine.,False,The answer is no
+149,Cabal of Naples is a Person.,Person is disjoint with University.,"Given the previous statements, is Cabal of Naples not a Building?",No,Cabal of Naples could be a Building.,False,The answer is no
+36,CaMia Hopson is a Person.,Person is disjoint with Building.,"Given the previous statements, is CaMia Hopson not a Building?",Yes,CaMia Hopson is not a Building.,True,The answer is no
+132,Cab Calloway is a Person.,Person is disjoint with Pyramid.,"Given the previous statements, is Cab Calloway not a Tower?",No,Cab Calloway could be a Tower.,False,The Cabal of
+65,Cabassous is a Person.,Person is disjoint with FileSystem.,"Given the previous statements, is Cabassous not a FileSystem?",Yes,Cabassous is not a FileSystem.,True,The answer is no
+143,Cab Kaye is a Person.,Person is disjoint with CareerStation.,"Given the previous statements, is Cab Kaye not a TimePeriod?",No,Cab Kaye could be a TimePeriod.,False,The first two statements
+61,CaMia Hopson is a Person.,Person is disjoint with FileSystem.,"Given the previous statements, is CaMia Hopson not a FileSystem?",Yes,CaMia Hopson is not a FileSystem.,True,The answer is no
+220,Cabassous is a Person.,Person is disjoint with WrestlingEvent.,"Given the previous statements, is Cabassous not a StarCluster?",No,Cabassous could be a StarCluster.,False,The answer is no
+120,Ca Pierre is a Place.,Place is disjoint with MetroStation.,"Given the previous statements, is Ca Pierre not an Agent?",No,Ca Pierre could be an Agent.,False,The answer is no
+173,Cab Kaye is a Person.,Person is disjoint with AustralianFootballTeam.,"Given the previous statements, is Cab Kaye not a FileSystem?",No,Cab Kaye could be a FileSystem.,False,The answer is no
+118,Ca' d'Zan is a Place.,Place is disjoint with Cheese.,"Given the previous statements, is Ca' d'Zan not an Agent?",No,Ca' d'Zan could be an Agent.,False,The answer is no
+62,Cab Calloway is a Person.,Person is disjoint with FileSystem.,"Given the previous statements, is Cab Calloway not a FileSystem?",Yes,Cab Calloway is not a FileSystem.,True,"Yes, CaM"
+55,Cabassous is a Person.,Person is disjoint with ConveyorSystem.,"Given the previous statements, is Cabassous not a ConveyorSystem?",Yes,Cabassous is not a ConveyorSystem.,True,The answer is yes
+58,Cab Kaye is a Person.,Person is disjoint with Escalator.,"Given the previous statements, is Cab Kaye not an Escalator?",Yes,Cab Kaye is not an Escalator.,True,The answer is no
+219,Cabal of Naples is a Person.,Person is disjoint with TopicalConcept.,"Given the previous statements, is Cabal of Naples not a StarCluster?",No,Cabal of Naples could be a StarCluster.,False,The answer is no
+133,Cab Kaye is a Person.,Person is disjoint with SocietalEvent.,"Given the previous statements, is Cab Kaye not a Tower?",No,Cab Kaye could be a Tower.,False,The answer is no
+193,Cab Kaye is a Person.,Person is disjoint with Lieutenant.,"Given the previous statements, is Cab Kaye not a MovingWalkway?",No,Cab Kaye could be a MovingWalkway.,False,The answer is no
+141,CaMia Hopson is a Person.,Person is disjoint with TelevisionEpisode.,"Given the previous statements, is CaMia Hopson not a TimePeriod?",No,CaMia Hopson could be a TimePeriod.,False,The answer is no
+97,Cab Calloway is a Person.,Person is disjoint with PeriodOfArtisticStyle.,"Given the previous statements, is Cab Calloway not a PeriodOfArtisticStyle?",Yes,Cab Calloway is not a PeriodOfArtisticStyle.,True,The answer is no
+52,Cab Calloway is a Person.,Person is disjoint with ConveyorSystem.,"Given the previous statements, is Cab Calloway not a ConveyorSystem?",Yes,Cab Calloway is not a ConveyorSystem.,True,The answer is no
+111,CaMia Hopson is a Person.,Person is disjoint with Skater.,"Given the previous statements, is CaMia Hopson not an Activity?",No,CaMia Hopson could be an Activity.,False,"Yes, CaM"
+175,Cabassous is a Person.,Person is disjoint with Pope.,"Given the previous statements, is Cabassous not a FileSystem?",No,Cabassous could be a FileSystem.,False,The answer is yes
+195,Cabassous is a Person.,Person is disjoint with NetballPlayer.,"Given the previous statements, is Cabassous not a MovingWalkway?",No,Cabassous could be a MovingWalkway.,False,The answer is yes
+155,Cabassous is a Person.,Person is disjoint with Reign.,"Given the previous statements, is Cabassous not an Event?",No,Cabassous could be an Event.,False,The answer is no
+22,Cab Calloway is a Person.,Person is disjoint with Tower.,"Given the previous statements, is Cab Calloway not a Tower?",Yes,Cab Calloway is not a Tower.,True,The answer is no
+144,Cabal of Naples is a Person.,Person is disjoint with LineOfFashion.,"Given the previous statements, is Cabal of Naples not a TimePeriod?",No,Cabal of Naples could be a TimePeriod.,False,"Yes, CaM"
+128,Cab Kaye is a Person.,Person is disjoint with Canoeist.,"Given the previous statements, is Cab Kaye not an UnitOfWork?",No,Cab Kaye could be an UnitOfWork.,False,The answer is no
+104,Cabal of Naples is a Person.,Person is disjoint with ProtohistoricalPeriod.,"Given the previous statements, is Cabal of Naples not a ProtohistoricalPeriod?",Yes,Cabal of Naples is not a ProtohistoricalPeriod.,True,The first two statements
+169,Cabal of Naples is a Person.,Person is disjoint with NordicCombined.,"Given the previous statements, is Cabal of Naples not an Escalator?",No,Cabal of Naples could be an Escalator.,False,The answer is no
+98,Cab Kaye is a Person.,Person is disjoint with PeriodOfArtisticStyle.,"Given the previous statements, is Cab Kaye not a PeriodOfArtisticStyle?",Yes,Cab Kaye is not a PeriodOfArtisticStyle.,True,The answer is no
+158,Cab Kaye is a Person.,Person is disjoint with Crustacean.,"Given the previous statements, is Cab Kaye not a Mountain?",No,Cab Kaye could be a Mountain.,False,The answer is no
+49,Cabal of Naples is a Person.,Person is disjoint with Mountain.,"Given the previous statements, is Cabal of Naples not a Mountain?",Yes,Cabal of Naples is not a Mountain.,True,The answer is no
+123,Cab Kaye is a Person.,Person is disjoint with Crater.,"Given the previous statements, is Cab Kaye not a MeanOfTransportation?",No,Cab Kaye could be a MeanOfTransportation.,False,"Yes, CaM"
+129,Cabal of Naples is a Person.,Person is disjoint with Name.,"Given the previous statements, is Cabal of Naples not an UnitOfWork?",No,Cabal of Naples could be an UnitOfWork.,False,The answer is no
+138,Calamostoma is a Fish.,Fish is disjoint with Historian.,"Given the previous statements, is Calamostoma not a Mammal?",No,Calamostoma could be a Mammal.,False,The answer is no
+142,Cab Calloway is a Person.,Person is disjoint with Surfer.,"Given the previous statements, is Cab Calloway not a TimePeriod?",No,Cab Calloway could be a TimePeriod.,False,The answer is no
+170,Cabassous is a Person.,Person is disjoint with FormerMunicipality.,"Given the previous statements, is Cabassous not an Escalator?",No,Cabassous could be an Escalator.,False,The Cabassous
+66,CaMia Hopson is a Person.,Person is disjoint with GeologicalPeriod.,"Given the previous statements, is CaMia Hopson not a GeologicalPeriod?",Yes,CaMia Hopson is not a GeologicalPeriod.,True,The answer is no
+75,Cabassous is a Person.,Person is disjoint with HistoricalPeriod.,"Given the previous statements, is Cabassous not a HistoricalPeriod?",Yes,Cabassous is not a HistoricalPeriod.,True,The answer is no
+1,CaMia Hopson is a Person.,Person is disjoint with Activity.,"Given the previous statements, is CaMia Hopson not an Activity?",Yes,CaMia Hopson is not an Activity.,True,The answer is no
+91,CaMia Hopson is a Person.,Person is disjoint with On-SiteTransportation.,"Given the previous statements, is CaMia Hopson not an On-SiteTransportation?",Yes,CaMia Hopson is not an On-SiteTransportation.,True,The answer is no
+209,Cabal of Naples is a Person.,Person is disjoint with Fashion.,"Given the previous statements, is Cabal of Naples not a PeriodOfArtisticStyle?",No,Cabal of Naples could be a PeriodOfArtisticStyle.,False,The answer is no
+102,Cab Calloway is a Person.,Person is disjoint with ProtohistoricalPeriod.,"Given the previous statements, is Cab Calloway not a ProtohistoricalPeriod?",Yes,Cab Calloway is not a ProtohistoricalPeriod.,True,The answer is no
+190,Cabassous is a Person.,Person is disjoint with City.,"Given the previous statements, is Cabassous not a Mine?",No,Cabassous could be a Mine.,False,The answer is no
+6,Ca' Rezzonico is a Place.,Place is disjoint with Agent.,"Given the previous statements, is Ca' Rezzonico not an Agent?",Yes,Ca' Rezzonico is not an Agent.,True,The answer is no
+119,"Ca Goulmie, Port-Salut, Haiti is a Place.",Place is disjoint with Politician.,"Given the previous statements, is Ca Goulmie, Port-Salut, Haiti not an Agent?",No,"Ca Goulmie, Port-Salut, Haiti could be an Agent.",False,The first statement is
+2,Cab Calloway is a Person.,Person is disjoint with Activity.,"Given the previous statements, is Cab Calloway not an Activity?",Yes,Cab Calloway is not an Activity.,True,"Yes, Cab Call"
+108,Cab Kaye is a Person.,Person is disjoint with StarCluster.,"Given the previous statements, is Cab Kaye not a StarCluster?",Yes,Cab Kaye is not a StarCluster.,True,The answer is no
+192,Cab Calloway is a Person.,Person is disjoint with Biomolecule.,"Given the previous statements, is Cab Calloway not a MovingWalkway?",No,Cab Calloway could be a MovingWalkway.,False,The answer is no
+100,Cabassous is a Person.,Person is disjoint with PeriodOfArtisticStyle.,"Given the previous statements, is Cabassous not a PeriodOfArtisticStyle?",Yes,Cabassous is not a PeriodOfArtisticStyle.,True,The first two statements
+33,Cab Kaye is a Person.,Person is disjoint with TimePeriod.,"Given the previous statements, is Cab Kaye not a TimePeriod?",Yes,Cab Kaye is not a TimePeriod.,True,The answer is no
+107,Cab Calloway is a Person.,Person is disjoint with StarCluster.,"Given the previous statements, is Cab Calloway not a StarCluster?",Yes,Cab Calloway is not a StarCluster.,True,The answer is no
+40,Cabassous is a Person.,Person is disjoint with Building.,"Given the previous statements, is Cabassous not a Building?",Yes,Cabassous is not a Building.,True,"Yes, Cab Call"
+196,CaMia Hopson is a Person.,Person is disjoint with Website.,"Given the previous statements, is CaMia Hopson not a Nebula?",No,CaMia Hopson could be a Nebula.,False,The answer is no
+157,Cab Calloway is a Person.,Person is disjoint with MovingImage.,"Given the previous statements, is Cab Calloway not a Mountain?",No,Cab Calloway could be a Mountain.,False,The answer is no
+63,Cab Kaye is a Person.,Person is disjoint with FileSystem.,"Given the previous statements, is Cab Kaye not a FileSystem?",Yes,Cab Kaye is not a FileSystem.,True,"Yes, Cabass"
+150,Cabassous is a Person.,Person is disjoint with Cat.,"Given the previous statements, is Cabassous not a Building?",No,Cabassous could be a Building.,False,The answer is no
+117,Ca' d'Andrea is a Place.,Place is disjoint with Bay.,"Given the previous statements, is Ca' d'Andrea not an Agent?",No,Ca' d'Andrea could be an Agent.,False,The answer is no
+77,Cab Calloway is a Person.,Person is disjoint with Mine.,"Given the previous statements, is Cab Calloway not a Mine?",Yes,Cab Calloway is not a Mine.,True,The answer is no
+146,CaMia Hopson is a Person.,Person is disjoint with Aircraft.,"Given the previous statements, is CaMia Hopson not a Building?",No,CaMia Hopson could be a Building.,False,The answer is no
+109,Cabal of Naples is a Person.,Person is disjoint with StarCluster.,"Given the previous statements, is Cabal of Naples not a StarCluster?",Yes,Cabal of Naples is not a StarCluster.,True,The answer is no
+164,Cabal of Naples is a Person.,Person is disjoint with Blazon.,"Given the previous statements, is Cabal of Naples not a ConveyorSystem?",No,Cabal of Naples could be a ConveyorSystem.,False,The answer is no
+89,Cabal of Naples is a Person.,Person is disjoint with Nebula.,"Given the previous statements, is Cabal of Naples not a Nebula?",Yes,Cabal of Naples is not a Nebula.,True,The answer is no
+194,Cabal of Naples is a Person.,Person is disjoint with Election.,"Given the previous statements, is Cabal of Naples not a MovingWalkway?",No,Cabal of Naples could be a MovingWalkway.,False,The answer is no
+125,Cabassous is a Person.,Person is disjoint with CanadianFootballTeam.,"Given the previous statements, is Cabassous not a MeanOfTransportation?",No,Cabassous could be a MeanOfTransportation.,False,The answer is no
+160,Cabassous is a Person.,Person is disjoint with Judge.,"Given the previous statements, is Cabassous not a Mountain?",No,Cabassous could be a Mountain.,False,The answer is no
+147,Cab Calloway is a Person.,Person is disjoint with CollegeCoach.,"Given the previous statements, is Cab Calloway not a Building?",No,Cab Calloway could be a Building.,False,"Yes, CaM"
+113,Cab Kaye is a Person.,Person is disjoint with Document.,"Given the previous statements, is Cab Kaye not an Activity?",No,Cab Kaye could be an Activity.,False,The answer is no
+19,Cabal of Naples is a Person.,Person is disjoint with UnitOfWork.,"Given the previous statements, is Cabal of Naples not an UnitOfWork?",Yes,Cabal of Naples is not an UnitOfWork.,True,The answer is no
+27,Calamopleurus is a Fish.,Fish is disjoint with Mammal.,"Given the previous statements, is Calamopleurus not a Mammal?",Yes,Calamopleurus is not a Mammal.,True,The answer is no
+41,CaMia Hopson is a Person.,Person is disjoint with Event.,"Given the previous statements, is CaMia Hopson not an Event?",Yes,CaMia Hopson is not an Event.,True,The answer is no
+154,Cabal of Naples is a Person.,Person is disjoint with College.,"Given the previous statements, is Cabal of Naples not an Event?",No,Cabal of Naples could be an Event.,False,The answer is no
+39,Cabal of Naples is a Person.,Person is disjoint with Building.,"Given the previous statements, is Cabal of Naples not a Building?",Yes,Cabal of Naples is not a Building.,True,The answer is no
+90,Cabassous is a Person.,Person is disjoint with Nebula.,"Given the previous statements, is Cabassous not a Nebula?",Yes,Cabassous is not a Nebula.,True,The answer is no
+212,Cab Calloway is a Person.,Person is disjoint with Company.,"Given the previous statements, is Cab Calloway not a ProtohistoricalPeriod?",No,Cab Calloway could be a ProtohistoricalPeriod.,False,The answer is no
+10,Ca Pierre is a Place.,Place is disjoint with Agent.,"Given the previous statements, is Ca Pierre not an Agent?",Yes,Ca Pierre is not an Agent.,True,The answer is no
+57,Cab Calloway is a Person.,Person is disjoint with Escalator.,"Given the previous statements, is Cab Calloway not an Escalator?",Yes,Cab Calloway is not an Escalator.,True,The answer is no
+213,Cab Kaye is a Person.,Person is disjoint with Document.,"Given the previous statements, is Cab Kaye not a ProtohistoricalPeriod?",No,Cab Kaye could be a ProtohistoricalPeriod.,False,The answer is no
+202,Cab Calloway is a Person.,Person is disjoint with Region.,"Given the previous statements, is Cab Calloway not an On-SiteTransportation?",No,Cab Calloway could be an On-SiteTransportation.,False,The answer is no
+74,Cabal of Naples is a Person.,Person is disjoint with HistoricalPeriod.,"Given the previous statements, is Cabal of Naples not a HistoricalPeriod?",Yes,Cabal of Naples is not a HistoricalPeriod.,True,The answer is no
+92,Cab Calloway is a Person.,Person is disjoint with On-SiteTransportation.,"Given the previous statements, is Cab Calloway not an On-SiteTransportation?",Yes,Cab Calloway is not an On-SiteTransportation.,True,The answer is no
+176,CaMia Hopson is a Person.,Person is disjoint with Archeologist.,"Given the previous statements, is CaMia Hopson not a GeologicalPeriod?",No,CaMia Hopson could be a GeologicalPeriod.,False,The answer is no
+203,Cab Kaye is a Person.,Person is disjoint with SubMunicipality.,"Given the previous statements, is Cab Kaye not an On-SiteTransportation?",No,Cab Kaye could be an On-SiteTransportation.,False,The answer is no
+32,Cab Calloway is a Person.,Person is disjoint with TimePeriod.,"Given the previous statements, is Cab Calloway not a TimePeriod?",Yes,Cab Calloway is not a TimePeriod.,True,The answer is no
+70,Cabassous is a Person.,Person is disjoint with GeologicalPeriod.,"Given the previous statements, is Cabassous not a GeologicalPeriod?",Yes,Cabassous is not a GeologicalPeriod.,True,The answer is no
+130,Cabassous is a Person.,Person is disjoint with Bacteria.,"Given the previous statements, is Cabassous not an UnitOfWork?",No,Cabassous could be an UnitOfWork.,False,The answer is no
+172,Cab Calloway is a Person.,Person is disjoint with Food.,"Given the previous statements, is Cab Calloway not a FileSystem?",No,Cab Calloway could be a FileSystem.,False,The answer is no
+211,CaMia Hopson is a Person.,Person is disjoint with GolfTournament.,"Given the previous statements, is CaMia Hopson not a ProtohistoricalPeriod?",No,CaMia Hopson could be a ProtohistoricalPeriod.,False,The answer is no
+177,Cab Calloway is a Person.,Person is disjoint with VoiceActor.,"Given the previous statements, is Cab Calloway not a GeologicalPeriod?",No,Cab Calloway could be a GeologicalPeriod.,False,The Cab Callow
+200,Cabassous is a Person.,Person is disjoint with Archbishop.,"Given the previous statements, is Cabassous not a Nebula?",No,Cabassous could be a Nebula.,False,The answer is no
+96,CaMia Hopson is a Person.,Person is disjoint with PeriodOfArtisticStyle.,"Given the previous statements, is CaMia Hopson not a PeriodOfArtisticStyle?",Yes,CaMia Hopson is not a PeriodOfArtisticStyle.,True,The answer is no
+140,Calico grouper is a Fish.,Fish is disjoint with RailwayTunnel.,"Given the previous statements, is Calico grouper not a Mammal?",No,Calico grouper could be a Mammal.,False,The answer is no
+183,Cab Kaye is a Person.,Person is disjoint with ElectricalSubstation.,"Given the previous statements, is Cab Kaye not a HistoricalPeriod?",No,Cab Kaye could be a HistoricalPeriod.,False,The first two statements
+23,Cab Kaye is a Person.,Person is disjoint with Tower.,"Given the previous statements, is Cab Kaye not a Tower?",Yes,Cab Kaye is not a Tower.,True,The answer is no
+68,Cab Kaye is a Person.,Person is disjoint with GeologicalPeriod.,"Given the previous statements, is Cab Kaye not a GeologicalPeriod?",Yes,Cab Kaye is not a GeologicalPeriod.,True,The answer is no
+105,Cabassous is a Person.,Person is disjoint with ProtohistoricalPeriod.,"Given the previous statements, is Cabassous not a ProtohistoricalPeriod?",Yes,Cabassous is not a ProtohistoricalPeriod.,True,The answer is no
+30,Calico grouper is a Fish.,Fish is disjoint with Mammal.,"Given the previous statements, is Calico grouper not a Mammal?",Yes,Calico grouper is not a Mammal.,True,The answer is no
+179,Cabal of Naples is a Person.,Person is disjoint with Volcano.,"Given the previous statements, is Cabal of Naples not a GeologicalPeriod?",No,Cabal of Naples could be a GeologicalPeriod.,False,The answer is no

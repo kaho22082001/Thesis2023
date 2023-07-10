@@ -1,0 +1,76 @@
+ID,triple1,triple2,question,answer,inferred triple,label,LLM output
+40,F is a subproperty of D.,D is a subproperty of R.,"Given the previous statements, is F a subproperty of I?",No,F is not a subproperty of I.,False,H is a sub
+32,B is a subproperty of O.,O is a subproperty of T.,"Given the previous statements, is B a subproperty of V?",No,B is not a subproperty of V.,False,"No.
+C"
+28,N is a subproperty of Z.,Z is a subproperty of C.,"Given the previous statements, is N a subproperty of C?",Yes,N is a subproperty of C.,True,No.
+23,L is a subproperty of M.,M is a subproperty of W.,"Given the previous statements, is L a subproperty of W?",Yes,L is a subproperty of W.,True,No.
+53,M is a subproperty of C.,C is a subproperty of U.,"Given the previous statements, is M a subproperty of Z?",No,M is not a subproperty of Z.,False,The answer is no
+56,N is a subproperty of U.,U is a subproperty of I.,"Given the previous statements, is N a subproperty of D?",No,N is not a subproperty of D.,False,The answer is no
+29,A is a subproperty of X.,X is a subproperty of M.,"Given the previous statements, is A a subproperty of T?",No,A is not a subproperty of T.,False,"No.
+A"
+46,I is a subproperty of W.,W is a subproperty of S.,"Given the previous statements, is I a subproperty of J?",No,I is not a subproperty of J.,False,"Yes, K is"
+14,G is a subproperty of A.,A is a subproperty of V.,"Given the previous statements, is G a subproperty of V?",Yes,G is a subproperty of V.,True,"No.
+The"
+15,H is a subproperty of R.,R is a subproperty of K.,"Given the previous statements, is H a subproperty of K?",Yes,H is a subproperty of K.,True,No.
+3,B is a subproperty of K.,K is a subproperty of I.,"Given the previous statements, is B a subproperty of I?",Yes,B is a subproperty of I.,True,"No.
+The"
+19,J is a subproperty of L.,L is a subproperty of E.,"Given the previous statements, is J a subproperty of E?",Yes,J is a subproperty of E.,True,"Yes, H is"
+25,M is a subproperty of Z.,Z is a subproperty of P.,"Given the previous statements, is M a subproperty of P?",Yes,M is a subproperty of P.,True,"Yes, B is"
+41,G is a subproperty of S.,S is a subproperty of L.,"Given the previous statements, is G a subproperty of O?",No,G is not a subproperty of O.,False,The answer is no
+2,A is a subproperty of T.,T is a subproperty of B.,"Given the previous statements, is A a subproperty of B?",Yes,A is a subproperty of B.,True,The answer is no
+27,N is a subproperty of D.,D is a subproperty of B.,"Given the previous statements, is N a subproperty of B?",Yes,N is a subproperty of B.,True,"No.
+The"
+48,J is a subproperty of G.,G is a subproperty of I.,"Given the previous statements, is J a subproperty of Y?",No,J is not a subproperty of Y.,False,"No.
+G"
+47,J is a subproperty of D.,D is a subproperty of G.,"Given the previous statements, is J a subproperty of O?",No,J is not a subproperty of O.,False,No.
+22,K is a subproperty of Z.,Z is a subproperty of S.,"Given the previous statements, is K a subproperty of S?",Yes,K is a subproperty of S.,True,"No.
+J"
+17,I is a subproperty of A.,A is a subproperty of N.,"Given the previous statements, is I a subproperty of N?",Yes,I is a subproperty of N.,True,The answer is no
+4,B is a subproperty of G.,G is a subproperty of T.,"Given the previous statements, is B a subproperty of T?",Yes,B is a subproperty of T.,True,"No.
+The"
+7,D is a subproperty of Z.,Z is a subproperty of G.,"Given the previous statements, is D a subproperty of G?",Yes,D is a subproperty of G.,True,"No.
+E"
+13,G is a subproperty of J.,J is a subproperty of I.,"Given the previous statements, is G a subproperty of I?",Yes,G is a subproperty of I.,True,"No.
+The"
+6,C is a subproperty of U.,U is a subproperty of P.,"Given the previous statements, is C a subproperty of P?",Yes,C is a subproperty of P.,True,No.
+20,J is a subproperty of B.,B is a subproperty of L.,"Given the previous statements, is J a subproperty of L?",Yes,J is a subproperty of L.,True,No.
+8,D is a subproperty of S.,S is a subproperty of B.,"Given the previous statements, is D a subproperty of B?",Yes,D is a subproperty of B.,True,H is a sub
+50,K is a subproperty of B.,B is a subproperty of H.,"Given the previous statements, is K a subproperty of E?",No,K is not a subproperty of E.,False,"Yes, M is"
+18,I is a subproperty of T.,T is a subproperty of R.,"Given the previous statements, is I a subproperty of R?",Yes,I is a subproperty of R.,True,"Yes, K is"
+51,L is a subproperty of I.,I is a subproperty of E.,"Given the previous statements, is L a subproperty of N?",No,L is not a subproperty of N.,False,"No.
+The"
+43,H is a subproperty of N.,N is a subproperty of M.,"Given the previous statements, is H a subproperty of S?",No,H is not a subproperty of S.,False,H is a sub
+31,B is a subproperty of D.,D is a subproperty of Q.,"Given the previous statements, is B a subproperty of N?",No,B is not a subproperty of N.,False,"No.
+The"
+10,E is a subproperty of G.,G is a subproperty of L.,"Given the previous statements, is E a subproperty of L?",Yes,E is a subproperty of L.,True,The answer is no
+54,M is a subproperty of G.,G is a subproperty of W.,"Given the previous statements, is M a subproperty of U?",No,M is not a subproperty of U.,False,"No.
+The"
+5,C is a subproperty of O.,O is a subproperty of U.,"Given the previous statements, is C a subproperty of U?",Yes,C is a subproperty of U.,True,No.
+1,A is a subproperty of L.,L is a subproperty of J.,"Given the previous statements, is A a subproperty of J?",Yes,A is a subproperty of J.,True,No.
+44,H is a subproperty of O.,O is a subproperty of A.,"Given the previous statements, is H a subproperty of L?",No,H is not a subproperty of L.,False,"Yes, D is"
+36,D is a subproperty of G.,G is a subproperty of J.,"Given the previous statements, is D a subproperty of S?",No,D is not a subproperty of S.,False,H is a sub
+55,N is a subproperty of G.,G is a subproperty of X.,"Given the previous statements, is N a subproperty of R?",No,N is not a subproperty of R.,False,No.
+12,F is a subproperty of O.,O is a subproperty of U.,"Given the previous statements, is F a subproperty of U?",Yes,F is a subproperty of U.,True,No.
+30,A is a subproperty of X.,X is a subproperty of Y.,"Given the previous statements, is A a subproperty of H?",No,A is not a subproperty of H.,False,The answer is no
+11,F is a subproperty of A.,A is a subproperty of R.,"Given the previous statements, is F a subproperty of R?",Yes,F is a subproperty of R.,True,The answer is no
+16,H is a subproperty of G.,G is a subproperty of U.,"Given the previous statements, is H a subproperty of U?",Yes,H is a subproperty of U.,True,"Yes, F is"
+37,E is a subproperty of S.,S is a subproperty of P.,"Given the previous statements, is E a subproperty of W?",No,E is not a subproperty of W.,False,"No.
+G"
+35,D is a subproperty of O.,O is a subproperty of X.,"Given the previous statements, is D a subproperty of S?",No,D is not a subproperty of S.,False,No.
+49,K is a subproperty of U.,U is a subproperty of Z.,"Given the previous statements, is K a subproperty of Q?",No,K is not a subproperty of Q.,False,No.
+33,C is a subproperty of X.,X is a subproperty of N.,"Given the previous statements, is C a subproperty of A?",No,C is not a subproperty of A.,False,"No.
+A"
+24,L is a subproperty of Q.,Q is a subproperty of F.,"Given the previous statements, is L a subproperty of F?",Yes,L is a subproperty of F.,True,"No.
+G"
+34,C is a subproperty of F.,F is a subproperty of P.,"Given the previous statements, is C a subproperty of G?",No,C is not a subproperty of G.,False,"Yes, because F"
+52,L is a subproperty of K.,K is a subproperty of G.,"Given the previous statements, is L a subproperty of V?",No,L is not a subproperty of V.,False,"No.
+E"
+38,E is a subproperty of T.,T is a subproperty of S.,"Given the previous statements, is E a subproperty of F?",No,E is not a subproperty of F.,False,"No.
+G"
+9,E is a subproperty of Z.,Z is a subproperty of A.,"Given the previous statements, is E a subproperty of A?",Yes,E is a subproperty of A.,True,The answer is no
+26,M is a subproperty of I.,I is a subproperty of L.,"Given the previous statements, is M a subproperty of L?",Yes,M is a subproperty of L.,True,"Yes, G is"
+21,K is a subproperty of P.,P is a subproperty of M.,"Given the previous statements, is K a subproperty of M?",Yes,K is a subproperty of M.,True,"No.
+L"
+42,G is a subproperty of H.,H is a subproperty of Q.,"Given the previous statements, is G a subproperty of U?",No,G is not a subproperty of U.,False,H is a sub
+39,F is a subproperty of I.,I is a subproperty of G.,"Given the previous statements, is F a subproperty of W?",No,F is not a subproperty of W.,False,No.
+45,I is a subproperty of G.,G is a subproperty of L.,"Given the previous statements, is I a subproperty of Z?",No,I is not a subproperty of Z.,False,No.

@@ -1,0 +1,881 @@
+ID,triple1,triple2,question,answer,inferred triple,label,LLM output
+299,G is a subclass of C.,C is a subclass of X.,"Given the previous statements, is G a subclass of X?",Yes,G is a subclass of X.,True,No
+520,B is a subclass of F.,F is a subclass of Q.,"Given the previous statements, is B a subclass of R?",No,B is not a subclass of R.,False,No
+139,D is a subclass of J.,J is a subclass of B.,"Given the previous statements, is D a subclass of B?",Yes,D is a subclass of B.,True,No
+206,E is a subclass of O.,O is a subclass of F.,"Given the previous statements, is E a subclass of F?",Yes,E is a subclass of F.,True,No
+601,D is a subclass of Y.,Y is a subclass of F.,"Given the previous statements, is D a subclass of W?",No,D is not a subclass of W.,False,No
+506,B is a subclass of U.,U is a subclass of C.,"Given the previous statements, is B a subclass of X?",No,B is not a subclass of X.,False,No
+399,J is a subclass of A.,A is a subclass of L.,"Given the previous statements, is J a subclass of L?",Yes,J is a subclass of L.,True,No
+523,B is a subclass of O.,O is a subclass of V.,"Given the previous statements, is B a subclass of I?",No,B is not a subclass of I.,False,No
+627,E is a subclass of R.,R is a subclass of S.,"Given the previous statements, is E a subclass of D?",No,E is not a subclass of D.,False,No
+157,D is a subclass of E.,E is a subclass of O.,"Given the previous statements, is D a subclass of O?",Yes,D is a subclass of O.,True,No
+490,B is a subclass of T.,T is a subclass of A.,"Given the previous statements, is B a subclass of H?",No,B is not a subclass of H.,False,No
+459,A is a subclass of E.,E is a subclass of C.,"Given the previous statements, is A a subclass of M?",No,A is not a subclass of M.,False,No
+364,I is a subclass of K.,K is a subclass of C.,"Given the previous statements, is I a subclass of C?",Yes,I is a subclass of C.,True,No
+861,J is a subclass of C.,C is a subclass of S.,"Given the previous statements, is J a subclass of X?",No,J is not a subclass of X.,False,No
+716,G is a subclass of M.,M is a subclass of N.,"Given the previous statements, is G a subclass of X?",No,G is not a subclass of X.,False,No
+758,H is a subclass of L.,L is a subclass of K.,"Given the previous statements, is H a subclass of X?",No,H is not a subclass of X.,False,No
+602,D is a subclass of F.,F is a subclass of J.,"Given the previous statements, is D a subclass of O?",No,D is not a subclass of O.,False,No
+576,D is a subclass of F.,F is a subclass of E.,"Given the previous statements, is D a subclass of A?",No,D is not a subclass of A.,False,No
+473,A is a subclass of O.,O is a subclass of D.,"Given the previous statements, is A a subclass of Q?",No,A is not a subclass of Q.,False,No
+107,C is a subclass of B.,B is a subclass of J.,"Given the previous statements, is C a subclass of J?",Yes,C is a subclass of J.,True,No
+839,J is a subclass of N.,N is a subclass of F.,"Given the previous statements, is J a subclass of I?",No,J is not a subclass of I.,False,No
+53,B is a subclass of K.,K is a subclass of I.,"Given the previous statements, is B a subclass of I?",Yes,B is a subclass of I.,True,No
+744,G is a subclass of F.,F is a subclass of C.,"Given the previous statements, is G a subclass of B?",No,G is not a subclass of B.,False,No
+76,B is a subclass of A.,A is a subclass of Y.,"Given the previous statements, is B a subclass of Y?",Yes,B is a subclass of Y.,True,No
+416,J is a subclass of M.,M is a subclass of U.,"Given the previous statements, is J a subclass of U?",Yes,J is a subclass of U.,True,No
+843,J is a subclass of A.,A is a subclass of S.,"Given the previous statements, is J a subclass of K?",No,J is not a subclass of K.,False,No
+269,G is a subclass of T.,T is a subclass of U.,"Given the previous statements, is G a subclass of U?",Yes,G is a subclass of U.,True,No
+448,A is a subclass of F.,F is a subclass of M.,"Given the previous statements, is A a subclass of Z?",No,A is not a subclass of Z.,False,No
+499,B is a subclass of R.,R is a subclass of N.,"Given the previous statements, is B a subclass of W?",No,B is not a subclass of W.,False,No
+65,B is a subclass of Z.,Z is a subclass of K.,"Given the previous statements, is B a subclass of K?",Yes,B is a subclass of K.,True,No
+504,B is a subclass of E.,E is a subclass of S.,"Given the previous statements, is B a subclass of D?",No,B is not a subclass of D.,False,No
+444,A is a subclass of J.,J is a subclass of C.,"Given the previous statements, is A a subclass of B?",No,A is not a subclass of B.,False,No
+208,E is a subclass of U.,U is a subclass of J.,"Given the previous statements, is E a subclass of J?",Yes,E is a subclass of J.,True,No
+37,A is a subclass of I.,I is a subclass of C.,"Given the previous statements, is A a subclass of C?",Yes,A is a subclass of C.,True,No
+446,A is a subclass of T.,T is a subclass of Q.,"Given the previous statements, is A a subclass of Y?",No,A is not a subclass of Y.,False,No
+319,H is a subclass of W.,W is a subclass of U.,"Given the previous statements, is H a subclass of U?",Yes,H is a subclass of U.,True,No
+118,C is a subclass of X.,X is a subclass of Q.,"Given the previous statements, is C a subclass of Q?",Yes,C is a subclass of Q.,True,No
+392,I is a subclass of A.,A is a subclass of F.,"Given the previous statements, is I a subclass of F?",Yes,I is a subclass of F.,True,No
+805,I is a subclass of Q.,Q is a subclass of G.,"Given the previous statements, is I a subclass of U?",No,I is not a subclass of U.,False,No
+98,C is a subclass of U.,U is a subclass of K.,"Given the previous statements, is C a subclass of K?",Yes,C is a subclass of K.,True,No
+879,J is a subclass of O.,O is a subclass of G.,"Given the previous statements, is J a subclass of S?",No,J is not a subclass of S.,False,No
+44,A is a subclass of Q.,Q is a subclass of O.,"Given the previous statements, is A a subclass of O?",Yes,A is a subclass of O.,True,No
+409,J is a subclass of Y.,Y is a subclass of M.,"Given the previous statements, is J a subclass of M?",Yes,J is a subclass of M.,True,No
+505,B is a subclass of Q.,Q is a subclass of Y.,"Given the previous statements, is B a subclass of G?",No,B is not a subclass of G.,False,No
+353,I is a subclass of A.,A is a subclass of L.,"Given the previous statements, is I a subclass of L?",Yes,I is a subclass of L.,True,No
+554,C is a subclass of N.,N is a subclass of L.,"Given the previous statements, is C a subclass of F?",No,C is not a subclass of F.,False,No
+786,H is a subclass of N.,N is a subclass of W.,"Given the previous statements, is H a subclass of A?",No,H is not a subclass of A.,False,No
+868,J is a subclass of F.,F is a subclass of L.,"Given the previous statements, is J a subclass of Q?",No,J is not a subclass of Q.,False,No
+194,E is a subclass of A.,A is a subclass of I.,"Given the previous statements, is E a subclass of I?",Yes,E is a subclass of I.,True,No
+209,E is a subclass of L.,L is a subclass of Z.,"Given the previous statements, is E a subclass of Z?",Yes,E is a subclass of Z.,True,No
+743,G is a subclass of L.,L is a subclass of N.,"Given the previous statements, is G a subclass of I?",No,G is not a subclass of I.,False,No
+679,F is a subclass of O.,O is a subclass of C.,"Given the previous statements, is F a subclass of N?",No,F is not a subclass of N.,False,No
+664,F is a subclass of G.,G is a subclass of S.,"Given the previous statements, is F a subclass of M?",No,F is not a subclass of M.,False,No
+615,D is a subclass of O.,O is a subclass of A.,"Given the previous statements, is D a subclass of X?",No,D is not a subclass of X.,False,No
+608,D is a subclass of Q.,Q is a subclass of B.,"Given the previous statements, is D a subclass of W?",No,D is not a subclass of W.,False,No
+148,D is a subclass of G.,G is a subclass of L.,"Given the previous statements, is D a subclass of L?",Yes,D is a subclass of L.,True,No
+14,A is a subclass of Z.,Z is a subclass of D.,"Given the previous statements, is A a subclass of D?",Yes,A is a subclass of D.,True,No
+189,E is a subclass of C.,C is a subclass of V.,"Given the previous statements, is E a subclass of V?",Yes,E is a subclass of V.,True,No
+612,D is a subclass of T.,T is a subclass of L.,"Given the previous statements, is D a subclass of U?",No,D is not a subclass of U.,False,No
+433,J is a subclass of H.,H is a subclass of M.,"Given the previous statements, is J a subclass of M?",Yes,J is a subclass of M.,True,No
+310,H is a subclass of A.,A is a subclass of Q.,"Given the previous statements, is H a subclass of Q?",Yes,H is a subclass of Q.,True,No
+336,H is a subclass of E.,E is a subclass of B.,"Given the previous statements, is H a subclass of B?",Yes,H is a subclass of B.,True,No
+625,E is a subclass of Y.,Y is a subclass of O.,"Given the previous statements, is E a subclass of P?",No,E is not a subclass of P.,False,No
+137,D is a subclass of G.,G is a subclass of H.,"Given the previous statements, is D a subclass of H?",Yes,D is a subclass of H.,True,No
+552,C is a subclass of K.,K is a subclass of U.,"Given the previous statements, is C a subclass of H?",No,C is not a subclass of H.,False,No
+135,D is a subclass of L.,L is a subclass of T.,"Given the previous statements, is D a subclass of T?",Yes,D is a subclass of T.,True,No
+90,C is a subclass of S.,S is a subclass of B.,"Given the previous statements, is C a subclass of B?",Yes,C is a subclass of B.,True,No
+755,H is a subclass of O.,O is a subclass of A.,"Given the previous statements, is H a subclass of D?",No,H is not a subclass of D.,False,No
+772,H is a subclass of O.,O is a subclass of Y.,"Given the previous statements, is H a subclass of Z?",No,H is not a subclass of Z.,False,No
+261,F is a subclass of O.,O is a subclass of C.,"Given the previous statements, is F a subclass of C?",Yes,F is a subclass of C.,True,No
+592,D is a subclass of I.,I is a subclass of M.,"Given the previous statements, is D a subclass of Q?",No,D is not a subclass of Q.,False,No
+768,H is a subclass of K.,K is a subclass of M.,"Given the previous statements, is H a subclass of B?",No,H is not a subclass of B.,False,No
+159,D is a subclass of K.,K is a subclass of X.,"Given the previous statements, is D a subclass of X?",Yes,D is a subclass of X.,True,No
+795,I is a subclass of L.,L is a subclass of Z.,"Given the previous statements, is I a subclass of B?",No,I is not a subclass of B.,False,No
+316,H is a subclass of T.,T is a subclass of R.,"Given the previous statements, is H a subclass of R?",Yes,H is a subclass of R.,True,No
+522,B is a subclass of D.,D is a subclass of H.,"Given the previous statements, is B a subclass of N?",No,B is not a subclass of N.,False,No
+580,D is a subclass of M.,M is a subclass of O.,"Given the previous statements, is D a subclass of H?",No,D is not a subclass of H.,False,No
+732,G is a subclass of F.,F is a subclass of E.,"Given the previous statements, is G a subclass of Z?",No,G is not a subclass of Z.,False,No
+323,H is a subclass of Z.,Z is a subclass of N.,"Given the previous statements, is H a subclass of N?",Yes,H is a subclass of N.,True,No
+626,E is a subclass of Q.,Q is a subclass of Z.,"Given the previous statements, is E a subclass of K?",No,E is not a subclass of K.,False,No
+7,A is a subclass of M.,M is a subclass of S.,"Given the previous statements, is A a subclass of S?",Yes,A is a subclass of S.,True,No
+32,A is a subclass of C.,C is a subclass of N.,"Given the previous statements, is A a subclass of N?",Yes,A is a subclass of N.,True,No
+470,A is a subclass of W.,W is a subclass of T.,"Given the previous statements, is A a subclass of E?",No,A is not a subclass of E.,False,No
+708,G is a subclass of B.,B is a subclass of I.,"Given the previous statements, is G a subclass of O?",No,G is not a subclass of O.,False,No
+616,D is a subclass of Z.,Z is a subclass of Q.,"Given the previous statements, is D a subclass of N?",No,D is not a subclass of N.,False,No
+200,E is a subclass of F.,F is a subclass of T.,"Given the previous statements, is E a subclass of T?",Yes,E is a subclass of T.,True,No
+698,F is a subclass of S.,S is a subclass of O.,"Given the previous statements, is F a subclass of C?",No,F is not a subclass of C.,False,No
+682,F is a subclass of W.,W is a subclass of N.,"Given the previous statements, is F a subclass of V?",No,F is not a subclass of V.,False,No
+798,I is a subclass of L.,L is a subclass of Q.,"Given the previous statements, is I a subclass of E?",No,I is not a subclass of E.,False,No
+43,A is a subclass of W.,W is a subclass of U.,"Given the previous statements, is A a subclass of U?",Yes,A is a subclass of U.,True,No
+449,A is a subclass of L.,L is a subclass of P.,"Given the previous statements, is A a subclass of S?",No,A is not a subclass of S.,False,No
+22,A is a subclass of B.,B is a subclass of M.,"Given the previous statements, is A a subclass of M?",Yes,A is a subclass of M.,True,No
+631,E is a subclass of U.,U is a subclass of K.,"Given the previous statements, is E a subclass of H?",No,E is not a subclass of H.,False,No
+211,E is a subclass of G.,G is a subclass of N.,"Given the previous statements, is E a subclass of N?",Yes,E is a subclass of N.,True,No
+534,C is a subclass of A.,A is a subclass of Z.,"Given the previous statements, is C a subclass of K?",No,C is not a subclass of K.,False,No
+330,H is a subclass of M.,M is a subclass of Y.,"Given the previous statements, is H a subclass of Y?",Yes,H is a subclass of Y.,True,No
+438,J is a subclass of X.,X is a subclass of Z.,"Given the previous statements, is J a subclass of Z?",Yes,J is a subclass of Z.,True,No
+214,E is a subclass of X.,X is a subclass of L.,"Given the previous statements, is E a subclass of L?",Yes,E is a subclass of L.,True,No
+355,I is a subclass of M.,M is a subclass of L.,"Given the previous statements, is I a subclass of L?",Yes,I is a subclass of L.,True,No
+183,E is a subclass of I.,I is a subclass of K.,"Given the previous statements, is E a subclass of K?",Yes,E is a subclass of K.,True,No
+356,I is a subclass of O.,O is a subclass of A.,"Given the previous statements, is I a subclass of A?",Yes,I is a subclass of A.,True,No
+562,C is a subclass of H.,H is a subclass of Q.,"Given the previous statements, is C a subclass of P?",No,C is not a subclass of P.,False,No
+372,I is a subclass of M.,M is a subclass of J.,"Given the previous statements, is I a subclass of J?",Yes,I is a subclass of J.,True,No
+521,B is a subclass of A.,A is a subclass of J.,"Given the previous statements, is B a subclass of U?",No,B is not a subclass of U.,False,No
+295,G is a subclass of Q.,Q is a subclass of M.,"Given the previous statements, is G a subclass of M?",Yes,G is a subclass of M.,True,No
+51,B is a subclass of X.,X is a subclass of O.,"Given the previous statements, is B a subclass of O?",Yes,B is a subclass of O.,True,No
+862,J is a subclass of R.,R is a subclass of H.,"Given the previous statements, is J a subclass of E?",No,J is not a subclass of E.,False,No
+204,E is a subclass of R.,R is a subclass of N.,"Given the previous statements, is E a subclass of N?",Yes,E is a subclass of N.,True,No
+606,D is a subclass of Q.,Q is a subclass of W.,"Given the previous statements, is D a subclass of J?",No,D is not a subclass of J.,False,No
+823,I is a subclass of R.,R is a subclass of Z.,"Given the previous statements, is I a subclass of D?",No,I is not a subclass of D.,False,No
+119,C is a subclass of K.,K is a subclass of N.,"Given the previous statements, is C a subclass of N?",Yes,C is a subclass of N.,True,No
+526,B is a subclass of M.,M is a subclass of O.,"Given the previous statements, is B a subclass of Z?",No,B is not a subclass of Z.,False,No
+408,J is a subclass of H.,H is a subclass of W.,"Given the previous statements, is J a subclass of W?",Yes,J is a subclass of W.,True,No
+317,H is a subclass of G.,G is a subclass of D.,"Given the previous statements, is H a subclass of D?",Yes,H is a subclass of D.,True,No
+272,G is a subclass of J.,J is a subclass of M.,"Given the previous statements, is G a subclass of M?",Yes,G is a subclass of M.,True,No
+503,B is a subclass of V.,V is a subclass of N.,"Given the previous statements, is B a subclass of Y?",No,B is not a subclass of Y.,False,No
+757,H is a subclass of K.,K is a subclass of R.,"Given the previous statements, is H a subclass of M?",No,H is not a subclass of M.,False,No
+756,H is a subclass of C.,C is a subclass of V.,"Given the previous statements, is H a subclass of Y?",No,H is not a subclass of Y.,False,No
+564,C is a subclass of U.,U is a subclass of X.,"Given the previous statements, is C a subclass of H?",No,C is not a subclass of H.,False,No
+467,A is a subclass of Q.,Q is a subclass of P.,"Given the previous statements, is A a subclass of Z?",No,A is not a subclass of Z.,False,No
+596,D is a subclass of T.,T is a subclass of M.,"Given the previous statements, is D a subclass of W?",No,D is not a subclass of W.,False,No
+48,B is a subclass of V.,V is a subclass of Z.,"Given the previous statements, is B a subclass of Z?",Yes,B is a subclass of Z.,True,No
+52,B is a subclass of L.,L is a subclass of X.,"Given the previous statements, is B a subclass of X?",Yes,B is a subclass of X.,True,No
+121,C is a subclass of M.,M is a subclass of Y.,"Given the previous statements, is C a subclass of Y?",Yes,C is a subclass of Y.,True,No
+807,I is a subclass of F.,F is a subclass of V.,"Given the previous statements, is I a subclass of D?",No,I is not a subclass of D.,False,No
+268,G is a subclass of W.,W is a subclass of Y.,"Given the previous statements, is G a subclass of Y?",Yes,G is a subclass of Y.,True,No
+207,E is a subclass of N.,N is a subclass of X.,"Given the previous statements, is E a subclass of X?",Yes,E is a subclass of X.,True,No
+378,I is a subclass of Z.,Z is a subclass of J.,"Given the previous statements, is I a subclass of J?",Yes,I is a subclass of J.,True,No
+622,E is a subclass of N.,N is a subclass of F.,"Given the previous statements, is E a subclass of K?",No,E is not a subclass of K.,False,No
+179,E is a subclass of B.,B is a subclass of V.,"Given the previous statements, is E a subclass of V?",Yes,E is a subclass of V.,True,No
+563,C is a subclass of D.,D is a subclass of U.,"Given the previous statements, is C a subclass of T?",No,C is not a subclass of T.,False,No
+277,G is a subclass of M.,M is a subclass of X.,"Given the previous statements, is G a subclass of X?",Yes,G is a subclass of X.,True,No
+436,J is a subclass of M.,M is a subclass of Z.,"Given the previous statements, is J a subclass of Z?",Yes,J is a subclass of Z.,True,No
+38,A is a subclass of T.,T is a subclass of Q.,"Given the previous statements, is A a subclass of Q?",Yes,A is a subclass of Q.,True,No
+651,E is a subclass of L.,L is a subclass of R.,"Given the previous statements, is E a subclass of S?",No,E is not a subclass of S.,False,No
+479,A is a subclass of J.,J is a subclass of P.,"Given the previous statements, is A a subclass of K?",No,A is not a subclass of K.,False,No
+484,A is a subclass of O.,O is a subclass of Y.,"Given the previous statements, is A a subclass of P?",No,A is not a subclass of P.,False,No
+611,D is a subclass of K.,K is a subclass of W.,"Given the previous statements, is D a subclass of F?",No,D is not a subclass of F.,False,No
+12,A is a subclass of E.,E is a subclass of M.,"Given the previous statements, is A a subclass of M?",Yes,A is a subclass of M.,True,No
+279,G is a subclass of E.,E is a subclass of F.,"Given the previous statements, is G a subclass of F?",Yes,G is a subclass of F.,True,No
+821,I is a subclass of P.,P is a subclass of C.,"Given the previous statements, is I a subclass of A?",No,I is not a subclass of A.,False,No
+703,F is a subclass of U.,U is a subclass of Z.,"Given the previous statements, is F a subclass of I?",No,F is not a subclass of I.,False,No
+515,B is a subclass of K.,K is a subclass of F.,"Given the previous statements, is B a subclass of R?",No,B is not a subclass of R.,False,No
+769,H is a subclass of X.,X is a subclass of R.,"Given the previous statements, is H a subclass of P?",No,H is not a subclass of P.,False,No
+591,D is a subclass of O.,O is a subclass of Z.,"Given the previous statements, is D a subclass of T?",No,D is not a subclass of T.,False,No
+138,D is a subclass of R.,R is a subclass of C.,"Given the previous statements, is D a subclass of C?",Yes,D is a subclass of C.,True,No
+686,F is a subclass of S.,S is a subclass of U.,"Given the previous statements, is F a subclass of Z?",No,F is not a subclass of Z.,False,No
+93,C is a subclass of J.,J is a subclass of T.,"Given the previous statements, is C a subclass of T?",Yes,C is a subclass of T.,True,No
+376,I is a subclass of M.,M is a subclass of G.,"Given the previous statements, is I a subclass of G?",Yes,I is a subclass of G.,True,No
+255,F is a subclass of B.,B is a subclass of C.,"Given the previous statements, is F a subclass of C?",Yes,F is a subclass of C.,True,No
+23,A is a subclass of U.,U is a subclass of I.,"Given the previous statements, is A a subclass of I?",Yes,A is a subclass of I.,True,No
+2,A is a subclass of H.,H is a subclass of W.,"Given the previous statements, is A a subclass of W?",Yes,A is a subclass of W.,True,No
+328,H is a subclass of X.,X is a subclass of J.,"Given the previous statements, is H a subclass of J?",Yes,H is a subclass of J.,True,No
+193,E is a subclass of K.,K is a subclass of Q.,"Given the previous statements, is E a subclass of Q?",Yes,E is a subclass of Q.,True,No
+778,H is a subclass of I.,I is a subclass of L.,"Given the previous statements, is H a subclass of E?",No,H is not a subclass of E.,False,No
+532,C is a subclass of M.,M is a subclass of L.,"Given the previous statements, is C a subclass of D?",No,C is not a subclass of D.,False,No
+418,J is a subclass of N.,N is a subclass of A.,"Given the previous statements, is J a subclass of A?",Yes,J is a subclass of A.,True,No
+362,I is a subclass of S.,S is a subclass of F.,"Given the previous statements, is I a subclass of F?",Yes,I is a subclass of F.,True,No
+536,C is a subclass of S.,S is a subclass of F.,"Given the previous statements, is C a subclass of X?",No,C is not a subclass of X.,False,No
+443,A is a subclass of P.,P is a subclass of L.,"Given the previous statements, is A a subclass of X?",No,A is not a subclass of X.,False,No
+81,B is a subclass of T.,T is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+77,B is a subclass of Z.,Z is a subclass of K.,"Given the previous statements, is B a subclass of K?",Yes,B is a subclass of K.,True,No
+382,I is a subclass of N.,N is a subclass of P.,"Given the previous statements, is I a subclass of P?",Yes,I is a subclass of P.,True,No
+89,C is a subclass of Q.,Q is a subclass of S.,"Given the previous statements, is C a subclass of S?",Yes,C is a subclass of S.,True,No
+653,E is a subclass of Z.,Z is a subclass of A.,"Given the previous statements, is E a subclass of H?",No,E is not a subclass of H.,False,No
+791,H is a subclass of E.,E is a subclass of U.,"Given the previous statements, is H a subclass of K?",No,H is not a subclass of K.,False,No
+472,A is a subclass of T.,T is a subclass of C.,"Given the previous statements, is A a subclass of Y?",No,A is not a subclass of Y.,False,Yes
+857,J is a subclass of K.,K is a subclass of Y.,"Given the previous statements, is J a subclass of U?",No,J is not a subclass of U.,False,No
+381,I is a subclass of B.,B is a subclass of Q.,"Given the previous statements, is I a subclass of Q?",Yes,I is a subclass of Q.,True,No
+54,B is a subclass of U.,U is a subclass of Z.,"Given the previous statements, is B a subclass of Z?",Yes,B is a subclass of Z.,True,No
+533,C is a subclass of P.,P is a subclass of B.,"Given the previous statements, is C a subclass of L?",No,C is not a subclass of L.,False,No
+693,F is a subclass of A.,A is a subclass of R.,"Given the previous statements, is F a subclass of T?",No,F is not a subclass of T.,False,No
+560,C is a subclass of S.,S is a subclass of P.,"Given the previous statements, is C a subclass of Q?",No,C is not a subclass of Q.,False,No
+766,H is a subclass of F.,F is a subclass of N.,"Given the previous statements, is H a subclass of S?",No,H is not a subclass of S.,False,No
+373,I is a subclass of Y.,Y is a subclass of E.,"Given the previous statements, is I a subclass of E?",Yes,I is a subclass of E.,True,No
+218,E is a subclass of S.,S is a subclass of W.,"Given the previous statements, is E a subclass of W?",Yes,E is a subclass of W.,True,No
+171,D is a subclass of I.,I is a subclass of T.,"Given the previous statements, is D a subclass of T?",Yes,D is a subclass of T.,True,No
+345,H is a subclass of U.,U is a subclass of X.,"Given the previous statements, is H a subclass of X?",Yes,H is a subclass of X.,True,No
+25,A is a subclass of V.,V is a subclass of J.,"Given the previous statements, is A a subclass of J?",Yes,A is a subclass of J.,True,No
+115,C is a subclass of X.,X is a subclass of O.,"Given the previous statements, is C a subclass of O?",Yes,C is a subclass of O.,True,No
+67,B is a subclass of G.,G is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+79,B is a subclass of Z.,Z is a subclass of K.,"Given the previous statements, is B a subclass of K?",Yes,B is a subclass of K.,True,No
+824,I is a subclass of R.,R is a subclass of U.,"Given the previous statements, is I a subclass of X?",No,I is not a subclass of X.,False,No
+428,J is a subclass of L.,L is a subclass of P.,"Given the previous statements, is J a subclass of P?",Yes,J is a subclass of P.,True,No
+271,G is a subclass of L.,L is a subclass of N.,"Given the previous statements, is G a subclass of N?",Yes,G is a subclass of N.,True,No
+106,C is a subclass of D.,D is a subclass of V.,"Given the previous statements, is C a subclass of V?",Yes,C is a subclass of V.,True,No
+221,F is a subclass of I.,I is a subclass of E.,"Given the previous statements, is F a subclass of E?",Yes,F is a subclass of E.,True,No
+866,J is a subclass of K.,K is a subclass of U.,"Given the previous statements, is J a subclass of X?",No,J is not a subclass of X.,False,No
+145,D is a subclass of V.,V is a subclass of T.,"Given the previous statements, is D a subclass of T?",Yes,D is a subclass of T.,True,No
+332,H is a subclass of G.,G is a subclass of O.,"Given the previous statements, is H a subclass of O?",Yes,H is a subclass of O.,True,No
+738,G is a subclass of B.,B is a subclass of T.,"Given the previous statements, is G a subclass of L?",No,G is not a subclass of L.,False,No
+860,J is a subclass of R.,R is a subclass of C.,"Given the previous statements, is J a subclass of S?",No,J is not a subclass of S.,False,No
+370,I is a subclass of V.,V is a subclass of L.,"Given the previous statements, is I a subclass of L?",Yes,I is a subclass of L.,True,No
+717,G is a subclass of E.,E is a subclass of D.,"Given the previous statements, is G a subclass of Y?",No,G is not a subclass of Y.,False,No
+859,J is a subclass of L.,L is a subclass of U.,"Given the previous statements, is J a subclass of P?",No,J is not a subclass of P.,False,No
+773,H is a subclass of M.,M is a subclass of A.,"Given the previous statements, is H a subclass of U?",No,H is not a subclass of U.,False,No
+134,D is a subclass of Y.,Y is a subclass of Z.,"Given the previous statements, is D a subclass of Z?",Yes,D is a subclass of Z.,True,No
+663,F is a subclass of Q.,Q is a subclass of G.,"Given the previous statements, is F a subclass of U?",No,F is not a subclass of U.,False,No
+237,F is a subclass of M.,M is a subclass of Z.,"Given the previous statements, is F a subclass of Z?",Yes,F is a subclass of Z.,True,No
+395,I is a subclass of O.,O is a subclass of M.,"Given the previous statements, is I a subclass of M?",Yes,I is a subclass of M.,True,No
+630,E is a subclass of S.,S is a subclass of D.,"Given the previous statements, is E a subclass of A?",No,E is not a subclass of A.,False,No
+389,I is a subclass of G.,G is a subclass of C.,"Given the previous statements, is I a subclass of C?",Yes,I is a subclass of C.,True,No
+854,J is a subclass of D.,D is a subclass of K.,"Given the previous statements, is J a subclass of C?",No,J is not a subclass of C.,False,No
+13,A is a subclass of Q.,Q is a subclass of X.,"Given the previous statements, is A a subclass of X?",Yes,A is a subclass of X.,True,No
+656,E is a subclass of K.,K is a subclass of Q.,"Given the previous statements, is E a subclass of Y?",No,E is not a subclass of Y.,False,No
+831,I is a subclass of E.,E is a subclass of M.,"Given the previous statements, is I a subclass of Y?",No,I is not a subclass of Y.,False,No
+340,H is a subclass of Y.,Y is a subclass of K.,"Given the previous statements, is H a subclass of K?",Yes,H is a subclass of K.,True,No
+742,G is a subclass of I.,I is a subclass of N.,"Given the previous statements, is G a subclass of F?",No,G is not a subclass of F.,False,No
+670,F is a subclass of N.,N is a subclass of M.,"Given the previous statements, is F a subclass of H?",No,F is not a subclass of H.,False,No
+9,A is a subclass of Z.,Z is a subclass of K.,"Given the previous statements, is A a subclass of K?",Yes,A is a subclass of K.,True,No
+177,E is a subclass of F.,F is a subclass of X.,"Given the previous statements, is E a subclass of X?",Yes,E is a subclass of X.,True,No
+801,I is a subclass of U.,U is a subclass of B.,"Given the previous statements, is I a subclass of C?",No,I is not a subclass of C.,False,No
+224,F is a subclass of V.,V is a subclass of D.,"Given the previous statements, is F a subclass of D?",Yes,F is a subclass of D.,True,No
+104,C is a subclass of D.,D is a subclass of B.,"Given the previous statements, is C a subclass of B?",Yes,C is a subclass of B.,True,No
+315,H is a subclass of F.,F is a subclass of X.,"Given the previous statements, is H a subclass of X?",Yes,H is a subclass of X.,True,No
+3,A is a subclass of I.,I is a subclass of U.,"Given the previous statements, is A a subclass of U?",Yes,A is a subclass of U.,True,No
+16,A is a subclass of F.,F is a subclass of N.,"Given the previous statements, is A a subclass of N?",Yes,A is a subclass of N.,True,No
+695,F is a subclass of K.,K is a subclass of L.,"Given the previous statements, is F a subclass of J?",No,F is not a subclass of J.,False,No
+366,I is a subclass of W.,W is a subclass of O.,"Given the previous statements, is I a subclass of O?",Yes,I is a subclass of O.,True,No
+397,J is a subclass of V.,V is a subclass of U.,"Given the previous statements, is J a subclass of U?",Yes,J is a subclass of U.,True,No
+260,F is a subclass of U.,U is a subclass of X.,"Given the previous statements, is F a subclass of X?",Yes,F is a subclass of X.,True,No
+442,A is a subclass of R.,R is a subclass of J.,"Given the previous statements, is A a subclass of T?",No,A is not a subclass of T.,False,No
+88,B is a subclass of V.,V is a subclass of P.,"Given the previous statements, is B a subclass of P?",Yes,B is a subclass of P.,True,No
+740,G is a subclass of S.,S is a subclass of H.,"Given the previous statements, is G a subclass of C?",No,G is not a subclass of C.,False,No
+151,D is a subclass of I.,I is a subclass of M.,"Given the previous statements, is D a subclass of M?",Yes,D is a subclass of M.,True,No
+321,H is a subclass of K.,K is a subclass of F.,"Given the previous statements, is H a subclass of F?",Yes,H is a subclass of F.,True,No
+85,B is a subclass of X.,X is a subclass of D.,"Given the previous statements, is B a subclass of D?",Yes,B is a subclass of D.,True,No
+491,B is a subclass of C.,C is a subclass of Q.,"Given the previous statements, is B a subclass of L?",No,B is not a subclass of L.,False,No
+127,C is a subclass of W.,W is a subclass of F.,"Given the previous statements, is C a subclass of F?",Yes,C is a subclass of F.,True,No
+199,E is a subclass of S.,S is a subclass of N.,"Given the previous statements, is E a subclass of N?",Yes,E is a subclass of N.,True,No
+36,A is a subclass of J.,J is a subclass of E.,"Given the previous statements, is A a subclass of E?",Yes,A is a subclass of E.,True,No
+486,B is a subclass of Y.,Y is a subclass of V.,"Given the previous statements, is B a subclass of N?",No,B is not a subclass of N.,False,No
+652,E is a subclass of L.,L is a subclass of Z.,"Given the previous statements, is E a subclass of J?",No,E is not a subclass of J.,False,No
+147,D is a subclass of S.,S is a subclass of I.,"Given the previous statements, is D a subclass of I?",Yes,D is a subclass of I.,True,No
+276,G is a subclass of F.,F is a subclass of J.,"Given the previous statements, is G a subclass of J?",Yes,G is a subclass of J.,True,No
+830,I is a subclass of G.,G is a subclass of Y.,"Given the previous statements, is I a subclass of D?",No,I is not a subclass of D.,False,No
+128,C is a subclass of Y.,Y is a subclass of D.,"Given the previous statements, is C a subclass of D?",Yes,C is a subclass of D.,True,No
+487,B is a subclass of P.,P is a subclass of Y.,"Given the previous statements, is B a subclass of E?",No,B is not a subclass of E.,False,No
+582,D is a subclass of R.,R is a subclass of H.,"Given the previous statements, is D a subclass of S?",No,D is not a subclass of S.,False,No
+441,A is a subclass of R.,R is a subclass of F.,"Given the previous statements, is A a subclass of G?",No,A is not a subclass of G.,False,No
+26,A is a subclass of O.,O is a subclass of Q.,"Given the previous statements, is A a subclass of Q?",Yes,A is a subclass of Q.,True,No
+243,F is a subclass of L.,L is a subclass of H.,"Given the previous statements, is F a subclass of H?",Yes,F is a subclass of H.,True,No
+633,E is a subclass of I.,I is a subclass of K.,"Given the previous statements, is E a subclass of W?",No,E is not a subclass of W.,False,No
+41,A is a subclass of Y.,Y is a subclass of H.,"Given the previous statements, is A a subclass of H?",Yes,A is a subclass of H.,True,No
+309,H is a subclass of B.,B is a subclass of S.,"Given the previous statements, is H a subclass of S?",Yes,H is a subclass of S.,True,No
+588,D is a subclass of T.,T is a subclass of Z.,"Given the previous statements, is D a subclass of K?",No,D is not a subclass of K.,False,No
+685,F is a subclass of O.,O is a subclass of E.,"Given the previous statements, is F a subclass of I?",No,F is not a subclass of I.,False,No
+555,C is a subclass of X.,X is a subclass of O.,"Given the previous statements, is C a subclass of D?",No,C is not a subclass of D.,False,No
+647,E is a subclass of D.,D is a subclass of T.,"Given the previous statements, is E a subclass of Y?",No,E is not a subclass of Y.,False,No
+512,B is a subclass of Q.,Q is a subclass of J.,"Given the previous statements, is B a subclass of O?",No,B is not a subclass of O.,False,No
+531,C is a subclass of A.,A is a subclass of H.,"Given the previous statements, is C a subclass of K?",No,C is not a subclass of K.,False,No
+70,B is a subclass of Q.,Q is a subclass of W.,"Given the previous statements, is B a subclass of W?",Yes,B is a subclass of W.,True,No
+569,C is a subclass of L.,L is a subclass of F.,"Given the previous statements, is C a subclass of W?",No,C is not a subclass of W.,False,No
+833,I is a subclass of N.,N is a subclass of Z.,"Given the previous statements, is I a subclass of C?",No,I is not a subclass of C.,False,No
+73,B is a subclass of K.,K is a subclass of P.,"Given the previous statements, is B a subclass of P?",Yes,B is a subclass of P.,True,No
+83,B is a subclass of P.,P is a subclass of W.,"Given the previous statements, is B a subclass of W?",Yes,B is a subclass of W.,True,No
+575,D is a subclass of X.,X is a subclass of U.,"Given the previous statements, is D a subclass of E?",No,D is not a subclass of E.,False,No
+238,F is a subclass of E.,E is a subclass of V.,"Given the previous statements, is F a subclass of V?",Yes,F is a subclass of V.,True,No
+745,G is a subclass of W.,W is a subclass of I.,"Given the previous statements, is G a subclass of P?",No,G is not a subclass of P.,False,No
+748,G is a subclass of K.,K is a subclass of L.,"Given the previous statements, is G a subclass of S?",No,G is not a subclass of S.,False,No
+662,F is a subclass of R.,R is a subclass of G.,"Given the previous statements, is F a subclass of T?",No,F is not a subclass of T.,False,No
+853,J is a subclass of R.,R is a subclass of V.,"Given the previous statements, is J a subclass of W?",No,J is not a subclass of W.,False,No
+420,J is a subclass of A.,A is a subclass of W.,"Given the previous statements, is J a subclass of W?",Yes,J is a subclass of W.,True,No
+680,F is a subclass of S.,S is a subclass of O.,"Given the previous statements, is F a subclass of U?",No,F is not a subclass of U.,False,No
+91,C is a subclass of M.,M is a subclass of V.,"Given the previous statements, is C a subclass of V?",Yes,C is a subclass of V.,True,No
+847,J is a subclass of A.,A is a subclass of L.,"Given the previous statements, is J a subclass of G?",No,J is not a subclass of G.,False,No
+809,I is a subclass of L.,L is a subclass of K.,"Given the previous statements, is I a subclass of A?",No,I is not a subclass of A.,False,No
+196,E is a subclass of H.,H is a subclass of Q.,"Given the previous statements, is E a subclass of Q?",Yes,E is a subclass of Q.,True,No
+728,G is a subclass of X.,X is a subclass of O.,"Given the previous statements, is G a subclass of H?",No,G is not a subclass of H.,False,No
+291,G is a subclass of U.,U is a subclass of Y.,"Given the previous statements, is G a subclass of Y?",Yes,G is a subclass of Y.,True,No
+572,C is a subclass of W.,W is a subclass of H.,"Given the previous statements, is C a subclass of T?",No,C is not a subclass of T.,False,No
+163,D is a subclass of B.,B is a subclass of I.,"Given the previous statements, is D a subclass of I?",Yes,D is a subclass of I.,True,No
+762,H is a subclass of C.,C is a subclass of B.,"Given the previous statements, is H a subclass of Q?",No,H is not a subclass of Q.,False,No
+358,I is a subclass of G.,G is a subclass of F.,"Given the previous statements, is I a subclass of F?",Yes,I is a subclass of F.,True,No
+320,H is a subclass of N.,N is a subclass of U.,"Given the previous statements, is H a subclass of U?",Yes,H is a subclass of U.,True,No
+586,D is a subclass of K.,K is a subclass of S.,"Given the previous statements, is D a subclass of B?",No,D is not a subclass of B.,False,No
+5,A is a subclass of S.,S is a subclass of W.,"Given the previous statements, is A a subclass of W?",Yes,A is a subclass of W.,True,No
+21,A is a subclass of W.,W is a subclass of Q.,"Given the previous statements, is A a subclass of Q?",Yes,A is a subclass of Q.,True,No
+304,G is a subclass of O.,O is a subclass of U.,"Given the previous statements, is G a subclass of U?",Yes,G is a subclass of U.,True,No
+445,A is a subclass of H.,H is a subclass of U.,"Given the previous statements, is A a subclass of T?",No,A is not a subclass of T.,False,No
+759,H is a subclass of G.,G is a subclass of X.,"Given the previous statements, is H a subclass of P?",No,H is not a subclass of P.,False,No
+244,F is a subclass of H.,H is a subclass of U.,"Given the previous statements, is F a subclass of U?",Yes,F is a subclass of U.,True,No
+283,G is a subclass of O.,O is a subclass of J.,"Given the previous statements, is G a subclass of J?",Yes,G is a subclass of J.,True,No
+49,B is a subclass of E.,E is a subclass of D.,"Given the previous statements, is B a subclass of D?",Yes,B is a subclass of D.,True,No
+425,J is a subclass of L.,L is a subclass of S.,"Given the previous statements, is J a subclass of S?",Yes,J is a subclass of S.,True,No
+581,D is a subclass of P.,P is a subclass of G.,"Given the previous statements, is D a subclass of O?",No,D is not a subclass of O.,False,No
+266,G is a subclass of L.,L is a subclass of P.,"Given the previous statements, is G a subclass of P?",Yes,G is a subclass of P.,True,No
+735,G is a subclass of X.,X is a subclass of W.,"Given the previous statements, is G a subclass of Y?",No,G is not a subclass of Y.,False,No
+116,C is a subclass of X.,X is a subclass of J.,"Given the previous statements, is C a subclass of J?",Yes,C is a subclass of J.,True,No
+763,H is a subclass of I.,I is a subclass of J.,"Given the previous statements, is H a subclass of B?",No,H is not a subclass of B.,False,No
+324,H is a subclass of Y.,Y is a subclass of F.,"Given the previous statements, is H a subclass of F?",Yes,H is a subclass of F.,True,No
+753,H is a subclass of D.,D is a subclass of O.,"Given the previous statements, is H a subclass of U?",No,H is not a subclass of U.,False,No
+180,E is a subclass of G.,G is a subclass of A.,"Given the previous statements, is E a subclass of A?",Yes,E is a subclass of A.,True,No
+856,J is a subclass of W.,W is a subclass of M.,"Given the previous statements, is J a subclass of Q?",No,J is not a subclass of Q.,False,No
+82,B is a subclass of D.,D is a subclass of L.,"Given the previous statements, is B a subclass of L?",Yes,B is a subclass of L.,True,No
+242,F is a subclass of S.,S is a subclass of X.,"Given the previous statements, is F a subclass of X?",Yes,F is a subclass of X.,True,No
+337,H is a subclass of Y.,Y is a subclass of Z.,"Given the previous statements, is H a subclass of Z?",Yes,H is a subclass of Z.,True,No
+542,C is a subclass of G.,G is a subclass of P.,"Given the previous statements, is C a subclass of M?",No,C is not a subclass of M.,False,No
+704,F is a subclass of S.,S is a subclass of Y.,"Given the previous statements, is F a subclass of X?",No,F is not a subclass of X.,False,No
+225,F is a subclass of G.,G is a subclass of X.,"Given the previous statements, is F a subclass of X?",Yes,F is a subclass of X.,True,No
+175,D is a subclass of J.,J is a subclass of F.,"Given the previous statements, is D a subclass of F?",Yes,D is a subclass of F.,True,No
+535,C is a subclass of O.,O is a subclass of H.,"Given the previous statements, is C a subclass of J?",No,C is not a subclass of J.,False,No
+155,D is a subclass of I.,I is a subclass of V.,"Given the previous statements, is D a subclass of V?",Yes,D is a subclass of V.,True,No
+639,E is a subclass of V.,V is a subclass of J.,"Given the previous statements, is E a subclass of M?",No,E is not a subclass of M.,False,No
+527,B is a subclass of S.,S is a subclass of Y.,"Given the previous statements, is B a subclass of W?",No,B is not a subclass of W.,False,No
+613,D is a subclass of Q.,Q is a subclass of J.,"Given the previous statements, is D a subclass of K?",No,D is not a subclass of K.,False,No
+227,F is a subclass of L.,L is a subclass of Q.,"Given the previous statements, is F a subclass of Q?",Yes,F is a subclass of Q.,True,No
+234,F is a subclass of U.,U is a subclass of W.,"Given the previous statements, is F a subclass of W?",Yes,F is a subclass of W.,True,No
+675,F is a subclass of B.,B is a subclass of J.,"Given the previous statements, is F a subclass of C?",No,F is not a subclass of C.,False,No
+469,A is a subclass of U.,U is a subclass of E.,"Given the previous statements, is A a subclass of B?",No,A is not a subclass of B.,False,Yes
+437,J is a subclass of Z.,Z is a subclass of K.,"Given the previous statements, is J a subclass of K?",Yes,J is a subclass of K.,True,No
+494,B is a subclass of V.,V is a subclass of Y.,"Given the previous statements, is B a subclass of H?",No,B is not a subclass of H.,False,No
+869,J is a subclass of A.,A is a subclass of W.,"Given the previous statements, is J a subclass of L?",No,J is not a subclass of L.,False,No
+267,G is a subclass of C.,C is a subclass of H.,"Given the previous statements, is G a subclass of H?",Yes,G is a subclass of H.,True,No
+259,F is a subclass of S.,S is a subclass of A.,"Given the previous statements, is F a subclass of A?",Yes,F is a subclass of A.,True,No
+351,H is a subclass of F.,F is a subclass of S.,"Given the previous statements, is H a subclass of S?",Yes,H is a subclass of S.,True,No
+162,D is a subclass of N.,N is a subclass of F.,"Given the previous statements, is D a subclass of F?",Yes,D is a subclass of F.,True,No
+514,B is a subclass of O.,O is a subclass of M.,"Given the previous statements, is B a subclass of G?",No,B is not a subclass of G.,False,No
+528,B is a subclass of I.,I is a subclass of Z.,"Given the previous statements, is B a subclass of H?",No,B is not a subclass of H.,False,No
+556,C is a subclass of W.,W is a subclass of F.,"Given the previous statements, is C a subclass of V?",No,C is not a subclass of V.,False,No
+60,B is a subclass of N.,N is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+649,E is a subclass of X.,X is a subclass of N.,"Given the previous statements, is E a subclass of I?",No,E is not a subclass of I.,False,No
+341,H is a subclass of R.,R is a subclass of Q.,"Given the previous statements, is H a subclass of Q?",Yes,H is a subclass of Q.,True,No
+751,H is a subclass of P.,P is a subclass of Z.,"Given the previous statements, is H a subclass of M?",No,H is not a subclass of M.,False,No
+422,J is a subclass of A.,A is a subclass of T.,"Given the previous statements, is J a subclass of T?",Yes,J is a subclass of T.,True,No
+468,A is a subclass of R.,R is a subclass of M.,"Given the previous statements, is A a subclass of V?",No,A is not a subclass of V.,False,No
+222,F is a subclass of T.,T is a subclass of Y.,"Given the previous statements, is F a subclass of Y?",Yes,F is a subclass of Y.,True,No
+195,E is a subclass of O.,O is a subclass of P.,"Given the previous statements, is E a subclass of P?",Yes,E is a subclass of P.,True,No
+524,B is a subclass of A.,A is a subclass of S.,"Given the previous statements, is B a subclass of J?",No,B is not a subclass of J.,False,No
+781,H is a subclass of Z.,Z is a subclass of X.,"Given the previous statements, is H a subclass of Q?",No,H is not a subclass of Q.,False,No
+462,A is a subclass of E.,E is a subclass of R.,"Given the previous statements, is A a subclass of N?",No,A is not a subclass of N.,False,No
+609,D is a subclass of U.,U is a subclass of X.,"Given the previous statements, is D a subclass of Z?",No,D is not a subclass of Z.,False,No
+547,C is a subclass of V.,V is a subclass of D.,"Given the previous statements, is C a subclass of B?",No,C is not a subclass of B.,False,No
+68,B is a subclass of Q.,Q is a subclass of H.,"Given the previous statements, is B a subclass of H?",Yes,B is a subclass of H.,True,No
+461,A is a subclass of F.,F is a subclass of O.,"Given the previous statements, is A a subclass of X?",No,A is not a subclass of X.,False,No
+219,E is a subclass of F.,F is a subclass of U.,"Given the previous statements, is E a subclass of U?",Yes,E is a subclass of U.,True,No
+540,C is a subclass of Q.,Q is a subclass of Y.,"Given the previous statements, is C a subclass of B?",No,C is not a subclass of B.,False,No
+624,E is a subclass of A.,A is a subclass of K.,"Given the previous statements, is E a subclass of T?",No,E is not a subclass of T.,False,No
+190,E is a subclass of L.,L is a subclass of C.,"Given the previous statements, is E a subclass of C?",Yes,E is a subclass of C.,True,No
+737,G is a subclass of Q.,Q is a subclass of M.,"Given the previous statements, is G a subclass of N?",No,G is not a subclass of N.,False,No
+764,H is a subclass of J.,J is a subclass of S.,"Given the previous statements, is H a subclass of W?",No,H is not a subclass of W.,False,No
+509,B is a subclass of H.,H is a subclass of E.,"Given the previous statements, is B a subclass of C?",No,B is not a subclass of C.,False,No
+779,H is a subclass of S.,S is a subclass of U.,"Given the previous statements, is H a subclass of N?",No,H is not a subclass of N.,False,No
+423,J is a subclass of E.,E is a subclass of W.,"Given the previous statements, is J a subclass of W?",Yes,J is a subclass of W.,True,No
+829,I is a subclass of U.,U is a subclass of A.,"Given the previous statements, is I a subclass of C?",No,I is not a subclass of C.,False,No
+110,C is a subclass of J.,J is a subclass of U.,"Given the previous statements, is C a subclass of U?",Yes,C is a subclass of U.,True,No
+182,E is a subclass of X.,X is a subclass of S.,"Given the previous statements, is E a subclass of S?",Yes,E is a subclass of S.,True,No
+78,B is a subclass of W.,W is a subclass of D.,"Given the previous statements, is B a subclass of D?",Yes,B is a subclass of D.,True,No
+714,G is a subclass of V.,V is a subclass of B.,"Given the previous statements, is G a subclass of Y?",No,G is not a subclass of Y.,False,No
+784,H is a subclass of P.,P is a subclass of O.,"Given the previous statements, is H a subclass of X?",No,H is not a subclass of X.,False,No
+386,I is a subclass of B.,B is a subclass of F.,"Given the previous statements, is I a subclass of F?",Yes,I is a subclass of F.,True,No
+274,G is a subclass of C.,C is a subclass of Y.,"Given the previous statements, is G a subclass of Y?",Yes,G is a subclass of Y.,True,No
+210,E is a subclass of A.,A is a subclass of O.,"Given the previous statements, is E a subclass of O?",Yes,E is a subclass of O.,True,No
+275,G is a subclass of F.,F is a subclass of K.,"Given the previous statements, is G a subclass of K?",Yes,G is a subclass of K.,True,No
+235,F is a subclass of S.,S is a subclass of V.,"Given the previous statements, is F a subclass of V?",Yes,F is a subclass of V.,True,No
+55,B is a subclass of O.,O is a subclass of C.,"Given the previous statements, is B a subclass of C?",Yes,B is a subclass of C.,True,No
+810,I is a subclass of Q.,Q is a subclass of O.,"Given the previous statements, is I a subclass of N?",No,I is not a subclass of N.,False,No
+285,G is a subclass of R.,R is a subclass of V.,"Given the previous statements, is G a subclass of V?",Yes,G is a subclass of V.,True,No
+495,B is a subclass of Z.,Z is a subclass of J.,"Given the previous statements, is B a subclass of N?",No,B is not a subclass of N.,False,No
+672,F is a subclass of J.,J is a subclass of W.,"Given the previous statements, is F a subclass of D?",No,F is not a subclass of D.,False,No
+125,C is a subclass of G.,G is a subclass of K.,"Given the previous statements, is C a subclass of K?",Yes,C is a subclass of K.,True,No
+770,H is a subclass of F.,F is a subclass of L.,"Given the previous statements, is H a subclass of V?",No,H is not a subclass of V.,False,No
+806,I is a subclass of H.,H is a subclass of Y.,"Given the previous statements, is I a subclass of K?",No,I is not a subclass of K.,False,No
+478,A is a subclass of T.,T is a subclass of Z.,"Given the previous statements, is A a subclass of I?",No,A is not a subclass of I.,False,No
+573,D is a subclass of M.,M is a subclass of N.,"Given the previous statements, is D a subclass of Q?",No,D is not a subclass of Q.,False,No
+871,J is a subclass of I.,I is a subclass of X.,"Given the previous statements, is J a subclass of W?",No,J is not a subclass of W.,False,No
+873,J is a subclass of T.,T is a subclass of W.,"Given the previous statements, is J a subclass of R?",No,J is not a subclass of R.,False,No
+780,H is a subclass of C.,C is a subclass of X.,"Given the previous statements, is H a subclass of O?",No,H is not a subclass of O.,False,No
+241,F is a subclass of M.,M is a subclass of A.,"Given the previous statements, is F a subclass of A?",Yes,F is a subclass of A.,True,No
+95,C is a subclass of U.,U is a subclass of F.,"Given the previous statements, is C a subclass of F?",Yes,C is a subclass of F.,True,No
+614,D is a subclass of J.,J is a subclass of R.,"Given the previous statements, is D a subclass of W?",No,D is not a subclass of W.,False,No
+404,J is a subclass of M.,M is a subclass of I.,"Given the previous statements, is J a subclass of I?",Yes,J is a subclass of I.,True,No
+557,C is a subclass of S.,S is a subclass of Z.,"Given the previous statements, is C a subclass of W?",No,C is not a subclass of W.,False,No
+383,I is a subclass of L.,L is a subclass of B.,"Given the previous statements, is I a subclass of B?",Yes,I is a subclass of B.,True,No
+668,F is a subclass of L.,L is a subclass of G.,"Given the previous statements, is F a subclass of A?",No,F is not a subclass of A.,False,No
+313,H is a subclass of N.,N is a subclass of D.,"Given the previous statements, is H a subclass of D?",Yes,H is a subclass of D.,True,No
+848,J is a subclass of T.,T is a subclass of L.,"Given the previous statements, is J a subclass of P?",No,J is not a subclass of P.,False,No
+108,C is a subclass of A.,A is a subclass of X.,"Given the previous statements, is C a subclass of X?",Yes,C is a subclass of X.,True,No
+644,E is a subclass of V.,V is a subclass of T.,"Given the previous statements, is E a subclass of N?",No,E is not a subclass of N.,False,No
+508,B is a subclass of T.,T is a subclass of L.,"Given the previous statements, is B a subclass of A?",No,B is not a subclass of A.,False,No
+288,G is a subclass of H.,H is a subclass of R.,"Given the previous statements, is G a subclass of R?",Yes,G is a subclass of R.,True,No
+262,F is a subclass of Z.,Z is a subclass of Q.,"Given the previous statements, is F a subclass of Q?",Yes,F is a subclass of Q.,True,No
+463,A is a subclass of M.,M is a subclass of H.,"Given the previous statements, is A a subclass of O?",No,A is not a subclass of O.,False,No
+465,A is a subclass of L.,L is a subclass of Q.,"Given the previous statements, is A a subclass of V?",No,A is not a subclass of V.,False,No
+730,G is a subclass of I.,I is a subclass of T.,"Given the previous statements, is G a subclass of N?",No,G is not a subclass of N.,False,No
+674,F is a subclass of H.,H is a subclass of J.,"Given the previous statements, is F a subclass of E?",No,F is not a subclass of E.,False,No
+734,G is a subclass of R.,R is a subclass of I.,"Given the previous statements, is G a subclass of D?",No,G is not a subclass of D.,False,No
+721,G is a subclass of P.,P is a subclass of B.,"Given the previous statements, is G a subclass of U?",No,G is not a subclass of U.,False,No
+58,B is a subclass of G.,G is a subclass of M.,"Given the previous statements, is B a subclass of M?",Yes,B is a subclass of M.,True,No
+191,E is a subclass of G.,G is a subclass of I.,"Given the previous statements, is E a subclass of I?",Yes,E is a subclass of I.,True,No
+739,G is a subclass of Q.,Q is a subclass of P.,"Given the previous statements, is G a subclass of Y?",No,G is not a subclass of Y.,False,No
+691,F is a subclass of W.,W is a subclass of Z.,"Given the previous statements, is F a subclass of H?",No,F is not a subclass of H.,False,No
+793,I is a subclass of P.,P is a subclass of V.,"Given the previous statements, is I a subclass of F?",No,I is not a subclass of F.,False,No
+632,E is a subclass of I.,I is a subclass of P.,"Given the previous statements, is E a subclass of C?",No,E is not a subclass of C.,False,No
+431,J is a subclass of I.,I is a subclass of Q.,"Given the previous statements, is J a subclass of Q?",Yes,J is a subclass of Q.,True,No
+232,F is a subclass of I.,I is a subclass of V.,"Given the previous statements, is F a subclass of V?",Yes,F is a subclass of V.,True,No
+367,I is a subclass of A.,A is a subclass of C.,"Given the previous statements, is I a subclass of C?",Yes,I is a subclass of C.,True,No
+875,J is a subclass of U.,U is a subclass of S.,"Given the previous statements, is J a subclass of Y?",No,J is not a subclass of Y.,False,No
+565,C is a subclass of A.,A is a subclass of S.,"Given the previous statements, is C a subclass of Q?",No,C is not a subclass of Q.,False,No
+166,D is a subclass of L.,L is a subclass of H.,"Given the previous statements, is D a subclass of H?",Yes,D is a subclass of H.,True,No
+338,H is a subclass of C.,C is a subclass of F.,"Given the previous statements, is H a subclass of F?",Yes,H is a subclass of F.,True,No
+516,B is a subclass of A.,A is a subclass of W.,"Given the previous statements, is B a subclass of I?",No,B is not a subclass of I.,False,No
+329,H is a subclass of M.,M is a subclass of J.,"Given the previous statements, is H a subclass of J?",Yes,H is a subclass of J.,True,No
+307,G is a subclass of U.,U is a subclass of H.,"Given the previous statements, is G a subclass of H?",Yes,G is a subclass of H.,True,No
+142,D is a subclass of F.,F is a subclass of O.,"Given the previous statements, is D a subclass of O?",Yes,D is a subclass of O.,True,No
+311,H is a subclass of E.,E is a subclass of W.,"Given the previous statements, is H a subclass of W?",Yes,H is a subclass of W.,True,No
+638,E is a subclass of O.,O is a subclass of L.,"Given the previous statements, is E a subclass of Y?",No,E is not a subclass of Y.,False,No
+752,H is a subclass of F.,F is a subclass of K.,"Given the previous statements, is H a subclass of D?",No,H is not a subclass of D.,False,No
+812,I is a subclass of Q.,Q is a subclass of E.,"Given the previous statements, is I a subclass of F?",No,I is not a subclass of F.,False,No
+278,G is a subclass of U.,U is a subclass of L.,"Given the previous statements, is G a subclass of L?",Yes,G is a subclass of L.,True,No
+729,G is a subclass of L.,L is a subclass of J.,"Given the previous statements, is G a subclass of Q?",No,G is not a subclass of Q.,False,No
+117,C is a subclass of O.,O is a subclass of Z.,"Given the previous statements, is C a subclass of Z?",Yes,C is a subclass of Z.,True,No
+665,F is a subclass of A.,A is a subclass of S.,"Given the previous statements, is F a subclass of X?",No,F is not a subclass of X.,False,No
+19,A is a subclass of J.,J is a subclass of L.,"Given the previous statements, is A a subclass of L?",Yes,A is a subclass of L.,True,No
+671,F is a subclass of Z.,Z is a subclass of V.,"Given the previous statements, is F a subclass of W?",No,F is not a subclass of W.,False,No
+17,A is a subclass of P.,P is a subclass of D.,"Given the previous statements, is A a subclass of D?",Yes,A is a subclass of D.,True,No
+173,D is a subclass of C.,C is a subclass of L.,"Given the previous statements, is D a subclass of L?",Yes,D is a subclass of L.,True,No
+590,D is a subclass of C.,C is a subclass of O.,"Given the previous statements, is D a subclass of E?",No,D is not a subclass of E.,False,No
+726,G is a subclass of O.,O is a subclass of W.,"Given the previous statements, is G a subclass of S?",No,G is not a subclass of S.,False,No
+187,E is a subclass of J.,J is a subclass of Q.,"Given the previous statements, is E a subclass of Q?",Yes,E is a subclass of Q.,True,No
+480,A is a subclass of F.,F is a subclass of U.,"Given the previous statements, is A a subclass of V?",No,A is not a subclass of V.,False,No
+318,H is a subclass of R.,R is a subclass of M.,"Given the previous statements, is H a subclass of M?",Yes,H is a subclass of M.,True,No
+483,A is a subclass of C.,C is a subclass of B.,"Given the previous statements, is A a subclass of H?",No,A is not a subclass of H.,False,No
+374,I is a subclass of N.,N is a subclass of P.,"Given the previous statements, is I a subclass of P?",Yes,I is a subclass of P.,True,No
+803,I is a subclass of X.,X is a subclass of U.,"Given the previous statements, is I a subclass of P?",No,I is not a subclass of P.,False,No
+33,A is a subclass of E.,E is a subclass of J.,"Given the previous statements, is A a subclass of J?",Yes,A is a subclass of J.,True,No
+545,C is a subclass of X.,X is a subclass of P.,"Given the previous statements, is C a subclass of G?",No,C is not a subclass of G.,False,No
+302,G is a subclass of J.,J is a subclass of B.,"Given the previous statements, is G a subclass of B?",Yes,G is a subclass of B.,True,No
+690,F is a subclass of Q.,Q is a subclass of X.,"Given the previous statements, is F a subclass of K?",No,F is not a subclass of K.,False,No
+99,C is a subclass of O.,O is a subclass of Y.,"Given the previous statements, is C a subclass of Y?",Yes,C is a subclass of Y.,True,No
+530,C is a subclass of F.,F is a subclass of I.,"Given the previous statements, is C a subclass of E?",No,C is not a subclass of E.,False,No
+303,G is a subclass of F.,F is a subclass of A.,"Given the previous statements, is G a subclass of A?",Yes,G is a subclass of A.,True,No
+820,I is a subclass of B.,B is a subclass of D.,"Given the previous statements, is I a subclass of U?",No,I is not a subclass of U.,False,No
+1,A is a subclass of Q.,Q is a subclass of V.,"Given the previous statements, is A a subclass of V?",Yes,A is a subclass of V.,True,No
+797,I is a subclass of R.,R is a subclass of S.,"Given the previous statements, is I a subclass of H?",No,I is not a subclass of H.,False,No
+62,B is a subclass of Q.,Q is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+747,G is a subclass of D.,D is a subclass of Y.,"Given the previous statements, is G a subclass of M?",No,G is not a subclass of M.,False,No
+406,J is a subclass of X.,X is a subclass of P.,"Given the previous statements, is J a subclass of P?",Yes,J is a subclass of P.,True,No
+312,H is a subclass of U.,U is a subclass of Z.,"Given the previous statements, is H a subclass of Z?",Yes,H is a subclass of Z.,True,No
+598,D is a subclass of V.,V is a subclass of T.,"Given the previous statements, is D a subclass of B?",No,D is not a subclass of B.,False,No
+498,B is a subclass of Q.,Q is a subclass of J.,"Given the previous statements, is B a subclass of X?",No,B is not a subclass of X.,False,No
+816,I is a subclass of W.,W is a subclass of K.,"Given the previous statements, is I a subclass of F?",No,I is not a subclass of F.,False,No
+192,E is a subclass of O.,O is a subclass of T.,"Given the previous statements, is E a subclass of T?",Yes,E is a subclass of T.,True,No
+167,D is a subclass of W.,W is a subclass of I.,"Given the previous statements, is D a subclass of I?",Yes,D is a subclass of I.,True,No
+298,G is a subclass of E.,E is a subclass of T.,"Given the previous statements, is G a subclass of T?",Yes,G is a subclass of T.,True,No
+618,E is a subclass of K.,K is a subclass of A.,"Given the previous statements, is E a subclass of L?",No,E is not a subclass of L.,False,No
+86,B is a subclass of T.,T is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+434,J is a subclass of C.,C is a subclass of F.,"Given the previous statements, is J a subclass of F?",Yes,J is a subclass of F.,True,No
+176,D is a subclass of O.,O is a subclass of H.,"Given the previous statements, is D a subclass of H?",Yes,D is a subclass of H.,True,No
+435,J is a subclass of K.,K is a subclass of V.,"Given the previous statements, is J a subclass of V?",Yes,J is a subclass of V.,True,No
+29,A is a subclass of R.,R is a subclass of O.,"Given the previous statements, is A a subclass of O?",Yes,A is a subclass of O.,True,No
+251,F is a subclass of A.,A is a subclass of G.,"Given the previous statements, is F a subclass of G?",Yes,F is a subclass of G.,True,No
+705,G is a subclass of S.,S is a subclass of Z.,"Given the previous statements, is G a subclass of M?",No,G is not a subclass of M.,False,No
+69,B is a subclass of M.,M is a subclass of L.,"Given the previous statements, is B a subclass of L?",Yes,B is a subclass of L.,True,No
+657,E is a subclass of J.,J is a subclass of T.,"Given the previous statements, is E a subclass of D?",No,E is not a subclass of D.,False,No
+293,G is a subclass of V.,V is a subclass of C.,"Given the previous statements, is G a subclass of C?",Yes,G is a subclass of C.,True,No
+842,J is a subclass of K.,K is a subclass of F.,"Given the previous statements, is J a subclass of R?",No,J is not a subclass of R.,False,No
+18,A is a subclass of B.,B is a subclass of V.,"Given the previous statements, is A a subclass of V?",Yes,A is a subclass of V.,True,No
+453,A is a subclass of K.,K is a subclass of N.,"Given the previous statements, is A a subclass of R?",No,A is not a subclass of R.,False,No
+785,H is a subclass of A.,A is a subclass of M.,"Given the previous statements, is H a subclass of F?",No,H is not a subclass of F.,False,No
+864,J is a subclass of V.,V is a subclass of K.,"Given the previous statements, is J a subclass of W?",No,J is not a subclass of W.,False,No
+152,D is a subclass of U.,U is a subclass of K.,"Given the previous statements, is D a subclass of K?",Yes,D is a subclass of K.,True,No
+390,I is a subclass of B.,B is a subclass of E.,"Given the previous statements, is I a subclass of E?",Yes,I is a subclass of E.,True,No
+646,E is a subclass of L.,L is a subclass of T.,"Given the previous statements, is E a subclass of H?",No,E is not a subclass of H.,False,No
+203,E is a subclass of D.,D is a subclass of U.,"Given the previous statements, is E a subclass of U?",Yes,E is a subclass of U.,True,No
+525,B is a subclass of M.,M is a subclass of W.,"Given the previous statements, is B a subclass of E?",No,B is not a subclass of E.,False,No
+334,H is a subclass of Y.,Y is a subclass of R.,"Given the previous statements, is H a subclass of R?",Yes,H is a subclass of R.,True,No
+132,C is a subclass of Q.,Q is a subclass of Z.,"Given the previous statements, is C a subclass of Z?",Yes,C is a subclass of Z.,True,No
+746,G is a subclass of N.,N is a subclass of D.,"Given the previous statements, is G a subclass of J?",No,G is not a subclass of J.,False,No
+610,D is a subclass of W.,W is a subclass of S.,"Given the previous statements, is D a subclass of G?",No,D is not a subclass of G.,False,No
+331,H is a subclass of F.,F is a subclass of U.,"Given the previous statements, is H a subclass of U?",Yes,H is a subclass of U.,True,No
+168,D is a subclass of N.,N is a subclass of I.,"Given the previous statements, is D a subclass of I?",Yes,D is a subclass of I.,True,No
+635,E is a subclass of V.,V is a subclass of M.,"Given the previous statements, is E a subclass of H?",No,E is not a subclass of H.,False,No
+640,E is a subclass of V.,V is a subclass of O.,"Given the previous statements, is E a subclass of K?",No,E is not a subclass of K.,False,No
+365,I is a subclass of M.,M is a subclass of Y.,"Given the previous statements, is I a subclass of Y?",Yes,I is a subclass of Y.,True,No
+322,H is a subclass of C.,C is a subclass of U.,"Given the previous statements, is H a subclass of U?",Yes,H is a subclass of U.,True,No
+669,F is a subclass of V.,V is a subclass of M.,"Given the previous statements, is F a subclass of L?",No,F is not a subclass of L.,False,No
+513,B is a subclass of X.,X is a subclass of E.,"Given the previous statements, is B a subclass of R?",No,B is not a subclass of R.,False,No
+102,C is a subclass of W.,W is a subclass of H.,"Given the previous statements, is C a subclass of H?",Yes,C is a subclass of H.,True,No
+215,E is a subclass of L.,L is a subclass of F.,"Given the previous statements, is E a subclass of F?",Yes,E is a subclass of F.,True,No
+567,C is a subclass of S.,S is a subclass of A.,"Given the previous statements, is C a subclass of I?",No,C is not a subclass of I.,False,No
+718,G is a subclass of Y.,Y is a subclass of T.,"Given the previous statements, is G a subclass of F?",No,G is not a subclass of F.,False,No
+548,C is a subclass of S.,S is a subclass of B.,"Given the previous statements, is C a subclass of Q?",No,C is not a subclass of Q.,False,No
+72,B is a subclass of Q.,Q is a subclass of G.,"Given the previous statements, is B a subclass of G?",Yes,B is a subclass of G.,True,No
+474,A is a subclass of Y.,Y is a subclass of S.,"Given the previous statements, is A a subclass of P?",No,A is not a subclass of P.,False,No
+659,E is a subclass of B.,B is a subclass of S.,"Given the previous statements, is E a subclass of R?",No,E is not a subclass of R.,False,No
+415,J is a subclass of O.,O is a subclass of C.,"Given the previous statements, is J a subclass of C?",Yes,J is a subclass of C.,True,No
+460,A is a subclass of H.,H is a subclass of Q.,"Given the previous statements, is A a subclass of N?",No,A is not a subclass of N.,False,No
+161,D is a subclass of H.,H is a subclass of T.,"Given the previous statements, is D a subclass of T?",Yes,D is a subclass of T.,True,No
+607,D is a subclass of H.,H is a subclass of F.,"Given the previous statements, is D a subclass of X?",No,D is not a subclass of X.,False,No
+476,A is a subclass of Y.,Y is a subclass of V.,"Given the previous statements, is A a subclass of R?",No,A is not a subclass of R.,False,No
+496,B is a subclass of J.,J is a subclass of N.,"Given the previous statements, is B a subclass of D?",No,B is not a subclass of D.,False,No
+475,A is a subclass of I.,I is a subclass of Q.,"Given the previous statements, is A a subclass of E?",No,A is not a subclass of E.,False,No
+286,G is a subclass of B.,B is a subclass of Q.,"Given the previous statements, is G a subclass of Q?",Yes,G is a subclass of Q.,True,No
+541,C is a subclass of N.,N is a subclass of X.,"Given the previous statements, is C a subclass of L?",No,C is not a subclass of L.,False,No
+314,H is a subclass of L.,L is a subclass of I.,"Given the previous statements, is H a subclass of I?",Yes,H is a subclass of I.,True,No
+574,D is a subclass of U.,U is a subclass of S.,"Given the previous statements, is D a subclass of X?",No,D is not a subclass of X.,False,No
+828,I is a subclass of H.,H is a subclass of O.,"Given the previous statements, is I a subclass of V?",No,I is not a subclass of V.,False,No
+28,A is a subclass of U.,U is a subclass of Y.,"Given the previous statements, is A a subclass of Y?",Yes,A is a subclass of Y.,True,No
+593,D is a subclass of A.,A is a subclass of F.,"Given the previous statements, is D a subclass of V?",No,D is not a subclass of V.,False,No
+458,A is a subclass of U.,U is a subclass of N.,"Given the previous statements, is A a subclass of Q?",No,A is not a subclass of Q.,False,No
+360,I is a subclass of N.,N is a subclass of E.,"Given the previous statements, is I a subclass of E?",Yes,I is a subclass of E.,True,No
+761,H is a subclass of E.,E is a subclass of W.,"Given the previous statements, is H a subclass of I?",No,H is not a subclass of I.,False,No
+549,C is a subclass of K.,K is a subclass of E.,"Given the previous statements, is C a subclass of O?",No,C is not a subclass of O.,False,No
+414,J is a subclass of G.,G is a subclass of P.,"Given the previous statements, is J a subclass of P?",Yes,J is a subclass of P.,True,No
+239,F is a subclass of S.,S is a subclass of M.,"Given the previous statements, is F a subclass of M?",Yes,F is a subclass of M.,True,No
+153,D is a subclass of W.,W is a subclass of R.,"Given the previous statements, is D a subclass of R?",Yes,D is a subclass of R.,True,No
+775,H is a subclass of F.,F is a subclass of R.,"Given the previous statements, is H a subclass of I?",No,H is not a subclass of I.,False,No
+387,I is a subclass of X.,X is a subclass of B.,"Given the previous statements, is I a subclass of B?",Yes,I is a subclass of B.,True,No
+212,E is a subclass of A.,A is a subclass of U.,"Given the previous statements, is E a subclass of U?",Yes,E is a subclass of U.,True,No
+254,F is a subclass of E.,E is a subclass of L.,"Given the previous statements, is F a subclass of L?",Yes,F is a subclass of L.,True,No
+489,B is a subclass of G.,G is a subclass of O.,"Given the previous statements, is B a subclass of W?",No,B is not a subclass of W.,False,No
+466,A is a subclass of Z.,Z is a subclass of G.,"Given the previous statements, is A a subclass of M?",No,A is not a subclass of M.,False,No
+636,E is a subclass of Z.,Z is a subclass of M.,"Given the previous statements, is E a subclass of P?",No,E is not a subclass of P.,False,No
+257,F is a subclass of C.,C is a subclass of H.,"Given the previous statements, is F a subclass of H?",Yes,F is a subclass of H.,True,No
+787,H is a subclass of U.,U is a subclass of L.,"Given the previous statements, is H a subclass of B?",No,H is not a subclass of B.,False,No
+228,F is a subclass of E.,E is a subclass of N.,"Given the previous statements, is F a subclass of N?",Yes,F is a subclass of N.,True,No
+587,D is a subclass of Q.,Q is a subclass of X.,"Given the previous statements, is D a subclass of U?",No,D is not a subclass of U.,False,No
+722,G is a subclass of I.,I is a subclass of E.,"Given the previous statements, is G a subclass of W?",No,G is not a subclass of W.,False,No
+411,J is a subclass of D.,D is a subclass of U.,"Given the previous statements, is J a subclass of U?",Yes,J is a subclass of U.,True,No
+410,J is a subclass of X.,X is a subclass of B.,"Given the previous statements, is J a subclass of B?",Yes,J is a subclass of B.,True,No
+417,J is a subclass of O.,O is a subclass of E.,"Given the previous statements, is J a subclass of E?",Yes,J is a subclass of E.,True,No
+97,C is a subclass of W.,W is a subclass of V.,"Given the previous statements, is C a subclass of V?",Yes,C is a subclass of V.,True,No
+550,C is a subclass of P.,P is a subclass of K.,"Given the previous statements, is C a subclass of Z?",No,C is not a subclass of Z.,False,No
+270,G is a subclass of Z.,Z is a subclass of P.,"Given the previous statements, is G a subclass of P?",Yes,G is a subclass of P.,True,No
+603,D is a subclass of S.,S is a subclass of E.,"Given the previous statements, is D a subclass of X?",No,D is not a subclass of X.,False,No
+31,A is a subclass of D.,D is a subclass of I.,"Given the previous statements, is A a subclass of I?",Yes,A is a subclass of I.,True,No
+802,I is a subclass of S.,S is a subclass of D.,"Given the previous statements, is I a subclass of M?",No,I is not a subclass of M.,False,No
+144,D is a subclass of M.,M is a subclass of S.,"Given the previous statements, is D a subclass of S?",Yes,D is a subclass of S.,True,No
+197,E is a subclass of M.,M is a subclass of C.,"Given the previous statements, is E a subclass of C?",Yes,E is a subclass of C.,True,No
+347,H is a subclass of P.,P is a subclass of Y.,"Given the previous statements, is H a subclass of Y?",Yes,H is a subclass of Y.,True,No
+393,I is a subclass of N.,N is a subclass of B.,"Given the previous statements, is I a subclass of B?",Yes,I is a subclass of B.,True,No
+507,B is a subclass of Q.,Q is a subclass of M.,"Given the previous statements, is B a subclass of P?",No,B is not a subclass of P.,False,No
+579,D is a subclass of I.,I is a subclass of E.,"Given the previous statements, is D a subclass of C?",No,D is not a subclass of C.,False,No
+120,C is a subclass of W.,W is a subclass of V.,"Given the previous statements, is C a subclass of V?",Yes,C is a subclass of V.,True,No
+789,H is a subclass of D.,D is a subclass of E.,"Given the previous statements, is H a subclass of M?",No,H is not a subclass of M.,False,No
+4,A is a subclass of S.,S is a subclass of Q.,"Given the previous statements, is A a subclass of Q?",Yes,A is a subclass of Q.,True,No
+94,C is a subclass of N.,N is a subclass of I.,"Given the previous statements, is C a subclass of I?",Yes,C is a subclass of I.,True,No
+543,C is a subclass of T.,T is a subclass of Z.,"Given the previous statements, is C a subclass of V?",No,C is not a subclass of V.,False,No
+827,I is a subclass of R.,R is a subclass of T.,"Given the previous statements, is I a subclass of F?",No,I is not a subclass of F.,False,No
+849,J is a subclass of X.,X is a subclass of W.,"Given the previous statements, is J a subclass of Y?",No,J is not a subclass of Y.,False,No
+641,E is a subclass of M.,M is a subclass of V.,"Given the previous statements, is E a subclass of G?",No,E is not a subclass of G.,False,No
+359,I is a subclass of T.,T is a subclass of P.,"Given the previous statements, is I a subclass of P?",Yes,I is a subclass of P.,True,No
+230,F is a subclass of N.,N is a subclass of B.,"Given the previous statements, is F a subclass of B?",Yes,F is a subclass of B.,True,No
+40,A is a subclass of H.,H is a subclass of S.,"Given the previous statements, is A a subclass of S?",Yes,A is a subclass of S.,True,No
+832,I is a subclass of B.,B is a subclass of U.,"Given the previous statements, is I a subclass of Y?",No,I is not a subclass of Y.,False,No
+8,A is a subclass of O.,O is a subclass of S.,"Given the previous statements, is A a subclass of S?",Yes,A is a subclass of S.,True,No
+205,E is a subclass of N.,N is a subclass of X.,"Given the previous statements, is E a subclass of X?",Yes,E is a subclass of X.,True,No
+56,B is a subclass of D.,D is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+578,D is a subclass of W.,W is a subclass of X.,"Given the previous statements, is D a subclass of J?",No,D is not a subclass of J.,False,No
+836,I is a subclass of O.,O is a subclass of U.,"Given the previous statements, is I a subclass of A?",No,I is not a subclass of A.,False,No
+477,A is a subclass of K.,K is a subclass of E.,"Given the previous statements, is A a subclass of M?",No,A is not a subclass of M.,False,No
+15,A is a subclass of J.,J is a subclass of E.,"Given the previous statements, is A a subclass of E?",Yes,A is a subclass of E.,True,No
+558,C is a subclass of K.,K is a subclass of H.,"Given the previous statements, is C a subclass of B?",No,C is not a subclass of B.,False,No
+876,J is a subclass of D.,D is a subclass of T.,"Given the previous statements, is J a subclass of L?",No,J is not a subclass of L.,False,No
+583,D is a subclass of G.,G is a subclass of H.,"Given the previous statements, is D a subclass of W?",No,D is not a subclass of W.,False,No
+287,G is a subclass of K.,K is a subclass of M.,"Given the previous statements, is G a subclass of M?",Yes,G is a subclass of M.,True,No
+216,E is a subclass of M.,M is a subclass of R.,"Given the previous statements, is E a subclass of R?",Yes,E is a subclass of R.,True,No
+57,B is a subclass of S.,S is a subclass of G.,"Given the previous statements, is B a subclass of G?",Yes,B is a subclass of G.,True,No
+689,F is a subclass of O.,O is a subclass of X.,"Given the previous statements, is F a subclass of I?",No,F is not a subclass of I.,False,No
+80,B is a subclass of H.,H is a subclass of L.,"Given the previous statements, is B a subclass of L?",Yes,B is a subclass of L.,True,No
+712,G is a subclass of B.,B is a subclass of Z.,"Given the previous statements, is G a subclass of L?",No,G is not a subclass of L.,False,No
+844,J is a subclass of B.,B is a subclass of Q.,"Given the previous statements, is J a subclass of I?",No,J is not a subclass of I.,False,No
+308,G is a subclass of V.,V is a subclass of W.,"Given the previous statements, is G a subclass of W?",Yes,G is a subclass of W.,True,No
+546,C is a subclass of Q.,Q is a subclass of X.,"Given the previous statements, is C a subclass of H?",No,C is not a subclass of H.,False,No
+661,F is a subclass of C.,C is a subclass of Q.,"Given the previous statements, is F a subclass of N?",No,F is not a subclass of N.,False,No
+880,J is a subclass of V.,V is a subclass of B.,"Given the previous statements, is J a subclass of G?",No,J is not a subclass of G.,False,No
+327,H is a subclass of X.,X is a subclass of S.,"Given the previous statements, is H a subclass of S?",Yes,H is a subclass of S.,True,No
+150,D is a subclass of X.,X is a subclass of F.,"Given the previous statements, is D a subclass of F?",Yes,D is a subclass of F.,True,No
+584,D is a subclass of I.,I is a subclass of Z.,"Given the previous statements, is D a subclass of F?",No,D is not a subclass of F.,False,No
+604,D is a subclass of K.,K is a subclass of W.,"Given the previous statements, is D a subclass of C?",No,D is not a subclass of C.,False,No
+709,G is a subclass of S.,S is a subclass of H.,"Given the previous statements, is G a subclass of Q?",No,G is not a subclass of Q.,False,No
+325,H is a subclass of J.,J is a subclass of X.,"Given the previous statements, is H a subclass of X?",Yes,H is a subclass of X.,True,No
+451,A is a subclass of R.,R is a subclass of N.,"Given the previous statements, is A a subclass of U?",No,A is not a subclass of U.,False,No
+245,F is a subclass of X.,X is a subclass of B.,"Given the previous statements, is F a subclass of B?",Yes,F is a subclass of B.,True,No
+719,G is a subclass of Y.,Y is a subclass of I.,"Given the previous statements, is G a subclass of O?",No,G is not a subclass of O.,False,No
+725,G is a subclass of Y.,Y is a subclass of V.,"Given the previous statements, is G a subclass of A?",No,G is not a subclass of A.,False,No
+749,H is a subclass of N.,N is a subclass of R.,"Given the previous statements, is H a subclass of C?",No,H is not a subclass of C.,False,No
+840,J is a subclass of D.,D is a subclass of V.,"Given the previous statements, is J a subclass of U?",No,J is not a subclass of U.,False,No
+47,B is a subclass of H.,H is a subclass of P.,"Given the previous statements, is B a subclass of P?",Yes,B is a subclass of P.,True,No
+426,J is a subclass of R.,R is a subclass of A.,"Given the previous statements, is J a subclass of A?",Yes,J is a subclass of A.,True,No
+867,J is a subclass of S.,S is a subclass of V.,"Given the previous statements, is J a subclass of K?",No,J is not a subclass of K.,False,No
+681,F is a subclass of Y.,Y is a subclass of A.,"Given the previous statements, is F a subclass of U?",No,F is not a subclass of U.,False,No
+401,J is a subclass of O.,O is a subclass of D.,"Given the previous statements, is J a subclass of D?",Yes,J is a subclass of D.,True,No
+551,C is a subclass of J.,J is a subclass of N.,"Given the previous statements, is C a subclass of K?",No,C is not a subclass of K.,False,No
+696,F is a subclass of X.,X is a subclass of Y.,"Given the previous statements, is F a subclass of J?",No,F is not a subclass of J.,False,No
+421,J is a subclass of M.,M is a subclass of P.,"Given the previous statements, is J a subclass of P?",Yes,J is a subclass of P.,True,No
+599,D is a subclass of R.,R is a subclass of E.,"Given the previous statements, is D a subclass of F?",No,D is not a subclass of F.,False,No
+654,E is a subclass of S.,S is a subclass of U.,"Given the previous statements, is E a subclass of K?",No,E is not a subclass of K.,False,No
+398,J is a subclass of C.,C is a subclass of D.,"Given the previous statements, is J a subclass of D?",Yes,J is a subclass of D.,True,No
+273,G is a subclass of K.,K is a subclass of T.,"Given the previous statements, is G a subclass of T?",Yes,G is a subclass of T.,True,No
+402,J is a subclass of R.,R is a subclass of A.,"Given the previous statements, is J a subclass of A?",Yes,J is a subclass of A.,True,No
+75,B is a subclass of N.,N is a subclass of Y.,"Given the previous statements, is B a subclass of Y?",Yes,B is a subclass of Y.,True,No
+249,F is a subclass of W.,W is a subclass of K.,"Given the previous statements, is F a subclass of K?",Yes,F is a subclass of K.,True,No
+736,G is a subclass of T.,T is a subclass of O.,"Given the previous statements, is G a subclass of S?",No,G is not a subclass of S.,False,No
+544,C is a subclass of D.,D is a subclass of F.,"Given the previous statements, is C a subclass of K?",No,C is not a subclass of K.,False,No
+6,A is a subclass of G.,G is a subclass of V.,"Given the previous statements, is A a subclass of V?",Yes,A is a subclass of V.,True,No
+289,G is a subclass of Y.,Y is a subclass of U.,"Given the previous statements, is G a subclass of U?",Yes,G is a subclass of U.,True,No
+700,F is a subclass of L.,L is a subclass of B.,"Given the previous statements, is F a subclass of X?",No,F is not a subclass of X.,False,No
+481,A is a subclass of L.,L is a subclass of C.,"Given the previous statements, is A a subclass of P?",No,A is not a subclass of P.,False,No
+699,F is a subclass of Y.,Y is a subclass of D.,"Given the previous statements, is F a subclass of N?",No,F is not a subclass of N.,False,No
+170,D is a subclass of I.,I is a subclass of N.,"Given the previous statements, is D a subclass of N?",Yes,D is a subclass of N.,True,No
+731,G is a subclass of X.,X is a subclass of B.,"Given the previous statements, is G a subclass of Z?",No,G is not a subclass of Z.,False,No
+333,H is a subclass of N.,N is a subclass of W.,"Given the previous statements, is H a subclass of W?",Yes,H is a subclass of W.,True,No
+642,E is a subclass of J.,J is a subclass of U.,"Given the previous statements, is E a subclass of I?",No,E is not a subclass of I.,False,No
+637,E is a subclass of R.,R is a subclass of Y.,"Given the previous statements, is E a subclass of S?",No,E is not a subclass of S.,False,No
+571,C is a subclass of A.,A is a subclass of H.,"Given the previous statements, is C a subclass of G?",No,C is not a subclass of G.,False,No
+103,C is a subclass of S.,S is a subclass of O.,"Given the previous statements, is C a subclass of O?",Yes,C is a subclass of O.,True,No
+750,H is a subclass of N.,N is a subclass of B.,"Given the previous statements, is H a subclass of M?",No,H is not a subclass of M.,False,No
+130,C is a subclass of I.,I is a subclass of Z.,"Given the previous statements, is C a subclass of Z?",Yes,C is a subclass of Z.,True,No
+706,G is a subclass of B.,B is a subclass of E.,"Given the previous statements, is G a subclass of U?",No,G is not a subclass of U.,False,No
+186,E is a subclass of N.,N is a subclass of M.,"Given the previous statements, is E a subclass of M?",Yes,E is a subclass of M.,True,No
+407,J is a subclass of M.,M is a subclass of T.,"Given the previous statements, is J a subclass of T?",Yes,J is a subclass of T.,True,No
+229,F is a subclass of J.,J is a subclass of D.,"Given the previous statements, is F a subclass of D?",Yes,F is a subclass of D.,True,No
+202,E is a subclass of C.,C is a subclass of P.,"Given the previous statements, is E a subclass of P?",Yes,E is a subclass of P.,True,No
+529,C is a subclass of K.,K is a subclass of B.,"Given the previous statements, is C a subclass of I?",No,C is not a subclass of I.,False,No
+258,F is a subclass of T.,T is a subclass of Y.,"Given the previous statements, is F a subclass of Y?",Yes,F is a subclass of Y.,True,No
+589,D is a subclass of K.,K is a subclass of Q.,"Given the previous statements, is D a subclass of A?",No,D is not a subclass of A.,False,No
+101,C is a subclass of D.,D is a subclass of I.,"Given the previous statements, is C a subclass of I?",Yes,C is a subclass of I.,True,No
+264,F is a subclass of L.,L is a subclass of Q.,"Given the previous statements, is F a subclass of Q?",Yes,F is a subclass of Q.,True,No
+715,G is a subclass of D.,D is a subclass of Z.,"Given the previous statements, is G a subclass of E?",No,G is not a subclass of E.,False,No
+655,E is a subclass of O.,O is a subclass of F.,"Given the previous statements, is E a subclass of U?",No,E is not a subclass of U.,False,No
+835,I is a subclass of M.,M is a subclass of W.,"Given the previous statements, is I a subclass of H?",No,I is not a subclass of H.,False,No
+440,J is a subclass of U.,U is a subclass of Q.,"Given the previous statements, is J a subclass of Q?",Yes,J is a subclass of Q.,True,No
+500,B is a subclass of F.,F is a subclass of C.,"Given the previous statements, is B a subclass of L?",No,B is not a subclass of L.,False,No
+492,B is a subclass of I.,I is a subclass of Y.,"Given the previous statements, is B a subclass of W?",No,B is not a subclass of W.,False,No
+46,B is a subclass of P.,P is a subclass of O.,"Given the previous statements, is B a subclass of O?",Yes,B is a subclass of O.,True,No
+343,H is a subclass of W.,W is a subclass of Q.,"Given the previous statements, is H a subclass of Q?",Yes,H is a subclass of Q.,True,No
+140,D is a subclass of Q.,Q is a subclass of A.,"Given the previous statements, is D a subclass of A?",Yes,D is a subclass of A.,True,No
+188,E is a subclass of A.,A is a subclass of W.,"Given the previous statements, is E a subclass of W?",Yes,E is a subclass of W.,True,No
+34,A is a subclass of S.,S is a subclass of W.,"Given the previous statements, is A a subclass of W?",Yes,A is a subclass of W.,True,No
+240,F is a subclass of W.,W is a subclass of R.,"Given the previous statements, is F a subclass of R?",Yes,F is a subclass of R.,True,No
+796,I is a subclass of D.,D is a subclass of C.,"Given the previous statements, is I a subclass of L?",No,I is not a subclass of L.,False,No
+723,G is a subclass of B.,B is a subclass of X.,"Given the previous statements, is G a subclass of Y?",No,G is not a subclass of Y.,False,No
+623,E is a subclass of W.,W is a subclass of U.,"Given the previous statements, is E a subclass of A?",No,E is not a subclass of A.,False,No
+794,I is a subclass of E.,E is a subclass of C.,"Given the previous statements, is I a subclass of D?",No,I is not a subclass of D.,False,No
+39,A is a subclass of T.,T is a subclass of L.,"Given the previous statements, is A a subclass of L?",Yes,A is a subclass of L.,True,No
+371,I is a subclass of Q.,Q is a subclass of V.,"Given the previous statements, is I a subclass of V?",Yes,I is a subclass of V.,True,No
+143,D is a subclass of C.,C is a subclass of F.,"Given the previous statements, is D a subclass of F?",Yes,D is a subclass of F.,True,No
+819,I is a subclass of Q.,Q is a subclass of T.,"Given the previous statements, is I a subclass of O?",No,I is not a subclass of O.,False,No
+184,E is a subclass of U.,U is a subclass of C.,"Given the previous statements, is E a subclass of C?",Yes,E is a subclass of C.,True,No
+160,D is a subclass of V.,V is a subclass of I.,"Given the previous statements, is D a subclass of I?",Yes,D is a subclass of I.,True,No
+456,A is a subclass of X.,X is a subclass of L.,"Given the previous statements, is A a subclass of T?",No,A is not a subclass of T.,False,Yes
+825,I is a subclass of Q.,Q is a subclass of D.,"Given the previous statements, is I a subclass of Y?",No,I is not a subclass of Y.,False,No
+357,I is a subclass of M.,M is a subclass of K.,"Given the previous statements, is I a subclass of K?",Yes,I is a subclass of K.,True,No
+174,D is a subclass of A.,A is a subclass of O.,"Given the previous statements, is D a subclass of O?",Yes,D is a subclass of O.,True,No
+158,D is a subclass of I.,I is a subclass of Z.,"Given the previous statements, is D a subclass of Z?",Yes,D is a subclass of Z.,True,No
+349,H is a subclass of U.,U is a subclass of C.,"Given the previous statements, is H a subclass of C?",Yes,H is a subclass of C.,True,No
+858,J is a subclass of K.,K is a subclass of V.,"Given the previous statements, is J a subclass of H?",No,J is not a subclass of H.,False,No
+129,C is a subclass of M.,M is a subclass of T.,"Given the previous statements, is C a subclass of T?",Yes,C is a subclass of T.,True,No
+634,E is a subclass of Q.,Q is a subclass of S.,"Given the previous statements, is E a subclass of O?",No,E is not a subclass of O.,False,No
+30,A is a subclass of C.,C is a subclass of R.,"Given the previous statements, is A a subclass of R?",Yes,A is a subclass of R.,True,No
+385,I is a subclass of C.,C is a subclass of H.,"Given the previous statements, is I a subclass of H?",Yes,I is a subclass of H.,True,No
+678,F is a subclass of D.,D is a subclass of W.,"Given the previous statements, is F a subclass of L?",No,F is not a subclass of L.,False,No
+391,I is a subclass of M.,M is a subclass of Y.,"Given the previous statements, is I a subclass of Y?",Yes,I is a subclass of Y.,True,No
+141,D is a subclass of V.,V is a subclass of C.,"Given the previous statements, is D a subclass of C?",Yes,D is a subclass of C.,True,No
+673,F is a subclass of E.,E is a subclass of V.,"Given the previous statements, is F a subclass of U?",No,F is not a subclass of U.,False,No
+301,G is a subclass of J.,J is a subclass of L.,"Given the previous statements, is G a subclass of L?",Yes,G is a subclass of L.,True,No
+61,B is a subclass of G.,G is a subclass of U.,"Given the previous statements, is B a subclass of U?",Yes,B is a subclass of U.,True,No
+447,A is a subclass of L.,L is a subclass of B.,"Given the previous statements, is A a subclass of D?",No,A is not a subclass of D.,False,No
+263,F is a subclass of D.,D is a subclass of U.,"Given the previous statements, is F a subclass of U?",Yes,F is a subclass of U.,True,No
+687,F is a subclass of T.,T is a subclass of J.,"Given the previous statements, is F a subclass of H?",No,F is not a subclass of H.,False,No
+217,E is a subclass of M.,M is a subclass of H.,"Given the previous statements, is E a subclass of H?",Yes,E is a subclass of H.,True,No
+113,C is a subclass of I.,I is a subclass of Q.,"Given the previous statements, is C a subclass of Q?",Yes,C is a subclass of Q.,True,No
+733,G is a subclass of S.,S is a subclass of T.,"Given the previous statements, is G a subclass of M?",No,G is not a subclass of M.,False,No
+855,J is a subclass of E.,E is a subclass of Z.,"Given the previous statements, is J a subclass of P?",No,J is not a subclass of P.,False,No
+122,C is a subclass of E.,E is a subclass of P.,"Given the previous statements, is C a subclass of P?",Yes,C is a subclass of P.,True,No
+510,B is a subclass of T.,T is a subclass of D.,"Given the previous statements, is B a subclass of V?",No,B is not a subclass of V.,False,No
+650,E is a subclass of P.,P is a subclass of Q.,"Given the previous statements, is E a subclass of V?",No,E is not a subclass of V.,False,No
+570,C is a subclass of J.,J is a subclass of S.,"Given the previous statements, is C a subclass of B?",No,C is not a subclass of B.,False,No
+112,C is a subclass of N.,N is a subclass of F.,"Given the previous statements, is C a subclass of F?",Yes,C is a subclass of F.,True,No
+27,A is a subclass of D.,D is a subclass of B.,"Given the previous statements, is A a subclass of B?",Yes,A is a subclass of B.,True,No
+348,H is a subclass of O.,O is a subclass of R.,"Given the previous statements, is H a subclass of R?",Yes,H is a subclass of R.,True,No
+683,F is a subclass of A.,A is a subclass of I.,"Given the previous statements, is F a subclass of W?",No,F is not a subclass of W.,False,No
+354,I is a subclass of G.,G is a subclass of A.,"Given the previous statements, is I a subclass of A?",Yes,I is a subclass of A.,True,No
+713,G is a subclass of P.,P is a subclass of L.,"Given the previous statements, is G a subclass of M?",No,G is not a subclass of M.,False,No
+568,C is a subclass of P.,P is a subclass of Z.,"Given the previous statements, is C a subclass of W?",No,C is not a subclass of W.,False,No
+87,B is a subclass of U.,U is a subclass of X.,"Given the previous statements, is B a subclass of X?",Yes,B is a subclass of X.,True,No
+754,H is a subclass of I.,I is a subclass of O.,"Given the previous statements, is H a subclass of K?",No,H is not a subclass of K.,False,No
+178,E is a subclass of J.,J is a subclass of T.,"Given the previous statements, is E a subclass of T?",Yes,E is a subclass of T.,True,No
+346,H is a subclass of F.,F is a subclass of Z.,"Given the previous statements, is H a subclass of Z?",Yes,H is a subclass of Z.,True,No
+50,B is a subclass of H.,H is a subclass of V.,"Given the previous statements, is B a subclass of V?",Yes,B is a subclass of V.,True,No
+808,I is a subclass of B.,B is a subclass of Y.,"Given the previous statements, is I a subclass of X?",No,I is not a subclass of X.,False,No
+198,E is a subclass of P.,P is a subclass of D.,"Given the previous statements, is E a subclass of D?",Yes,E is a subclass of D.,True,No
+363,I is a subclass of W.,W is a subclass of A.,"Given the previous statements, is I a subclass of A?",Yes,I is a subclass of A.,True,No
+368,I is a subclass of F.,F is a subclass of G.,"Given the previous statements, is I a subclass of G?",Yes,I is a subclass of G.,True,No
+497,B is a subclass of V.,V is a subclass of H.,"Given the previous statements, is B a subclass of L?",No,B is not a subclass of L.,False,No
+539,C is a subclass of W.,W is a subclass of O.,"Given the previous statements, is C a subclass of U?",No,C is not a subclass of U.,False,No
+629,E is a subclass of W.,W is a subclass of K.,"Given the previous statements, is E a subclass of T?",No,E is not a subclass of T.,False,No
+114,C is a subclass of R.,R is a subclass of D.,"Given the previous statements, is C a subclass of D?",Yes,C is a subclass of D.,True,No
+282,G is a subclass of C.,C is a subclass of K.,"Given the previous statements, is G a subclass of K?",Yes,G is a subclass of K.,True,No
+566,C is a subclass of S.,S is a subclass of G.,"Given the previous statements, is C a subclass of V?",No,C is not a subclass of V.,False,No
+432,J is a subclass of Q.,Q is a subclass of E.,"Given the previous statements, is J a subclass of E?",Yes,J is a subclass of E.,True,No
+870,J is a subclass of I.,I is a subclass of M.,"Given the previous statements, is J a subclass of R?",No,J is not a subclass of R.,False,No
+845,J is a subclass of Y.,Y is a subclass of C.,"Given the previous statements, is J a subclass of R?",No,J is not a subclass of R.,False,No
+339,H is a subclass of W.,W is a subclass of E.,"Given the previous statements, is H a subclass of E?",Yes,H is a subclass of E.,True,No
+74,B is a subclass of O.,O is a subclass of M.,"Given the previous statements, is B a subclass of M?",Yes,B is a subclass of M.,True,No
+837,J is a subclass of C.,C is a subclass of D.,"Given the previous statements, is J a subclass of Z?",No,J is not a subclass of Z.,False,No
+169,D is a subclass of T.,T is a subclass of L.,"Given the previous statements, is D a subclass of L?",Yes,D is a subclass of L.,True,No
+201,E is a subclass of F.,F is a subclass of S.,"Given the previous statements, is E a subclass of S?",Yes,E is a subclass of S.,True,No
+697,F is a subclass of E.,E is a subclass of K.,"Given the previous statements, is F a subclass of G?",No,F is not a subclass of G.,False,No
+223,F is a subclass of Y.,Y is a subclass of E.,"Given the previous statements, is F a subclass of E?",Yes,F is a subclass of E.,True,No
+284,G is a subclass of F.,F is a subclass of E.,"Given the previous statements, is G a subclass of E?",Yes,G is a subclass of E.,True,No
+350,H is a subclass of L.,L is a subclass of Y.,"Given the previous statements, is H a subclass of Y?",Yes,H is a subclass of Y.,True,No
+71,B is a subclass of F.,F is a subclass of S.,"Given the previous statements, is B a subclass of S?",Yes,B is a subclass of S.,True,No
+852,J is a subclass of K.,K is a subclass of N.,"Given the previous statements, is J a subclass of I?",No,J is not a subclass of I.,False,No
+658,E is a subclass of F.,F is a subclass of Y.,"Given the previous statements, is E a subclass of X?",No,E is not a subclass of X.,False,No
+292,G is a subclass of S.,S is a subclass of P.,"Given the previous statements, is G a subclass of P?",Yes,G is a subclass of P.,True,No
+813,I is a subclass of M.,M is a subclass of D.,"Given the previous statements, is I a subclass of O?",No,I is not a subclass of O.,False,No
+765,H is a subclass of M.,M is a subclass of D.,"Given the previous statements, is H a subclass of C?",No,H is not a subclass of C.,False,No
+424,J is a subclass of H.,H is a subclass of I.,"Given the previous statements, is J a subclass of I?",Yes,J is a subclass of I.,True,No
+782,H is a subclass of S.,S is a subclass of B.,"Given the previous statements, is H a subclass of M?",No,H is not a subclass of M.,False,No
+645,E is a subclass of H.,H is a subclass of B.,"Given the previous statements, is E a subclass of F?",No,E is not a subclass of F.,False,No
+688,F is a subclass of B.,B is a subclass of G.,"Given the previous statements, is F a subclass of M?",No,F is not a subclass of M.,False,No
+818,I is a subclass of E.,E is a subclass of G.,"Given the previous statements, is I a subclass of V?",No,I is not a subclass of V.,False,No
+213,E is a subclass of Z.,Z is a subclass of I.,"Given the previous statements, is E a subclass of I?",Yes,E is a subclass of I.,True,No
+111,C is a subclass of G.,G is a subclass of M.,"Given the previous statements, is C a subclass of M?",Yes,C is a subclass of M.,True,No
+419,J is a subclass of P.,P is a subclass of N.,"Given the previous statements, is J a subclass of N?",Yes,J is a subclass of N.,True,No
+605,D is a subclass of J.,J is a subclass of Z.,"Given the previous statements, is D a subclass of N?",No,D is not a subclass of N.,False,No
+710,G is a subclass of L.,L is a subclass of W.,"Given the previous statements, is G a subclass of H?",No,G is not a subclass of H.,False,No
+281,G is a subclass of C.,C is a subclass of M.,"Given the previous statements, is G a subclass of M?",Yes,G is a subclass of M.,True,No
+620,E is a subclass of X.,X is a subclass of U.,"Given the previous statements, is E a subclass of Q?",No,E is not a subclass of Q.,False,No
+172,D is a subclass of Y.,Y is a subclass of N.,"Given the previous statements, is D a subclass of N?",Yes,D is a subclass of N.,True,No
+777,H is a subclass of M.,M is a subclass of R.,"Given the previous statements, is H a subclass of V?",No,H is not a subclass of V.,False,No
+660,E is a subclass of S.,S is a subclass of O.,"Given the previous statements, is E a subclass of D?",No,E is not a subclass of D.,False,No
+776,H is a subclass of X.,X is a subclass of G.,"Given the previous statements, is H a subclass of I?",No,H is not a subclass of I.,False,No
+455,A is a subclass of V.,V is a subclass of K.,"Given the previous statements, is A a subclass of M?",No,A is not a subclass of M.,False,No
+878,J is a subclass of V.,V is a subclass of X.,"Given the previous statements, is J a subclass of S?",No,J is not a subclass of S.,False,No
+136,D is a subclass of A.,A is a subclass of G.,"Given the previous statements, is D a subclass of G?",Yes,D is a subclass of G.,True,No
+253,F is a subclass of J.,J is a subclass of L.,"Given the previous statements, is F a subclass of L?",Yes,F is a subclass of L.,True,No
+767,H is a subclass of V.,V is a subclass of E.,"Given the previous statements, is H a subclass of N?",No,H is not a subclass of N.,False,No
+841,J is a subclass of Y.,Y is a subclass of R.,"Given the previous statements, is J a subclass of T?",No,J is not a subclass of T.,False,No
+617,E is a subclass of Z.,Z is a subclass of A.,"Given the previous statements, is E a subclass of Y?",No,E is not a subclass of Y.,False,No
+226,F is a subclass of H.,H is a subclass of T.,"Given the previous statements, is F a subclass of T?",Yes,F is a subclass of T.,True,No
+694,F is a subclass of T.,T is a subclass of B.,"Given the previous statements, is F a subclass of R?",No,F is not a subclass of R.,False,No
+464,A is a subclass of K.,K is a subclass of N.,"Given the previous statements, is A a subclass of E?",No,A is not a subclass of E.,False,No
+771,H is a subclass of C.,C is a subclass of I.,"Given the previous statements, is H a subclass of J?",No,H is not a subclass of J.,False,No
+863,J is a subclass of X.,X is a subclass of N.,"Given the previous statements, is J a subclass of Z?",No,J is not a subclass of Z.,False,No
+109,C is a subclass of U.,U is a subclass of W.,"Given the previous statements, is C a subclass of W?",Yes,C is a subclass of W.,True,No
+677,F is a subclass of D.,D is a subclass of N.,"Given the previous statements, is F a subclass of C?",No,F is not a subclass of C.,False,No
+518,B is a subclass of L.,L is a subclass of W.,"Given the previous statements, is B a subclass of K?",No,B is not a subclass of K.,False,No
+619,E is a subclass of C.,C is a subclass of V.,"Given the previous statements, is E a subclass of K?",No,E is not a subclass of K.,False,No
+246,F is a subclass of U.,U is a subclass of C.,"Given the previous statements, is F a subclass of C?",Yes,F is a subclass of C.,True,No
+100,C is a subclass of B.,B is a subclass of W.,"Given the previous statements, is C a subclass of W?",Yes,C is a subclass of W.,True,No
+430,J is a subclass of K.,K is a subclass of H.,"Given the previous statements, is J a subclass of H?",Yes,J is a subclass of H.,True,No
+413,J is a subclass of V.,V is a subclass of M.,"Given the previous statements, is J a subclass of M?",Yes,J is a subclass of M.,True,No
+792,H is a subclass of M.,M is a subclass of X.,"Given the previous statements, is H a subclass of Y?",No,H is not a subclass of Y.,False,No
+814,I is a subclass of P.,P is a subclass of B.,"Given the previous statements, is I a subclass of K?",No,I is not a subclass of K.,False,No
+165,D is a subclass of K.,K is a subclass of L.,"Given the previous statements, is D a subclass of L?",Yes,D is a subclass of L.,True,No
+877,J is a subclass of D.,D is a subclass of F.,"Given the previous statements, is J a subclass of E?",No,J is not a subclass of E.,False,No
+811,I is a subclass of T.,T is a subclass of M.,"Given the previous statements, is I a subclass of S?",No,I is not a subclass of S.,False,No
+250,F is a subclass of A.,A is a subclass of T.,"Given the previous statements, is F a subclass of T?",Yes,F is a subclass of T.,True,No
+305,G is a subclass of V.,V is a subclass of J.,"Given the previous statements, is G a subclass of J?",Yes,G is a subclass of J.,True,No
+774,H is a subclass of X.,X is a subclass of E.,"Given the previous statements, is H a subclass of O?",No,H is not a subclass of O.,False,No
+826,I is a subclass of S.,S is a subclass of B.,"Given the previous statements, is I a subclass of V?",No,I is not a subclass of V.,False,No
+296,G is a subclass of R.,R is a subclass of J.,"Given the previous statements, is G a subclass of J?",Yes,G is a subclass of J.,True,No
+684,F is a subclass of I.,I is a subclass of M.,"Given the previous statements, is F a subclass of O?",No,F is not a subclass of O.,False,No
+247,F is a subclass of Q.,Q is a subclass of J.,"Given the previous statements, is F a subclass of J?",Yes,F is a subclass of J.,True,No
+297,G is a subclass of I.,I is a subclass of N.,"Given the previous statements, is G a subclass of N?",Yes,G is a subclass of N.,True,No
+24,A is a subclass of C.,C is a subclass of V.,"Given the previous statements, is A a subclass of V?",Yes,A is a subclass of V.,True,No
+248,F is a subclass of U.,U is a subclass of A.,"Given the previous statements, is F a subclass of A?",Yes,F is a subclass of A.,True,No
+306,G is a subclass of L.,L is a subclass of A.,"Given the previous statements, is G a subclass of A?",Yes,G is a subclass of A.,True,No
+252,F is a subclass of B.,B is a subclass of A.,"Given the previous statements, is F a subclass of A?",Yes,F is a subclass of A.,True,No
+11,A is a subclass of Q.,Q is a subclass of C.,"Given the previous statements, is A a subclass of C?",Yes,A is a subclass of C.,True,No
+294,G is a subclass of C.,C is a subclass of X.,"Given the previous statements, is G a subclass of X?",Yes,G is a subclass of X.,True,No
+457,A is a subclass of Y.,Y is a subclass of E.,"Given the previous statements, is A a subclass of W?",No,A is not a subclass of W.,False,No
+471,A is a subclass of N.,N is a subclass of L.,"Given the previous statements, is A a subclass of H?",No,A is not a subclass of H.,False,No
+482,A is a subclass of F.,F is a subclass of Q.,"Given the previous statements, is A a subclass of L?",No,A is not a subclass of L.,False,No
+231,F is a subclass of W.,W is a subclass of T.,"Given the previous statements, is F a subclass of T?",Yes,F is a subclass of T.,True,No
+577,D is a subclass of M.,M is a subclass of T.,"Given the previous statements, is D a subclass of H?",No,D is not a subclass of H.,False,No
+405,J is a subclass of F.,F is a subclass of W.,"Given the previous statements, is J a subclass of W?",Yes,J is a subclass of W.,True,No
+559,C is a subclass of M.,M is a subclass of J.,"Given the previous statements, is C a subclass of W?",No,C is not a subclass of W.,False,No
+64,B is a subclass of I.,I is a subclass of A.,"Given the previous statements, is B a subclass of A?",Yes,B is a subclass of A.,True,No
+666,F is a subclass of D.,D is a subclass of O.,"Given the previous statements, is F a subclass of A?",No,F is not a subclass of A.,False,No
+126,C is a subclass of X.,X is a subclass of A.,"Given the previous statements, is C a subclass of A?",Yes,C is a subclass of A.,True,No
+342,H is a subclass of X.,X is a subclass of Q.,"Given the previous statements, is H a subclass of Q?",Yes,H is a subclass of Q.,True,No
+804,I is a subclass of U.,U is a subclass of G.,"Given the previous statements, is I a subclass of B?",No,I is not a subclass of B.,False,No
+600,D is a subclass of P.,P is a subclass of H.,"Given the previous statements, is D a subclass of W?",No,D is not a subclass of W.,False,No
+181,E is a subclass of M.,M is a subclass of K.,"Given the previous statements, is E a subclass of K?",Yes,E is a subclass of K.,True,No
+720,G is a subclass of B.,B is a subclass of L.,"Given the previous statements, is G a subclass of S?",No,G is not a subclass of S.,False,No
+454,A is a subclass of H.,H is a subclass of O.,"Given the previous statements, is A a subclass of M?",No,A is not a subclass of M.,False,No
+553,C is a subclass of D.,D is a subclass of E.,"Given the previous statements, is C a subclass of R?",No,C is not a subclass of R.,False,No
+493,B is a subclass of G.,G is a subclass of U.,"Given the previous statements, is B a subclass of Z?",No,B is not a subclass of Z.,False,No
+511,B is a subclass of Y.,Y is a subclass of P.,"Given the previous statements, is B a subclass of J?",No,B is not a subclass of J.,False,No
+701,F is a subclass of S.,S is a subclass of X.,"Given the previous statements, is F a subclass of U?",No,F is not a subclass of U.,False,No
+519,B is a subclass of C.,C is a subclass of Y.,"Given the previous statements, is B a subclass of W?",No,B is not a subclass of W.,False,No
+501,B is a subclass of C.,C is a subclass of I.,"Given the previous statements, is B a subclass of V?",No,B is not a subclass of V.,False,No
+220,E is a subclass of D.,D is a subclass of N.,"Given the previous statements, is E a subclass of N?",Yes,E is a subclass of N.,True,No
+236,F is a subclass of E.,E is a subclass of K.,"Given the previous statements, is F a subclass of K?",Yes,F is a subclass of K.,True,No
+369,I is a subclass of G.,G is a subclass of H.,"Given the previous statements, is I a subclass of H?",Yes,I is a subclass of H.,True,No
+724,G is a subclass of H.,H is a subclass of W.,"Given the previous statements, is G a subclass of X?",No,G is not a subclass of X.,False,No
+164,D is a subclass of Z.,Z is a subclass of F.,"Given the previous statements, is D a subclass of F?",Yes,D is a subclass of F.,True,No
+851,J is a subclass of C.,C is a subclass of G.,"Given the previous statements, is J a subclass of Z?",No,J is not a subclass of Z.,False,No
+439,J is a subclass of U.,U is a subclass of Z.,"Given the previous statements, is J a subclass of Z?",Yes,J is a subclass of Z.,True,No
+92,C is a subclass of G.,G is a subclass of Q.,"Given the previous statements, is C a subclass of Q?",Yes,C is a subclass of Q.,True,No
+280,G is a subclass of R.,R is a subclass of L.,"Given the previous statements, is G a subclass of L?",Yes,G is a subclass of L.,True,No
+156,D is a subclass of E.,E is a subclass of U.,"Given the previous statements, is D a subclass of U?",Yes,D is a subclass of U.,True,No
+300,G is a subclass of C.,C is a subclass of R.,"Given the previous statements, is G a subclass of R?",Yes,G is a subclass of R.,True,No
+595,D is a subclass of C.,C is a subclass of K.,"Given the previous statements, is D a subclass of Z?",No,D is not a subclass of Z.,False,No
+123,C is a subclass of Q.,Q is a subclass of I.,"Given the previous statements, is C a subclass of I?",Yes,C is a subclass of I.,True,No
+66,B is a subclass of K.,K is a subclass of T.,"Given the previous statements, is B a subclass of T?",Yes,B is a subclass of T.,True,No
+154,D is a subclass of O.,O is a subclass of J.,"Given the previous statements, is D a subclass of J?",Yes,D is a subclass of J.,True,No
+815,I is a subclass of U.,U is a subclass of X.,"Given the previous statements, is I a subclass of Z?",No,I is not a subclass of Z.,False,No
+427,J is a subclass of L.,L is a subclass of N.,"Given the previous statements, is J a subclass of N?",Yes,J is a subclass of N.,True,No
+361,I is a subclass of H.,H is a subclass of J.,"Given the previous statements, is I a subclass of J?",Yes,I is a subclass of J.,True,No
+838,J is a subclass of Q.,Q is a subclass of K.,"Given the previous statements, is J a subclass of Y?",No,J is not a subclass of Y.,False,No
+96,C is a subclass of G.,G is a subclass of Y.,"Given the previous statements, is C a subclass of Y?",Yes,C is a subclass of Y.,True,No
+84,B is a subclass of I.,I is a subclass of Z.,"Given the previous statements, is B a subclass of Z?",Yes,B is a subclass of Z.,True,No
+10,A is a subclass of J.,J is a subclass of S.,"Given the previous statements, is A a subclass of S?",Yes,A is a subclass of S.,True,No
+185,E is a subclass of I.,I is a subclass of C.,"Given the previous statements, is E a subclass of C?",Yes,E is a subclass of C.,True,No
+450,A is a subclass of X.,X is a subclass of K.,"Given the previous statements, is A a subclass of H?",No,A is not a subclass of H.,False,Yes
+375,I is a subclass of F.,F is a subclass of D.,"Given the previous statements, is I a subclass of D?",Yes,I is a subclass of D.,True,No
+42,A is a subclass of J.,J is a subclass of K.,"Given the previous statements, is A a subclass of K?",Yes,A is a subclass of K.,True,No
+290,G is a subclass of Z.,Z is a subclass of K.,"Given the previous statements, is G a subclass of K?",Yes,G is a subclass of K.,True,No
+621,E is a subclass of G.,G is a subclass of L.,"Given the previous statements, is E a subclass of T?",No,E is not a subclass of T.,False,No
+488,B is a subclass of V.,V is a subclass of J.,"Given the previous statements, is B a subclass of S?",No,B is not a subclass of S.,False,No
+846,J is a subclass of F.,F is a subclass of H.,"Given the previous statements, is J a subclass of E?",No,J is not a subclass of E.,False,No
+124,C is a subclass of A.,A is a subclass of I.,"Given the previous statements, is C a subclass of I?",Yes,C is a subclass of I.,True,No
+256,F is a subclass of E.,E is a subclass of N.,"Given the previous statements, is F a subclass of N?",Yes,F is a subclass of N.,True,No
+594,D is a subclass of E.,E is a subclass of W.,"Given the previous statements, is D a subclass of Y?",No,D is not a subclass of Y.,False,No
+692,F is a subclass of U.,U is a subclass of B.,"Given the previous statements, is F a subclass of R?",No,F is not a subclass of R.,False,No
+452,A is a subclass of P.,P is a subclass of U.,"Given the previous statements, is A a subclass of Z?",No,A is not a subclass of Z.,False,No
+676,F is a subclass of Y.,Y is a subclass of U.,"Given the previous statements, is F a subclass of Z?",No,F is not a subclass of Z.,False,No
+63,B is a subclass of T.,T is a subclass of A.,"Given the previous statements, is B a subclass of A?",Yes,B is a subclass of A.,True,No
+105,C is a subclass of M.,M is a subclass of R.,"Given the previous statements, is C a subclass of R?",Yes,C is a subclass of R.,True,No
+344,H is a subclass of D.,D is a subclass of Q.,"Given the previous statements, is H a subclass of Q?",Yes,H is a subclass of Q.,True,No
+874,J is a subclass of S.,S is a subclass of P.,"Given the previous statements, is J a subclass of Y?",No,J is not a subclass of Y.,False,No
+384,I is a subclass of M.,M is a subclass of O.,"Given the previous statements, is I a subclass of O?",Yes,I is a subclass of O.,True,No
+131,C is a subclass of D.,D is a subclass of F.,"Given the previous statements, is C a subclass of F?",Yes,C is a subclass of F.,True,No
+388,I is a subclass of T.,T is a subclass of F.,"Given the previous statements, is I a subclass of F?",Yes,I is a subclass of F.,True,No
+485,B is a subclass of F.,F is a subclass of W.,"Given the previous statements, is B a subclass of X?",No,B is not a subclass of X.,False,No
+538,C is a subclass of Z.,Z is a subclass of Y.,"Given the previous statements, is C a subclass of U?",No,C is not a subclass of U.,False,No
+517,B is a subclass of J.,J is a subclass of A.,"Given the previous statements, is B a subclass of O?",No,B is not a subclass of O.,False,No
+335,H is a subclass of N.,N is a subclass of M.,"Given the previous statements, is H a subclass of M?",Yes,H is a subclass of M.,True,No
+788,H is a subclass of J.,J is a subclass of F.,"Given the previous statements, is H a subclass of W?",No,H is not a subclass of W.,False,No
+648,E is a subclass of F.,F is a subclass of Q.,"Given the previous statements, is E a subclass of I?",No,E is not a subclass of I.,False,No
+59,B is a subclass of R.,R is a subclass of X.,"Given the previous statements, is B a subclass of X?",Yes,B is a subclass of X.,True,No
+790,H is a subclass of O.,O is a subclass of K.,"Given the previous statements, is H a subclass of U?",No,H is not a subclass of U.,False,No
+711,G is a subclass of R.,R is a subclass of V.,"Given the previous statements, is G a subclass of B?",No,G is not a subclass of B.,False,No
+352,H is a subclass of T.,T is a subclass of Y.,"Given the previous statements, is H a subclass of Y?",Yes,H is a subclass of Y.,True,No
+133,D is a subclass of S.,S is a subclass of W.,"Given the previous statements, is D a subclass of W?",Yes,D is a subclass of W.,True,No
+502,B is a subclass of M.,M is a subclass of D.,"Given the previous statements, is B a subclass of X?",No,B is not a subclass of X.,False,No
+707,G is a subclass of I.,I is a subclass of H.,"Given the previous statements, is G a subclass of V?",No,G is not a subclass of V.,False,No
+394,I is a subclass of J.,J is a subclass of N.,"Given the previous statements, is I a subclass of N?",Yes,I is a subclass of N.,True,No
+865,J is a subclass of Z.,Z is a subclass of B.,"Given the previous statements, is J a subclass of V?",No,J is not a subclass of V.,False,No
+400,J is a subclass of Q.,Q is a subclass of F.,"Given the previous statements, is J a subclass of F?",Yes,J is a subclass of F.,True,No
+537,C is a subclass of F.,F is a subclass of R.,"Given the previous statements, is C a subclass of L?",No,C is not a subclass of L.,False,No
+628,E is a subclass of P.,P is a subclass of K.,"Given the previous statements, is E a subclass of A?",No,E is not a subclass of A.,False,No
+834,I is a subclass of J.,J is a subclass of S.,"Given the previous statements, is I a subclass of N?",No,I is not a subclass of N.,False,No
+561,C is a subclass of P.,P is a subclass of Z.,"Given the previous statements, is C a subclass of Y?",No,C is not a subclass of Y.,False,No
+35,A is a subclass of N.,N is a subclass of H.,"Given the previous statements, is A a subclass of H?",Yes,A is a subclass of H.,True,No
+412,J is a subclass of X.,X is a subclass of N.,"Given the previous statements, is J a subclass of N?",Yes,J is a subclass of N.,True,No
+799,I is a subclass of C.,C is a subclass of U.,"Given the previous statements, is I a subclass of Z?",No,I is not a subclass of Z.,False,No
+233,F is a subclass of G.,G is a subclass of O.,"Given the previous statements, is F a subclass of O?",Yes,F is a subclass of O.,True,No
+727,G is a subclass of B.,B is a subclass of E.,"Given the previous statements, is G a subclass of Y?",No,G is not a subclass of Y.,False,No
+800,I is a subclass of E.,E is a subclass of B.,"Given the previous statements, is I a subclass of J?",No,I is not a subclass of J.,False,No
+377,I is a subclass of J.,J is a subclass of H.,"Given the previous statements, is I a subclass of H?",Yes,I is a subclass of H.,True,No
+872,J is a subclass of X.,X is a subclass of P.,"Given the previous statements, is J a subclass of E?",No,J is not a subclass of E.,False,No
+817,I is a subclass of P.,P is a subclass of G.,"Given the previous statements, is I a subclass of B?",No,I is not a subclass of B.,False,No
+822,I is a subclass of U.,U is a subclass of G.,"Given the previous statements, is I a subclass of R?",No,I is not a subclass of R.,False,No
+403,J is a subclass of D.,D is a subclass of V.,"Given the previous statements, is J a subclass of V?",Yes,J is a subclass of V.,True,No
+643,E is a subclass of O.,O is a subclass of C.,"Given the previous statements, is E a subclass of F?",No,E is not a subclass of F.,False,No
+702,F is a subclass of R.,R is a subclass of M.,"Given the previous statements, is F a subclass of Z?",No,F is not a subclass of Z.,False,No
+585,D is a subclass of K.,K is a subclass of V.,"Given the previous statements, is D a subclass of J?",No,D is not a subclass of J.,False,No
+760,H is a subclass of L.,L is a subclass of U.,"Given the previous statements, is H a subclass of X?",No,H is not a subclass of X.,False,No
+741,G is a subclass of M.,M is a subclass of A.,"Given the previous statements, is G a subclass of C?",No,G is not a subclass of C.,False,No
+429,J is a subclass of W.,W is a subclass of Q.,"Given the previous statements, is J a subclass of Q?",Yes,J is a subclass of Q.,True,No
+45,B is a subclass of Z.,Z is a subclass of M.,"Given the previous statements, is B a subclass of M?",Yes,B is a subclass of M.,True,No
+597,D is a subclass of H.,H is a subclass of F.,"Given the previous statements, is D a subclass of T?",No,D is not a subclass of T.,False,No
+265,G is a subclass of E.,E is a subclass of C.,"Given the previous statements, is G a subclass of C?",Yes,G is a subclass of C.,True,No
+380,I is a subclass of E.,E is a subclass of T.,"Given the previous statements, is I a subclass of T?",Yes,I is a subclass of T.,True,No
+783,H is a subclass of Q.,Q is a subclass of J.,"Given the previous statements, is H a subclass of I?",No,H is not a subclass of I.,False,No
+379,I is a subclass of W.,W is a subclass of B.,"Given the previous statements, is I a subclass of B?",Yes,I is a subclass of B.,True,No
+667,F is a subclass of X.,X is a subclass of L.,"Given the previous statements, is F a subclass of H?",No,F is not a subclass of H.,False,No
+850,J is a subclass of K.,K is a subclass of B.,"Given the previous statements, is J a subclass of D?",No,J is not a subclass of D.,False,No
+149,D is a subclass of P.,P is a subclass of F.,"Given the previous statements, is D a subclass of F?",Yes,D is a subclass of F.,True,No
+326,H is a subclass of W.,W is a subclass of P.,"Given the previous statements, is H a subclass of P?",Yes,H is a subclass of P.,True,No
+20,A is a subclass of K.,K is a subclass of L.,"Given the previous statements, is A a subclass of L?",Yes,A is a subclass of L.,True,No
+396,I is a subclass of J.,J is a subclass of R.,"Given the previous statements, is I a subclass of R?",Yes,I is a subclass of R.,True,No
+146,D is a subclass of L.,L is a subclass of X.,"Given the previous statements, is D a subclass of X?",Yes,D is a subclass of X.,True,No
